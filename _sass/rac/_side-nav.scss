@@ -1,0 +1,17 @@
+@import 'colors';
+@import 'typography';
+
+.rac-side-nav {
+  padding: 36px 20px 36px 20px;
+  background: $burnt-orange;
+  font-family: $sans-serif-stack;
+  font-weight: 700;
+  color: $pure-white;
+  font-size: 13px;
+  line-height: 17px;
+  @media screen and (min-width: $break-lg) {
+    padding: 36px 25px 36px 25px;
+    font-size: 14px;
+    line-height: 18px;
+  }
+}

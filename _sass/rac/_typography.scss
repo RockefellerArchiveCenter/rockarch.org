@@ -1,13 +1,19 @@
 @import 'colors';
 @import 'grid';
+@import 'utilities';
+
 @import url('https://fonts.googleapis.com/css?family=Lato|family=Manuale&display=swap');
 
 $sans-serif-stack: 'Lato', sans-serif;
 $serif-stack: 'Manuale', serif;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+$font-weight-light: 300;
+// TODO: replace font weights with variables
 
 body {
   font-family: $serif-stack;
-  font-weight: 400;
+  font-weight: $font-weight-normal;
   font-size: 16px;
   line-height: 26px;
   margin-bottom: 10px;
@@ -35,7 +41,7 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   font-family: $sans-serif-stack;
-  font-weight: 700;
+  font-weight: $font-weight-bold;
   color: $deep-navy;
 }
 
@@ -67,7 +73,7 @@ a {
   font-weight: 700;
   color: $burnt-orange;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: $default-transition;
 
   &:hover {
     color: $red-orange;
