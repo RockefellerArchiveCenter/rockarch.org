@@ -1,0 +1,66 @@
+@import 'colors';
+@import url('https://fonts.googleapis.com/css?family=Lato|family=Manuale&display=swap');
+
+$sans-serif-stack: 'Lato', sans-serif;
+$serif-stack: 'Manuale', serif;
+
+body {
+  font-family: $serif-stack;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  margin-bottom: 10px;
+  color: $dark-gray
+}
+
+h1 {
+  font-size: 52px;
+  color: $dark-gray;
+
+  &.light {
+    color: $pure-white;
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: $sans-serif-stack;
+  font-weight: 700;
+  color: $deep-navy;
+}
+
+h2 {
+  font-size: 28px;
+  border-bottom: 1.5px dotted $faded-navy;
+  padding-bottom: 12px;
+}
+
+h3 {
+  font-size: 20px
+}
+
+h4 {
+  font-size: 16px;
+  color: $faded-orange;
+}
+
+a {
+  font-weight: 700;
+  color: $burnt-orange;
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: $red-orange;
+    cursor: pointer;
+    }
+  }
+
+ul {
+  line-height: 24px;
+}
+
+small {
+  font-size: 15px;
+  line-height: 21px;
+  margin-bottom: 12px;
+}
