@@ -1,2 +1,12 @@
 $break-md: 580px;
-$break-lg: 1024px
+$break-lg: 1024px;
+
+.container {
+  max-width: 1440px;
+  margin-left: 30px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}

@@ -13,5 +13,5 @@ layout: page-home
 </ul>
 <a href="#">Link</a>
 <small>small text</small>
-<div class="rac-sidebar-button">test button</div>
+<div class="rac-blue-button">test button</div>
 </div>

@@ -73,7 +73,7 @@ a {
   font-weight: 700;
   color: $burnt-orange;
   text-decoration: none;
-  transition: $default-transition;
+  transition: $transition-default;
 
   &:hover {
     color: $red-orange;

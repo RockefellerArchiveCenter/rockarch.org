@@ -5,11 +5,9 @@
 
   <body>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+    {%- include top-nav.html -%}
+
+    {{content}}
 
     {%- include footer.html -%}
 

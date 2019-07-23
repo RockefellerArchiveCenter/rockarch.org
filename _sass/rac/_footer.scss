@@ -1,0 +1,63 @@
+@import 'colors';
+@import 'grid';
+@import 'typography';
+@import 'utilities';
+
+.rac-footer {
+  display: flex;
+  background: $neutral-sand;
+  font-family: $serif-stack;
+  font-weight: 400;
+  font-size: 15px;
+  color: $deep-navy;
+  line-height: 22px;
+  margin-bottom: 10px;
+  text-align: left;
+  .section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+    @media screen and (min-width: $break-md) {
+      margin-bottom: 50px;
+      flex-basis: 4;
+    }
+  }
+  .title {
+    display:flex;
+    font-family: $sans-serif-stack;
+    font-weight: 900;
+    font-size: 15px;
+    color: $deep-navy;
+    letter-spacing: 4px;
+    line-height: 26px;
+    text-transform: uppercase;
+    text-align: left;
+    padding-top: 60px;
+    padding-bottom: 28px;
+    @media screen and (min-width: $break-md) {
+      padding-left: 20px;
+    }
+    @media screen and (min-width: $break-lg) {
+      padding-left: 40px;
+    }
+  }
+  .address {
+    @media screen and (min-width: $break-lg) {
+      padding-left: 40px;
+    }
+  }
+  .social {
+    margin-bottom: 30px;
+    & a {
+      margin-bottom: 18px;
+      &:hover {
+        color: $burnt-orange;
+        transition: $transition-default;
+      }
+    }
+    @media screen and (min-width: $break-lg) {
+      text-align: right;
+      margin-bottom: 40px;
+    }
+  }
+}
