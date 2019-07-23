@@ -1,63 +1,58 @@
 @import 'colors';
-@import 'grid';
 @import 'typography';
 @import 'utilities';
 
 .rac-footer {
   display: flex;
   background: $neutral-sand;
-  font-family: $serif-stack;
-  font-weight: 400;
-  font-size: 15px;
-  color: $deep-navy;
-  line-height: 22px;
-  margin-bottom: 10px;
-  text-align: left;
-  .section {
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 40px;
-    @media screen and (min-width: $break-md) {
-      margin-bottom: 50px;
-      flex-basis: 4;
-    }
-  }
-  .title {
-    display:flex;
-    font-family: $sans-serif-stack;
-    font-weight: 900;
-    font-size: 15px;
-    color: $deep-navy;
-    letter-spacing: 4px;
-    line-height: 26px;
-    text-transform: uppercase;
-    text-align: left;
-    padding-top: 60px;
-    padding-bottom: 28px;
-    @media screen and (min-width: $break-md) {
-      padding-left: 20px;
-    }
-    @media screen and (min-width: $break-lg) {
-      padding-left: 40px;
+  p { @include footer-text; }
+  a {
+    @include footer-text;
+    text-decoration: underline;
+    font-weight: $font-weight-normal;
+    &:hover {
+      color: $burnt-orange;
+      transition: $transition-default;
     }
   }
   .address {
     @media screen and (min-width: $break-lg) {
-      padding-left: 40px;
+      margin-left: 0px;
+    }
+  }
+  .footer__section {
+    margin-bottom: 40px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(6);
+      margin-bottom: 50px;
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(3);
     }
   }
   .social {
     margin-bottom: 30px;
     & a {
       margin-bottom: 18px;
-      &:hover {
-        color: $burnt-orange;
-        transition: $transition-default;
-      }
+    }
+    @media screen and (min-width: $break-md) {
+      @include grid-column(12);
     }
     @media screen and (min-width: $break-lg) {
+      @include grid-column(6);
       text-align: right;
-      margin-bottom: 40px;
+    }
+  }
+  .title {
+    font-family: $sans-serif-stack;
+    font-weight: 900;
+    letter-spacing: 4px;
+    line-height: 26px;
+    text-transform: uppercase;
+    padding-top: 60px;
+    margin-bottom: 28px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(12);
     }
   }
 }

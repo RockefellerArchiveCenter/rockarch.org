@@ -2,7 +2,7 @@
 @import 'grid';
 @import 'utilities';
 
-@import url('https://fonts.googleapis.com/css?family=Lato|family=Manuale&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato|Manuale&display=swap');
 
 $sans-serif-stack: 'Lato', sans-serif;
 $serif-stack: 'Manuale', serif;
@@ -11,7 +11,7 @@ $font-weight-bold: 700;
 $font-weight-light: 300;
 // TODO: replace font weights with variables
 
-body {
+body, p, a {
   font-family: $serif-stack;
   font-weight: $font-weight-normal;
   font-size: 16px;
@@ -96,4 +96,13 @@ small {
     font-size: 15px;
     line-height: 21px;
   }
+}
+
+@mixin footer-text {
+  font-family: $serif-stack;
+  font-weight: 400;
+  font-size: 15px;
+  color: $deep-navy;
+  line-height: 22px;
+  margin-bottom: 10px;
 }
