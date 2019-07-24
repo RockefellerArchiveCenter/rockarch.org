@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 <header class="rac-page-header level-1">
@@ -11,5 +11,11 @@ layout: page
 {% include breadcrumb.html %}
 
 <div class="wrapper">
-  <main class="page-content" aria-label="Content">{{ content }}</main>
+  <div class="container">
+    <main class="page-content" aria-label="Content">
+      <section class="section-block-wrapper">
+        {{ content }}
+      </section>
+    </main>
+  </div>
 </div>

@@ -1,7 +1,9 @@
 @import 'neat';
 
+$gutters-default: 15px;
+
 $neat-grid: (
-  gutters: 15px
+  gutters: $gutters-default
 );
 
 $grid-column: (
@@ -12,7 +14,7 @@ $break-md: 580px;
 $break-lg: 1024px;
 
 .container {
-  width: 100%;
+  width: calc(100% - (#{$gutters-default}) * 2);
   max-width: 1440px;
   margin-left: 30px;
   margin-right: 30px;

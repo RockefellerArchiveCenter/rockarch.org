@@ -1,6 +1,9 @@
 @import 'colors';
 @import 'utilities';
 
+.wrapper {
+  display: flex;
+}
 
 .rac-page-header {
     height: 152px;
@@ -22,8 +25,9 @@
         transform: translateY(-50%);
       }
       @media screen and (min-width: $break-lg) {
-        @include grid-column(6);
-        @include grid-push(3);
+        @include grid-column(8);
+        @include grid-push(2);
+        padding-left: $gutters-default;
       }
     }
 }
@@ -39,8 +43,9 @@
       @include grid-column(12);
     }
     @media screen and (min-width: $break-lg) {
-      @include grid-column(6);
-      @include grid-push(3);
+      @include grid-column(8);
+      @include grid-push(2);
+      padding-left: $gutters-default;
     }
   }
   li, a {
@@ -61,6 +66,60 @@
         padding-right: .5rem;
         content: "/";
       }
+    }
+  }
+}
+
+.side-nav {
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(2);
+  }
+}
+
+.sidebar {
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(2);
+  }
+}
+
+.section-block-wrapper {
+  padding-bottom: 100px;
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(8);
+    @include grid-shift(2);
+  }
+}
+
+.section-block {
+  background-color: $light-blue;
+  min-height: 120px;
+  position: relative;
+  margin-right: $gutters-default * 2;
+  &:not(last) {
+    margin-bottom: 20px;
+  }
+  @media screen and (min-width: $break-md) {
+    @include grid-column(6);
+    margin-right: 0;
+  }
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(6);
+  }
+  a {
+    text-transform: uppercase;
+    max-width: 220px;
+    font-family: $sans-serif-stack;
+    font-size: 16px;
+    color: $deep-navy;
+    line-height: 22px;
+    padding: 18px 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    @media screen and (min-width: $break-md) {
+      padding: 20px 30px;
+      max-width: 300px;
+      font-size: 20px;
     }
   }
 }

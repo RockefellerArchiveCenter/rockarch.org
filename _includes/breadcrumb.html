@@ -1,7 +1,11 @@
 <nav class="rac-breadcrumb" aria-label="breadcrumb">
   <div class="container">
     <ol>
-      <li class="rac-breadcrumb-item">Home</li>
+      <li class="rac-breadcrumb-item"><a href="/">Home</a></li>
+      {% if page.ancestor %}
+      <!-- TODO: ancestor URL creation -->
+      <li class="rac-breadcrumb-item"><a href="{{page.url}}">{{page.ancestor}}</a></li>
+      {% endif %}
       <li class="rac-breadcrumb-item active" aria-current="page">{{page.title}}</li>
     </ol>
   </div>
