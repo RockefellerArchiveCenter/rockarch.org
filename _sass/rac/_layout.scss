@@ -5,6 +5,55 @@
   display: flex;
 }
 
+.rac-hero {
+  position: relative;
+  height: 396px;
+  background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)), url("/assets/img/hero_image_needshigherresolutionifavailable.jpg") center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  .hero-wrapper {
+    padding: 30px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    @media screen and (min-width: $break-md) {
+      padding: 0;
+    }
+  }
+  .hero-logo {
+    background: $burnt-orange;
+    width: 122px;
+    height: auto;
+    text-align: left;
+    margin-bottom: 12px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(3);
+    }
+    @media screen and (min-width: $break-md) {
+      @include grid-column(3);
+      @include grid-push(1);
+    }
+  }
+  .hero-text {
+    font-family: $serif-stack;
+    font-weight: 700;
+    font-size: 21px;
+    color: $pure-white;
+    line-height: 31px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(9);
+      font-size: 30px;
+      line-height: 42px;
+    }
+    @media screen and (min-width: $break-md) {
+      @include grid-column(7);
+      font-size: 34px;
+      line-height: 46px;
+    }
+  }
+}
+
 .rac-page-header {
     height: 152px;
     position: relative;
