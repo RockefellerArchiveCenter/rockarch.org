@@ -2,6 +2,14 @@
 layout: page
 ---
 
+<header class="rac-page-header level-1">
+  <div class="container">
+    <h1 class="light">{{page.title}}</h1>
+  </div>
+</header>
+
+{% include breadcrumb.html %}
+
 <div class="wrapper">
   <main class="page-content" aria-label="Content">{{ content }}</main>
 </div>

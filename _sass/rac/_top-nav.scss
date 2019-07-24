@@ -50,6 +50,7 @@ $link-hover-color: $burnt-orange;
    .nav-list {
      display: none;
      position: relative;
+     z-index: 1;
      background: $nav-background;
      text-align: right;
      padding-bottom: 20px;
