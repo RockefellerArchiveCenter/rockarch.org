@@ -34,6 +34,11 @@
     margin-bottom: 30px;
     & a {
       margin-bottom: 18px;
+      i {
+        font-size: 22px;
+        height: 44px;
+        width: 44px;
+      }
     }
     @media screen and (min-width: $break-md) {
       @include grid-column(12);

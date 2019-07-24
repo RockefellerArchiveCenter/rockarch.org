@@ -1,2 +1,224 @@
 @import 'colors';
 @import 'typography';
+@import 'utilities';
+
+$nav-height: 50px;
+$nav-background: $pure-white;
+$nav-font-color: $deep-navy;
+$link-hover-color: $burnt-orange;
+
+// TODO: clean this up and restructure - highly nested classes are problematic
+// TODO: reconsider structure of social-icons
+
+.nav-container {
+  max-width: $content-width;
+  margin: 0 auto;
+}
+
+.brand {
+  position: absolute;
+  margin-left: 25px;
+  margin-top:10px;
+  float: left;
+  z-index: 3;
+  & img {
+    width: 62px;
+  }
+  @media screen and (min-width: $break-md) {
+    margin-left: 30px;
+    & img {
+      width: 70px;
+    }
+  }
+  @media screen and (min-width: $break-lg) {
+    margin-left: 48px;
+    & img {
+      width: auto;
+    }
+  }
+}
+
+.rac-navbar {
+  $nav-height: 50px;
+  height: $nav-height;
+  nav {
+   width: 100%;
+   padding-top: $nav-height;
+   .nav-mobile {
+     display: block;
+   }
+   .nav-list {
+     display: none;
+     position: relative;
+     background: $nav-background;
+     text-align: right;
+     padding-bottom: 20px;
+     .social-icons {
+       padding: 15px 20px 15px 0;
+       a {
+         color: $deep-navy;
+         font-size: 15px;
+         &:hover {
+           color: $burnt-orange;
+           transition: $transition-default;
+         }
+         i {
+           height: 30px;
+           width: 30px;
+         }
+       }
+     }
+     .level-1 {
+       padding: 15px 0;
+        a {
+          padding-right: 20px;
+          color: $deep-navy;
+          font-family: $sans-serif-stack;
+          font-weight: 700;
+          font-size: 15px;
+          letter-spacing: 0.125em;
+          text-transform: uppercase;
+          text-decoration: none;
+          & i {
+            color: $deep-navy;
+            font-size: 15px;
+            vertical-align: middle;
+            opacity: 0.7;
+          }
+       }
+       .nav-dropdown {
+         margin-top: 15px;
+         margin-bottom: -15px;
+         position: static;
+         width: 100%;
+         background: $deep-brown;
+       }
+       .level-2 {
+         min-width: 300px;
+         background: $deep-brown;
+         padding: 12px 28px;
+         text-align: left;
+         a {
+           padding-right: 0;
+         }
+         &:hover {
+           background: $med-brown;
+         }
+         & .nav-item-title {
+           font-family: $sans-serif-stack;
+           font-weight: 900;
+           font-size: 16.5px;
+           text-transform: none;
+           color: $pure-white;
+           line-height: 20px;
+           z-index: 1;
+           letter-spacing: normal;
+           margin-bottom: 3px;
+         }
+         & .nav-item-description {
+           font-family: $serif-stack;
+           font-weight: 400;
+           font-style: italic;
+           color: $pure-white;
+           line-height: 20px;
+           font-size: 14px;
+           opacity: 0.8;
+           text-transform: none;
+           letter-spacing: normal;
+           margin-bottom: 0px;
+         }
+       }
+     }
+   }
+  }
+}
+
+@media screen and (min-width: $break-md) {
+  $nav-height: 60px;
+  .rac-navbar {
+    height: $nav-height;
+    nav {
+     .nav-list {
+       .social-icons {
+         padding-right: 30px;
+       }
+       .level-1 {
+         padding: 0;
+         a {
+           padding-right: 30px;
+         }
+       }
+     }
+   }
+ }
+}
+
+@media screen and (min-width: $break-lg) {
+  .rac-navbar nav {
+    text-align: center;
+    padding: 0;
+    .nav-mobile {
+      display: none;
+    }
+    .nav-list {
+      text-align: center;
+      display: block;
+      padding-bottom: 0;
+      .social-icons {
+        // TODO: positioning should not be absolute
+        position: absolute;
+        right: 40px;
+        top: 21px;
+        padding: 0;
+        font-size: 18px;
+      }
+      .level-1 {
+        display: inline-block;
+        margin: 21px 25px 18px 25px;
+        height: 17px;
+        a {
+          font-size: 17px;
+          position: relative;
+          z-index: 2;
+          &.active {
+            border-bottom: 8px solid;
+            color: $burnt-orange;
+          }
+          &:hover {
+            font-weight: 900;
+          }
+          & i {
+            font-size: 21px;
+            margin-left: 7px;
+          }
+        }
+        .nav-dropdown {
+          margin: 0;
+          width: 360px;
+          padding-top: 22px;
+          position: absolute;
+          display: none;
+          z-index: 1;
+        }
+      }
+    }
+  }
+}
+
+#nav-toggle {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+  cursor: pointer;
+  color: $burnt-orange;
+  & i {
+    font-size: ($nav-height)-10;
+  }
+  &.active {
+    color: $med-brown;
+  }
+  @media screen and (min-width: $break-md) {
+    top: 10px;
+    right: 30px;
+  }
+}
