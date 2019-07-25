@@ -108,11 +108,11 @@ layout: page-home
           <small>Our storytelling platform</small>
         </div>
         <div class="link-wrapper">
-          <h3 class="link no-border"><a href="#">RAC Research Reports (IssueLab)</a></h3>
+          <h3 class="link no-border"><a href="https://rockarch.issuelab.org/">RAC Research Reports (IssueLab)</a></h3>
           <small>Reports by those who have conducted research at the RAC</small>
         </div>
         <div class="link-wrapper">
-          <h3 class="link no-border"><a href="#">RAC Bibliographies (Zotero)</a></h3>
+          <h3 class="link no-border"><a href="https://www.zotero.org/groups/222650/rac">RAC Bibliographies (Zotero)</a></h3>
           <small>Library of our bibliographies</small>
         </div>
         <div class="link-wrapper">
