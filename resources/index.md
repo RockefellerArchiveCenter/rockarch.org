@@ -1,6 +1,7 @@
 ---
 layout: page-section
 title: Resources
+permalink: /resources/
 ---
 
 <div class="section-block"><a href="#">Re:Source</a></div>

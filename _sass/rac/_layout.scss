@@ -59,8 +59,11 @@
     display: flex;
     &.level-1 {
       background: $deep-navy;
+      h1 {
+        color: $pure-white;
+      }
     }
-    &.level-2 {
+    &.level-2, &.level-3 {
       background: $light-blue;
     }
     h1 {

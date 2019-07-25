@@ -1,6 +1,7 @@
 ---
 layout: page-section
 title: Collections
+permalink: /collections/
 ---
 
 <div class="section-block"><a href="#">About Our Collections</a></div>

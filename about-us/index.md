@@ -1,6 +1,7 @@
 ---
 layout: page-section
 title: About Us
+permalink: /about-us/
 ---
 
 <div class="section-block"><a href="#">Overview</a></div>

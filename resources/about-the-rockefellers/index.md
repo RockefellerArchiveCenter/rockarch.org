@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
 title: About the Rockefellers
+permalink: /resources/about-the-rockefellers/
 ---
 
 ## Family Tree

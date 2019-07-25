@@ -1,6 +1,7 @@
 ---
 layout: page-sidebar
 title: Information for Records Donors
+permalink: /collections/information-for-records-donors/
 ---
 
 ## What We Collect
