@@ -3,7 +3,11 @@
     <ol>
       <li class="rac-breadcrumb-item"><a href="/">Home</a></li>
       {% if page.dir != "/" %}
-      <li class="rac-breadcrumb-item"><a href="{{page.dir}}">{{page.dir | remove: "/"}}</a></li>
+      {% assign paths = {{page.dir | remove_first: "/" | split: "/"}} %}
+      {% for path in paths %}
+      {% capture url %}{% for path in paths limit:forloop.index %}{{path}}/{% endfor %}{% endcapture %}
+      <li class="rac-breadcrumb-item"><a href="/{{url}}">{{path | replace: "-", " "}}</a></li>
+      {% endfor %}
       {% endif %}
       <li class="rac-breadcrumb-item active" aria-current="page">{{page.title}}</li>
     </ol>
