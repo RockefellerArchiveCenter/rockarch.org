@@ -1,3 +1,133 @@
 ---
 layout: page-home
 ---
+
+<section class="rac-call-to-action">
+  <div class="container">
+
+    <button href="#" class="action-button" style="background-image: url('/assets/img/background_searchcollections.png')">
+      <h2>Search<br/>Our Collections</h2>
+      <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
+    </button>
+
+    <button href="#" class="action-button" style="background-image: url('/assets/img/background_storiesofphilanthropy.png')">
+      <h2>RE:source<br/>Stories of Philanthropy</h2>
+      <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
+    </button>
+
+    <button href="#" class="action-button" style="background-image: url('/assets/img/background_accessmaterials.png')">
+      <h2>Access &amp; Request<br/>Materials</h2>
+      <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
+    </button>
+
+    <button href="#" class="action-button" style="background-image: url('/assets/img/background_applyresearchstipend.png')">
+      <h2>Apply for a<br/>Research Stipend</h2>
+      <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
+    </button>
+
+  </div>
+</section>
+
+<section class="rac-roles border-top">
+  <div class="container">
+
+    <div class="title">
+      <h2>I am...</h2>
+    </div>
+
+    <div class="container">
+      <div class="role">
+        <a href="/collections/information-for-researchers/">
+          <div class="icon"><img src="/assets/img/icon_researcher.svg"/></div>
+          <h3 class="name no-border">A Researcher</h3>
+        </a>
+        <small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna.
+               Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec
+               erat ut mi.</small>
+      </div>
+      <div class="role">
+        <a href="/collections/information-for-records-donors/">
+          <div class="icon"><img src="/assets/img/icon_recordsdonor.svg"/></div>
+          <h3 class="name no-border">A Records Donor</h3>
+        </a>
+        <small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna.
+               Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec
+               erat ut mi.</small>
+      </div>
+      <div class="role">
+        <a href="/about-us/program-areas#research-and-education">
+          <div class="icon"><img src="/assets/img/icon_archivist.svg"/></div>
+          <h3 class="name no-border">An Archivist</h3>
+        </a>
+        <small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna.
+               Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec
+               erat ut mi.</small>
+      </div>
+      <div class="role">
+        <a href="/about-us/program-areas#archives">
+          <div class="icon"><img src="/assets/img/icon_educator.svg"/></div>
+          <h3 class="name no-border">An Educator</h3>
+        </a>
+        <small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna.
+               Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec
+               erat ut mi.</small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="rac-quicklinks border-top">
+  <div class="container">
+
+    <div class="title">
+      <h2>Quick Links</h2>
+    </div>
+
+    <div class="container">
+      <div class="link-column">
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://dimes.rockarch.org">DIMES</a></h3>
+          <small>Our online collections catalog: Start your search here!</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://raccess.rockarch.org">RACaccess</a></h3>
+          <small>Our material access & request system</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://docs.rockarch.org">RAC Archival Documentation</a></h3>
+          <small>Institutional policies, procedures, and user guides</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://blog.rockarch.org">Bits &amp; Bytes</a></h3>
+          <small>The RAC blog</small>
+        </div>
+      </div>
+      <div class="link-column">
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://resource.rockarch.org">RE:source</a></h3>
+          <small>Our storytelling platform</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="#">RAC Research Reports (IssueLab)</a></h3>
+          <small>Reports by those who have conducted research at the RAC</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="#">RAC Bibliographies (Zotero)</a></h3>
+          <small>Library of our bibliographies</small>
+        </div>
+        <div class="link-wrapper">
+          <h3 class="link no-border"><a href="https://projectelectron.rockarch.org">Project Electron</a></h3>
+          <small>Our digital records infrastructure project</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="rac-instagram">
+  <div class="container">
+    <h2 class="title no-border">From Our Collections</h2>
+    <div class="instagram-posts"></div>
+    <a class="light" href="https://www.instagram.com/rockefellerarchivecenter">See more on Instagram</a>
+  </div>
+</section>
