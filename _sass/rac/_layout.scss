@@ -68,7 +68,8 @@
       bottom: 25px;
       @media screen and (min-width: $break-md){
         @include grid-column(12);
-        position: relative;
+        position: absolute;
+        left: 15px;
         top: 50%;
         transform: translateY(-50%);
       }
