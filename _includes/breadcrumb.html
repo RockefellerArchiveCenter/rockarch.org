@@ -2,9 +2,8 @@
   <div class="container">
     <ol>
       <li class="rac-breadcrumb-item"><a href="/">Home</a></li>
-      {% if page.ancestor %}
-      <!-- TODO: ancestor URL creation -->
-      <li class="rac-breadcrumb-item"><a href="{{page.url}}">{{page.ancestor}}</a></li>
+      {% if page.dir != "/" %}
+      <li class="rac-breadcrumb-item"><a href="{{page.dir}}">{{page.dir | remove: "/"}}</a></li>
       {% endif %}
       <li class="rac-breadcrumb-item active" aria-current="page">{{page.title}}</li>
     </ol>
