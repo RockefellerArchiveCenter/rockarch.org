@@ -24,8 +24,12 @@ body, p, a {
   }
 }
 
-.light {
-  color: $pure-white;
+strong, b {
+  font-weight: $font-weight-bold;
+}
+
+em, i {
+  font-style: italic;
 }
 
 h1 {
@@ -96,6 +100,10 @@ small {
     font-size: 15px;
     line-height: 21px;
   }
+}
+
+.small {
+  @extend small;
 }
 
 @mixin footer-text {
