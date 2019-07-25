@@ -30,6 +30,10 @@ blockquote {
     content: '';
     content: none; } }
 
+button {
+  border: none;
+}
+
 q {
   &:before, &:after {
     content: '';
