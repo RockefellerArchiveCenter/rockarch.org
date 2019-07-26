@@ -5,25 +5,25 @@ layout: page-home
 <section class="rac-call-to-action">
   <div class="container">
 
-    <button href="#" class="action-button" style="background-image: url('/assets/img/background_searchcollections.png')">
+    <a href="https://dimes.rockarch.org" class="action-button" style="background-image: url('/assets/img/background_searchcollections.png')">
       <h2>Search<br/>Our Collections</h2>
       <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
-    </button>
+    </a>
 
-    <button href="#" class="action-button" style="background-image: url('/assets/img/background_storiesofphilanthropy.png')">
+    <a href="https://resource.rockarch.org" class="action-button" style="background-image: url('/assets/img/background_storiesofphilanthropy.png')">
       <h2>RE:source<br/>Stories of Philanthropy</h2>
       <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
-    </button>
+    </a>
 
-    <button href="#" class="action-button" style="background-image: url('/assets/img/background_accessmaterials.png')">
+    <a href="/collections/information-for-researchers/" class="action-button" style="background-image: url('/assets/img/background_accessmaterials.png')">
       <h2>Access &amp; Request<br/>Materials</h2>
       <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
-    </button>
+    </a>
 
-    <button href="#" class="action-button" style="background-image: url('/assets/img/background_applyresearchstipend.png')">
+    <a href="/collections/research-stipends/" class="action-button" style="background-image: url('/assets/img/background_applyresearchstipend.png')">
       <h2>Apply for a<br/>Research Stipend</h2>
       <p><small>Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim.</small></p>
-    </button>
+    </a>
 
   </div>
 </section>
@@ -55,7 +55,7 @@ layout: page-home
                erat ut mi.</small>
       </div>
       <div class="role">
-        <a href="/about-us/program-areas#research-and-education">
+        <a href="/about-us/program-areas#archives-program">
           <div class="icon"><img src="/assets/img/icon_archivist.svg"/></div>
           <h3 class="name no-border">An Archivist</h3>
         </a>
@@ -64,7 +64,7 @@ layout: page-home
                erat ut mi.</small>
       </div>
       <div class="role">
-        <a href="/about-us/program-areas#archives">
+        <a href="/about-us/program-areas#research--education-program">
           <div class="icon"><img src="/assets/img/icon_educator.svg"/></div>
           <h3 class="name no-border">An Educator</h3>
         </a>
