@@ -27,7 +27,7 @@ The Rockefeller Archive Center preserves and makes accessible its ever-expanding
 include the records of over forty organizations and over one hundred individuals. The selections
 below illustrate the breadth of the collections.
 
-### Principle Institutional Collections
+### Principal Institutional Collections
 
 Asia Society  
 Commonwealth Fund  
