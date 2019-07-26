@@ -17,16 +17,19 @@
     left: 0;
     top: 50%;
     transform: translateY(-50%);
+    display: flex;
+    align-items: center;
     @media screen and (min-width: $break-md) {
       padding: 0;
     }
   }
   .hero-logo {
-    background: $burnt-orange;
     width: 122px;
     height: auto;
     text-align: left;
-    margin-bottom: 12px;
+    img {
+      width: 213px;
+    }
     @media screen and (min-width: $break-md) {
       @include grid-column(3);
     }
