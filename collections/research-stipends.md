@@ -1,7 +1,7 @@
 ---
 layout: page-sidebar
 title: Apply for a Research Stipend
-permalink: /research-stipends/
+permalink: /collections/research-stipends/
 ---
 
 ## About the RAC Stipend Program
