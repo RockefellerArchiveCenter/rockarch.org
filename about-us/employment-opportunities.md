@@ -1,5 +1,5 @@
 ---
-layout: page-sidebar
+layout: page-default
 title: Employment Opportunities
 permalink: /about-us/employment-opportunities/
 ---
