@@ -4,6 +4,8 @@ title: Abby Rockefeller Mauzé, 1903-1976
 permalink: /resources/about-the-rockefellers/abby-rockefeller/
 ---
 
+<div class="bio-page-image"><img alt="Abby Rockefeller Mauzé" src="/assets/img/06_abbyrockefeller.png"/></div>
+
 **Abby Rockefeller Mauzé** (November 9, 1903-May 27, 1976) was born Abby Rockefeller in New York City, the first child and only daughter of John D. Rockefeller, Jr. (1874-1960) and Abb Aldrich Rockefeller (1874-1948). She soon became known as "Babs" to family and friends to differentiate her from her mother. She attended Brearley School and Miss Chapin's School, both located in New York City.  
 
 Along with her five brothers -- John Davison Rockefeller 3rd, Nelson, Laurance, Winthrop, and David - "Babs" helped to continue the Rockefeller family's philanthropic tradition established by her father and grandfather. In contrast to her brothers, who became public figures, she conducted her philanthropic activities quietly. She was a member of the Board of Trustees of the Rockefeller Brothers Fund; an advisory member of the Board of Trustees of Memorial Sloan-Kettering Cancer Center (a chief benefactor of the Center along with her brother, Laurance, she received its Medal of Appreciation in 1965); and an honorary trustee of the Rockefeller Family Fund. She also was a benefactor of the Metropolitan Museum of Art, the YWCA, New York Hospital, the Museum of Modern of Art (of which her mother was a founder, and in whose affairs her brother Nelson played a major role), the New York Zoological Society (which was a major interest of her brother Laurance), and the Asia Society (in whose affairs John D. Rockefeller 3rd also played a major role).  

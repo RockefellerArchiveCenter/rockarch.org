@@ -1,8 +1,10 @@
 ---
 layout: page-default
 title: Winthrop Rockefeller, 1912-1973
-permalink: /resources/about-the-rockefellers/nelson-a-rockefeller/
+permalink: /resources/about-the-rockefellers/winthrop-rockefeller/
 ---
+<div class="bio-page-image"><img alt="Winthrop Rockefeller" src="/assets/img/10_winthroprockefeller.png"/></div>
+
 **Winthrop Rockefeller** was born May 1, 1912, the fourth son of John D. Rockefeller, Jr. and Abby Aldrich Rockefeller. Affectionately known as "Win" to family and friends, he attended the Lincoln School, a progressive co-educational preparatory school connected with Teachers College of Columbia University in New York City, and the Loomis School in Windsor, Connecticut before entering Yale University in 1931\. He left school in 1934 and worked in the Texas oil fields as a roughneck and roustabout for the Humble Oil and Refining Company.  
 
 Rockefeller returned to New York City by 1937, but after a series of executive positions he enlisted in the Army as a private in January 1941\. During World War II he participated in the assault landings on Guam, Leyte, and Okinawa in the Pacific. Aboard the troop transport Henrico, en route to Okinawa, he was wounded in a kamikaze attack. Among his decorations were the Bronze Star with Oak Leaf Cluster and the Purple Heart. He attained the rank of lieutenant colonel by the time of his discharge in 1946.  

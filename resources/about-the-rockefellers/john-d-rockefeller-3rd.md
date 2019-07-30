@@ -3,6 +3,8 @@ layout: page-default
 title: John D. Rockefeller, 3rd, 1906-1978
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-3rd/
 ---
+<div class="bio-page-image"><img alt="John D. Rockefeller 3rd" src="/assets/img/07_johndrockefeller3rd.png"/></div>
+
 **John Davison Rockefeller 3rd** was born in New York City on March 21, 1906, the eldest son of John D. Rockefeller, Jr., and Abby Aldrich Rockefeller. He was the brother of Abby Mauze, and Nelson, Laurance, David, and Winthrop Rockefeller.  
 
 Rockefeller, whose childhood family nickname was "Demi," received his preparatory education at the Browning School in New York City and the Loomis Institute, Windsor, Connecticut. He went to Princeton University where he received high honors in economics and graduated in 1929 with the degree of Bachelor of Science. Rockefeller chose industrial relations as the subject of his senior thesis. While attending college, Rockefeller formed interests that would influence his career in philanthropy.  

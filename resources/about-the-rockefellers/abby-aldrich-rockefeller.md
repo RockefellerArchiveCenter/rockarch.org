@@ -4,6 +4,8 @@ title: Abby Aldrich Rockefeller, 1874-1948
 permalink: /resources/about-the-rockefellers/abby-aldrich-rockefeller/
 ---
 
+<div class="bio-page-image"><img alt="Abby Aldrich Rockefeller" src="/assets/img/04_abbyaldrichrockefeller.png"/></div>
+
 **Abby Greene Aldrich Rockefeller** was born in Providence, Rhode Island on October 26, 1874, the fourth child of Abby Pearce Chapman (1845-1917) and Nelson Wilmarth Aldrich (1841-1915). Nelson Aldrich rose from the position of bookkeeper in a wholesale grocery firm to become a member of the State House of Representatives; he was Speaker of the House from 1876 to 1877\. From 1881 to 1911, he served as United States Senator from Rhode Island. In 1899, he was elevated to the chairmanship of the Senate Finance Committee, an appointment he held until his retirement in 1911\. The family maintained homes in Providence, Warwick Neck, and Washington.  
 
 Abby Aldrich received her early education from Quaker governesses. At seventeen, she began attending Miss Abbott's School for Young Ladies in Providence, where her courses included English composition and literature, French, German, art history and ancient history, gymnastics, and dancing. She graduated in 1893 and made her debut the following November. On June 30, 1894, she sailed for Liverpool, inaugurating a lifetime of European travel. The aesthetic education she received abroad, fostered initially by her father, helped to form her judgment as an art collector. Her first four-month sojourn included stays in England, Belgium, the Netherlands, Germany, Austria, Switzerland, Italy, and France.  
