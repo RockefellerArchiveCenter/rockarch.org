@@ -1,6 +1,8 @@
 @import 'colors';
 @import 'utilities';
 
+// TODO: factor typography out of here
+
 .wrapper {
   display: flex;
 }
@@ -58,34 +60,34 @@
 }
 
 .rac-page-header {
-    height: 152px;
-    position: relative;
-    display: flex;
-    &.level-1 {
-      background: $deep-navy;
-      h1 {
-        color: $pure-white;
-      }
-    }
-    &.level-2, &.level-3 {
-      background: $light-blue;
-    }
+  height: 152px;
+  position: relative;
+  display: flex;
+  &.level-1 {
+    background: $deep-navy;
     h1 {
-      position: absolute;
-      bottom: 25px;
-      @media screen and (min-width: $break-md){
-        @include grid-column(12);
-        position: absolute;
-        left: 15px;
-        top: 50%;
-        transform: translateY(-50%);
-      }
-      @media screen and (min-width: $break-lg) {
-        @include grid-column(8);
-        @include grid-push(2);
-        padding-left: $gutters-default;
-      }
+      color: $pure-white;
     }
+  }
+  &.level-2, &.level-3 {
+    background: $light-blue;
+  }
+  h1 {
+    position: absolute;
+    bottom: 25px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(12);
+      position: absolute;
+      left: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(8);
+      @include grid-push(2);
+      padding-left: $gutters-default;
+    }
+  }
 }
 
 .rac-breadcrumb {
@@ -126,19 +128,45 @@
   }
 }
 
-.side-nav {
+.three-column-content {
+  @include grid-column(12);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(9);
+  }
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(7);
+    padding-bottom: 100px;
+    box-sizing: border-box;
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
+
+.left-sidebar {
+  @include grid-column(6);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(3);
+  }
   @media screen and (min-width: $break-lg) {
     @include grid-column(2);
   }
 }
-
-.sidebar {
+.right-sidebar {
+  @include grid-column(12);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(9);
+  }
   @media screen and (min-width: $break-lg) {
-    @include grid-column(2);
+    @include grid-column(3);
+    box-sizing: border-box;
+    padding-right: 44px;
+    padding-left: 40px;
+    float: right;
   }
 }
 
-.section-block-wrapper {
+.one-column-content {
+  @include grid-column(12);
   padding-bottom: 100px;
   @media screen and (min-width: $break-lg) {
     @include grid-column(8);

@@ -3,12 +3,12 @@
 $gutters-default: 15px;
 
 $neat-grid: (
-  gutters: $gutters-default
+  gutter: $gutters-default
 );
 
 $grid-column: (
   box-sizing: border-box
-);
+); //does this work??
 
 $break-md: 580px;
 $break-lg: 1024px;

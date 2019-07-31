@@ -2,16 +2,42 @@
 @import 'typography';
 
 .rac-side-nav {
-  padding: 36px 20px 36px 20px;
-  background: $burnt-orange;
-  font-family: $sans-serif-stack;
-  font-weight: 700;
-  color: $pure-white;
-  font-size: 13px;
-  line-height: 17px;
-  @media screen and (min-width: $break-lg) {
-    padding: 36px 25px 36px 25px;
-    font-size: 14px;
-    line-height: 18px;
+  display: flex;
+  .side-nav {
+    display: none;
+    padding: 36px 20px 36px 20px;
+    background: $burnt-orange;
+    .list-group-item {
+      margin-bottom: 20px;
+    }
+    a {
+      font-family: $sans-serif-stack;
+      font-weight: 700;
+      color: $pure-white;
+      font-size: 13px;
+      line-height: 17px;
+      &:hover {
+        color: $neutral-sand;
+      }
+    }
+    @media screen and (min-width: $break-md) {
+      display: block;
+    }
+    @media screen and (min-width: $break-lg) {
+      padding: 36px 25px 36px 25px;
+      a {
+        font-size: 14px;
+        line-height: 18px;
+      }
+    }
+  }
+  .rac-orange-button {
+    @include grid-column(12);
+    margin-left: 0;
+    margin-bottom: 28px;
+    margin-top: -52px;
+    @media screen and (min-width: $break-md) {
+      display: none;
+    }
   }
 }

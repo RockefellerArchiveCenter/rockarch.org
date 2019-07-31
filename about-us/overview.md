@@ -83,7 +83,7 @@ Trilateral Commission
 American Conservation Association  
 Jackson Hole Preserve, Inc.
 
-## Education
+### Education
 
 Foundation for Child Development  
 General Education Board  
@@ -93,7 +93,7 @@ Lucille P. Markey Charitable Trust
 Sealantic Fund  
 Woodrow Wilson National Fellowship Foundation
 
-## Papers of Individuals
+### Papers of Individuals
 
 Claude H. Barlow Papers  
 Jackson Davis Papers  

@@ -1,10 +1,8 @@
 ---
-layout: page-section
+layout: page-default
 title: Holiday Schedule
 permalink: /collections/information-for-researchers/holiday-schedule/
 ---
-
-<!-- TODO: This is actually the wrong layout! Header should be light blue -->
 
 ## Holidays
 

@@ -2,6 +2,7 @@
 @import 'typography';
 @import 'utilities';
 
+// TODO: factor out block buttons
 
 .rac-blue-button {
   display: flex;
@@ -62,18 +63,25 @@
   align-items: center;
   margin-top: 6px;
   margin-bottom: 6px;
+  padding: 14px 22px 16px 20px;
+  transition: $transition-default;
+  background: $pale-blue;
   font-size: 14px;
   font-family: $sans-serif-stack;
   line-height: 17px;
   text-align: left;
   color: $deep-navy;
-  padding: 14px 22px 16px 20px;
-  transition: $transition-default;
-  background: $pale-blue;
+  margin-bottom: 0px;
   &:hover {
     background: $light-blue;
+    color: inherit;
     transition: $transition-default;
     cursor: pointer;
   }
-  // TODO: icon mixin
+  .icon {
+    margin-left: auto;
+    i {
+      font-size: 18px;
+    }
+  }
 }
