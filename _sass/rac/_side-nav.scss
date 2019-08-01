@@ -3,23 +3,15 @@
 
 .rac-side-nav {
   display: flex;
+  @media screen and (min-width: $break-md) {
+    position: sticky;
+    top: 60px;
+    margin-bottom: 60px;
+  }
   .side-nav {
     display: none;
     padding: 36px 20px 36px 20px;
     background: $burnt-orange;
-    .list-group-item {
-      margin-bottom: 20px;
-    }
-    a {
-      font-family: $sans-serif-stack;
-      font-weight: 700;
-      color: $pure-white;
-      font-size: 13px;
-      line-height: 17px;
-      &:hover {
-        color: $neutral-sand;
-      }
-    }
     @media screen and (min-width: $break-md) {
       display: block;
     }
@@ -28,6 +20,24 @@
       a {
         font-size: 14px;
         line-height: 18px;
+      }
+    }
+    ul.list-group {
+      margin: 0px;
+      padding: 0px;
+      list-style: none;
+      .list-group-item:not(:last-child) {
+        margin-bottom: 20px;
+      }
+      a {
+        font-family: $sans-serif-stack;
+        font-weight: 700;
+        color: $pure-white;
+        font-size: 13px;
+        line-height: 17px;
+        &:hover {
+          color: $neutral-sand;
+        }
       }
     }
   }

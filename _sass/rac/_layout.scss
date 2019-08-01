@@ -3,6 +3,10 @@
 
 // TODO: factor typography out of here
 
+html {
+  scroll-behavior: smooth;
+}
+
 .wrapper {
   display: flex;
 }
@@ -149,6 +153,7 @@
 
 .left-sidebar {
   @include grid-column(6);
+  height: 100%;
   @media screen and (min-width: $break-md) {
     @include grid-column(3);
   }
@@ -367,7 +372,7 @@ section {
   min-height: 120px;
   position: relative;
   margin-right: $gutters-default * 2;
-  &:not(last) {
+  &:not(:last-child) {
     margin-bottom: 20px;
   }
   @media screen and (min-width: $break-md) {
