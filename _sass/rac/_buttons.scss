@@ -22,13 +22,11 @@
   &:after {
         content: ">";
     }
-
   &:hover {
     opacity: 1;
     cursor:pointer;
     transition: $transition-default;
   }
-
   @media screen and (min-width: $break-md) {
     padding: 20px;
     margin-top: 8px;

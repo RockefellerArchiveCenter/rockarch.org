@@ -223,6 +223,8 @@
   }
 }
 
+// TODO: roles and quicklinks have common layout and should be factored out to abstract classes
+
 .rac-roles {
   .roles {
     @media screen and (min-width: $break-md) {
@@ -275,25 +277,42 @@
 }
 
 .rac-quicklinks {
+  .links {
+    @media screen and (min-width: $break-md) {
+      @include grid-column(9);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(8);
+    }
+  }
   .link-wrapper {
     margin-bottom: 24px;
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(6);
+      padding: 0 40px;
+      box-sizing: border-box;
   }
-  .link a {
-    font-family: $sans-serif-stack;
-    font-weight: 700;
+  .link {
     font-size: 17px;
-    color: $burnt-orange;
-    transition: $transition-default;
-    &:hover {
-      color: $med-brown;
+    margin: 0;
+    }
+    a {
+      font-family: $sans-serif-stack;
+      font-weight: 700;
+      font-size: 17px;
+      color: $burnt-orange;
       transition: $transition-default;
+      &:after {
+        content: '\00a0>'
+      }
+      &:hover {
+        color: $med-brown;
+        transition: $transition-default;
+      }
     }
   }
   small {
     font-style: italic;
-  }
-  .container .container {
-    margin-left: 0;
   }
 }
 
@@ -325,6 +344,7 @@ section {
     margin-bottom: 30px;
     @media screen and (min-width: $break-md) {
       @include grid-column(3);
+      margin-top: 0px;
     }
     h2, h3, h4, h5 {
       font-family: $sans-serif-stack;
@@ -334,6 +354,7 @@ section {
       color: $deep-navy;
       letter-spacing: 2px;
       padding: 0px;
+      margin: 0px;
       border-bottom: none;
     }
   }
