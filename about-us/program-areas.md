@@ -20,9 +20,9 @@ The Archives Program achieves this mission through four interconnected function 
 manage the Center’s archival holdings from acquisition to accessibility: Collections Management,
 Processing, Reference, and Digital Program.
 
-<button href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</button>
-<button href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</button>
-<button href="https://projectelectron.rockarch.org" class="rac-blue-button">Project Electron</button>
+<a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
+<a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
+<a href="https://projectelectron.rockarch.org" class="rac-blue-button">Project Electron</a>
 
 ### Collections Management
 
@@ -93,4 +93,4 @@ and presentations about archival holdings for board and staff members of donor o
 The research and education staff also works with other Pocantico-based organizations on public
 programs, showing films and organizing exhibitions and lectures for the local community.
 
-<button href="https://resource.rockarch.org" class="rac-blue-button">RE:source</button>
+<a href="https://resource.rockarch.org" class="rac-blue-button">RE:source</a>

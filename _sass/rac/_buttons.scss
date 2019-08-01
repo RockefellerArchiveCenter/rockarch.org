@@ -20,12 +20,13 @@
   opacity: 0.8;
   transition: $transition-default;
   &:after {
-        content: ">";
+        content: '\00a0>';
     }
   &:hover {
     opacity: 1;
     cursor:pointer;
     transition: $transition-default;
+    color: $pure-white;
   }
   @media screen and (min-width: $break-md) {
     padding: 20px;
