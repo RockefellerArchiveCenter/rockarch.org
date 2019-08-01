@@ -16,7 +16,7 @@ body, p, a {
   font-weight: $font-weight-normal;
   font-size: 16px;
   line-height: 26px;
-  margin-bottom: 10px;
+  margin: 0 0 10px 0;
   color: $dark-gray;
   @media screen and (min-width: $break-lg) {
     font-size: 17px;
@@ -47,19 +47,28 @@ h2, h3, h4, h5, h6 {
   font-family: $sans-serif-stack;
   font-weight: $font-weight-bold;
   color: $deep-navy;
+  margin: 0px;
 }
 
 h2 {
   font-size: 21px;
   border-bottom: 1.5px dotted $faded-navy;
   padding-bottom: 12px;
+  margin-bottom: 20px;
+  margin-top: 60px;
   @media screen and (min-width: $break-lg) {
+    margin-top: 0px;
     font-size: 28px;
+    &:not(:first-child) {
+      margin-top: 80px;
+    }
   }
 }
 
 h3 {
   font-size: 18px;
+  margin-top: 30px;
+  margin-bottom: 10px;
   @media screen and (min-width: $break-lg) {
     font-size: 20px;
   }

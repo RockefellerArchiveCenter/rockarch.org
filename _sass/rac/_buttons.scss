@@ -48,7 +48,7 @@
   color: $pure-white;
   background: $burnt-orange;
   transition: $transition-default;
-
+  border: none;
   &:hover {
     background: $med-brown;
     cursor: pointer;
