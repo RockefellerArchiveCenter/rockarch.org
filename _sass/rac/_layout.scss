@@ -396,3 +396,29 @@ section {
     }
   }
 }
+
+.biographies {
+  display: flex;
+  flex-wrap: wrap;
+  .biography {
+    margin-bottom: 26px;
+    @include grid-column(6);
+    @media screen and (min-width: $break-md) {
+      @include grid-column(4);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(3)
+    }
+    img {
+      width: 100%;
+    }
+    h3 {
+      font-family: $sans-serif-stack;
+      font-weight: 900;
+      font-size: 15px;
+      color: $deep-navy;
+      line-height: 18px;
+      margin: 8px 0 0 0;
+    }
+  }
+}
