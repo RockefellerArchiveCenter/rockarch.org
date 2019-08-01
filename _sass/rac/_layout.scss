@@ -86,10 +86,6 @@ html {
     bottom: 25px;
     @media screen and (min-width: $break-md) {
       @include grid-column(12);
-      position: absolute;
-      left: 15px;
-      top: 50%;
-      transform: translateY(-50%);
     }
     @media screen and (min-width: $break-lg) {
       @include grid-column(8);
@@ -153,9 +149,9 @@ html {
 
 .left-sidebar {
   @include grid-column(6);
-  height: 100%;
   @media screen and (min-width: $break-md) {
     @include grid-column(3);
+    height: 100%;
   }
   @media screen and (min-width: $break-lg) {
     @include grid-column(2);
