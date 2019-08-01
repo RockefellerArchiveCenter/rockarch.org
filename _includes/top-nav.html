@@ -2,7 +2,7 @@
   <div class="nav-container">
     {%- if page.dir != "/" -%}
     <div class="brand">
-      <a href="/"><img src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
+      <a href={{"/" | relative_url }}><img src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
     </div>
     {%- endif -%}
     <nav>
