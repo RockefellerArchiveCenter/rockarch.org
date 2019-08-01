@@ -3,7 +3,7 @@ layout: page-default
 title: Laurance S. Rockefeller, 1910-2004
 permalink: /resources/about-the-rockefellers/laurance-s-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Laurance S. Rockefeller" src="/assets/img/09_laurancesrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Laurance S. Rockefeller" src="{{site.baseurl}}/assets/img/09_laurancesrockefeller.png"/></div>
 
 **Laurance Spelman Rockefeller** was born on May 26, 1910, in New York City, the fourth of the six children of John D. Rockefeller, Jr. and Abby Aldrich Rockefeller. He attended Lincoln School, a progressive co-educational preparatory school connected with Teachers College of Columbia University in New York City, before entering Princeton in 1928\. A philosophy major, he graduated from Princeton in 1932 with a B.A. degree in philosophy and went on to two years of graduate study at Harvard Law School.  
 

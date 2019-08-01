@@ -3,7 +3,7 @@ layout: page-default
 title: Nelson A. Rockefeller, 1908-1979
 permalink: /resources/about-the-rockefellers/nelson-a-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Nelson A. Rockefeller" src="/assets/img/08_nelsonarockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Nelson A. Rockefeller" src="{{site.baseurl}}/assets/img/08_nelsonarockefeller.png"/></div>
 
 **Nelson A. Rockefeller** (1908-1979) was a businessman, politician, statesman, art collector, and philanthropist. A grandson of John D. Rockefeller, the founder of the Standard Oil Company, and the son of John D. Rockefeller, Jr. and Abby Aldrich Rockefeller, he expanded the family's tradition of public life from business and philanthropy into government service and politics.  
 
@@ -13,4 +13,4 @@ Rockefeller's service in government began in 1933 as a member of the Westchester
 
 In the 1950s and 1960s Rockefeller sought elective office himself. Beginning in 1958, he won election to four consecutive terms as governor of New York State, where, as a progressive Republican, he vastly increased the state's role in education, environmental protection, transportation, housing, welfare, and the arts. His candidacies for the Republican nomination for president in 1960, 1964, and 1968 were not successful. He resigned as governor in 1973 and the next year was nominated as vice president of the United States, serving under President Gerald Ford (1974-1977).  
 
-Nelson A. Rockefeller died of a heart attack at his offices in New York City on January 26, 1979\. 
+Nelson A. Rockefeller died of a heart attack at his offices in New York City on January 26, 1979\.

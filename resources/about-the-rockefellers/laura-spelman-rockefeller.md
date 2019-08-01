@@ -3,7 +3,7 @@ layout: page-default
 title: Laura Spelman Rockefeller, 1839-1915
 permalink: /resources/about-the-rockefellers/laura-spelman-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Laura Spelman Rockefeller" src="/assets/img/02_lauraspelmanrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Laura Spelman Rockefeller" src="{{site.baseurl}}/assets/img/02_lauraspelmanrockefeller.png"/></div>
 
 <small>The following biography of Laura Spelman Rockefeller (September 9, 1839-March 12, 1915) is excerpted from a memorial pamphlet issued by the New York Community Trust. In honor of his wife, John D. Rockefeller established the Laura Spelman Rockefeller Memorial in October 1918. This foundation was active in the areas of child study, education, public health, race relations, religion, and social welfare. In the reorganization of Rockefeller philanthropies in 1929, the operations of the Memorial were absorbed by the Rockefeller Foundation. To support some of Laura Spelman Rockefeller's charitable interests in New York City, a gift of $2.5 million was made to the New York Community Trust to constitute its Laura Spelman Rockefeller Memorial fund.</small>   
 

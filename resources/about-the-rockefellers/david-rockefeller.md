@@ -3,7 +3,7 @@ layout: page-default
 title: David Rockefeller, 1915-2017
 permalink: /resources/about-the-rockefellers/david-rockefeller/
 ---
-<div class="bio-page-image"><img alt="David Rockefeller" src="/assets/img/12_davidrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="David Rockefeller" src="{{site.baseurl}}/assets/img/12_davidrockefeller.png"/></div>
 
 **David Rockefeller** was born on June 12, 1915 in New York City, the youngest of the six children of John D. Rockefeller, Jr. and Abby Aldrich Rockefeller. He attended Lincoln School of Columbia University's Teachers College in New York for 12 years and graduated from Harvard University in 1936 with a bachelor of science degree. After post-graduate study at Harvard and the London School of Economics, he received a Ph.D. degree in economics from the University of Chicago in 1940\. His doctoral thesis, "Unused Resources and Economic Waste," was published by the University of Chicago Press in 1940\.  
 

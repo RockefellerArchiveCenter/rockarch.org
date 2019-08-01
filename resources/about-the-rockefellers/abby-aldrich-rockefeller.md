@@ -4,7 +4,7 @@ title: Abby Aldrich Rockefeller, 1874-1948
 permalink: /resources/about-the-rockefellers/abby-aldrich-rockefeller/
 ---
 
-<div class="bio-page-image"><img alt="Abby Aldrich Rockefeller" src="/assets/img/04_abbyaldrichrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Abby Aldrich Rockefeller" src="{{site.baseurl}}/assets/img/04_abbyaldrichrockefeller.png"/></div>
 
 **Abby Greene Aldrich Rockefeller** was born in Providence, Rhode Island on October 26, 1874, the fourth child of Abby Pearce Chapman (1845-1917) and Nelson Wilmarth Aldrich (1841-1915). Nelson Aldrich rose from the position of bookkeeper in a wholesale grocery firm to become a member of the State House of Representatives; he was Speaker of the House from 1876 to 1877\. From 1881 to 1911, he served as United States Senator from Rhode Island. In 1899, he was elevated to the chairmanship of the Senate Finance Committee, an appointment he held until his retirement in 1911\. The family maintained homes in Providence, Warwick Neck, and Washington.  
 

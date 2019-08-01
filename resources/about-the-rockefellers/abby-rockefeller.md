@@ -4,7 +4,7 @@ title: Abby Rockefeller Mauzé, 1903-1976
 permalink: /resources/about-the-rockefellers/abby-rockefeller/
 ---
 
-<div class="bio-page-image"><img alt="Abby Rockefeller Mauzé" src="/assets/img/06_abbyrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Abby Rockefeller Mauzé" src="{{site.baseurl}}/assets/img/06_abbyrockefeller.png"/></div>
 
 **Abby Rockefeller Mauzé** (November 9, 1903-May 27, 1976) was born Abby Rockefeller in New York City, the first child and only daughter of John D. Rockefeller, Jr. (1874-1960) and Abb Aldrich Rockefeller (1874-1948). She soon became known as "Babs" to family and friends to differentiate her from her mother. She attended Brearley School and Miss Chapin's School, both located in New York City.  
 

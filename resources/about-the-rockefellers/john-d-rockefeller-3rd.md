@@ -3,7 +3,7 @@ layout: page-default
 title: John D. Rockefeller, 3rd, 1906-1978
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-3rd/
 ---
-<div class="bio-page-image"><img alt="John D. Rockefeller 3rd" src="/assets/img/07_johndrockefeller3rd.png"/></div>
+<div class="bio-page-image"><img alt="John D. Rockefeller 3rd" src="{{site.baseurl}}/assets/img/07_johndrockefeller3rd.png"/></div>
 
 **John Davison Rockefeller 3rd** was born in New York City on March 21, 1906, the eldest son of John D. Rockefeller, Jr., and Abby Aldrich Rockefeller. He was the brother of Abby Mauze, and Nelson, Laurance, David, and Winthrop Rockefeller.  
 
