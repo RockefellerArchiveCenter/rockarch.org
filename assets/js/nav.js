@@ -1,14 +1,14 @@
 (function($) {
   $(function() {
     $('nav ul li > a:not(:only-child)').click(function(e) {
-      $(this).siblings('.nav-dropdown').toggle();
+      $(this).siblings('.dropdown').toggle();
       $(this).toggleClass('active');
       $('nav ul li > a:not(:only-child)').not($(this)).removeClass('active')
-      $('.nav-dropdown').not($(this).siblings()).hide();
+      $('.dropdown').not($(this).siblings()).hide();
       e.stopPropagation();
     });
     $('html').click(function() {
-      $('.nav-dropdown').hide();
+      $('.dropdown').hide();
       $('nav ul li > a:not(:only-child)').each(function() {
         $(this).removeClass('active')
       })
