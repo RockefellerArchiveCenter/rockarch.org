@@ -285,13 +285,15 @@
       @include grid-column(8);
     }
   }
-  .link-wrapper {
-    margin-bottom: 24px;
+  .link-column {
     @media screen and (min-width: $break-lg) {
       @include grid-column(6);
       padding: 0 40px;
       box-sizing: border-box;
+    }
   }
+  .link-wrapper {
+    margin-bottom: 24px;
   .link {
     font-size: 17px;
     margin: 0;

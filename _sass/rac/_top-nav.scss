@@ -7,7 +7,6 @@ $nav-background: $pure-white;
 $nav-font-color: $deep-navy;
 $link-hover-color: $burnt-orange;
 
-// TODO: clean this up and restructure - highly nested classes are problematic
 // TODO: reconsider structure of social-icons
 
 .nav-container {
@@ -150,6 +149,7 @@ ul.list {
        z-index: 1;
        letter-spacing: normal;
        margin: 0 0 3px 0;
+       width: 100%;
      }
      & .description {
        font-family: $serif-stack;
@@ -162,6 +162,7 @@ ul.list {
        text-transform: none;
        letter-spacing: normal;
        margin: 0px;
+       width: 100%;
      }
    }
  }
