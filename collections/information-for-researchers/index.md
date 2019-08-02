@@ -3,7 +3,7 @@ layout: page-sidebar
 title: Information for Researchers
 permalink: /collections/information-for-researchers/
 sidebar:
-  - [https://dimes.rockarch.org, Search collections at DIMES, arrow_forward, '']
+  - ["https://dimes.rockarch.org", "Search collections at DIMES", arrow_forward]
 ---
 
 ## How to Contact Us
