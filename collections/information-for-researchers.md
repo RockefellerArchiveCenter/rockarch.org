@@ -56,8 +56,6 @@ well as tea and coffee. WiFi is available throughout the RAC.
 
 The RAC is located at 15 Dayton Avenue, Sleepy Hollow, New York 10591.
 
-<div class="google map"></div>
-
 ### By Train from New York City
 
 The RAC is easily accessible by train from Grand Central Terminal in New
@@ -65,8 +63,8 @@ York City to Tarrytown on the Metro-North Hudson Line. If you’ve made
 prior arrangements with the Reference team, the RAC will provide
 transportation to and from RAC for the following trains:
 
-- Departs Grand Central 8:46 a.m. <br/>Arrives Tarrytown 9:23 a.m.
-- Departs Tarrytown 5:34 p.m. (Van leaves RAC at 5:15 p.m.) <br/>Arrives Grand Central 6:17 p.m
+- Departs Grand Central 8:46 a.m. Arrives Tarrytown 9:23 a.m.
+- Departs Tarrytown 5:34 p.m. (Van leaves RAC at 5:15 p.m.) Arrives Grand Central 6:17 p.m
 
 The train schedule may be subject to change, so be sure to check the [Metro-
 North web site](http://www.mta.info) to verify departure times. If you come
