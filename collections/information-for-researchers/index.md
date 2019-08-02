@@ -3,7 +3,7 @@ layout: page-sidebar
 title: Information for Researchers
 permalink: /collections/information-for-researchers/
 sidebar:
-  - [/assets/static/stipend_reimbursement_form.docx, Stipend Reimbursement Policy and Form (.doc), file_download, download]
+  - [https://dimes.rockarch.org, Search collections at DIMES, arrow_forward]
   - [/assets/static/stipend_reimbursement_form.pdf, Stipend Reimbursement Policy and Form (.pdf), file_download, download]
   - [/assets/static/research_report_guidelines.pdf, Research Report Guidelines, file_download, download]
 ---
