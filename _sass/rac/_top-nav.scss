@@ -133,6 +133,8 @@ ul.list {
      padding: 12px 28px;
      text-align: left;
      height: auto;
+     width: 100%;
+     box-sizing: border-box;
      a {
        padding-right: 0px;
        display: block;
