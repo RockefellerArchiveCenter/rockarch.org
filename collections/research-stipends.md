@@ -76,28 +76,25 @@ will be made within a month of the receipt of the applicant's two letters of rec
 Letters of recommendation should be one page in length, on official letterhead, and include a
 confidential assessment of the applicant's qualifications and goals, comments on the importance
 of the proposed research, and any other pertinent information. References should email their
-letters to [RACgrants@rockarch.org](mailto:racgrants@rockarch.org). Stipend recipients must commence their research at the
-Center within one year of being notified of the award. Application to this program is open to U.S.
-citizens and citizens of foreign countries. Stipend recipients are requested to submit a short report
-on their research at the Center. Edited versions of or excerpts from these reports may be used in
-the Center's publications. Recipients also are asked to provide the Center with a copy of any
-publication resulting from research conducted as a result of the stipend. Reimbursement of up to
-$4,000 will be made upon receipt of original expense receipts after the completion of the stipend
-recipient's research visit.
+letters to [RACgrants@rockarch.org](mailto:racgrants@rockarch.org). Stipend recipients must commence
+their research at the Center within one year of being notified of the award. Application to this
+program is open to U.S. citizens and citizens of foreign countries. Stipend recipients are requested
+to submit a short report on their research at the Center. Edited versions of or excerpts from these
+reports may be used in the Center's publications. Recipients also are asked to provide the Center
+with a copy of any publication resulting from research conducted as a result of the stipend.
+Reimbursement of up to $4,000 will be made upon receipt of original expense receipts after the
+completion of the stipend recipient's research visit.
 
-### Stipend Through the Constortium for History of Science, Technology, and
-Medicine
+### Stipend Through the Constortium for History of Science, Technology, and Medicine
 
 The Rockefeller Archive Center is part of the [Consortium for History of Science, Technology, and Medicine](https://www.chstm.org/). Founded in 2007 with grants from the Alfred P. Sloan Foundation and the National
 Science Foundation, the Consortium promotes public and scholarly understanding of the
 multitude of ways in which science, technology, and medicine shape our lives. It hosts both
 scholarly and public events on the history of science, medicine and technology. Since its inception,
 the Consortium has established a [fellowship program](https://www.chstm.org/fellowships/chstm-fellowships)
-offering support for research across the scholarly collections of the consortium,
-created an online search capability which has opened up access to the special
-collections of the consortium, and has set up and now maintains what has become
-the comprehensive calendar for all regional events in the history of these fields.
-As many of the collections of the Rockefeller Archive Center document large sweeps
-of the twentieth- and twenty-first century development of science, medicine,
-technology, and the social sciences, we encourage scholars to learn more about
-the Consortium and its fellowship programs.
+offering support for research across the scholarly collections of the consortium, created an online search
+capability which has opened up access to the special collections of the consortium, and has set up and
+now maintains what has become the comprehensive calendar for all regional events in the history
+of these fields. As many of the collections of the Rockefeller Archive Center document large sweeps
+of the twentieth- and twenty-first century development of science, medicine, technology,
+and the social sciences, we encourage scholars to learn more about the Consortium and its fellowship programs.
