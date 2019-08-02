@@ -2,10 +2,6 @@
 layout: page-sidebar
 title: Information for Researchers
 permalink: /collections/information-for-researchers/
-sidebar:
-  - [https://raccess.rockarch.org, Log into/Create a new RACcess account, arrow_forward, '']
-  - [https://dimes.rockarch.org, Search collections at DIMES, arrow_forward, '']
-  - [mailto:archive@rockarch.org, Schedule a Research Visit, email, '']
 ---
 
 ## How to Contact Us
