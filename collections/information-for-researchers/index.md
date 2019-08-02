@@ -55,6 +55,8 @@ well as tea and coffee. WiFi is available throughout the RAC.
 
 The RAC is located at 15 Dayton Avenue, Sleepy Hollow, New York 10591.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3006.9551381027577!2d-73.8373819843737!3d41.091826822227716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2bffc3b17f3b5%3A0x3329b3d8104d2fb9!2s15+Dayton+Ave%2C+Sleepy+Hollow%2C+NY+10591!5e0!3m2!1sen!2sus!4v1560187749243!5m2!1sen!2sus" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ### By Train from New York City
 
 The RAC is easily accessible by train from Grand Central Terminal in New
