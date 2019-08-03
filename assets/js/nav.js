@@ -14,6 +14,23 @@
       })
     });
   });
+
+  $(function() {
+    $('.rac-side-nav .nav-toggle').on('click', function(e) {
+      if ($(this).siblings('.side-nav').is(':visible')) {
+        $(this).html('Open Page Menu');
+      } else {
+        $(this).html('Close Page Menu');
+      }
+      $(this).siblings('.side-nav').toggle();
+      e.stopPropagation();
+    });
+    $('html').click(function() {
+      $('.side-nav').hide();
+      $('.side-nav').siblings('.nav-toggle').html('Open Page Menu');
+    })
+  });
+
   document.querySelector('#nav-toggle').addEventListener('click', function() {
     this.classList.toggle('active');
   });

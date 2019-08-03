@@ -2,8 +2,8 @@
 @import 'typography';
 
 .rac-side-nav {
-  display: flex;
   @media screen and (min-width: $break-md) {
+    display: flex;
     position: sticky;
     top: 60px;
     margin-bottom: 60px;
@@ -12,9 +12,11 @@
     display: none;
     padding: 36px 20px 36px 20px;
     background: $burnt-orange;
-    width:100%;
+    position: absolute;
+    width: calc(50% - 60px);
     @media screen and (min-width: $break-md) {
       display: block;
+      width:100%;
     }
     @media screen and (min-width: $break-lg) {
       padding: 36px 25px 36px 25px;
