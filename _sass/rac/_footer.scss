@@ -13,6 +13,10 @@
     &:hover {
       color: $burnt-orange;
       transition: $transition-default;
+      svg g {
+        fill: $burnt-orange;
+        transition: $transition-default;
+      }
     }
   }
   .address {
@@ -35,9 +39,13 @@
     & a {
       margin-bottom: 18px;
       i {
+        display: inline-block;
         font-size: 22px;
         height: 44px;
         width: 44px;
+        svg {
+          padding-bottom: 4px;
+        }
       }
     }
     @media screen and (min-width: $break-md) {
