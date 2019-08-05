@@ -6,19 +6,7 @@
   display: flex;
   background: $neutral-sand;
   p { @include footer-text; }
-  a {
-    @include footer-text;
-    text-decoration: underline;
-    font-weight: $font-weight-normal;
-    &:hover {
-      color: $burnt-orange;
-      transition: $transition-default;
-      svg g {
-        fill: $burnt-orange;
-        transition: $transition-default;
-      }
-    }
-  }
+  a { @include footer-text; }
   .address {
     @media screen and (min-width: $break-lg) {
       margin-left: 0px;
@@ -36,10 +24,13 @@
   }
   .social {
     margin-bottom: 30px;
+    .rac-social-icons { // TODO: factor this out completely to _social-icons.scss
+      display: unset;
+    }
     & a {
       margin-bottom: 18px;
       i {
-        display: inline-block;
+        // display: inline-block;
         font-size: 22px;
         height: 44px;
         width: 44px;

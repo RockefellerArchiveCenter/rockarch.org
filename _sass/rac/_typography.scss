@@ -122,6 +122,14 @@ small {
   color: $deep-navy;
   line-height: 22px;
   margin-bottom: 10px;
+  a {
+    text-decoration: underline;
+    font-weight: $font-weight-normal;
+    &:hover {
+      color: $burnt-orange;
+      transition: $transition-default;
+    }
+  }
 }
 
 .material-icons {

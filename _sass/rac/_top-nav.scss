@@ -170,7 +170,7 @@ ul.list {
      }
    }
  }
- .social-icons {
+ .rac-social-icons {
    padding: 15px 20px 15px 0;
    @media screen and (min-width: $break-md) {
      padding-right: 30px;
@@ -184,16 +184,7 @@ ul.list {
      font-size: 18px;
    }
    a {
-     color: $deep-navy;
      font-size: 15px;
-     &:hover {
-       color: $burnt-orange;
-       transition: $transition-default;
-       svg g {
-         fill: $burnt-orange;
-         transition: $transition-default;
-       }
-     }
      svg {
        padding-bottom: 2px;
      }
