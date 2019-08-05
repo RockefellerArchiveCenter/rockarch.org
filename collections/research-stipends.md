@@ -55,7 +55,7 @@ Important dates and deadlines:
 - Two letters of recommendation due by November 22
 - Please note that three application cycles must elapse before a former stipend recipient is eligible to receive another research stipend.
 
-<button class="rac-orange-button">I've read the above requirements and want to submit an application</button>
+<button class="rac-orange-button">I've read the requirements and want to submit an application</button>
 
 ## Related Stipend Programs
 
