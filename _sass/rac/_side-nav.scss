@@ -16,6 +16,7 @@
     width: calc(50% - 60px);
     @media screen and (min-width: $break-md) {
       display: block;
+      position: unset;
       width:100%;
     }
     @media screen and (min-width: $break-lg) {
