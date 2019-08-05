@@ -9,11 +9,6 @@ $link-hover-color: $burnt-orange;
 
 // TODO: reconsider structure of social-icons
 
-.nav-container {
-  max-width: $content-width;
-  margin: 0 auto;
-}
-
 .brand {
   position: absolute;
   margin-left: 25px;
@@ -37,20 +32,22 @@ $link-hover-color: $burnt-orange;
   }
 }
 
-.rac-navbar {
+
+nav {
   padding: 0;
-  height: 50px;
+  height: $nav-height;
+  width: 100%;
   @media screen and (min-width: $break-md) {
     height: 60px;
   }
-  nav {
-   width: 100%;
-   padding-top: $nav-height;
-   @media screen and (min-width: $break-lg) {
-     text-align: center;
-     padding: 0;
-   }
- }
+  @media screen and (min-width: $break-lg) {
+    text-align: center;
+    padding: 0;
+  }
+  .container {
+    margin: 0;
+    width: 100%;
+  }
 }
 
 .nav-mobile {
@@ -65,10 +62,12 @@ ul.list {
  position: relative;
  z-index: 1;
  background: $nav-background;
+ list-style: none;
  text-align: right;
- margin: 0px;
+ margin: $nav-height 0 0 0;
  padding: 0px;
  @media screen and (min-width: $break-lg) {
+   margin: 0;
    text-align: center;
    display: block;
  }

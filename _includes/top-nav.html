@@ -1,14 +1,14 @@
-<section class="rac-navbar navigation">
-  <div class="nav-container">
-    {%- if page.dir != "/" -%}
-    <div class="brand">
-      <a href={{"/" | relative_url }}><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
-    </div>
-    {%- endif -%}
-    <nav role="navigation" aria-label="Main">
+
+    <nav class="rac-top-nav" role="navigation" aria-label="Main">
+      <div class="container">
       <div class="nav-mobile">
         <a id="nav-toggle" href="#!"><i class="material-icons">menu</i></a>
       </div>
+      {%- if page.dir != "/" -%}
+      <div class="brand">
+        <a href={{"/" | relative_url }}><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
+      </div>
+      {%- endif -%}
       <ul class="list">
         <li>
           <a href="#!">Collections <i class="material-icons">keyboard_arrow_down</i></a>
@@ -117,6 +117,5 @@
         </li>
         {% include social-icons.html %}
       </ul>
+      </div>
     </nav>
-  </div>
-</section>

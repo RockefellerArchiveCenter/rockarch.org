@@ -1,5 +1,4 @@
 .rac-social-icons {
-  display: flex;
   a {
     color: $deep-navy;
     i {
@@ -16,5 +15,8 @@
   }
   svg {
     // height: inherit;
+  }
+  @media screen and (min-width: $break-lg) {
+    display: flex;
   }
 }
