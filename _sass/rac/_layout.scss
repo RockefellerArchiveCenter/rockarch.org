@@ -333,11 +333,15 @@ html {
     color: $pure-white;
   }
   a.instagram-link {
+    font-family: $sans-serif-stack;
     text-transform: uppercase;
     color: $pure-white;
     float: right;
     @media screen and (min-width: $break-md) {
       margin-right: 20px;
+    }
+    &:after {
+      content: '\00a0>';
     }
   }
 }
