@@ -323,8 +323,22 @@ html {
 
 .rac-instagram {
   background: $deep-navy;
+  .instagram-posts {
+    margin: -20px;
+    @media screen and (min-width: $break-md) {
+      margin: 0;
+    }
+  }
   .title {
     color: $pure-white;
+  }
+  a.instagram-link {
+    text-transform: uppercase;
+    color: $pure-white;
+    float: right;
+    @media screen and (min-width: $break-md) {
+      margin-right: 20px;
+    }
   }
 }
 
