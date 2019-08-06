@@ -67,10 +67,10 @@ transportation to and from RAC for the following trains:
 - Departs Grand Central 8:46 a.m. Arrives Tarrytown 9:23 a.m.
 - Departs Tarrytown 5:34 p.m. (Van leaves RAC at 5:15 p.m.) Arrives Grand Central 6:17 p.m
 
-The train schedule may be subject to change, so be sure to check the [Metro-
-North web site](http://www.mta.info) to verify departure times. If you come
-on a different train or miss the RAC shuttle van, there is a taxi stand at the
-Tarrytown station.
+The train schedule may be subject to change, so be sure to check the
+[Metro-North web site](http://www.mta.info) to verify departure times.
+If you come on a different train or miss the RAC shuttle van, there is a taxi
+stand at the Tarrytown station.
 
 ## What You Can Expect When You Get Here
 
@@ -108,12 +108,12 @@ anticipate using microfilm during your visit.
 
 ## Duplication Services and Fee Schedule
 
-The RAC offers duplication services for on-site and o!-site researchers. If
+The RAC offers duplication services for on-site and off-site researchers. If
 you have any questions about ordering copies of our holdings, please
 contact the RAC Reference team at archive@rockarch.org.
 
 The RAC may decline to copy certain documents that in its judgment may
-su!er damage as a result of duplication.
+suffer damage as a result of duplication.
 
 Duplication is done on a first-come, first-served basis. We strive to complete
 all duplication requests within 30 days.

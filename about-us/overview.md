@@ -17,7 +17,7 @@ these organizations.
 
 Over 400 researchers from around the world – graduate students, professors, independent
 scholars, and journalists – visit annually. Their research topics range from the history of medicine,
-science, and public health to such fields as the arts, agriculture, social sciences, urban a!airs, and
+science, and public health to such fields as the arts, agriculture, social sciences, urban affairs, and
 public policy. The RAC also seeks to connect and sustain its scholarly community through
 workshops, conferences, and support for sessions at academic gatherings.
 
@@ -104,7 +104,7 @@ Rebecca Lancefield Papers
 Fritz Lipmann Papers  
 John D. Rockefeller Papers  
 William Rockefeller Papers  
-O!ice of the Messrs. Rockefeller  
+Office of the Messrs. Rockefeller  
 John D. Rockefeller, Jr. Papers  
 Abby Aldrich Rockefeller Papers  
 John D. Rockefeller 3rd Papers  
