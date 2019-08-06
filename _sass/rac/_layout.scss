@@ -188,6 +188,7 @@ html {
   }
   .action-button {
     display: block;
+    width: 100%;
     text-align: left;
     box-sizing: border-box;
     padding: 20px 26px 24px 24px;
@@ -330,6 +331,8 @@ html {
 section {
   padding-top: 20px;
   padding-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
   @media screen and (min-width: $break-md) {
     padding-top: 30px;
     padding-bottom: 80px;

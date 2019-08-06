@@ -12,7 +12,7 @@ $font-weight-light: 300;
 // TODO: replace font weights with variables
 // TODO: use calculations for font sizes
 
-body, p, a {
+p, a, small {
   font-family: $serif-stack;
   font-weight: $font-weight-normal;
   font-size: 16px;
