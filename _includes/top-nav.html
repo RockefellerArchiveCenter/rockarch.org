@@ -4,7 +4,7 @@
       <div class="nav-mobile">
         <a id="nav-toggle" href="#!"><i class="material-icons">menu</i></a>
       </div>
-      {%- if page.dir != "/" -%}
+      {%- if page.url != "/" -%}
       <div class="brand">
         <a href={{"/" | relative_url }}><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
       </div>
