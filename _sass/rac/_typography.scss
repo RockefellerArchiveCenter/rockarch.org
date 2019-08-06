@@ -34,6 +34,8 @@ em, i {
 }
 
 h1 {
+  font-family: $serif-stack;
+  font-weight: $font-weight-bold;
   font-size: 32px;
   color: $dark-gray;
   @media screen and (min-width: $break-md) {
@@ -88,8 +90,11 @@ a {
   color: $burnt-orange;
   text-decoration: none;
   transition: $transition-default;
-
+  &:focus {
+    text-decoration: underline;
+  }
   &:hover {
+    text-decoration: underline;
     color: $red-orange;
     cursor: pointer;
     }

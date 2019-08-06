@@ -15,6 +15,11 @@
     img {
       width: 100%;
     }
+    a {
+      &:hover {
+        text-decoration: none;
+      }
+    }
     h3 {
       font-family: $sans-serif-stack;
       font-weight: 900;

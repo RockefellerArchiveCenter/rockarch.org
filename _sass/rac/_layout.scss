@@ -200,6 +200,9 @@ html {
       margin-right: 0;
       padding: 27px 64px 40px 25px;
     }
+    &:hover {
+      text-decoration: none;
+    }
     h2 {
       font-family: $sans-serif-stack;
       font-weight: 700;
@@ -339,6 +342,9 @@ html {
     float: right;
     @media screen and (min-width: $break-md) {
       margin-right: 20px;
+    }
+    &:hover {
+      color: $off-white;
     }
     &:after {
       content: '\00a0>';
