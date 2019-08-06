@@ -1,6 +1,8 @@
 @import 'colors';
 @import 'typography';
 
+// TODO: factor out typography
+
 .rac-side-nav {
   @media screen and (min-width: $break-md) {
     display: flex;

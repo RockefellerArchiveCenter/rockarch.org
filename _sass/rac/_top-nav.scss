@@ -7,7 +7,25 @@ $nav-background: $pure-white;
 $nav-font-color: $deep-navy;
 $link-hover-color: $burnt-orange;
 
-// TODO: reconsider structure of social-icons
+// TODO: factor out typography
+// TODO: social icons should be in a div which is positioned; all other styles should be moved to _social-icons.scss
+
+nav.rac-top-nav {
+  padding: 0;
+  height: $nav-height;
+  width: 100%;
+  @media screen and (min-width: $break-md) {
+    height: 60px;
+  }
+  @media screen and (min-width: $break-lg) {
+    text-align: center;
+    padding: 0;
+  }
+  .container {
+    margin: 0;
+    width: 100%;
+  }
+}
 
 .brand {
   position: absolute;
@@ -29,24 +47,6 @@ $link-hover-color: $burnt-orange;
     & img {
       width: auto;
     }
-  }
-}
-
-
-nav {
-  padding: 0;
-  height: $nav-height;
-  width: 100%;
-  @media screen and (min-width: $break-md) {
-    height: 60px;
-  }
-  @media screen and (min-width: $break-lg) {
-    text-align: center;
-    padding: 0;
-  }
-  .container {
-    margin: 0;
-    width: 100%;
   }
 }
 

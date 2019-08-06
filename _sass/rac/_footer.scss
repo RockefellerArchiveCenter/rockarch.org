@@ -2,11 +2,13 @@
 @import 'typography';
 @import 'utilities';
 
+// TODO: factor out typography
+
 .rac-footer {
   display: flex;
   background: $neutral-sand;
   p { @include footer-text; }
-  a { @include footer-text; }
+  a { @include footer-text; } // TODO: do we need this?
   .address {
     @media screen and (min-width: $break-lg) {
       margin-left: 0px;
