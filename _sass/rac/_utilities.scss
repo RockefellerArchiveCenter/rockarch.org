@@ -9,4 +9,12 @@ $content-width: 1440px;
     position: absolute;
     white-space: nowrap;
     width: 1px;
+    &:focus {
+      clip: auto;
+      height: auto;
+      overflow: auto;
+      position: absolute;
+      width: auto;
+      z-index: 99;
+  }
 }
