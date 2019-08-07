@@ -31,8 +31,7 @@ Get started on your research by searching our online finding aid catalog [DIMES]
 ## When We’re Open
 
 The RAC’s two Reading Rooms are open Monday through Friday from 9:00
-am to 5:00 pm, except for designated holidays. Check out our current
-holiday schedule [here](holiday-schedule/).
+am to 5:00 pm, except for [designated holidays](holiday-schedule/).
 
 Inclement weather can sometimes require the RAC to close for the safety of
 our staff and researchers. During the winter, if ice or snow is predicted for
