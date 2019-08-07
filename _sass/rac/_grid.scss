@@ -1,5 +1,8 @@
 @import 'neat/neat';
 
+$break-md: 580px;
+$break-lg: 1024px;
+
 $gutters-default: 15px;
 
 $neat-grid: (
@@ -9,9 +12,6 @@ $neat-grid: (
 $grid-column: (
   box-sizing: border-box
 ); //does this work??
-
-$break-md: 580px;
-$break-lg: 1024px;
 
 .container {
   width: calc(100% - (#{$gutters-default}) * 2);

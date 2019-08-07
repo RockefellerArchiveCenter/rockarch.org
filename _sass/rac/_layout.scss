@@ -1,6 +1,3 @@
-@import 'colors';
-@import 'utilities';
-
 // TODO: factor typography out of here
 // TODO: determine what shold go in separate includes
 
@@ -403,21 +400,25 @@ section {
 }
 
 .section-block {
+  display: flex;
+  align-items: center;
   background-color: $light-blue;
   min-height: 120px;
-  position: relative;
-  margin-right: $gutters-default * 2;
-  &:not(:last-child) {
-    margin-bottom: 20px;
+  margin-right: 0;
+  margin-bottom: $gutters-default;
+  box-sizing: border-box;
+  padding: 18px 20px;
+  width: 100%;
+  &:hover {
+    text-decoration: none;
   }
   @media screen and (min-width: $break-md) {
     @include grid-column(6);
-    margin-right: 0;
   }
   @media screen and (min-width: $break-lg) {
     @include grid-column(6);
   }
-  a {
+  .text {
     text-transform: uppercase;
     max-width: 220px;
     font-family: $sans-serif-stack;
@@ -425,9 +426,7 @@ section {
     color: $deep-navy;
     line-height: 22px;
     padding: 18px 20px;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    box-sizing: border-box;
     @media screen and (min-width: $break-md) {
       padding: 20px 30px;
       max-width: 300px;
