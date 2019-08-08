@@ -53,76 +53,71 @@ nav.rac-top-nav {
   }
 }
 
-ul.list {
+.list {
  display: none;
  position: relative;
  z-index: 1;
  background: $nav-background;
- list-style: none;
  text-align: right;
  margin: $nav-height 0 0 0;
  padding: 0px;
+ border:0;
  @media screen and (min-width: $break-lg) {
    margin: 0;
    text-align: center;
-   display: block;
+   display: inline-block;
  }
- li {
+ button {
    padding: 15px 0;
+   color: $deep-navy;
+   font-family: $sans-serif-stack;
+   font-weight: 700;
+   font-size: 15px;
+   letter-spacing: 0.125em;
+   text-transform: uppercase;
+   border: 0;
    @media screen and (min-width: $break-lg) {
      display: inline-block;
+     font-size: 17px;
      padding: 21px 25px 18px 25px;
      height: 21px;
    }
-   a {
-     padding-right: 20px;
+   @media screen and (min-width: $break-lg) {
+     &[aria-expanded=true] {
+       border-bottom: 8px solid;
+       color: $burnt-orange;
+     }
+     &:hover { // TODO: and focus
+       font-weight: 900;
+     }
+   }
+   & i {
      color: $deep-navy;
-     font-family: $sans-serif-stack;
-     font-weight: 700;
      font-size: 15px;
-     letter-spacing: 0.125em;
-     text-transform: uppercase;
-     text-decoration: none;
+     vertical-align: middle;
+     opacity: 0.7;
      @media screen and (min-width: $break-lg) {
-       font-size: 17px;
-       position: relative;
-       z-index: 2;
-       &.active {
-         border-bottom: 8px solid;
-         color: $burnt-orange;
-       }
-       &:hover {
-         font-weight: 900;
-       }
-     }
-     & i {
-       color: $deep-navy;
-       font-size: 15px;
-       vertical-align: middle;
-       opacity: 0.7;
-       @media screen and (min-width: $break-lg) {
-         font-size: 21px;
-         margin-left: 7px;
-       }
+       font-size: 21px;
+       margin-left: 7px;
      }
    }
-   ul.dropdown {
-     margin-top: 15px;
-     margin-bottom: -15px;
-     position: static;
-     width: 100%;
-     background: $deep-brown;
-     padding: 22px 0 0 0;
-     @media screen and (min-width: $break-lg) {
-       margin: 0px;
-       width: 360px;
-       padding-top: 22px;
-       position: absolute;
-       display: none;
-       z-index: 1;
-     }
+ }
+}
+ .dropdown {
+   margin-top: 15px;
+   margin-bottom: -15px;
+   position: static;
+   width: 100%;
+   background: $deep-brown;
+   padding: 22px 0 0 0;
+   @media screen and (min-width: $break-lg) {
+     margin: 0px;
+     width: 360px;
+     padding-top: 22px;
+     position: absolute;
+     z-index: 1;
    }
-   li {
+   button {
      min-width: 300px;
      background: $deep-brown;
      padding: 12px 28px;
@@ -135,7 +130,7 @@ ul.list {
        display: block;
        margin-bottom: 0px;
      }
-     &:hover {
+     &:hover { // TODO: and focus
        background: $med-brown;
      }
      & .title {
@@ -165,7 +160,8 @@ ul.list {
      }
    }
  }
- .rac-social-icons {
+
+ .header-social-icons { // TODO: this needs to be fixed
    padding: 15px 20px 15px 0;
    @media screen and (min-width: $break-md) {
      padding-right: 30px;
@@ -189,7 +185,6 @@ ul.list {
      }
    }
  }
-}
 
 #nav-toggle {
   position: absolute;

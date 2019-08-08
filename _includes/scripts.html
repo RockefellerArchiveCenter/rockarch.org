@@ -1,10 +1,20 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
 
-<script src="{{ "/assets/js/nav.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/inclusive-menu-button.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/toc.js" | relative_url }}"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
     $('.side-nav').toc({classes: { list: 'list-group',item: 'list-group-item'}});
 });
+</script>
+
+<script type="text/javascript">
+const buttons = document.querySelectorAll('[data-inclusive-menu-opens]')
+for (i=0; i < buttons.length; i++) {
+  const b = new MenuButton(buttons[i])
+  b.on('choose', function(choice) {
+    window.location.href = choice.getAttribute("href");
+  })
+}
 </script>

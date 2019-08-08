@@ -1,121 +1,99 @@
-
-    <nav class="rac-top-nav" role="navigation" aria-label="Main">
-      <div class="container">
-      <div class="nav-mobile">
-        <a id="nav-toggle" href="#!"><i class="material-icons">menu</i></a>
-      </div>
-      {%- if page.url != "/" -%}
-      <div class="brand">
-        <a href={{"/" | relative_url }}><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
-      </div>
-      {%- endif -%}
-      <ul class="list">
-        <li>
-          <a href="#!">Collections <i class="material-icons">keyboard_arrow_down</i></a>
-          <ul class="dropdown">
-            <li>
-              <a href={{"/about-us/overview#collections" | relative_url }}>
-                <p class="title">About Our Collections</p>
-                <p class="description">See a list of our major collections.</p>
-              </a>
-            </li>
-            <li>
-              <a href="https://dimes.rockarch.org">
-                <p class="title">Search Our Collections</p>
-                <p class="description">Start at DIMES, our online catalog.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/collections/information-for-researchers/" | relative_url }}>
-                <p class="title">How to Access & Request Materials</p>
-                <p class="description">Plan your visit, see facility policies, and more.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/collections/research-stipends/" | relative_url }}>
-                <p class="title">Apply for a Research Stipend</p>
-                <p class="description">Review our guidelines and apply.</p>
-                </a>
-            </li>
-            <li>
-              <a href={{"/collections/information-for-records-donors/" | relative_url }}>
-                <p class="title">Information for Records Donors</p>
-                <p class="description">Find out how to donate records to us.</p>
-              </a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="#">Resources <i class="material-icons">keyboard_arrow_down</i></a>
-          <ul class="dropdown">
-            <li>
-              <a href="https://resource.rockarch.org">
-                <p class="title">RE:source</p>
-                <p class="description">Visit our storytelling platform.</p>
-              </a>
-            </li>
-            <li>
-              <a href="https://rockarch.issuelab.org/">
-                <p class="title">Research Reports</p>
-                <p class="description">Reports by those who have conducted research at the RAC.</p>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.zotero.org/groups/222650/rac">
-                <p class="title">RAC Bibliography</p>
-                <p class="description">Comprehensive bibliography of the publications that are based on work conducted at the RAC.</p>
-              </a>
-            </li>
-            <li>
-              <a href="https://blog.rockarch.org">
-                <p class="title">Bits &amp; Bytes</p>
-                <p class="description">The RAC blog.</p>
-                </a>
-            </li>
-            <li>
-              <a href="https://docs.rockarch.org">
-                <p class="title">Archival Documentation &amp; Policies</p>
-                <p class="description">A collection of the RAC's archival documentation.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/resources/about-the-rockefellers/" | relative_url }}>
-                <p class="title">About the Rockefellers</p>
-                <p class="description">Selected biographies of Rockefeller family members.</p>
-              </a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="#">About Us <i class="material-icons">keyboard_arrow_down</i></a>
-          <ul class="dropdown">
-            <li>
-              <a href={{"/about-us/overview/" | relative_url }}>
-                <p class="title">Overview</p>
-                <p class="description">Background information on the RAC.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/about-us/program-areas/" | relative_url }}>
-                <p class="title">Program Areas</p>
-                <p class="description">Read more about our work.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/about-us/board-and-staff/" | relative_url }}>
-                <p class="title">Board &amp; Staff</p>
-                <p class="description">Contact information.</p>
-              </a>
-            </li>
-            <li>
-              <a href={{"/about-us/employment-opportunities/" | relative_url }}>
-                <p class="title">Employment Opportunties</p>
-                <p class="description">Job opportunities at the RAC.</p>
-                </a>
-            </li>
-          </ul>
-        </li>
-        {% include social-icons.html %}
-      </ul>
-      </div>
-    </nav>
+<nav class="rac-top-nav" role="navigation" aria-label="Main">
+  <div class="container">
+    <div class="nav-mobile">
+      <a id="nav-toggle" href="#!"><i class="material-icons">menu</i></a>
+    </div>
+    {%- if page.url != "/" -%}
+    <div class="brand">
+      <a href={{"/" | relative_url }}><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
+    </div>
+    {%- endif -%}
+    <div class="list" data-inclusive-menu>
+     <button data-inclusive-menu-opens="collections-menu">
+       Collections
+       <i aria-hidden="true" class="material-icons">keyboard_arrow_down</i>
+     </button>
+     <div id="collections-menu" class="dropdown" data-inclusive-menu-from="left">
+       <button href={{"/about-us/overview#collections" | relative_url }}>
+         <p class="title">About Our Collections</p>
+         <p class="description">See a list of our major collections.</p>
+       </button>
+       <button href="https://dimes.rockarch.org">
+         <p class="title">Search Our Collections</p>
+         <p class="description">Start at DIMES, our online catalog.</p>
+       </button>
+       <button href={{"/collections/information-for-researchers/" | relative_url }}>
+         <p class="title">How to Access & Request Materials</p>
+         <p class="description">Plan your visit, see facility policies, and more.</p>
+       </button>
+       <button href={{"/collections/research-stipends/" | relative_url }}>
+         <p class="title">Apply for a Research Stipend</p>
+         <p class="description">Review our guidelines and apply.</p>
+       </button>
+       <button href={{"/collections/information-for-records-donors/" | relative_url }}>
+         <p class="title">Information for Records Donors</p>
+         <p class="description">Find out how to donate records to us.</p>
+       </button>
+     </div>
+   </div>
+   <div class="list" data-inclusive-menu>
+     <button data-inclusive-menu-opens="resources-menu">
+       Resources
+       <i aria-hidden="true" class="material-icons">keyboard_arrow_down</i>
+     </button>
+     <div id="resources-menu" class="dropdown" data-inclusive-menu-from="left">
+       <button href="https://resource.rockarch.org">
+         <p class="title">RE:source</p>
+         <p class="description">Visit our storytelling platform.</p>
+       </button>
+       <button href="https://rockarch.issuelab.org/">
+         <p class="title">Research Reports</p>
+         <p class="description">Reports by those who have conducted research at the RAC.</p>
+       </button>
+       <button href="https://www.zotero.org/groups/222650/rac">
+         <p class="title">RAC Bibliography</p>
+         <p class="description">Comprehensive bibliography of the publications that are based on work conducted at the RAC.</p>
+       </button>
+       <button href="https://blog.rockarch.org">
+         <p class="title">Bits &amp; Bytes</p>
+         <p class="description">The RAC blog.</p>
+       </button>
+       <button href="https://docs.rockarch.org">
+         <p class="title">Archival Documentation &amp; Policies</p>
+         <p class="description">A collection of the RAC's archival documentation.</p>
+       </button>
+       <button href={{"/resources/about-the-rockefellers/" | relative_url }}>
+         <p class="title">About the Rockefellers</p>
+         <p class="description">Selected biographies of Rockefeller family members.</p>
+       </button>
+     </div>
+   </div>
+   <div class="list" data-inclusive-menu>
+     <button data-inclusive-menu-opens="about-us-menu">
+       About Us
+       <i aria-hidden="true" class="material-icons">keyboard_arrow_down</i>
+     </button>
+     <div id="about-us-menu" class="dropdown" data-inclusive-menu-from="left">
+       <button href={{"/about-us/overview/" | relative_url }}>
+         <p class="title">Overview</p>
+         <p class="description">Background information on the RAC.</p>
+       </button>
+       <button href={{"/about-us/program-areas/" | relative_url }}>
+         <p class="title">Program Areas</p>
+         <p class="description">Read more about our work.</p>
+       </button>
+       <button href={{"/about-us/board-and-staff/" | relative_url }}>
+         <p class="title">Board &amp; Staff</p>
+         <p class="description">Contact information.</p>
+       </button>
+       <button href={{"/about-us/employment-opportunities/" | relative_url }}>
+         <p class="title">Employment Opportunties</p>
+         <p class="description">Job opportunities at the RAC.</p>
+       </button>
+     </div>
+    </div>
+  </div>
+  <div class="header-social-icons">
+    {% include social-icons.html %}
+  </div>
+</nav>
