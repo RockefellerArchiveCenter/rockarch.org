@@ -23,6 +23,7 @@
   document.querySelector('#nav-toggle').addEventListener('click', function() {
     this.classList.toggle('active');
   });
+
   $('#nav-toggle').click(function() {
     $('nav .list').toggle();
     $('nav .header-social-icons').toggle();

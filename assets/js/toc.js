@@ -1,10 +1,10 @@
+// Creates a single-level table of contents based on headings
+
 (function($){
   $.fn.toc = function(options) {
     var defaults = {
-      title: '',
       minimumHeaders: 1,
       headers: 'h2',
-      listType: 'ul', // values: [ol|ul]
       showEffect: 'none', // values: [show|slideDown|fadeIn|none]
       showSpeed: '0', // set to 0 to deactivate effect
     },
@@ -18,7 +18,7 @@
 
     function createLink (header) {
       var innerText = (header.textContent === undefined) ? header.innerText : header.textContent;
-      return "<a href='#" + fixedEncodeURIComponent(header.id) + "' >" + innerText + "</a>";
+      return "<button href='#" + fixedEncodeURIComponent(header.id) + "' >" + innerText + "</button>";
     }
 
     var headers = $(settings.headers).filter(function() {
@@ -49,29 +49,13 @@
 
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <" +settings.listType + " class=\"" + settings.classes.list +"\">";
+      html = '';
     headers.addClass('clickable-header')
     .each(function(_, header) {
-      this_level = get_level(header);
-      if (this_level === level) // same level as before; same indenting
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
-      else if (this_level <= level){ // higher level than before; end parent ol
-        for(var i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">"
-        }
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
-      }
-      else if (this_level > level) { // lower level than before; expand the previous to contain a ol
-        for(i = this_level; i > level; i--) {
-          html += "<" + settings.listType + " class=\"" + settings.classes.list +"\">" +
-                  "<li class=\"" + settings.classes.item + "\">"
-        }
-        html += createLink(header);
-      }
-      level = this_level; // update for the next one
+      html += createLink(header);
     });
-    html += "</"+settings.listType+">";
 
     render[settings.showEffect]();
+
   };
 })(jQuery);

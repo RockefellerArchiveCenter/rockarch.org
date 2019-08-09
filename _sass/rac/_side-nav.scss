@@ -26,22 +26,20 @@
         line-height: 18px;
       }
     }
-    ul.list-group {
+    button {
       margin: 0px;
       padding: 0px;
+      border: 0;
       list-style: none;
-      .list-group-item:not(:last-child) {
+      background: unset;
+      text-align: left;
+      font-family: $sans-serif-stack;
+      font-weight: 700;
+      color: $pure-white;
+      font-size: 13px;
+      line-height: 17px;
+      &:not(:last-child) {
         margin-bottom: 20px;
-      }
-      a {
-        font-family: $sans-serif-stack;
-        font-weight: 700;
-        color: $pure-white;
-        font-size: 13px;
-        line-height: 17px;
-        &:hover {
-          color: $off-white;
-        }
       }
     }
   }

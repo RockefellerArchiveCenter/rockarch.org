@@ -7,15 +7,19 @@
 <script type="text/javascript">
 $(document).ready(function() {
     $('.side-nav').toc({classes: { list: 'list-group',item: 'list-group-item'}});
-});
-</script>
 
-<script type="text/javascript">
-const buttons = document.querySelectorAll('[data-inclusive-menu-opens]')
-for (i=0; i < buttons.length; i++) {
-  const b = new MenuButton(buttons[i])
-  b.on('choose', function(choice) {
-    window.location.href = choice.getAttribute("href");
-  })
-}
+    const buttons = document.querySelectorAll('[data-inclusive-menu-opens]')
+    for (i=0; i < buttons.length; i++) {
+      const b = new MenuButton(buttons[i])
+      b.on('choose', function(choice) {
+        if (choice.getAttribute("href").startsWith("#")) {
+          // Scroll to target on page
+          window.scrollTo({left: 0, top: document.getElementById(choice.getAttribute("href").substring(1)).offsetTop, behavior: 'smooth'})
+        } else {
+          // Go to new page
+          window.location.href = choice.getAttribute("href");
+        }
+      })
+    }
+});
 </script>
