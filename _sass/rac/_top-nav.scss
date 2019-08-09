@@ -93,7 +93,7 @@ nav.rac-top-nav {
         border-bottom: 8px solid;
         color: $burnt-orange;
       }
-      &:hover { // TODO: and focus
+      &:hover, &:focus {
         font-weight: 900;
       }
     }
@@ -130,7 +130,7 @@ nav.rac-top-nav {
     text-align: left;
     height: auto;
     width: 100%;
-    &:hover { // TODO: and focus
+    &:hover, &:focus {
       background: $med-brown;
     }
     & .title {
