@@ -35,10 +35,13 @@
       background: unset;
       text-align: left;
       font-family: $sans-serif-stack;
-      font-weight: 700;
+      font-weight: 900;
       color: $pure-white;
-      font-size: 13px;
+      font-size: 14px;
       line-height: 17px;
+      &:hover {
+        cursor: pointer;
+      }
       &:not(:last-child) {
         margin-bottom: 20px;
       }
