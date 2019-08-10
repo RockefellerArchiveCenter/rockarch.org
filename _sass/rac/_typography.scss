@@ -95,8 +95,12 @@ a {
     text-decoration: underline;
     color: $red-orange;
     cursor: pointer;
-    }
   }
+}
+
+main p > a {
+  text-decoration: underline;
+}
 
 ul {
   font-family: $serif-stack;
