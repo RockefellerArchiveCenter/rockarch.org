@@ -79,6 +79,9 @@ nav.rac-top-nav {
     letter-spacing: 0.125em;
     text-transform: uppercase;
     border: 0;
+    &:hover {
+      cursor: pointer;
+    }
     @media screen and (min-width: $break-md) {
       padding-right: 30px;
     }

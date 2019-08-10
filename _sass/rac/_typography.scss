@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Manuale|Material+Icons&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Manuale:300,400,700|Material+Icons&display=swap');
 
 $sans-serif-stack: 'Lato', sans-serif;
 $serif-stack: 'Manuale', serif;
@@ -98,14 +98,11 @@ a {
   }
 }
 
-main p > a {
-  text-decoration: underline;
-}
-
 ul {
   font-family: $serif-stack;
   line-height: 23px;
   @media screen and (min-width: $break-lg) {
+    font-size: 17px;
     line-height: 24px;
   }
 }
