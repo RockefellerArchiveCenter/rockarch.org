@@ -1,4 +1,5 @@
 // TODO: factor out typography
+// TODO: make class names consistent
 
 .rac-footer {
   display: flex;
@@ -19,6 +20,9 @@
     @media screen and (min-width: $break-lg) {
       @include grid-column(3);
     }
+  }
+  .policy-link {
+    margin-left: 28px;
   }
   .social {
     margin-bottom: 30px;

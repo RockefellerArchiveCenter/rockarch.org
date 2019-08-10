@@ -8,7 +8,7 @@ $font-weight-light: 300;
 // TODO: replace font weights with variables
 // TODO: use calculations for font sizes
 
-p, a, small {
+p, a {
   font-family: $serif-stack;
   font-weight: $font-weight-normal;
   font-size: 16px;
@@ -107,7 +107,7 @@ ul {
 }
 
 small {
-  font-family: inherit;
+  font-family: $serif-stack;
   font-size: 14px;
   line-height: 20px;
   margin-bottom: 12px;
