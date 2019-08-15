@@ -39,7 +39,7 @@ resource for users of our archival holdings.
 
 The Processing team establishes and enhances intellectual and physical control of our archival
 holdings by efficiently and effectively organizing, describing, and preserving all eligible materials,
-regardless of form, medium or creator, in order to facilitate user access onsite and online. In
+regardless of form, medium, or creator, in order to facilitate user access onsite and online. In
 working to reduce and ultimately eliminate the Center’s processing backlog, we ensure timely
 open and equitable access to primary sources. We actively promote the use and understanding of
 the historical record through the collection guides we create in accordance with DACS descriptive
@@ -94,3 +94,4 @@ The research and education staff also works with other Pocantico-based organizat
 programs, showing films and organizing exhibitions and lectures for the local community.
 
 <a href="https://resource.rockarch.org" class="rac-blue-button">RE:source</a>
+<a href="#" class="rac-blue-button">Teaching Materials</a>

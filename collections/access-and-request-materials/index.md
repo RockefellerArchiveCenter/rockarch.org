@@ -1,7 +1,7 @@
 ---
 layout: page-sidebar
-title: Information for Researchers
-permalink: /collections/information-for-researchers/
+title: Access & Request Materials
+permalink: /collections/access-and-request-materials/
 sidebar:
   - ["https://raccess.rockarch.org", Log into/Create a new RACcess account, arrow_forward]
   - ["https://dimes.rockarch.org", Search collections at DIMES, arrow_forward]
@@ -38,7 +38,7 @@ our staff and researchers. During the winter, if ice or snow is predicted for
 suburban New York, it is advisable to telephone the RAC at 914-631-4505. A
 recording noting a closure or delayed opening is generally posted by 7:30
 a.m. If you have a scheduled research appointment, we will also do our best
-to email with as much advanced notice of the closure as possible.
+to email you with as much advanced notice of the closure as possible.
 
 ## Amenities
 
@@ -85,7 +85,7 @@ two Reading Rooms:
 lockers provided.
 - Use only pencils and laptops for notes. No pens.
 - Food, beverages, and chewing gum are not permitted.
-- Review one folder at a time and mark its place with the OUT card
+- Review one folder at a time and mark its place in the box with the OUT card
 provided
 - Items in folders should not be rearranged or removed.
 - Avoid placing other items on top of documents. Ask the desk monitor
@@ -109,7 +109,7 @@ anticipate using microfilm during your visit.
 
 The RAC offers duplication services for on-site and off-site researchers. If
 you have any questions about ordering copies of our holdings, please
-contact the RAC Reference team at archive@rockarch.org.
+contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch.org).
 
 The RAC may decline to copy certain documents that in its judgment may
 suffer damage as a result of duplication.

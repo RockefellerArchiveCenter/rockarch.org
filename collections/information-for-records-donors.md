@@ -20,8 +20,7 @@ archival materials to the RAC, please email us at [donorservices@rockarch.org](m
 ## If You Are a Current Donor
 
 If you or your organization have previously donated records or other archival materials to the RAC,
-please contact us at DonorServices@rockarch.org for scheduling courier runs, assistance with an
-organizational reference request, and general questions regarding the records transfer process.
+please contact us at [donorservices@rockarch.org](mailto:donorservices@rockarch.org) for scheduling courier runs, assistance with an organizational reference request, and general questions regarding the records transfer process.
 
 If you are with an organization whose records are on deposit with the RAC and you need to request
 the return of any of your files, please request material through [RACcess](https://raccess.rockarch.org), our online request

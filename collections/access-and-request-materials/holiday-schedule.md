@@ -1,7 +1,7 @@
 ---
 layout: page-default
 title: Holiday Schedule
-permalink: /collections/information-for-researchers/holiday-schedule/
+permalink: /collections/access-and-request-materials/holiday-schedule/
 ---
 
 ## Holidays
