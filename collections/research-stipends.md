@@ -14,7 +14,7 @@ The Rockefeller Archive Center offers a competitive research stipend program tha
 
 Applications are reviewed by an independent committee that considers an applicant’s topic and the availability of relevant archival materials at the RAC. Anyone can apply for a research stipend, regardless of country of origin. Please be aware that certain U.S Government requirements may apply to non-U.S. citizens.
 
-## How to Apply for a RAC Research Stipend
+## How to Apply for an RAC Research Stipend
 
 Important dates and deadlines:
 
