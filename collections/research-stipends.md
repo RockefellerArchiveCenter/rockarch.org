@@ -10,81 +10,48 @@ sidebar:
 
 ## About the RAC Stipend Program
 
-The Rockefeller Archive Center's competitive research stipend program provides awards of up to
-$5000 for reimbursement of receipted expenses for travel and accommodation in conjunction
-with research conducted at the RAC.
+The Rockefeller Archive Center offers a competitive research stipend program that provides individuals (not institutions) up to $5,000 for reimbursement of travel and accommodation expenses.  The stipend can only be used to facilitate research at the RAC, not for research at other archival repositories or for tuition support.
 
-An independent committee reviews each application based on the applicant's research topic and
-the availability of relevant material in the RAC's collections. Awards are made to individuals.
-Institutions are not eligible to apply. The stipend does not support research at other institutions,
-and it does not provide general tuition support. Application to the research stipend program is
-open to U.S. citizens and citizens of foreign countries. Certain U.S. Government requirements will
-apply to non-U.S. citizens.
+Applications are reviewed by an independent committee that considers an applicant’s topic and the availability of relevant archival materials at the RAC. Anyone can apply for a research stipend, regardless of country of origin. Please be aware that certain U.S Government requirements may apply to non-U.S. citizens.
 
-## Guidelines for Application
-
-The deadline for applications is November 1st each year (applications must be received before
-midnight Eastern Standard Time on November 1), and awards will be announced at the end of the
-following February. Stipend recipients must commence their research at the Center after April 1 of
-their award year, and they must complete their research by March 31 of the following year. Stipend
-recipients are requested to submit a short report on their research at the Center. Edited versions of,
-or excerpts from these reports, may be used in the Center's publications and on its website.
-Recipients also are asked to provide the Center with a copy of any publication resulting from
-research conducted as a result of the stipend. Reimbursement of expenses will be following the
-receipt of original travel and accommodation receipts following the completion of the stipend
-recipient's research visit.
-
-We require potential applicants to contact the Archive Center's staff by email no later than October
-15th with a description of the research project for which they seek support. Such descriptions
-should describe the project briefly and include the names of any individuals and institutions that
-are central to the story, and the years covered by the study. This will help our staff respond with a
-description of any relevant material in the collections located here, which in turn helps applicants
-complete the application form and estimate the duration of their proposed research trip.
-
-Please note that three cycles must elapse before a former stipend recipient is eligible to receive
-another stipend. (For example, if a stipend was awarded in 2011, 2015 would be the next program
-for which the stipend recipient would be eligible to apply, and the application submission
-deadline for the 2015 program would be November 1, 2014.)
-
-## Apply Now
+## How to Apply for a RAC Research Stipend
 
 Important dates and deadlines:
 
-- Contact the Archive Center's staff by email with a description of the research project by **October 15**
-- Submit application form by **November 1**
-- Two letters of recommendation due by **November 22**
-- Please note that three application cycles must elapse before a former stipend recipient is eligible to receive another research stipend.
+- Applicants should contact RAC staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 15**.
+-	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
+-	Two letters of recommendation are due by **November 22**.
+-	Awards are announced by **February 28**.
+-	Please note that researchers who have previously received an RAC research stipend must wait three years in order to be eligible to receive another stipend. For example, an application submitted in November 2010 that resulted in an award in February 2011 means that the recipient was eligible to apply again in November 2013 to receive an award in February 2014.
+
+In order to be eligible for a stipend, potential applicants must contact the RAC by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
 
 <button class="rac-orange-button">I've read the requirements and want to submit an application</button>
+
+## After Receiving an RAC Research Stipend
+
+Stipend recipients have one year to complete the proposed research, from April 1 of the award year through March 31 of the following year.
+
+At the conclusion of the award year, stipend recipients must submit a short report on their research at the RAC. By accepting the stipend, recipients give permission for the RAC to make edited versions or excerpts of these research reports available online through its website or other resource.
+
+Recipients should also provide the RAC with a copy of any publication resulting from the research supported by the stipend.
+In order to be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit.
 
 ## Related Stipend Programs
 
 ### Special Stipend to Support Research in the Paul Ehrlich Collection
 
-Through a generous gift the Rockefeller Archive Center has available funds to support short-term
-research in the Paul Ehrlich Collection at the Archive Center. The Ehrlich Collection is the largest
-and most important body of original and facsimile materials documenting the life and scientific-medical
-research program of Nobel Laureate Paul Ehrlich (1854-1915). Certain documents are
-available in English translations.
+The RAC has available funds to provide individuals (not institutions) up to $4,000 for reimbursement of travel and accommodation expenses to support short-term research in the Paul Ehrlich Collection, an important archive documenting the life and scientific research of Nobel Laureate Paul Ehrlich (1854-1915).
 
-Prospective applicants are required to contact the Archive Center with an initial description of
-their research. This will help applicants to determine the extent of related materials. Contact us at
-[archive@rockarch.org](mailto:archive@rockarch.org).
+Anyone can apply for an Ehrlich stipend, regardless of country of origin. Please be aware that certain U.S Government requirements may apply to non-U.S. citizens.
 
-Application to the Ehrlich stipend program may be made at any time and, if judged worthy, awards
-will be made within a month of the receipt of the applicant's two letters of recommendation.
-Letters of recommendation should be one page in length, on official letterhead, and include a
-confidential assessment of the applicant's qualifications and goals, comments on the importance
-of the proposed research, and any other pertinent information. References should email their
-letters to [RACgrants@rockarch.org](mailto:racgrants@rockarch.org).
+Potential applicants for an Ehrlich stipend should contact the RAC at [archive@rockarch.org](mailto:archive@rockarch.org) with an initial description of the proposed research and indicating that the inquiry is for the purposes of applying for an Ehrlich stipend. RAC staff will respond with a description of relevant archival materials and an estimate of time necessary to complete the research.
 
-Stipend recipients must commence their research at the Center within one year of
-being notified of the award. Application to this program is open to U.S. citizens
-and citizens of foreign countries. Reimbursement of up to $4,000 will be made
-upon receipt of original expense receipts after the completion of the stipend
-recipient's research visit.
+Applicants should submit a formal request to be considered for an Ehrlich stipend by writing to [RACgrants@rockarch.org](mailto:RACgrants@rockarch.org). An application may be made at any time and should include two letters of recommendation. Awards will be made within one month of the RAC receiving both letters of recommendation.
+
+Stipend recipients must commence their research at the RAC within one year of being notified of the award.
 
 ### Stipend Through the Consortium for History of Science, Technology, and Medicine
 
 The Rockefeller Archive Center is part of the [Consortium for History of Science, Technology, and Medicine](https://www.chstm.org/), which has a [fellowship program](https://www.chstm.org/fellowships/chstm-fellowships)
-offering support for research across the scholarly collections of the consortium.
+offering support for research across the scholarly collections of the consortium. Please see the Consortium’s website for more details.  Please note that special fellowships are available through the Consortium for researchers from Brazil, India and South Africa.
