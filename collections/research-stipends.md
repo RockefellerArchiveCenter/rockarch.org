@@ -35,6 +35,7 @@ Stipend recipients have one year to complete the proposed research, from April 1
 At the conclusion of the award year, stipend recipients must submit a short report on their research at the RAC. By accepting the stipend, recipients give permission for the RAC to make edited versions or excerpts of these research reports available online through its website or other resource.
 
 Recipients should also provide the RAC with a copy of any publication resulting from the research supported by the stipend.
+
 In order to be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit.
 
 ## Related Stipend Programs
