@@ -20,11 +20,18 @@ html {
   display: flex;
 }
 
+.page-content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 .rac-hero {
   position: relative;
   height: 396px;
   display: flex;
   align-items: center;
+  justify-content: center;
   background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)), url("/assets/img/hero_image.jpg") center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -332,6 +339,8 @@ html {
 
 .rac-instagram {
   background: $deep-navy;
+  display: flex;
+  justify-content: center;
   .instagram-posts {
     margin: -20px;
     @media screen and (min-width: $break-md) {

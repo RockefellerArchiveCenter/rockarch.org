@@ -3,6 +3,7 @@
 
 .rac-footer {
   display: flex;
+  justify-content: center;
   background: $neutral-sand;
   p { @include footer-text; }
   a { @include footer-text; } // TODO: do we need this?
@@ -21,7 +22,7 @@
       @include grid-column(3);
     }
   }
-  .policy-link {
+  .policy-link:not(:first-child) {
     margin-left: 28px;
   }
   .social {

@@ -16,6 +16,8 @@ nav.rac-top-nav {
     height: $nav-height;
   }
   @media screen and (min-width: $break-lg) {
+    display: flex;
+    justify-content: center;
     text-align: center;
     padding: 0;
   }
@@ -182,9 +184,9 @@ nav.rac-top-nav {
   @media screen and (min-width: $break-lg) {
     padding-bottom: 0;
     display: inline-block;
-    position: absolute;
     right: 40px;
     top: 0px;
+    float: right;
   }
   // a {
   //   font-size: 15px;
