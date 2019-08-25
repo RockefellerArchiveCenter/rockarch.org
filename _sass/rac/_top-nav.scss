@@ -167,7 +167,7 @@ nav.rac-top-nav {
   }
  }
 
-.header-social-icons { // TODO: this needs to be fixed
+.header-social-icons {
   padding: 15px 20px 15px 0;
   top: 50px;
   position: relative;
@@ -182,22 +182,16 @@ nav.rac-top-nav {
     padding-right: 30px;
   }
   @media screen and (min-width: $break-lg) {
+    position: absolute;
     padding-bottom: 0;
     display: inline-block;
     right: 40px;
     top: 0px;
     float: right;
   }
-  // a {
-  //   font-size: 15px;
-  //   svg {
-  //     padding-bottom: 2px;
-  //   }
-  //   i {
-  //     height: 30px;
-  //     width: 30px;
-  //   }
-  // }
+  @media screen and (min-width: $content-width) {
+    right: calc(((100vw - #{$content-width}) / 2) + 40px);
+  }
 }
 
 #nav-toggle {
