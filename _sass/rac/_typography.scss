@@ -5,8 +5,9 @@ $serif-stack: 'Manuale', serif;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
 $font-weight-light: 300;
-// TODO: replace font weights with variables
+// TODO: better setting of base font attributes, so we can calculate
 // TODO: use calculations for font sizes
+// TODO: replace font weights with variables
 
 p, a {
   font-family: $serif-stack;
@@ -108,7 +109,7 @@ ul {
 }
 
 small {
-  font-family: $serif-stack;
+  font-family: inherit;
   font-size: 14px;
   line-height: 20px;
   margin-bottom: 12px;
