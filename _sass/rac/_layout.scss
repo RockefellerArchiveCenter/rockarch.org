@@ -18,9 +18,10 @@ html {
 
 .wrapper {
   display: flex;
+  justify-content: center;
 }
 
-.page-content {
+.home {
   display: flex;
   justify-content: center;
   width: 100%;
@@ -104,6 +105,7 @@ html {
   height: 152px;
   position: relative;
   display: flex;
+  justify-content: center;
   &.level-1 {
     background: $deep-navy;
     h1 {
@@ -129,6 +131,7 @@ html {
 
 .rac-breadcrumb {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin-bottom: 80px;
   list-style: none;
