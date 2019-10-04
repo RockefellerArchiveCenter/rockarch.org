@@ -27,7 +27,7 @@ Director, Rockefeller Capital Management
 **Rajiv Shah**  
 President, The Rockefeller Foundation
 
-**Megan Sniffin-Marinoff**
+**Megan Sniffin-Marinoff**  
 University Archivist, Harvard University Archives
 
 ## Staff
