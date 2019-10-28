@@ -2,10 +2,6 @@
 layout: page-sidebar
 title: Apply for a Research Stipend
 permalink: /collections/research-stipends/
-sidebar:
-  - [/assets/stipends/RAC_reimbursement_form.docx, Stipend Reimbursement Policy and Form (.doc), file_download, download]
-  - [/assets/stipends/RAC_reimbursement_form.pdf, Stipend Reimbursement Policy and Form (.pdf), file_download, download]
-  - [/assets/stipends/RAC_research_report_guidelines.pdf, Research Report Guidelines, file_download, download]
 ---
 
 ## About the RAC Stipend Program
