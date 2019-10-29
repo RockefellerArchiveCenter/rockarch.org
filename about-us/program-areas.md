@@ -66,32 +66,17 @@ and useful tools and services.
 
 ## Research & Education Program
 
-The Research and Education Department oversees many of the external programs of the
-Rockefeller Archive Center. It administers a competitive research stipend program that awards 40
-to 50 research stipends each year to graduate students, faculty members, and independent
-scholars. It organizes and hosts several workshops and conferences each year. And staff members
-on the research and education team edit and publish a series of research reports describing
-scholarly work at the RAC, a publishing program that is now primarily electronic and web-based.
+About Research and Education
 
-The 2009 renovation of the Archive Center's Carriage House provides space for the research and
-education staff as well as three to six visiting scholars. The scholar-in-residence program serves
-researchers who have done research at the Archive Center and learned that they need to spend an
-extended period of time, ranging from several months to a full academic year, on their archival
-research. The staff has also expanded an annual teaching fellows program for area middle and
-high school teachers interested in using primary source materials in their classrooms.
+The Research and Education Program (R+E) at the RAC brings together historians, educators, and archivists to explore issues in the history of philanthropy for public, scholarly, and professional audiences and to cultivate new audiences for archival research. The team’s activities include digital publishing, conferences and workshops, educational outreach, practitioner engagement, and a competitive research stipend program. R+E helps further the RAC mission of access by providing a narrative entry into RAC archival collections and fostering broad engagement with the history of philanthropy.
 
-The educational programs engage a number of area colleges and universities. The RAC brings
-university faculty and their graduate or undergraduate students to the Archive Center for course-related
-lectures and seminars, advises students on papers and theses, and helps faculty to find
-primary materials for their teaching. The staff offers lectures, seminars, and workshops for the
-Archive Center's college summer intern program. They also participate in meetings of various
-professional associations, delivering papers and organizing panels for RAC researchers.
+The division’s flagship website, [_RE:source_](https://resource.rockarch.org), examines the role philanthropy has played in the world we live in today. From the civil rights movement to the development of business schools, from dance and theater to overseas agricultural development, private money has affected myriad aspects of social, political, economic, and cultural life both in the U.S. and globally. The aim of RE:source is to bring stories from the history of philanthropy to the general public as well as a foundation practitioner audience.
 
-There are several public outreach initiatives of the research and education program. The RAC
-regularly invites members of local historical societies to tour the archives. It organizes exhibits
-and presentations about archival holdings for board and staff members of donor organizations.
-The research and education staff also works with other Pocantico-based organizations on public
-programs, showing films and organizing exhibitions and lectures for the local community.
+Through other activities, R+E works regularly with foundation staff and leadership, providing historical perspectives on philanthropic practice and program evolution. The team often serves as a bridge between practice and scholarship by contributing new research to scholarly communities at professional conferences and by organizing workshops and convenings on emerging issues in the fields of history, archives, and philanthropy.
+Each year, the R+E Program administers a competitive stipend program, which provides travel reimbursement funds to researchers from around the world. These awards enable some fifty researchers annually to travel to Sleepy Hollow to work in the RAC collections.
+
+Through R+E’s [Archival Education Program](https://resource.rockarch.org/archival-education/), the team develops archive projects with local schools that serve as laboratories for curriculum development. We work with students ranging in level from middle and high school to undergraduate. The open educational resources developed in these classrooms are hosted on OER Commons, and include documents, photographs, posters, advertisements, and film clips drawn from RAC holdings. The materials cover a range of topics such as voter education, wartime scholar rescue efforts, immigration, and scientific innovation. In addition to topical interest, these curricula support the development of interdisciplinary research as well as digital and information literacy skills.
+
 
 <a href="https://resource.rockarch.org" class="rac-blue-button">RE:source</a>
-<a href="#" class="rac-blue-button">Teaching Materials</a>
+<a href="https://resource.rockarch.org/archival-education/" class="rac-blue-button">Archival Education Program</a>
