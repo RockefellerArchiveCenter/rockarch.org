@@ -66,8 +66,6 @@ and useful tools and services.
 
 ## Research & Education Program
 
-About Research and Education
-
 The Research and Education Program (R+E) at the RAC brings together historians, educators, and archivists to explore issues in the history of philanthropy for public, scholarly, and professional audiences and to cultivate new audiences for archival research. The team’s activities include digital publishing, conferences and workshops, educational outreach, practitioner engagement, and a competitive research stipend program. R+E helps further the RAC mission of access by providing a narrative entry into RAC archival collections and fostering broad engagement with the history of philanthropy.
 
 The division’s flagship website, [_RE:source_](https://resource.rockarch.org), examines the role philanthropy has played in the world we live in today. From the civil rights movement to the development of business schools, from dance and theater to overseas agricultural development, private money has affected myriad aspects of social, political, economic, and cultural life both in the U.S. and globally. The aim of RE:source is to bring stories from the history of philanthropy to the general public as well as a foundation practitioner audience.
