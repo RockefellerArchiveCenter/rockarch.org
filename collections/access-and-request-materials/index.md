@@ -35,7 +35,7 @@ am to 5:00 pm, except for [designated holidays](holiday-schedule/).
 
 Inclement weather can sometimes require the RAC to close for the safety of
 our staff and researchers. During the winter, if ice or snow is predicted for
-suburban New York, it is advisable to telephone the RAC at 914-631-4505. A
+suburban New York, it is advisable to telephone the RAC at (914) 366-6300. A
 recording noting a closure or delayed opening is generally posted by 7:30
 a.m. If you have a scheduled research appointment, we will also do our best
 to email you with as much advanced notice of the closure as possible.
