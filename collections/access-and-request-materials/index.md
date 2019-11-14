@@ -136,9 +136,6 @@ order.
 - Service charge: $25.00 per order
 - Shipping:
   - Electronic Delivery: free
-  - USPS (Domestic): $6.00
-  - USPS (Mexico/Canada): $12.00
-  - FedEx (International): $14.00
 
 ### Audiovisual Materials
 
