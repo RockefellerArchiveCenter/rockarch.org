@@ -115,7 +115,7 @@ The RAC may decline to copy certain documents that in its judgment may
 suffer damage as a result of duplication.
 
 Duplication is done on a first-come, first-served basis. We strive to complete
-all duplication requests within 30 days.
+all duplication requests within 60 days.
 
 ### Photocopying or PDFs
 
