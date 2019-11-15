@@ -142,7 +142,7 @@ mblank@rockarch.org
 (914) 366-6384  
 trosenbaum@rockarch.org
 
-**Renee Pappous**, Assistant Archivist  
+**Renee Pappous**, Archivist  
 (914) 366-6355  
 rpappous@rockarch.org
 
@@ -154,7 +154,7 @@ kgreaves@rockarch.org
 (914) 366-6325  
 bandreycak@rockarch.org
 
-**Kathleen Leonard**, Archival Assistant  
+**Kathleen Leonard**, Assistant Archivist  
 (914) 366-6307  
 kleonard@rockarch.org
 
@@ -202,7 +202,7 @@ bgoldberg@rockarch.org
 (914) 366-6350  
 mvassari@rockarch.org
 
-**Liesel Vink**, Project Associate  
+**Liesel Vink**, Photo/Media Editor & Archivist  
 (914) 366-6312  
 lvink@rockarch.org
 
