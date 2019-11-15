@@ -14,7 +14,7 @@ The Rockefeller Archive Center (RAC) is closed on the following days:
 - July: Independence Day* - Thursday and Friday, July 4 - 5, 2019
 - September: Labor Day* - Monday, September 2, 2019
 - November: Thanksgiving* - Thursday and Friday, November 28 - 29, 2019
-- December: Christmas* - closed for a week during the Christmas and New Year period: Tuesday, December 24, 2019, through Wednesday, January 1, 2020
+- December: Christmas* - closed for a week during the Christmas and New Year period: Monday, December 23, 2019, through Wednesday, January 1, 2020
 
 \* Note: The Archive Center will close at 3:00 p.m. on the day before certain holidays. Early closing
 will take place on: the Friday before the Memorial Day weekend; the day before Independence Day;
