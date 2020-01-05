@@ -15,7 +15,7 @@ In 1859, with $1,000 he had saved and another $1,000 borrowed from his father, J
 
 ## The Standard Oil Company
 
-JDR’s stake in the oil industry increased as the industry itself expanded, spurred by the rapidly spreading use of kerosene for lighting. In 1870 he organized The Standard Oil Company with his brother William, Andrews, Henry M. Flagler, Steven V. Harkness, and others. It had a capital of $1 million.
+JDR's stake in the oil industry increased as the industry itself expanded, spurred by the rapidly spreading use of kerosene for lighting. In 1870 he organized The Standard Oil Company with his brother William, Andrews, Henry M. Flagler, Steven V. Harkness, and others. It had a capital of $1 million.
 
 By 1872 Standard Oil had purchased nearly all the refining firms in Cleveland, plus two refineries in metropolitan New York. Before long the company was refining 29,000 barrels of crude oil a day and had its own cooper shop manufacturing wooden barrels. It also had storage tanks with a capacity of several hundred thousand barrels of oil, warehouses for refined oil, and plants for the manufacture of paints and glue.
 
@@ -23,7 +23,7 @@ Standard Oil prospered and in 1882 all its properties were merged in the Standar
 
 After ten years the trust was dissolved by a court in Ohio. The companies that comprised the trust later joined in the formation of the Standard Oil Company (New Jersey), since New Jersey had adopted a law that permitted a parent company to own the stock of other companies. It is estimated that Standard Oil owned 75 percent of the U.S. petroleum business in the 1890s.
 
-In addition to being the head of Standard Oil, JDR owned iron mines and timberland and had invested in manufacturing, transportation, and other industries. Although he held the title of president of Standard Oil until 1911, JDR retired from active leadership of the company in 1896. In 1911 the U.S. Supreme Court found the Standard Oil trust to be in violation of the antitrust laws and ordered the dissolution of the parent New Jersey corporation. The 38 companies it controlled were separated into individual firms. JDR at that time owned 244,500 of the company’s 983,383 outstanding shares.
+In addition to being the head of Standard Oil, JDR owned iron mines and timberland and had invested in manufacturing, transportation, and other industries. Although he held the title of president of Standard Oil until 1911, JDR retired from active leadership of the company in 1896. In 1911 the U.S. Supreme Court found the Standard Oil trust to be in violation of the antitrust laws and ordered the dissolution of the parent New Jersey corporation. The 38 companies it controlled were separated into individual firms. JDR at that time owned 244,500 of the company's 983,383 outstanding shares.
 
 ## PHILANTHROPY
 
@@ -37,7 +37,7 @@ As his wealth grew in 1880s, JDR came to favor a cooperative and conditional sys
 
 ## Corporate Philanthropy
 
-JDR recognized the difficulties of wisely applying great funds to human welfare, and he helped to define the method of scientific, efficient, corporate philanthropy. To help manage his philanthropy, he hired the Rev. Frederick T. Gates, whose work with the American Baptist Education Society and the University of Chicago inspired JDR’s confidence. With the advice of Gates and his son, John D. Rockefeller Jr., he established a series of institutions that are significant in the history of American philanthropy, science, medicine, and public health.
+JDR recognized the difficulties of wisely applying great funds to human welfare, and he helped to define the method of scientific, efficient, corporate philanthropy. To help manage his philanthropy, he hired the Rev. Frederick T. Gates, whose work with the American Baptist Education Society and the University of Chicago inspired JDR's confidence. With the advice of Gates and his son, John D. Rockefeller Jr., he established a series of institutions that are significant in the history of American philanthropy, science, medicine, and public health.
 
 ## The Rockefeller Institute for Medical Research
 
@@ -45,7 +45,7 @@ In 1901 JDR founded the Rockefeller Institute for Medical Research (now The Rock
 
 ## The General Education Board (1902-1965)
 
-In 1902 JDR established the General Education Board (GEB) for the “promotion of education within the United States without the distinction of race, sex or creed.” Between 1902 and 1965, the GEB distributed $325 million to improve education at all levels, with emphasis upon higher education, including medical schools. In the south, where there was special need, the GEB helped schools for both white and African-American students. Out of the Board’s work with children’s clubs in the farm arena grew the 4-H Club movement and the federal programs of farm and home extension.
+In 1902 JDR established the General Education Board (GEB) for the "promotion of education within the United States without the distinction of race, sex or creed." Between 1902 and 1965, the GEB distributed $325 million to improve education at all levels, with emphasis upon higher education, including medical schools. In the south, where there was special need, the GEB helped schools for both white and African-American students. Out of the Board's work with children's clubs in the farm arena grew the 4-H Club movement and the federal programs of farm and home extension.
 
 ## Rockefeller Sanitary Commission (1909-1915)
 
@@ -53,9 +53,9 @@ In 1909 JDR combined his special interest in the U.S. south with his interest in
 
 ## The Rockefeller Foundation
 
-In 1913 JDR established the Rockefeller Foundation to “promote the well-being of mankind throughout the world.” In keeping with this broad commitment, the foundation has given important global assistance to public health, medical education, improved food production, scientific advancement, social research, and the arts.
+In 1913 JDR established the Rockefeller Foundation to "promote the well-being of mankind throughout the world." In keeping with this broad commitment, the foundation has given important global assistance to public health, medical education, improved food production, scientific advancement, social research, and the arts.
 
-The foundation’s International Health Division expanded the work of the Sanitary Commission worldwide, working against various diseases in 52 countries, bringing international recognition about public health and environmental sanitation. Its early field research on hookworm, malaria, and yellow fever provided the basic techniques to control these diseases and established the pattern of modern public health services. The foundation built and endowed the world’s first school of hygiene and public health, at The Johns Hopkins University, and spent $25 million to develop public health schools globally.
+The foundation's International Health Division expanded the work of the Sanitary Commission worldwide, working against various diseases in 52 countries, bringing international recognition about public health and environmental sanitation. Its early field research on hookworm, malaria, and yellow fever provided the basic techniques to control these diseases and established the pattern of modern public health services. The foundation built and endowed the world's first school of hygiene and public health, at The Johns Hopkins University, and spent $25 million to develop public health schools globally.
 
 Its agricultural development program in Mexico led to the Green Revolution in the advancement of global food production, and the foundation provided significant funding for the International Rice Research Institute in the Philippines. Thousands of scientists and scholars from throughout the world have received fellowships and scholarships for advanced study. The foundation helped found the Social Science Research Council and has provided significant support for such organizations as the National Bureau of Economic Research, the Brookings Institute, and the Council on Foreign Relations. In the arts the foundation helped establish or support the Stratford Shakespearean Festival in Ontario, Canada; the American Shakespeare Festival in Stratford, Connecticut; Arena Stage in Washington, DC; Karamu House in Cleveland; and Lincoln Center for the Performing Arts in New York.
 
@@ -65,7 +65,7 @@ In addition to creating several corporate philanthropies, JDR continued to make 
 
 ## Family Life
 
-John D. Rockefeller married Laura C. Spelman, a teacher, on September 8, 1864, in Cleveland. They had five children: Bessie, Alice, Alta, Edith, and John Jr., who inherited much of the family fortune and continued his father’s philanthropic work.
+John D. Rockefeller married Laura C. Spelman, a teacher, on September 8, 1864, in Cleveland. They had five children: Bessie, Alice, Alta, Edith, and John Jr., who inherited much of the family fortune and continued his father's philanthropic work.
 
 In the 1870s, JDR began to make business trips to New York, and soon he started bringing his family for lengthy stays. In 1884, he bought a large brownstone house at 4 West 54th Street, the land of which is now part of the garden of the Museum of Modern Art. Beginning in the 1890s, the family spent part of their time at their home Pocantico Hills, about 25 miles north of Manhattan, but during the summer they returned to their Forest Hill home in East Cleveland. After Laura died, JDR spent several months each year at his homes in Lakewood, New Jersey, and Ormond Beach, Florida.
 
