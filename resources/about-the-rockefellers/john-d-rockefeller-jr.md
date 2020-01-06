@@ -1,6 +1,6 @@
 ---
 layout: page-default
-title: John D. Rockefeller, Junior, 1874-1960
+title: John D. Rockefeller, Jr., 1874-1960
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-jr/
 ---
 <div class="bio-page-image"><img alt="John D. Rockefeller, Jr." src="{{site.baseurl}}/assets/img/03_johndrockefellerjr.png"/></div>
