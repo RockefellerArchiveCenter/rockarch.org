@@ -17,7 +17,7 @@ In the fall of 1894 at the Providence home of a former classmate, Abby met John 
 *   Nelson Aldrich (1908-1979)
 *   Laurance Spelman (1910-2004)
 *   Winthrop (1912-1973)
-*   David (1915- )
+*   David (1915-2017)
 
 Abby and JDR Jr. lived at 13 W. 54th Street in Manhattan until 1913, when the construction of 10 W. 54th Street was completed. They stayed at there until 1938, when they moved to an apartment at 740 Park Avenue. They also had homes in Pocantico Hills, New York; Seal Harbor, Maine, and Williamsburg, Virginia, where they were active members of each community.
 
