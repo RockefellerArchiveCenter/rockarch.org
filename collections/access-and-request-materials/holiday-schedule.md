@@ -13,7 +13,7 @@ The Rockefeller Archive Center (RAC) is closed on the following days:
 - May: Memorial Day - Monday, May 25, 2020; Monday, May 31, 2021
 - July: Independence Day - Friday, July 3, 2020
 - September: Labor Day - Monday, September 7, 2020
-- October: Indigenous People's Day - Monday, October 12, 2020
+- October: Indigenous Peoples' Day - Monday, October 12, 2020
 - November: Thanksgiving - Thursday and Friday, November 26 - 27, 2020
 - December: Christmas - closed for a week during the Christmas and New Year period: Thursday, December 24, 2020, through Friday, January 1, 2021
 
