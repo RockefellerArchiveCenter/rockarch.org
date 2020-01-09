@@ -8,6 +8,14 @@
 $(document).ready(function() {
     $('.side-nav').toc({classes: { list: 'list-group',item: 'list-group-item'}});
 
+    // Polyfill for startsWith (thanks IE)
+    if (!String.prototype.startsWith) {
+      String.prototype.startsWith = function(searchString, position) {
+        position = position || 0;
+        return this.indexOf(searchString, position) === position;
+      };
+    }
+
     const buttons = document.querySelectorAll('[data-inclusive-menu-opens]')
     for (i=0; i < buttons.length; i++) {
       const b = new MenuButton(buttons[i])
