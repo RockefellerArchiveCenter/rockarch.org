@@ -42,10 +42,6 @@ jmeyers@rockarch.org
 (914) 366-6379  
 jasmith@rockarch.org
 
-**Lee Hiltzik**, Senior Research Associate  
-(914) 366-6345  
-lhiltzik@rockarch.org
-
 **Norine Hochman**, Executive Assistant  
 (914) 366-6309  
 nhochman@rockarch.org
@@ -197,6 +193,10 @@ eberkowitz@rockarch.org
 **Barry Goldberg**, Research Fellow  
 (914) 366-6359  
 bgoldberg@rockarch.org
+
+**Lee Hiltzik**, Senior Research Associate  
+(914) 366-6345  
+lhiltzik@rockarch.org
 
 **Marissa Vassari**, Archivist & Educator  
 (914) 366-6350  
