@@ -186,6 +186,10 @@ hsistrunk@rockarch.org
 (914) 366-6363  
 bshubinski@rockarch.org
 
+**Rachel Wimpee**, Assistant Director, Research and Education  
+(914) 366-6367  
+rwimpee@rockarch.org
+
 **Elizabeth Berkowitz**, Outreach Program Manager  
 (914) 366-6365  
 eberkowitz@rockarch.org
@@ -206,9 +210,6 @@ mvassari@rockarch.org
 (914) 366-6312  
 lvink@rockarch.org
 
-**Rachel Wimpee**, Historian & Project Director  
-(914) 366-6367  
-rwimpee@rockarch.org
 
 ### Operations &amp; Finance
 
