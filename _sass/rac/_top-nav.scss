@@ -102,6 +102,7 @@ nav.rac-top-nav {
       margin: 21px 25px 0px 25px;
       padding: 0 0 14px 0;
       &[aria-expanded=true] {
+        outline: none;
         border-bottom: 8px solid;
         color: $burnt-orange;
       }
