@@ -27,6 +27,12 @@ nav.rac-top-nav {
   }
 }
 
+.disclosure-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .brand {
   position: absolute;
   margin-left: 25px;
@@ -99,7 +105,7 @@ nav.rac-top-nav {
         border-bottom: 8px solid;
         color: $burnt-orange;
       }
-      &:hover {
+      &:hover, &:focus {
         font-weight: 900;
       }
     }
@@ -128,7 +134,8 @@ nav.rac-top-nav {
     position: absolute;
     z-index: 1;
   }
-  button {
+  li {
+    list-style-type: none;
     margin: 0px;
     min-width: 300px;
     background: $deep-brown;
@@ -136,7 +143,11 @@ nav.rac-top-nav {
     text-align: left;
     height: auto;
     width: 100%;
-    &:hover {
+    a {
+      text-decoration: none;
+      outline: none;
+    }
+    &:hover, &:focus-within {
       background: $med-brown;
     }
     & .title {
@@ -164,7 +175,7 @@ nav.rac-top-nav {
       width: 100%;
     }
   }
- }
+}
 
 .header-social-icons {
   padding: 15px 20px 15px 0;
