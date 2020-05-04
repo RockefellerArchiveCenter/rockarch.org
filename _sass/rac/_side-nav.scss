@@ -4,6 +4,7 @@
   @media screen and (min-width: $break-md) {
     display: flex;
     position: sticky;
+    position: -webkit-sticky; /* Safari */
     top: 60px;
     margin-bottom: 60px;
   }
