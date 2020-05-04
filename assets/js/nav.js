@@ -16,6 +16,9 @@
       if (mobileSmall.matches) {
         $('.side-nav').hide();
         $('.side-nav').siblings('.nav-toggle').html('Open Page Menu');
+      }  else  {
+        // allow keyboard focus
+         $('.side-nav button').attr('tabindex', '0');
       }
     })
   });
