@@ -6,7 +6,7 @@ permalink: /resources/about-the-rockefellers/
 
 ## Family Tree
 
-<img width="100%" src="{{site.baseurl}}/assets/img/rockefellerfamilytree_adaptation.png"/>
+<img alt="Rockefeller family tree" width="100%" src="{{site.baseurl}}/assets/img/rockefellerfamilytree_adaptation.png"/>
 
 ## Selected Biographies
 
