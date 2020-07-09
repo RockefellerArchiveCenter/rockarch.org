@@ -8,17 +8,11 @@ permalink: /about-us/program-areas/
 
 The Archives Program of the Rockefeller Archive Center fosters and supports a broad community
 of users examining the history of philanthropy and its related endeavors. We acquire, preserve,
-make accessible, and encourage research and scholarship in the papers and records of the
-Rockefeller family and Rockefeller-founded institutions, and those of other foundations,
-nonprofit organizations, and related individuals undertaking philanthropic work and scientific
-and medical research. We engage in and advance the archival profession by ensuring that our staff
-participates broadly in professional activities and organizations. We lead by example in the use
-and dissemination of open source information management tools, and we advocate for open
-access to information in all its forms.
+make accessible, and encourage research and scholarship in the papers and records in our care. We engage in and advance the archival profession by ensuring that our staff participates broadly in professional activities and organizations. We lead by example in the use and dissemination of open source information management tools, and we advocate for open access to information in all its forms.
 
 The Archives Program achieves this mission through four interconnected function areas that
 manage the Center’s archival holdings from acquisition to accessibility: Collections Management,
-Processing, Reference, and Digital Program.
+Processing, Reference, and Digital Strategies.
 
 <a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
 <a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
@@ -55,14 +49,9 @@ the collections, and providing physical access through our reading rooms, duplic
 and digitization processes, we establish a genuine connection between our community of users
 and our holdings.
 
-### Digital Programs
+### Digital Strategies
 
-The Digital Programs team facilitates broad and equitable access to and responsible preservation of
-materials in our custody by providing technical leadership and expertise to staff in all program
-areas. We further our work and the archival profession by taking a collaborative, transparent, and
-standards-based approach, contributing to open-source systems and communities. We engage
-researchers, staff, and donors to understand their needs, prioritize solutions, and produce high-quality
-and useful tools and services.
+The Digital Strategies team leads the ethical application of technology in all aspects of the RAC's work by connecting people to systems and expertise. We develop, implement, and maintain the organization’s archival systems and digital infrastructure; build capacity through training designed to empower our colleagues; center user perspectives to continually improve the usability and accessibility of our systems and collections; and participate in professional communities to further our work and the archival profession.
 
 ## Research & Education Program
 

@@ -162,9 +162,9 @@ jwashington@rockarch.org
 (914) 366-6313  
 jrusso@rockarch.org
 
-#### Digital Programs
+#### Digital Strategies
 
-**Hillel Arnold**, Assistant Director, Head of Digital Programs  
+**Hillel Arnold**, Assistant Director, Head of Digital Strategies  
 (914) 366-6382  
 harnold@rockarch.org
 
