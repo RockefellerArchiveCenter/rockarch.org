@@ -146,13 +146,13 @@ rpappous@rockarch.org
 (914) 366-6336  
 kgreaves@rockarch.org
 
-**Brian Andreycak**, Archival Assistant  
-(914) 366-6325  
-bandreycak@rockarch.org
-
 **Kathleen Leonard**, Assistant Archivist  
 (914) 366-6307  
 kleonard@rockarch.org
+
+**Brian Andreycak**, Archival Assistant  
+(914) 366-6325  
+bandreycak@rockarch.org
 
 **James Washington**, Archival Assistant  
 (914) 366-6319  
