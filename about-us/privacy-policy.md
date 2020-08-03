@@ -4,6 +4,7 @@ title: Privacy Policy
 permalink: /about-us/privacy-policy/
 ---
 
+## Protecting the privacy of our users
 Rockefeller Archive Center (RAC) is committed to protecting your privacy while enabling your access to information and engagement in our research community. We strive to make our archival collections and services as widely accessible as possible. To do this we need to acquire and use some personal information. This policy explains what information we collect from you and why, and how it is collected, used, and stored. It applies to your engagement with us through our services and activities on websites and during your visits to our physical premises.
 
 Guided by legal requirements governing people in the EU/EEA and UK, this Policy also provides a legal basis for our processing of your personal information. By data “processing,” we mean any operation performed on personal data including collection, organization, storage, alteration, retrieval, consultation, use, dissemination, restriction, or erasure. The Rockefeller Archive Center is located in the United States, and your data will be transferred to and processed in the United States.
