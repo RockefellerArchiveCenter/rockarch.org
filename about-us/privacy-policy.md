@@ -102,7 +102,8 @@ When you access websites and use services online, sometimes those sites place a 
 We use first-party session cookies on some web pages to improve the experience of using our sites. These are deleted when the browser is closed, and do not store any information that will personally identify you. We also include links to external sites like social media sharing that will place cookies on your device. We use third-party cookies including statistical cookies from Google Analytics to gather information to improve our websites and enable certain functions. We do not use advertising cookies. Read more about [how Google uses cookies](https://policies.google.com/technologies/cookies?hl=en) and access [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en).
 
 You can [block, manage, and delete cookies](https://www.consumer.ftc.gov/articles/0042-online-tracking) yourself at any time.
-What information do we share with third parties?
+
+### What information do we share with third parties?
 We do not sell your personal data to any other organizations. We will only share your personal data for the following purposes:
 - As necessary for our third-party service providers, as specified in this Policy.
 - As required by law or in a legal proceeding.
