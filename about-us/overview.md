@@ -96,11 +96,8 @@ Woodrow Wilson National Fellowship Foundation
 
 Claude H. Barlow Papers  
 Jackson Davis Papers  
-Rene Dubos Papers  
 Paul Ehrlich Papers  
 Frederick T. Gates Papers  
-Rebecca Lancefield Papers  
-Fritz Lipmann Papers  
 Abby Aldrich Rockefeller Papers  
 David Rockefeller Papers  
 John D. Rockefeller Papers  
