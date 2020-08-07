@@ -103,7 +103,7 @@ We use first-party session cookies on some web pages to improve the experience o
 
 You can [block, manage, and delete cookies](https://www.consumer.ftc.gov/articles/0042-online-tracking) yourself at any time.
 
-### What information do we share with third parties?
+## What information do we share with third parties?
 We do not sell your personal data to any other organizations. We will only share your personal data for the following purposes:
 - As necessary for our third-party service providers, as specified in this Policy.
 - As required by law or in a legal proceeding.
