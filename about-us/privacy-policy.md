@@ -112,7 +112,7 @@ We do not sell your personal data to any other organizations. We will only share
 ## How can you contact us about your privacy?
 You may contact us for additional information, to request access to or a copy of your personal data, or to request certain data be updated or removed. We will consider and respond to any requests in accordance with applicable laws. If you have consented to data processing, you can withdraw your consent at any time without affecting the lawfulness of any processing that was done based on your previous consent. Please note that if your data is contained within our archival collections, rather than collected by the RAC for the reasons stated in this Policy, we will not alter the record.
 
-Contact: archive@rockarch.org
+Contact: [archive@rockarch.org](mailto:archive@rockarch.org)
 
 ## Changes to this policy
 We will review this Policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
