@@ -6,14 +6,11 @@ permalink: /about-us/board-and-staff/
 
 ## Board of Trustees
 
-**Neil Rudenstine**, Chair  
-Former President, Harvard University
+**Ira Katznelson**, Chair  
+Ruggles Professor of Political Science and History, Columbia University
 
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
-
-**Ira Katznelson**  
-Ruggles Professor of Political Science and History, Columbia University
 
 **Richard Lifton**  
 President, The Rockefeller University
@@ -37,10 +34,6 @@ University Archivist, Harvard University Archives
 **Jack Meyers**, President  
 (914) 366-6308  
 jmeyers@rockarch.org
-
-**James Allen Smith**, Vice President  
-(914) 366-6379  
-jasmith@rockarch.org
 
 **Norine Hochman**, Executive Assistant  
 (914) 366-6309  
@@ -189,14 +182,6 @@ bshubinski@rockarch.org
 **Rachel Wimpee**, Assistant Director, Research and Education  
 (914) 366-6367  
 rwimpee@rockarch.org
-
-**Elizabeth Berkowitz**, Outreach Program Manager  
-(914) 366-6365  
-eberkowitz@rockarch.org
-
-**Barry Goldberg**, Research Fellow  
-(914) 366-6359  
-bgoldberg@rockarch.org
 
 **Lee Hiltzik**, Senior Research Associate  
 (914) 366-6345  
