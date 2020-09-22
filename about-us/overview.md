@@ -10,7 +10,7 @@ The Rockefeller Archive Center is a repository of historical materials and a res
 dedicated to the study of philanthropy and the many domains touched by American foundations,
 individual donors, and the civil society organizations they support. It was established in 1974
 initially to gather, preserve, and make accessible the records of the Rockefeller family and their far-reaching
-philanthropic endeavors, such as the Rockefeller University, Rockefeller Foundation, and
+philanthropic endeavors, such as the Rockefeller Foundation, and
 Rockefeller Brothers Fund. The Archive Center has grown and today holds the archives of major
 foundations, cultural organizations, research institutions, and many individuals associated with
 these organizations.
@@ -41,7 +41,6 @@ Near East Foundation
 Population Council  
 Rockefeller Brothers Fund  
 Rockefeller Foundation  
-Rockefeller University  
 Russell Sage Foundation  
 Social Science Research Council  
 Taconic Foundation  
@@ -97,11 +96,8 @@ Woodrow Wilson National Fellowship Foundation
 
 Claude H. Barlow Papers  
 Jackson Davis Papers  
-Rene Dubos Papers  
 Paul Ehrlich Papers  
 Frederick T. Gates Papers  
-Rebecca Lancefield Papers  
-Fritz Lipmann Papers  
 Abby Aldrich Rockefeller Papers  
 David Rockefeller Papers  
 John D. Rockefeller Papers  
@@ -116,4 +112,3 @@ Hao Wang Papers
 Warren Weaver Papers  
 William H. Whyte Papers  
 Malcolm Wilson Papers  
-
