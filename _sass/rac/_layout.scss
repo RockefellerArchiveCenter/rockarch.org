@@ -96,7 +96,7 @@ html {
 }
 
 .rac-page-header {
-  height: 152px;
+  min-height: 152px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -455,5 +455,18 @@ section {
       max-width: 300px;
       font-size: 20px;
     }
+  }
+}
+
+// Temporary class, not intended to be part of library
+.rosenbaum-img {
+  width: 100%;
+  padding-bottom: 1em;
+  @media screen and (min-width: $break-md) {
+    margin-top: 10px;
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding-right: 2em;
   }
 }

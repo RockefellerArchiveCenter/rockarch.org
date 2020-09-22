@@ -127,10 +127,6 @@ bantos@rockarch.org
 (914) 366-6317  
 mblank@rockarch.org
 
-**Tom Rosenbaum**, Archivist  
-(914) 366-6384  
-trosenbaum@rockarch.org
-
 **Renee Pappous**, Archivist  
 (914) 366-6355  
 rpappous@rockarch.org
