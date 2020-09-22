@@ -458,31 +458,15 @@ section {
   }
 }
 
-// Temporary classes, not intended to be part of library
+// Temporary class, not intended to be part of library
 .rosenbaum-img {
   width: 100%;
   padding-bottom: 1em;
   @media screen and (min-width: $break-md) {
-    margin-top: 7px;
+    margin-top: 10px;
     width: 50%;
+    height: 100%;
     float: left;
     padding-right: 2em;
-    box-sizing: border-box;
-  }
-  @media screen and (min-width: $break-lg) {
-    margin-top: 10px;
-    width: 40%;
-  }
-}
-
-.rosenbaum-text {
-  width: 100%;
-  @media screen and (min-width: $break-md) {
-    width: 50%;
-    box-sizing: border-box;
-    float: right;
-  }
-  @media screen and (min-width: $break-lg) {
-    width: 60%;
   }
 }
