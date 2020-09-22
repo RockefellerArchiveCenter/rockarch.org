@@ -457,3 +457,30 @@ section {
     }
   }
 }
+
+// Temporary classes, not intended to be part of library
+.rosenbaum-img {
+  width: 100%;
+  padding-bottom: 1em;
+  @media screen and (min-width: $break-md) {
+    width: 50%;
+    float: left;
+    padding-right: 2em;
+    box-sizing: border-box;
+  }
+  @media screen and (min-width: $break-lg) {
+    width: 40%;
+  }
+}
+
+.rosenbaum-text {
+  width: 100%;
+  @media screen and (min-width: $break-md) {
+    width: 50%;
+    box-sizing: border-box;
+    float: right;
+  }
+  @media screen and (min-width: $break-lg) {
+    width: 60%;
+  }
+}
