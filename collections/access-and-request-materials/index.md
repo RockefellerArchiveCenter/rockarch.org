@@ -29,7 +29,7 @@ our online request and duplication management system.
 
 Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
 
-As with our archival materials, Library materials are non-circulating and are only available in the RAC’s reading rooms.
+As with our archival materials, [Library materials](https://library.rockarch.org) are non-circulating and are only available in the RAC’s reading rooms.
 
 ## When We’re Open
 
