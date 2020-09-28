@@ -47,7 +47,7 @@ rclark@rockarch.org
 
 #### Collections Management
 
-**Susan McDade**, Assistant Director, Head of Collections Management  
+**Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 smcdade@rockarch.org
 
@@ -81,7 +81,7 @@ rslater@rockarch.org
 
 #### Processing
 
-**Robert Battaly**, Assistant Director, Head of Processing  
+**Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352  
 rbattaly@rockarch.org
 
@@ -115,7 +115,7 @@ gantos@rockarch.org
 
 #### Reference
 
-**Michele Hiltzik Beckerman**, Assistant Director, Head of Reference  
+**Michele Hiltzik Beckerman**, Assistant Director for Reference  
 (914) 366-6342  
 mbeckerman@rockarch.org
 
@@ -153,7 +153,7 @@ jrusso@rockarch.org
 
 #### Digital Strategies
 
-**Hillel Arnold**, Assistant Director, Head of Digital Strategies  
+**Hillel Arnold**, Assistant Director for Digital Strategies  
 (914) 366-6382  
 harnold@rockarch.org
 
