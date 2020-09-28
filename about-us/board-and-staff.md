@@ -194,7 +194,7 @@ lvink@rockarch.org
 
 ### Operations &amp; Finance
 
-**Brigite Requeijo**, Director of Operations
+**Brigite Requeijo**, Director of Operations  
 (914) 366-6381  
 brequeijo@rockarch.org
 
