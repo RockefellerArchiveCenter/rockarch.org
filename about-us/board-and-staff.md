@@ -194,6 +194,10 @@ lvink@rockarch.org
 
 ### Operations &amp; Finance
 
+**Brigite Requeijo**, Director of Operations 
+(914) 366-6381  
+brequeijo@rockarch.org
+
 **Pablo Aguilera**, Operations Assistant  
 (914) 366-6369  
 paguilera@rockarch.org
@@ -209,10 +213,6 @@ jmorillo@rockarch.org
 **Camelia Muresan**, Controller  
 (914) 366-6370  
 cmuresan@rockarch.org
-
-**Brigite Requeijo**, Operations Manager  
-(914) 366-6381  
-brequeijo@rockarch.org
 
 **Roseann Variano**, Facilities Coordinator  
 (914) 366-6301  
