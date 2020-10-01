@@ -5,6 +5,7 @@ permalink: /collections/access-and-request-materials/
 sidebar:
   - ["https://raccess.rockarch.org", Log into/Create a new RACcess account, arrow_forward]
   - ["https://dimes.rockarch.org", Search collections at DIMES, arrow_forward]
+  - ["https://library.rockarch.org", Search library materials, arrow_forward]
   - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
 ---
 
@@ -27,6 +28,8 @@ You will also need to create a researcher account in [RACcess](https://raccess.r
 our online request and duplication management system.
 
 Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
+
+As with our archival materials, [Library materials](https://library.rockarch.org) are non-circulating and are only available in the RAC’s reading rooms.
 
 ## When We’re Open
 
