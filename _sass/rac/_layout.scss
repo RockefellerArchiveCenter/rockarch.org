@@ -458,15 +458,15 @@ section {
   }
 }
 
-// Temporary class, not intended to be part of library
-.rosenbaum-img {
-  width: 100%;
-  padding-bottom: 1em;
-  @media screen and (min-width: $break-md) {
-    margin-top: 10px;
-    width: 50%;
-    height: 100%;
+.alert {
+  background: $burnt-orange;
+  font-family: $serif-stack;
+  line-height: 1.5;
+  color: $pure-white;
+  padding: 20px;
+  & .material-icons {
+    font-size: 100px;
     float: left;
-    padding-right: 2em;
+    padding-right: 10px;
   }
 }
