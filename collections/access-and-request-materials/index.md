@@ -9,6 +9,13 @@ sidebar:
   - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
 ---
 
+<div class="alert">
+  <span class="material-icons">error_outline</span>
+  The Rockefeller Archive Center reading room will be closed until further notice
+  beginning Monday, March 16, 2020.  Researchers should feel free to contact Archive Center
+  staff who will be working from home and who can be reached through the links on this site.
+</div>
+
 ## How to Contact Us
 
 Do you have a question about our holdings or how to get started on your research?
