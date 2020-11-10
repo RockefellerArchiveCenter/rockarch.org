@@ -127,25 +127,12 @@ suffer damage as a result of duplication.
 Duplication is done on a first-come, first-served basis. We strive to complete
 all duplication requests within 60 days.
 
-### Photocopying or PDFs
+### PDFs or TIFF/JPEG images
+Duplication requests are limited to 500 pages/images per order.
 
-Duplication requests for photocopies or PDFs are limited to 500 pages per
-order.
-
-- Unit cost: $0.50 per page
-- Service charge: $25.00 per order
-- Shipping:
-  - Electronic Delivery: free (PDFs only)
-  - USPS (Domestic): $6.00
-  - USPS (Mexico/Canada): variable cost
-  - FedEx (International): variable cost
-
-### Scans (TIFF or JPEG)
-
-- Unit cost: $25.00 per image
-- Service charge: $25.00 per order
-- Shipping:
-  - Electronic Delivery: free
+- Unit cost: $0.50 per page/image
+- Service charge: $10.00 per order.
+- Orders are sent via electronic delivery without additional charge.
 
 ### Audiovisual Materials
 
