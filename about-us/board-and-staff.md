@@ -59,10 +59,6 @@ bphillips@rockarch.org
 (914) 366-6357  
 mhogan@rockarch.org
 
-**Subash Gandhi**, Librarian  
-(914) 366-6316  
-sgandhi@rockarch.org
-
 **Jenna Fleming**, Assistant Archivist  
 (914) 366-6321  
 jfleming@rockarch.org
