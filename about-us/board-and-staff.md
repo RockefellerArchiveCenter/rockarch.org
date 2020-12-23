@@ -97,11 +97,11 @@ mquinn@rockarch.org
 (914) 366-6385  
 aberish@rockarch.org
 
-**Katherine Martin**, Assistant Archivist  
+**Katherine Martin**, Archivist  
 (914) 366-6311  
 k.martin@rockarch.org
 
-**Darren Young**, Assistant Archivist  
+**Darren Young**, Archivist  
 (914) 366-6320  
 dyoung@rockarch.org
 
@@ -127,7 +127,7 @@ mblank@rockarch.org
 (914) 366-6355  
 rpappous@rockarch.org
 
-**Kanisha Greaves**, Assistant Archivist  
+**Kanisha Greaves**, Archivist  
 (914) 366-6336  
 kgreaves@rockarch.org
 
@@ -161,7 +161,7 @@ pgalligan@rockarch.org
 (914) 366-6329  
 bgordon@rockarch.org
 
-**Hannah Sistrunk**, Assistant Digital Archivist  
+**Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
 hsistrunk@rockarch.org
 
@@ -179,7 +179,7 @@ rwimpee@rockarch.org
 (914) 366-6345  
 lhiltzik@rockarch.org
 
-**Marissa Vassari**, Archivist & Educator  
+**Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 mvassari@rockarch.org
 
