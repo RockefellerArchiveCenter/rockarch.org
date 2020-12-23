@@ -81,6 +81,10 @@ rslater@rockarch.org
 (914) 366-6352  
 rbattaly@rockarch.org
 
+**Amy Berish**, Archivist  
+(914) 366-6385  
+aberish@rockarch.org
+
 **Amy Fitch**, Archivist  
 (914) 366-6318  
 afitch@rockarch.org
@@ -89,17 +93,13 @@ afitch@rockarch.org
 (914) 366-6344  
 bjaffe@rockarch.org
 
-**Mary Ann Quinn**, Archivist  
-(914) 366-6302  
-mquinn@rockarch.org
-
-**Amy Berish**, Archivist  
-(914) 366-6385  
-aberish@rockarch.org
-
 **Katherine Martin**, Archivist  
 (914) 366-6311  
 k.martin@rockarch.org
+
+**Mary Ann Quinn**, Archivist  
+(914) 366-6302  
+mquinn@rockarch.org
 
 **Darren Young**, Archivist  
 (914) 366-6320  
@@ -123,13 +123,13 @@ bantos@rockarch.org
 (914) 366-6317  
 mblank@rockarch.org
 
-**Renee Pappous**, Archivist  
-(914) 366-6355  
-rpappous@rockarch.org
-
 **Kanisha Greaves**, Archivist  
 (914) 366-6336  
 kgreaves@rockarch.org
+
+**Renee Pappous**, Archivist  
+(914) 366-6355  
+rpappous@rockarch.org
 
 **Kathleen Leonard**, Assistant Archivist  
 (914) 366-6307  
