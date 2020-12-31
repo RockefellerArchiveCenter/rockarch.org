@@ -18,6 +18,9 @@ President, The Rockefeller University
 **Jack Meyers**  
 President, Rockefeller Archive Center
 
+**Alondra Nelson**  
+President, Social Science Research Council
+
 **David Rockefeller, Jr.**  
 Director, Rockefeller Capital Management
 
@@ -81,6 +84,10 @@ rslater@rockarch.org
 (914) 366-6352  
 rbattaly@rockarch.org
 
+**Amy Berish**, Archivist  
+(914) 366-6385  
+aberish@rockarch.org
+
 **Amy Fitch**, Archivist  
 (914) 366-6318  
 afitch@rockarch.org
@@ -89,19 +96,15 @@ afitch@rockarch.org
 (914) 366-6344  
 bjaffe@rockarch.org
 
+**Katherine Martin**, Archivist  
+(914) 366-6311  
+k.martin@rockarch.org
+
 **Mary Ann Quinn**, Archivist  
 (914) 366-6302  
 mquinn@rockarch.org
 
-**Amy Berish**, Archivist  
-(914) 366-6385  
-aberish@rockarch.org
-
-**Katherine Martin**, Assistant Archivist  
-(914) 366-6311  
-k.martin@rockarch.org
-
-**Darren Young**, Assistant Archivist  
+**Darren Young**, Archivist  
 (914) 366-6320  
 dyoung@rockarch.org
 
@@ -123,13 +126,13 @@ bantos@rockarch.org
 (914) 366-6317  
 mblank@rockarch.org
 
+**Kanisha Greaves**, Archivist  
+(914) 366-6336  
+kgreaves@rockarch.org
+
 **Renee Pappous**, Archivist  
 (914) 366-6355  
 rpappous@rockarch.org
-
-**Kanisha Greaves**, Assistant Archivist  
-(914) 366-6336  
-kgreaves@rockarch.org
 
 **Kathleen Leonard**, Assistant Archivist  
 (914) 366-6307  
@@ -161,7 +164,7 @@ pgalligan@rockarch.org
 (914) 366-6329  
 bgordon@rockarch.org
 
-**Hannah Sistrunk**, Assistant Digital Archivist  
+**Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
 hsistrunk@rockarch.org
 
@@ -179,7 +182,7 @@ rwimpee@rockarch.org
 (914) 366-6345  
 lhiltzik@rockarch.org
 
-**Marissa Vassari**, Archivist & Educator  
+**Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 mvassari@rockarch.org
 
