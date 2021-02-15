@@ -18,9 +18,6 @@ President, The Rockefeller University
 **Jack Meyers**  
 President, Rockefeller Archive Center
 
-**Alondra Nelson**  
-President, Social Science Research Council
-
 **David Rockefeller, Jr.**  
 Director, Rockefeller Capital Management
 
