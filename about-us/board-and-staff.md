@@ -18,9 +18,6 @@ President, The Rockefeller University
 **Jack Meyers**  
 President, Rockefeller Archive Center
 
-**Alondra Nelson**  
-President, Social Science Research Council
-
 **David Rockefeller, Jr.**  
 Director, Rockefeller Capital Management
 
@@ -50,7 +47,7 @@ rclark@rockarch.org
 
 #### Collections Management
 
-**Susan McDade**, Assistant Director, Head of Collections Management  
+**Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 smcdade@rockarch.org
 
@@ -80,7 +77,7 @@ rslater@rockarch.org
 
 #### Processing
 
-**Robert Battaly**, Assistant Director, Head of Processing  
+**Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352  
 rbattaly@rockarch.org
 
@@ -114,7 +111,7 @@ gantos@rockarch.org
 
 #### Reference
 
-**Michele Hiltzik Beckerman**, Assistant Director, Head of Reference  
+**Michele Hiltzik Beckerman**, Assistant Director for Reference  
 (914) 366-6342  
 mbeckerman@rockarch.org
 
@@ -152,7 +149,7 @@ jrusso@rockarch.org
 
 #### Digital Strategies
 
-**Hillel Arnold**, Assistant Director, Head of Digital Strategies  
+**Hillel Arnold**, Assistant Director for Digital Strategies  
 (914) 366-6382  
 harnold@rockarch.org
 
@@ -193,6 +190,10 @@ lvink@rockarch.org
 
 ### Operations &amp; Finance
 
+**Brigite Requeijo**, Director of Operations  
+(914) 366-6381  
+brequeijo@rockarch.org
+
 **Pablo Aguilera**, Operations Assistant  
 (914) 366-6369  
 paguilera@rockarch.org
@@ -208,10 +209,6 @@ jmorillo@rockarch.org
 **Camelia Muresan**, Controller  
 (914) 366-6370  
 cmuresan@rockarch.org
-
-**Brigite Requeijo**, Operations Manager  
-(914) 366-6381  
-brequeijo@rockarch.org
 
 **Roseann Variano**, Facilities Coordinator  
 (914) 366-6301  
