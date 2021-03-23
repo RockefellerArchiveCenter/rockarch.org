@@ -210,6 +210,9 @@ nav.rac-top-nav {
   top: 5px;
   cursor: pointer;
   color: $burnt-orange;
+  background: unset;
+  border: none;
+  padding: 0px;
   & i {
     font-size: ($nav-height)-10;
   }
