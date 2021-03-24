@@ -150,6 +150,9 @@ nav.rac-top-nav {
     &:hover, &:focus-within {
       background: $med-brown;
     }
+    &:focus-within {
+      outline: 1px solid $pure-white;
+    }
     & .title {
       font-family: $sans-serif-stack;
       font-weight: 900;
