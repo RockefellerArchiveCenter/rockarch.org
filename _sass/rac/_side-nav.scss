@@ -4,6 +4,7 @@
   @media screen and (min-width: $break-md) {
     display: flex;
     position: sticky;
+    position: -webkit-sticky; /* Safari */
     top: 60px;
     margin-bottom: 60px;
   }
@@ -26,21 +27,23 @@
         line-height: 18px;
       }
     }
-    button {
+    a {
+      display: block;
       width: 100%;
-      margin: 0px;
-      padding: 0px;
-      border: 0;
       list-style: none;
-      background: unset;
       text-align: left;
       font-family: $sans-serif-stack;
       font-weight: 900;
       color: $pure-white;
       font-size: 14px;
       line-height: 17px;
+      &:focus {
+        outline: 2px solid $pure-white;
+        text-decoration: none;
+      }
       &:hover {
         cursor: pointer;
+        text-decoration: none;
       }
       &:not(:last-child) {
         margin-bottom: 20px;
