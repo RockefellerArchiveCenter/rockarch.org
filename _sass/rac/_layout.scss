@@ -96,7 +96,7 @@ html {
 }
 
 .rac-page-header {
-  height: 152px;
+  min-height: 152px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -455,5 +455,18 @@ section {
       max-width: 300px;
       font-size: 20px;
     }
+  }
+}
+
+.alert {
+  background: $burnt-orange;
+  font-family: $serif-stack;
+  line-height: 1.5;
+  color: $pure-white;
+  padding: 20px;
+  & .material-icons {
+    font-size: 100px;
+    float: left;
+    padding-right: 10px;
   }
 }

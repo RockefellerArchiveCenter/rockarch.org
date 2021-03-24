@@ -6,14 +6,11 @@ permalink: /about-us/board-and-staff/
 
 ## Board of Trustees
 
-**Neil Rudenstine**, Chair  
-Former President, Harvard University
+**Ira Katznelson**, Chair  
+Ruggles Professor of Political Science and History, Columbia University
 
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
-
-**Ira Katznelson**  
-Ruggles Professor of Political Science and History, Columbia University
 
 **Richard Lifton**  
 President, The Rockefeller University
@@ -38,10 +35,6 @@ University Archivist, Harvard University Archives
 (914) 366-6308  
 jmeyers@rockarch.org
 
-**James Allen Smith**, Vice President  
-(914) 366-6379  
-jasmith@rockarch.org
-
 **Norine Hochman**, Executive Assistant  
 (914) 366-6309  
 nhochman@rockarch.org
@@ -54,7 +47,7 @@ rclark@rockarch.org
 
 #### Collections Management
 
-**Susan McDade**, Assistant Director, Head of Collections Management  
+**Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 smcdade@rockarch.org
 
@@ -65,10 +58,6 @@ bphillips@rockarch.org
 **Margaret Hogan Snyder**, Archivist (Appraisal)  
 (914) 366-6357  
 mhogan@rockarch.org
-
-**Subash Gandhi**, Librarian  
-(914) 366-6316  
-sgandhi@rockarch.org
 
 **Jenna Fleming**, Assistant Archivist  
 (914) 366-6321  
@@ -88,9 +77,13 @@ rslater@rockarch.org
 
 #### Processing
 
-**Robert Battaly**, Assistant Director, Head of Processing  
+**Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352  
 rbattaly@rockarch.org
+
+**Amy Berish**, Archivist  
+(914) 366-6385  
+aberish@rockarch.org
 
 **Amy Fitch**, Archivist  
 (914) 366-6318  
@@ -100,19 +93,15 @@ afitch@rockarch.org
 (914) 366-6344  
 bjaffe@rockarch.org
 
+**Katherine Martin**, Archivist  
+(914) 366-6311  
+k.martin@rockarch.org
+
 **Mary Ann Quinn**, Archivist  
 (914) 366-6302  
 mquinn@rockarch.org
 
-**Amy Berish**, Archivist  
-(914) 366-6385  
-aberish@rockarch.org
-
-**Katherine Martin**, Assistant Archivist  
-(914) 366-6311  
-k.martin@rockarch.org
-
-**Darren Young**, Assistant Archivist  
+**Darren Young**, Archivist  
 (914) 366-6320  
 dyoung@rockarch.org
 
@@ -122,7 +111,7 @@ gantos@rockarch.org
 
 #### Reference
 
-**Michele Hiltzik Beckerman**, Assistant Director, Head of Reference  
+**Michele Hiltzik Beckerman**, Assistant Director for Reference  
 (914) 366-6342  
 mbeckerman@rockarch.org
 
@@ -134,25 +123,21 @@ bantos@rockarch.org
 (914) 366-6317  
 mblank@rockarch.org
 
-**Tom Rosenbaum**, Archivist  
-(914) 366-6384  
-trosenbaum@rockarch.org
+**Kanisha Greaves**, Archivist  
+(914) 366-6336  
+kgreaves@rockarch.org
 
 **Renee Pappous**, Archivist  
 (914) 366-6355  
 rpappous@rockarch.org
 
-**Kanisha Greaves**, Assistant Archivist  
-(914) 366-6336  
-kgreaves@rockarch.org
+**Kathleen Leonard**, Assistant Archivist  
+(914) 366-6307  
+kleonard@rockarch.org
 
 **Brian Andreycak**, Archival Assistant  
 (914) 366-6325  
 bandreycak@rockarch.org
-
-**Kathleen Leonard**, Assistant Archivist  
-(914) 366-6307  
-kleonard@rockarch.org
 
 **James Washington**, Archival Assistant  
 (914) 366-6319  
@@ -162,9 +147,9 @@ jwashington@rockarch.org
 (914) 366-6313  
 jrusso@rockarch.org
 
-#### Digital Programs
+#### Digital Strategies
 
-**Hillel Arnold**, Assistant Director, Head of Digital Programs  
+**Hillel Arnold**, Assistant Director for Digital Strategies  
 (914) 366-6382  
 harnold@rockarch.org
 
@@ -176,7 +161,7 @@ pgalligan@rockarch.org
 (914) 366-6329  
 bgordon@rockarch.org
 
-**Hannah Sistrunk**, Assistant Digital Archivist  
+**Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
 hsistrunk@rockarch.org
 
@@ -190,19 +175,11 @@ bshubinski@rockarch.org
 (914) 366-6367  
 rwimpee@rockarch.org
 
-**Elizabeth Berkowitz**, Outreach Program Manager  
-(914) 366-6365  
-eberkowitz@rockarch.org
-
-**Barry Goldberg**, Research Fellow  
-(914) 366-6359  
-bgoldberg@rockarch.org
-
 **Lee Hiltzik**, Senior Research Associate  
 (914) 366-6345  
 lhiltzik@rockarch.org
 
-**Marissa Vassari**, Archivist & Educator  
+**Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 mvassari@rockarch.org
 
@@ -212,6 +189,10 @@ lvink@rockarch.org
 
 
 ### Operations &amp; Finance
+
+**Brigite Requeijo**, Director of Operations  
+(914) 366-6381  
+brequeijo@rockarch.org
 
 **Pablo Aguilera**, Operations Assistant  
 (914) 366-6369  
@@ -228,10 +209,6 @@ jmorillo@rockarch.org
 **Camelia Muresan**, Controller  
 (914) 366-6370  
 cmuresan@rockarch.org
-
-**Brigite Requeijo**, Operations Manager  
-(914) 366-6381  
-brequeijo@rockarch.org
 
 **Roseann Variano**, Facilities Coordinator  
 (914) 366-6301  

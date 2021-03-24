@@ -4,6 +4,17 @@ title: Apply for a Research Stipend
 permalink: /collections/research-stipends/
 ---
 
+<!-- temporary COVID-19 banner -->
+<div style="
+    background-color: #D8531E;
+    color: white;
+    font-size: 1.5em;
+    font-family: Manuale, serif;
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+">Due to the COVID-19 pandemic and the closure of the RAC reading room, we will not be accepting applications this year for the research stipend program. Please check back in early 2021 for updates on the program.</div>
+
 ## About the RAC Stipend Program
 
 The Rockefeller Archive Center offers a competitive research stipend program that provides individuals (not institutions) up to $5,000 for reimbursement of travel and accommodation expenses.  The stipend can only be used to facilitate research at the RAC, not for research at other archival repositories or for tuition support.
@@ -22,7 +33,7 @@ Important dates and deadlines:
 
 In order to be eligible for a stipend, potential applicants must contact the RAC by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
 
-Applications will open in early 2020.
+
 
 <!-- <button class="rac-orange-button">I've read the requirements and want to submit an application</button> -->
 
