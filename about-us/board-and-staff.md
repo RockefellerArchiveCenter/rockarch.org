@@ -187,7 +187,7 @@ mvassari@rockarch.org
 (914) 366-6312  
 lvink@rockarch.org
 
-**Andrea Codornigara**, Project Associate
+**Andrea Codornigara**, Project Associate 
 acodornigara@rockarch.org
 
 ### Operations &amp; Finance
