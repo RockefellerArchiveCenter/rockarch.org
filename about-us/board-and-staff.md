@@ -175,9 +175,6 @@ bshubinski@rockarch.org
 (914) 366-6367  
 rwimpee@rockarch.org
 
-**Andrea Codornigara**, Project Associate   
-acodornigara@rockarch.org
-
 **Lee Hiltzik**, Senior Research Associate  
 (914) 366-6345  
 lhiltzik@rockarch.org
@@ -190,6 +187,8 @@ mvassari@rockarch.org
 (914) 366-6312  
 lvink@rockarch.org
 
+**Andrea Codornigara**, Project Associate   
+acodornigara@rockarch.org
 
 ### Operations &amp; Finance
 
