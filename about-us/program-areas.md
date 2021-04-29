@@ -31,15 +31,21 @@ resource for users of our archival holdings.
 
 ### Processing
 
-The Processing team establishes and enhances intellectual and physical control of our archival
-holdings by efficiently and effectively organizing, describing, and preserving all eligible materials,
-regardless of form, medium, or creator, in order to facilitate user access onsite and online. In
-working to reduce and ultimately eliminate the Center’s processing backlog, we ensure timely
-open and equitable access to primary sources. We actively promote the use and understanding of
-the historical record through the collection guides we create in accordance with DACS descriptive
-standards, and all program policies, practices, and procedures foster accountability and
-transparency. As we learn and grow through professional development, we seek opportunities to
-contribute to the archival profession and collaborate with participants in related fields.
+The Processing team establishes and enhances intellectual and physical control of
+our archival holdings by effectively and efficiently organizing, describing, and
+preserving all eligible materials, regardless of form, medium, or creator, to
+facilitate user access. We ensure timely, open, and equitable access to primary
+sources on site and online. We actively promote the use and understanding of the
+historical record through the collection guides we create in accordance with DACS
+descriptive standards, and all program policies and procedures foster accountability
+and transparency. The Processing team commits to culturally competent descriptive
+practices, as we acknowledge that our collections and the archival descriptions we
+create are shaped by racial, gendered, and other cultural identities and biases.
+We aim to describe materials representing marginalized, underrepresented, and
+historically oppressed people and cultures appropriately and respectfully. As we
+learn and grow through professional development, we seek opportunities to
+contribute to the archival profession and collaborate with practitioners in related
+fields.
 
 ### Reference
 
