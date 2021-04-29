@@ -32,3 +32,5 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # For testing build
 gem "html-proofer"
+
+ruby "~>2.6"
