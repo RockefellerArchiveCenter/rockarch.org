@@ -25,6 +25,7 @@ google_analytics: UA-10013579-1
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
 # Exclude from processing.
