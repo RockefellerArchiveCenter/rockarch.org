@@ -31,4 +31,4 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # For testing build
-gem "html-proofer", "~> 3.19.0"
+gem "html-proofer"
