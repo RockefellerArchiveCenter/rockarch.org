@@ -18,8 +18,8 @@ President, The Rockefeller University
 **Jack Meyers**  
 President, Rockefeller Archive Center
 
-**David Rockefeller, Jr.**  
-Director, Rockefeller Capital Management
+**Joseph Pierson**  
+President, Cypress Films
 
 **Rajiv Shah**  
 President, The Rockefeller Foundation
