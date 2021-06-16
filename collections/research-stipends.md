@@ -13,7 +13,7 @@ permalink: /collections/research-stipends/
     padding: 1em;
     margin: 0;
     text-align: center;
-">Due to the COVID-19 pandemic and the closure of the RAC reading room, we will not be accepting applications this year for the research stipend program. Please check back in early 2021 for updates on the program.</div>
+"></div>
 
 ## About the RAC Stipend Program
 
@@ -25,13 +25,12 @@ Applications are reviewed by an independent committee that considers an applican
 
 Important dates and deadlines:
 
-- Applicants should contact RAC staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 15**.
+-   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 15**.
 -	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
 -	Two letters of recommendation are due by **November 22**.
 -	Awards are announced by **February 28**.
--	Please note that researchers who have previously received an RAC research stipend must wait three years in order to be eligible to receive another stipend. For example, an application submitted in November 2010 that resulted in an award in February 2011 means that the recipient was eligible to apply again in November 2013 to receive an award in February 2014.
 
-In order to be eligible for a stipend, potential applicants must contact the RAC by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
+In order to be eligible for a stipend, potential applicants must contact an RAC archivist by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
 
 
 
@@ -39,7 +38,7 @@ In order to be eligible for a stipend, potential applicants must contact the RAC
 
 ## After Receiving an RAC Research Stipend
 
-Stipend recipients have one year to complete the proposed research, from April 1 of the award year through March 31 of the following year.
+Stipend recipients have from April 1 of the award year through June 30 of the following year to complete their research.
 
 At the conclusion of the award year, stipend recipients must submit a short report on their research at the RAC. By accepting the stipend, recipients give permission for the RAC to make edited versions or excerpts of these research reports available online through its website or other resource.
 
