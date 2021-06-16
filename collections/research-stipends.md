@@ -4,7 +4,7 @@ title: Apply for a Research Stipend
 permalink: /collections/research-stipends/
 ---
 
-<!-- temporary COVID-19 banner -->
+<!-- temporary COVID-19 banner 
 <div style="
     background-color: #D8531E;
     color: white;
@@ -13,7 +13,7 @@ permalink: /collections/research-stipends/
     padding: 1em;
     margin: 0;
     text-align: center;
-"></div>
+">text here</div> -->
 
 ## About the RAC Stipend Program
 
