@@ -25,7 +25,7 @@ Applications are reviewed by an independent committee that considers an applican
 
 In order to be eligible for a stipend, potential applicants must contact an RAC archivist by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
 
-Important dates and deadlines:
+**Important dates and deadlines:**
 
 -   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 15**.
 -	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
