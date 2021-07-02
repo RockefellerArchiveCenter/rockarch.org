@@ -45,7 +45,7 @@ nhochman@rockarch.org
 (914) 366-6353  
 rclark@rockarch.org
 
-#### Records and Information Program
+#### Records and Information Management Program
 
 **Bonnie Marie Sauer**, Records and Information Program Manager  
 (914) 366-6365  
