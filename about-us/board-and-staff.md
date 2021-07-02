@@ -45,6 +45,12 @@ nhochman@rockarch.org
 (914) 366-6353  
 rclark@rockarch.org
 
+#### Records and Information Management Program
+
+**Bonnie Marie Sauer**, Records and Information Program Manager  
+(914) 366-6365  
+bsauer@rockarch.org
+
 #### Collections Management
 
 **Susan McDade**, Assistant Director for Collections Management  
