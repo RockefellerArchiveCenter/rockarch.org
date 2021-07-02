@@ -47,8 +47,8 @@ rclark@rockarch.org
 
 #### Records and Information Program
 
-**Bonnie Marie Sauer**, Records and Information Program Manager
-(914) 366-6365
+**Bonnie Marie Sauer**, Records and Information Program Manager  
+(914) 366-6365  
 bsauer@rockarch.org
 
 #### Collections Management
