@@ -149,9 +149,6 @@ bandreycak@rockarch.org
 (914) 366-6319  
 jwashington@rockarch.org
 
-**Judy Russo**, Archival Administrative Assistant  
-(914) 366-6313  
-jrusso@rockarch.org
 
 #### Digital Strategies
 
