@@ -186,7 +186,7 @@ lhiltzik@rockarch.org
 (914) 366-6350  
 mvassari@rockarch.org
 
-**Liesel Vink**, Photo/Media Editor & Archivist  
+**Liesel Vink**, Visuals Editor & Archivist  
 (914) 366-6312  
 lvink@rockarch.org
 
