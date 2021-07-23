@@ -21,8 +21,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 -	Two letters of recommendation are due by **November 22**.
 -	Awards are announced by **February 28**.
 
-
-<!-- <button class="rac-orange-button">I've read the requirements and want to submit an application</button> -->
+If you have read the requirements, reviewed the important dates, and are ready to apply, [click here](https://rockarch.dreamapply.com) to start your application.
 
 ## After Receiving an RAC Research Stipend
 
