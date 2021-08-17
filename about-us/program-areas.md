@@ -6,17 +6,38 @@ permalink: /about-us/program-areas/
 
 ## Archives Program
 
-The Archives Program of the Rockefeller Archive Center fosters and supports a broad community
-of users examining the history of philanthropy and its related endeavors. We acquire, preserve,
-make accessible, and encourage research and scholarship in the papers and records in our care. We engage in and advance the archival profession by ensuring that our staff participates broadly in professional activities and organizations. We lead by example in the use and dissemination of open source information management tools, and we advocate for open access to information in all its forms.
+The Archives Program of the Rockefeller Archive Center fosters and supports a
+broad community of users examining the history of philanthropy and its related
+endeavors. We acquire, preserve, make accessible, and encourage research and
+scholarship in the papers and records in our care, while promoting effective
+records and information management practices within foundations.  We engage in
+and advance the archival profession by ensuring that our staff participates
+broadly in professional activities and organizations. We lead by example in the
+use and dissemination of open source information management tools, and we
+advocate for open access to information in all its forms.   
 
-The Archives Program achieves this mission through four interconnected function areas that
-manage the Center’s archival holdings from acquisition to accessibility: Collections Management,
-Processing, Reference, and Digital Strategies.
+The Archives Program achieves this mission through five interconnected function
+areas that represent the lifecycle of records, from creation and use within an
+organization to acquisition and public accessibility as archives at the Center:
+the Records and Information Management Program, Collections Management,
+Processing, Reference, and Digital Strategies.   
 
 <a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
 <a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
 <a href="https://projectelectron.rockarch.org" class="rac-blue-button">Project Electron</a>
+
+### Records and Information Management Program
+
+The Records and Information Management Program uses the information governance
+framework to promote effective information management as an essential practice
+at the RAC, the institutions whose records we collect, and across the broader
+foundation community. We champion effective stewardship of information assets
+during the active part of their lifecycle to ensure they are stored, accessed,
+and disposed of in a manner that supports current organizational needs as well
+as institutional knowledge and learning. We empower records creators to develop
+information management policies and practices based on an institution’s shared
+definition of how systems are used and the recognition that content rather than
+format determines record status. 
 
 ### Collections Management
 

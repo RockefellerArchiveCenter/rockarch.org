@@ -39,6 +39,10 @@ jmeyers@rockarch.org
 (914) 366-6309  
 nhochman@rockarch.org
 
+**Camelia Muresan**, Controller  
+(914) 366-6370  
+cmuresan@rockarch.org
+
 ### Archives
 
 **Bob Clark**, Director of Archives  
@@ -194,7 +198,7 @@ lvink@rockarch.org
 acadornigara@rockarch.org
 
 
-### Operations &amp; Finance
+### Operations
 
 **Brigite Requeijo**, Director of Operations  
 (914) 366-6381  
@@ -204,6 +208,13 @@ brequeijo@rockarch.org
 (914) 366-6369  
 paguilera@rockarch.org
 
+**Roseann Variano**, Facilities Coordinator  
+(914) 366-6301  
+rvariano@rockarch.org
+
+
+### Information Technology
+
 **Fernando Carrasco**, Information Technology Coordinator  
 (914) 366-6338  
 fcarrasco@rockarch.org
@@ -211,11 +222,3 @@ fcarrasco@rockarch.org
 **Jose Morillo**, Information Systems Manager  
 (914) 366-6360  
 jmorillo@rockarch.org
-
-**Camelia Muresan**, Controller  
-(914) 366-6370  
-cmuresan@rockarch.org
-
-**Roseann Variano**, Facilities Coordinator  
-(914) 366-6301  
-rvariano@rockarch.org
