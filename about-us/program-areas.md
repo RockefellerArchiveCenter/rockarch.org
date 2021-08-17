@@ -31,15 +31,13 @@ Processing, Reference, and Digital Strategies.
 The Records and Information Management Program uses the information governance
 framework to promote effective information management as an essential practice
 at the RAC, the institutions whose records we collect, and across the broader
-foundation community.
-
-We champion effective stewardship of information assets during the active part
-of their lifecycle to ensure they are stored, accessed, and disposed of in a
-manner that supports current organizational needs as well as  institutional
-knowledge and learning. We empower records creators to develop information
-management policies and practices based on an institution’s shared definition of
-how systems are used and the recognition that content rather than format
-determines record status. 
+foundation community. We champion effective stewardship of information assets
+during the active part of their lifecycle to ensure they are stored, accessed,
+and disposed of in a manner that supports current organizational needs as well
+as institutional knowledge and learning. We empower records creators to develop
+information management policies and practices based on an institution’s shared
+definition of how systems are used and the recognition that content rather than
+format determines record status. 
 
 ### Collections Management
 
