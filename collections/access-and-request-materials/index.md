@@ -11,9 +11,10 @@ sidebar:
 
 <div class="alert">
   <span class="material-icons">error_outline</span>
-  The Rockefeller Archive Center reading room will be closed until further notice
-  beginning Monday, March 16, 2020.  Researchers should feel free to contact Archive Center
-  staff who will be working from home and who can be reached through the links on this site.
+  The Rockefeller Archive Center reading rooms remain closed due to the ongoing
+  COVID-19 pandemic and no date has been set for their reopening. For research
+  assistance and for information about our digitization services, please contact
+  the Archive Center staff through the links on this site.
 </div>
 
 ## How to Contact Us
