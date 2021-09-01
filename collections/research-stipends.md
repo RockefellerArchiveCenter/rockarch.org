@@ -25,6 +25,8 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 -	Two letters of recommendation are due by **November 22**.
 -	Awards are announced by **February 28**.
 
+Please note - the next deadline for submission will be in Fall 2022 for awards in Spring 2023.
+
 ## After Receiving an RAC Research Stipend
 
 Stipend recipients have from April 1 of the award year through June 30 of the following year to complete their research.
