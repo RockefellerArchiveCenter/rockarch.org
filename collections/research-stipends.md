@@ -5,7 +5,6 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert">
-  <span class="material-icons">error_outline</span>
  Unfortunately, due to the uncertainty of the date when we will be able to reopen our reading rooms, the RAC Research Stipend awards program will be suspended for 2022. The next deadline for submission will be in Fall 2022 for awards in Spring 2023.
 </div>
 
