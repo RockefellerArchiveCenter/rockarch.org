@@ -27,9 +27,6 @@ You'll see some messages appear, and should be able to view the site in a web br
 
 Content can be edited by certain RAC users with an GitHub account. If you would like to make changes to this site, please speak to your Assistant Director or the Director of Archives.
 
-## Authors
-
-Site design by [ondesign](https://ond.com), implementation by Hillel Arnold
 
 ## License
 
