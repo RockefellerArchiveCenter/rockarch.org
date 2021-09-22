@@ -4,7 +4,7 @@ The main web presence of the Rockefeller Archive Center, which serves as a gatew
 
 ## Running the site locally
 
-Download the https://jekyllrb.com/repository to your local machine using git:
+Download the repository to your local machine using git:
 
       git clone https://github.com/RockefellerArchiveCenter/rockarch.org.git
 
