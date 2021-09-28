@@ -4,7 +4,7 @@ The main web presence of the Rockefeller Archive Center, which serves as a gatew
 
 ## Running the site locally
 
-Download the https://jekyllrb.com/repository to your local machine using git:
+Download the repository to your local machine using git:
 
       git clone https://github.com/RockefellerArchiveCenter/rockarch.org.git
 
@@ -27,9 +27,6 @@ You'll see some messages appear, and should be able to view the site in a web br
 
 Content can be edited by certain RAC users with an GitHub account. If you would like to make changes to this site, please speak to your Assistant Director or the Director of Archives.
 
-## Authors
-
-Site design by [ondesign](https://ond.com), implementation by Hillel Arnold
 
 ## License
 
