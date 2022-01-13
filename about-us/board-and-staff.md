@@ -29,7 +29,7 @@ University Archivist, Harvard University Archives
 
 ## Staff
 
-<div class="alert">Please direct email inquiries to archive@rockarch.org.</div>
+<div class="alert">Please direct email inquiries to <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</div>
 
 ### President's Office
 
