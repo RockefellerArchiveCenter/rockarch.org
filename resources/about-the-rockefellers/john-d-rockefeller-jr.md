@@ -59,7 +59,7 @@ In 1923 JDR Jr. founded the International Education Board (IEB), to which he gav
 
 JDR Jr. had a continuing interest in improving educational facilities and opportunities for African-Americans. He became chair of the advisory committee of the United Negro College Fund in 1944, and his contributions of $5.2 million helped the Fund meet the financial needs of more than 30 accredited, private colleges.
 
-# Colonial Williamsburg
+## Colonial Williamsburg
 
 The restoration of Colonial Williamsburg, the capital of the Colony of Virginia, interested JDR Jr. more than any other project, beginning in 1926. He provided $56 million to Colonial Williamsburg and related projects to recreate accurately the environment of the 18th-century town and to provide visitors with an understanding of the thought and culture of that era. Hundreds of 19th- and 20th-century buildings were removed from the restored area, and many contemporaneous buildings and gardens were reconstructed on their original sites.
 
