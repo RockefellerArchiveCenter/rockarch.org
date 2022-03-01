@@ -16,7 +16,7 @@ gem "jekyll", "~> 4.2.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-seo-tag", "~> 2.1"
+  gem "jekyll-seo-tag", "~> 2.8"
   gem "neat", "~> 4.0.0"
 end
 
