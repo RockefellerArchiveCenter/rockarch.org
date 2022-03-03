@@ -63,7 +63,7 @@ University Archivist, Harvard University Archives
 **Margaret Hogan Snyder**, Archivist (Appraisal)  
 (914) 366-6357  
 
-**Jenna Fleming**, Assistant Archivist  
+**Jenna Fleming**, Archivist  
 (914) 366-6321  
 
 **Erich Chang**, Assistant Archivist  
