@@ -11,10 +11,13 @@ sidebar:
 
 <div class="alert">
   <span class="material-icons">error_outline</span>
-  The Rockefeller Archive Center reading rooms remain closed due to the ongoing
-  COVID-19 pandemic and no date has been set for their reopening. For research
-  assistance and for information about our digitization services, please contact
-  the Archive Center staff through the links on this site.
+  The Rockefeller Archive Center reading rooms will reopen to
+  researchers on a limited capacity basis on April 4, 2022. Researchers
+  should contact
+  <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
+  to schedule an appointment. All researchers and visitors to the
+  Rockefeller Archive Center must review and comply with our
+  <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a>.
 </div>
 
 ## How to Contact Us
