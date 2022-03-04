@@ -31,7 +31,7 @@ Anyone can conduct research at the RAC. If we have archival materials that can b
 useful to your research topic, you are welcome here.
 
 Because of limited seating capacity, researchers need an appointment in order to
-conduct in-person research in the RAC’s two Reading Rooms. Contact the RAC Reference
+conduct in-person research in the RAC’s Reading Room. Contact the RAC Reference
 team at [archive@rockarch.org](mailto:archive@rockarch.org) to make your
 appointment.
 
@@ -44,8 +44,9 @@ As with our archival materials, [Library materials](https://library.rockarch.org
 
 ## When We’re Open
 
-The RAC’s two Reading Rooms are open Monday through Friday from 9:00
-am to 5:00 pm, except for [designated holidays](holiday-schedule/).
+The RAC is currently only operating one Reading Room, with limited seating capacity,
+which is open Monday through Friday from 10:00 am to 5:00 pm, except for
+[designated holidays](holiday-schedule/).
 
 Inclement weather can sometimes require the RAC to close for the safety of
 our staff and researchers. During the winter, if ice or snow is predicted for
@@ -77,23 +78,30 @@ York City to Tarrytown on the Metro-North Hudson Line. If you’ve made
 prior arrangements with the Reference team, the RAC will provide
 transportation to and from RAC for the following trains:
 
-- Departs Grand Central 8:46 a.m. Arrives Tarrytown 9:23 a.m.
-- Departs Tarrytown 5:34 p.m. (Van leaves RAC at 5:15 p.m.) Arrives Grand Central 6:17 p.m
+- Departs Grand Central 8:46 a.m. Arrives Tarrytown 9:26 a.m.
+- Departs Tarrytown 5:37 p.m. (Car Service leaves RAC at 5:15 p.m.) Arrives Grand Central 6:42 p.m
 
 The train schedule may be subject to change, so be sure to check the
 [Metro-North web site](http://www.mta.info) to verify departure times.
 If you come on a different train or miss the RAC shuttle van, there is a taxi
 stand at the Tarrytown station.
 
+## Before Your Visit
+
+Within the week prior to your visit, we’ll need to schedule a virtual orientation.
+An archivist will be in touch about scheduling a virtual orientation (one-on-one)
+which should not take more than 30 minutes. We’ll review the reading room policies
+and procedures and get you ready to work in the reading room, and if you would
+like, we can chat further about your project and the archival collections.
+
 ## What You Can Expect When You Get Here
 
-When you arrive on the first day of your scheduled research visit, an
-archivist will greet you and give you a brief orientation to make your visit
-productive and positive.
+When you arrive on the first day of your scheduled research visit, you will be
+greeted and brought up to the reading room.
 
 We’re an archive of important historical materials, so we do have a few
 simple rules that we ask all researchers to follow when they’re in the RAC’s
-two Reading Rooms:
+Reading Room:
 
 - Place your outerwear, bags, and other nonessential items in the
 lockers provided.
@@ -107,7 +115,7 @@ for book weights.
 - If metal fasteners need to be removed, ask the desk monitor for
 assistance.
 
-Our Reading Rooms can be cool at times, so be sure and bring a sweater.
+Our Reading Room can be cool at times, so be sure and bring a sweater.
 Generally speaking, you may use a digital camera or your phone or tablet
 to photograph collection materials for research and educational purposes.
 However, the desk monitors may place some restrictions on your
@@ -115,7 +123,7 @@ photography if the archival materials being handled are fragile or in poor
 condition.
 
 The RAC has several microfilm reader-scanners available in our Reading
-Rooms which enable researchers to print or to save images from microfilm
+Room which enable researchers to print or to save images from microfilm
 onto flash drives. We encourage you to bring your own flash drive if you
 anticipate using microfilm during your visit.
 
