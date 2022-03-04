@@ -97,9 +97,9 @@ html {
 
 .rac-page-header {
   min-height: 152px;
-  position: relative;
   display: flex;
   justify-content: center;
+  align-items: center;
   &.level-1 {
     background: $deep-navy;
     h1 {
@@ -107,16 +107,15 @@ html {
     }
   }
   &.level-2, &.level-3 {
+    padding-top: 1em;
     background: $light-blue;
   }
   h1 {
-    position: absolute;
-    bottom: 25px;
     @media screen and (min-width: $break-md) {
       @include grid-column(12);
     }
     @media screen and (min-width: $break-lg) {
-      position: unset;
+      // position: unset;
       @include grid-column(8);
       @include grid-push(2);
       padding-left: $gutters-default;
