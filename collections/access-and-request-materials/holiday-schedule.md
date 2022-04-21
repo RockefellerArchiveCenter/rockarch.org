@@ -14,7 +14,7 @@ The Rockefeller Archive Center (RAC) is closed on the following days:
 - June: Juneteenth - Monday, June 20, 2022; Monday, June 19, 2023
 - July: Independence Day - Monday, July 4, 2022
 - September: Labor Day - Monday, September 5, 2022
-- October: Indigenous Peoples' Day - Monday, October 11, 2022
+- October: Indigenous Peoples' Day - Monday, October 10, 2022
 - November: Thanksgiving - Thursday and Friday, November 24 - 25, 2022
 - December: Christmas - closed for a week during the Christmas and New Year period: Friday, December 23, 2022, through Monday, January 2, 2023
 
