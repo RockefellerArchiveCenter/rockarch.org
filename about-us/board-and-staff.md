@@ -133,10 +133,7 @@ University Archivist, Harvard University Archives
 (914) 366-6382  
 
 **Patrick Galligan**, Digital Archivist  
-(914) 366-6386  
-
-**Bonnie Gordon**, Digital Archivist  
-(914) 366-6329  
+(914) 366-6386    
 
 **Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
