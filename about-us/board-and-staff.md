@@ -152,10 +152,8 @@ University Archivist, Harvard University Archives
 **Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 
-**Liesel Vink**, Visuals Editor & Archivist  
-(914) 366-6312  
-
 **Andrea Cadornigara**, Project Associate   
+(914) 366-6362
 
 ### Operations
 
