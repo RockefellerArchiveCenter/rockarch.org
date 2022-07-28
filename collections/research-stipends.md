@@ -20,7 +20,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 
 **Important dates and deadlines:**
 
--   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 15**.
+-   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 14**.
 -	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
 -	Two letters of recommendation are due by **November 22**.
 -	Awards are announced by **February 28**.
