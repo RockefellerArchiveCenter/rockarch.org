@@ -82,7 +82,7 @@ transportation to and from RAC for the following trains:
 - Departs Tarrytown 5:42 p.m. (Car Service leaves RAC at 5:15 p.m.) Arrives Grand Central 6:42 p.m
 
 The train schedule may be subject to change, so be sure to check the
-[Metro-North web site](http://www.mta.info) to verify departure times.
+[Metro-North web site](https://www.mta.info) to verify departure times.
 If you come on a different train or miss the RAC shuttle van, there is a taxi
 stand at the Tarrytown station.
 
