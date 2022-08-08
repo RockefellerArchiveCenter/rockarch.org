@@ -16,7 +16,7 @@ Applications are reviewed by an independent committee that considers an applican
 
 ## How to Apply for an RAC Research Stipend
 
-In order to be eligible for a stipend, potential applicants must contact an RAC archivist by October 15 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
+In order to be eligible for a stipend, potential applicants must contact an RAC archivist by October 14 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
 
 **Important dates and deadlines:**
 
