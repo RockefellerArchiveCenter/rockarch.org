@@ -5,7 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert">
-The next deadline for submission of applications to the RAC Research Stipend awards program will be November 1, 2022 for awards in spring 2023. The application form will be available in late August, 2022.
+The next deadline for submission of applications to the RAC Research Stipend awards program will be November 1, 2022 for awards in spring 2023. 
 </div>
 
 ## About the RAC Stipend Program
@@ -25,7 +25,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 -	Two letters of recommendation are due by **November 22**.
 -	Awards are announced by **February 28**.
 
-Please note - the next deadline for submission will be in Fall 2022 for awards in Spring 2023. The application form will be available in late August, 2022.
+Apply here: https://rockarch.dreamapply.com/
 
 ## After Receiving an RAC Research Stipend
 
