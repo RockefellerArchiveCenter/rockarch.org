@@ -94,11 +94,10 @@ A legitimate interest to ensure system compatibility and performance, improve ou
 Storage: Log files are stored primarily on internal RAC systems for 1 year. Matomo Analytics data is anonymized and stored by Matomo Analytics Cloud by InnoCraft in Germany for 14 months.
 
 #### Matomo Analytics
-All Rockefeller Archive Center websites use Matomo Analytics to gather anonymized, aggregated data about how people use our sites. The data collected in Matomo is used only for the measurement and evaluation of website use and performance and not for advertising or other purposes. We anonymize IP addresses in our analytics implementation, so your IP address is not stored. You can opt out of analytics tracking at any time.
+All Rockefeller Archive Center websites use Matomo Analytics to gather anonymized, aggregated data about how people use our sites. The data collected in Matomo is used only for the measurement and evaluation of website use and performance and not for advertising or other purposes. We anonymize IP addresses in our analytics implementation, so your IP address is not stored. You can opt out of analytics tracking at any time:
 
-##### Opt out of Analytics Tracking
 <iframe
-  style="border: 0; height: 200px; width: 100%;"
+  style="border: 1px solid; height: 100%; width: 100%;"
   src="https://rockarch.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=ffffff&fontColor=2f2f2f&fontSize=16px&fontFamily=Manuale">
 </iframe>
 
