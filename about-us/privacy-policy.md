@@ -81,7 +81,7 @@ Storage:
 Internal RAC systems and [DreamApply](https://help.dreamapply.com/knowledge-base/dreamapply-privacy-policy-guidelines/) application management platform servers. Applications that we do not fund are kept only until the grant cycle is complete, or up to 1 year. Records of applicants that we fund are stored permanently, with personal financial information removed.
 
 ### Using any of our websites
-When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third party service tools. RE:Source ([resource.rockarch.org](https://resource.rockarch.org)) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
+When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third party service tools. [RE:Source](https://resource.rockarch.org) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
 
 This data can include:
 - Contact details (address, email, phone)
@@ -91,7 +91,7 @@ This data can include:
 Legal basis:
 A legitimate interest to ensure system compatibility and performance, improve our understanding of our users’ needs, and protect the security of our systems. When signing up for our newsletter or listserv, you are giving consent for us to use and store your personal information to email you as requested. This Policy does not apply to any data collected by other organizations and sites that we link to from our sites and over which we have no control.
 
-Storage: Log files are stored primarily on internal RAC systems for 1 year. Matomo data is anonymized and stored by Matomo Cloud by InnoCraft in Germany for 14 months.
+Storage: Log files are stored primarily on internal RAC systems for 1 year. Matomo raw user data is anonymized and stored by Matomo Cloud by InnoCraft in Germany for 180 days.
 
 #### Matomo Analytics
 All Rockefeller Archive Center websites use Matomo to gather anonymized, aggregated data about how people use our sites. The data collected in Matomo is only used for the measurement and evaluation of website use and performance and not for advertising or other purposes. We anonymize IP addresses in our analytics implementation and do not process any personal data; you can opt out of analytics tracking at any time:
