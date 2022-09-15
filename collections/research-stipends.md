@@ -22,7 +22,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 
 -   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 14**.
 -	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
--	Two letters of recommendation are due by **November 22**.
+-	Two letters of recommendation are due by **November 22** to [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org).
 -	Awards are announced by **February 28**.
 
 Apply here: [https://rockarch.dreamapply.com/](https://rockarch.dreamapply.com/)
@@ -47,7 +47,7 @@ Anyone can apply for an Ehrlich stipend, regardless of country of origin. Please
 
 Potential applicants for an Ehrlich stipend should contact the RAC at [archive@rockarch.org](mailto:archive@rockarch.org) with an initial description of the proposed research and indicating that the inquiry is for the purposes of applying for an Ehrlich stipend. RAC staff will respond with a description of relevant archival materials and an estimate of time necessary to complete the research.
 
-Applicants should submit a formal request to be considered for an Ehrlich stipend by writing to [RACgrants@rockarch.org](mailto:RACgrants@rockarch.org). An application may be made at any time and should include two letters of recommendation. Awards will be made within one month of the RAC receiving both letters of recommendation.
+Applicants should submit a formal request to be considered for an Ehrlich stipend by writing to [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org). An application may be made at any time and should include two letters of recommendation. Awards will be made within one month of the RAC receiving both letters of recommendation.
 
 Stipend recipients must commence their research at the RAC within one year of being notified of the award.
 
