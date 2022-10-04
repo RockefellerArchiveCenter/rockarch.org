@@ -57,11 +57,16 @@ to email you with as much advanced notice of the closure as possible.
 
 ## Amenities
 
-Since the RAC is not located near restaurants or stores, we encourage
-researchers to bring their own lunches. We have a researcher lounge with a
-refrigerator and microwave. We also provide assorted cold beverages as
-well as tea and coffee. WiFi is available throughout the RAC.
+Since the RAC is not located near restaurants or stores, we encourage researchers
+to bring their own lunches. We have a researcher lounge with a refrigerator,
+toaster oven, and microwave. We also provide assorted cold beverages, tea and
+coffee, and individually packaged snacks.
 
+Several food delivery apps also deliver to the RAC, including UberEats, GrubHub,
+and DoorDash. Researchers are welcome to order lunch from those services for
+delivery to the RAC's address: 15 Dayton Avenue, Sleepy Hollow New York 10591.
+
+WiFi is available throughout the RAC.
 
 ## How to Get to the RAC
 
