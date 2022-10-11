@@ -223,13 +223,14 @@ html {
     background-size: cover;
     margin-bottom: $gutters-default;
     margin-right: $gutters-default * 2;
+    text-decoration: none;
+    &:focus {
+      text-decoration: underline;
+    }
     @media screen and (min-width: $break-md) {
       @include grid-column(6);
       margin-right: 0;
       padding: 27px 64px 40px 25px;
-    }
-    &:hover {
-      text-decoration: none;
     }
     h2 {
       font-family: $sans-serif-stack;
@@ -279,6 +280,13 @@ html {
       box-sizing: border-box;
       margin-bottom: 54px;
     }
+  }
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+
   }
   img {
     height: 60px;
@@ -431,8 +439,9 @@ section {
   box-sizing: border-box;
   padding: 18px 20px;
   width: 100%;
-  &:hover {
-    text-decoration: none;
+  text-decoration: none;
+  &:focus {
+    text-decoration: underline;
   }
   @media screen and (min-width: $break-md) {
     @include grid-column(6);

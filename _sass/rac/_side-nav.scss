@@ -37,13 +37,12 @@
       color: $pure-white;
       font-size: 14px;
       line-height: 17px;
+      text-decoration: none;
       &:focus {
         outline: 2px solid $pure-white;
-        text-decoration: none;
       }
       &:hover {
         cursor: pointer;
-        text-decoration: none;
       }
       &:not(:last-child) {
         margin-bottom: 20px;
