@@ -23,7 +23,7 @@ Visitors are always welcome to [contact us](#contact-us) with any questions.
 
 ### Entrances
 
-- The Main House front circle entrance includes two steps leading to a double door which opens manually with a round doorknob. The double door has a clear opening of 53”. A portable ADA-complaint ramp is available to enable access. [Advance notice](#contact-us) is requested for ramp installation.
+- The Main House front circle entrance includes two steps leading to a double door which opens manually with a round doorknob. The double door has a clear opening of 53”. A portable ADA-complaint ramp is available to enable access. [Advance notice is requested](#contact-us) for ramp installation.
 - The Carriage House entrance consists of a stone walkway with a small step at the start of the walkway and an additional step and raised sill at the entrance door. The entrance door has a narrow opening of 30 ½”.
 
 ### Reading Rooms and Other Public Spaces
@@ -31,12 +31,12 @@ Visitors are always welcome to [contact us](#contact-us) with any questions.
 The Reading Rooms for researchers are located on the 2nd floor, up one flight of stairs from the Main House entrance and accessible by [elevator](#elevators).
 - Reading Room desks have a height of 30”. Adjustable-height desks are available in the Reading Rooms and can be provided [upon request](#contact-us).
 - The Researcher Lounge is located on the 1st floor and is used primarily as a break and lunchroom. The Researcher Lounge can be difficult to maneuver in a wheelchair because it is a small space with a narrow door opening of 31 ½”.
-- The Conference Room is often used to host groups of visitors; it is located on the 1st floor with two steps down to the entrance. A portable ramp is available to enable access; [advance notice](#contact-us) is requested for installation.
+- The Conference Room is often used to host groups of visitors; it is located on the 1st floor with two steps down to the entrance. A portable ramp is available to enable access; [advance notice is requested](#contact-us) for installation.
 - There is an accessible bathroom on the 1st floor in the foyer next to the Main House front entrance. 
 
 ### Elevators
 
-- The elevators do not conform to all ADA requirements. They may be too small for some wheelchairs and mobility scooters, buttons and doorknobs may be too high to reach while seated, and the entrances include manual doors with round doorknobs. The carriages do not contain handrails, braille, or audible signals of floors passing/stops.
+The elevators do not conform to all ADA requirements. They may be too small for some wheelchairs and mobility scooters, buttons and doorknobs may be too high to reach while seated, and the entrances include manual doors with round doorknobs. The carriages do not contain handrails, braille, or audible signals of floors passing/stops.
 - The Main House has an elevator that visitors can use to access the basement level, the 1st floor, and 2nd floor. The door’s opening is 32”, and the cab dimensions are 38 ½” L x 53” W x 90” H.  The elevator is accessed with a round doorknob which is 35” from the floor and it contains an emergency call box.
 - The Carriage House has an elevator that visitors can use to access the 2nd floor. The door’s opening is 28”, and the cab dimensions are 40” L x 40” W x 80” H. The elevator is accessed with a round doorknob which is 38” from the floor and it contains an emergency call box.
 - The RAC provides a wheelchair that fits within the Main House elevator. [Advance notice is requested](#contact-us) so that it can be made available to visitors upon arrival.
@@ -71,6 +71,19 @@ The RAC relies on the following technologies to work with the specific combinati
 - [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/)
 - JavaScript
 - SVG
+
+### Assistive Technology and Browser Compatibility
+
+The RAC tests its websites primarily in Chrome, Firefox, and Safari with [NVDA](https://www.nvaccess.org/download/) and [VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac), with plans for a more comprehensive audit including testing with [JAWS](https://www.freedomscientific.com/products/software/jaws/).
+
+### RAC Digital Accessibility Tools
+
+- Use semantic HTML, skip links, landmark areas, descriptive page titles, ordered headings, and alternative descriptions for non-text elements to support assistive technology.
+- Enable preferences for a reduced animation experience.
+- Develop open-source systems to allow for public review and requests for modification of the code.
+- Provide staff training to support accessible website design, development, and maintenance.
+- Run automated and manual checks to test for accessibility issues.
+- Standardize [website styles](https://styles.rockarch.org/) across our sites to enable a consistent user experience.
 
 ## Contact Us
 
