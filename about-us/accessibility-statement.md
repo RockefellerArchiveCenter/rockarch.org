@@ -23,10 +23,10 @@ Visitors are always welcome to [contact us](#contact-us) with any questions.
 
 ### Entrances
 
-- The Main House front circle entrance includes two steps leading to a double door which opens manually with a round doorknob. The double door has a clear opening of 53”. A portable ADA-complaint ramp is available to enable access. [Advance notice]((#contact-us)) is requested for ramp installation.
+- The Main House front circle entrance includes two steps leading to a double door which opens manually with a round doorknob. The double door has a clear opening of 53”. A portable ADA-complaint ramp is available to enable access. [Advance notice](#contact-us) is requested for ramp installation.
 - The Carriage House entrance consists of a stone walkway with a small step at the start of the walkway and an additional step and raised sill at the entrance door. The entrance door has a narrow opening of 30 ½”.
 
-### Reading Rooms and Other Public Spaces 
+### Reading Rooms and Other Public Spaces
 
 The Reading Rooms for researchers are located on the 2nd floor, up one flight of stairs from the Main House entrance and accessible by [elevator](#elevators).
 - Reading Room desks have a height of 30”. Adjustable-height desks are available in the Reading Rooms and can be provided [upon request](#contact-us).
@@ -34,7 +34,7 @@ The Reading Rooms for researchers are located on the 2nd floor, up one flight of
 - The Conference Room is often used to host groups of visitors; it is located on the 1st floor with two steps down to the entrance. A portable ramp is available to enable access; [advance notice](#contact-us) is requested for installation.
 - There is an accessible bathroom on the 1st floor in the foyer next to the Main House front entrance. 
 
-### Elevators 
+### Elevators
 
 - The elevators do not conform to all ADA requirements. They may be too small for some wheelchairs and mobility scooters, buttons and doorknobs may be too high to reach while seated, and the entrances include manual doors with round doorknobs. The carriages do not contain handrails, braille, or audible signals of floors passing/stops.
 - The Main House has an elevator that visitors can use to access the basement level, the 1st floor, and 2nd floor. The door’s opening is 32”, and the cab dimensions are 38 ½” L x 53” W x 90” H.  The elevator is accessed with a round doorknob which is 35” from the floor and it contains an emergency call box.
@@ -76,5 +76,5 @@ The RAC relies on the following technologies to work with the specific combinati
 
 How can we be more accessible? Please send an e-mail to [archive@rockarch.org](mailto:archive@rockarch.org) or call 914-366-6300 with feedback or with requests for more information or accommodation.
 
-Statement reviewed annually by [RAC Operations](/about-us/board-and-staff#operations).
+Statement reviewed annually by RAC Operations.  
 Last updated: October 11, 2022
