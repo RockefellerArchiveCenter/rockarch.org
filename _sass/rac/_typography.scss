@@ -85,15 +85,15 @@ h4 {
 }
 
 a {
-  font-weight: 700;
+  font-weight: $font-weight-normal;
   color: $burnt-orange;
-  text-decoration: none;
+  text-decoration: underline;
   transition: $transition-default;
   &:focus {
     text-decoration: underline;
   }
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: $red-orange;
     cursor: pointer;
   }
@@ -132,9 +132,9 @@ small {
   margin-bottom: 10px;
   a {
     text-decoration: underline;
-    font-weight: $font-weight-normal;
     &:hover {
       color: $burnt-orange;
+      text-decoration: none;
       transition: $transition-default;
     }
   }
