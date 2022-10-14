@@ -112,9 +112,6 @@ University Archivist, Harvard University Archives
 **Monica Blank**, Archivist  
 (914) 366-6317  
 
-**Kanisha Greaves**, Archivist  
-(914) 366-6336  
-
 **Kathleen Leonard**, Archivist  
 (914) 366-6307  
 
