@@ -27,8 +27,7 @@ Contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch
 
 ## How to Research at the RAC
 
-Anyone can conduct research at the RAC. If we have archival materials that can be
-useful to your research topic, you are welcome here.
+Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
 
 Because of limited seating capacity, researchers need an appointment in order to
 conduct in-person research in the RAC’s Reading Room. Contact the RAC Reference
@@ -41,6 +40,8 @@ our online request and duplication management system.
 Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
 
 As with our archival materials, [Library materials](https://library.rockarch.org) are non-circulating and are only available in the RAC’s reading rooms.
+
+For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
 
 ## When We’re Open
 
@@ -109,6 +110,9 @@ and procedures and get you ready to work in the reading room, and if you would
 like, we can chat further about your project and the archival collections.
 
 ## What You Can Expect When You Get Here
+
+For more details about the accessibility of the physical space, see our
+[Accessibility Statement](/about-us/accessibility).
 
 When you arrive on the first day of your scheduled research visit, you will be
 greeted and brought up to the reading room.

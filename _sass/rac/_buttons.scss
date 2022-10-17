@@ -14,6 +14,7 @@
   color: $pure-white;
   background: $deep-navy;
   opacity: 0.8;
+  text-decoration: none;
   transition: $transition-default;
   &:after {
         content: '\00a0>';
@@ -23,6 +24,7 @@
     cursor:pointer;
     transition: $transition-default;
     color: $pure-white;
+    text-decoration: underline;
   }
   @media screen and (min-width: $break-md) {
     padding: 20px;
@@ -67,9 +69,11 @@
   text-align: left;
   color: $deep-navy;
   margin-bottom: 0px;
+  text-decoration: none;
   &:hover {
     background: $light-blue;
     color: inherit;
+    text-decoration: underline;
     transition: $transition-default;
     cursor: pointer;
   }
