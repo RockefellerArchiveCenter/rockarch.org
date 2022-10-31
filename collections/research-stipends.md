@@ -54,4 +54,4 @@ Stipend recipients must commence their research at the RAC within one year of be
 ### Stipend Through the Consortium for History of Science, Technology, and Medicine
 
 The Rockefeller Archive Center is part of the [Consortium for History of Science, Technology, and Medicine](https://www.chstm.org/), which has a [fellowship program](https://www.chstm.org/fellowships/chstm-fellowships)
-offering support for research across the scholarly collections of the consortium. Please see the Consortium’s website for more details.  Please note that special fellowships are available through the Consortium for researchers from Brazil, India and South Africa.
+offering support for research across the scholarly collections of the consortium. Please see the Consortium’s website for more details.  
