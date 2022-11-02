@@ -5,7 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert">
-The next deadline for submission of applications to the RAC Research Stipend awards program will be November 1, 2022 for awards in spring 2023. 
+The current Research Stipend application cycle is closed. Please check back in early 2023 for information about applying for a 2024 stipend. 
 </div>
 
 ## About the RAC Stipend Program
@@ -25,7 +25,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 -	Two letters of recommendation are due by **November 22** to [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org).
 -	Awards are announced by **February 28**.
 
-Apply here: [https://rockarch.dreamapply.com/](https://rockarch.dreamapply.com/)
+Check in early 2023 for information about the next application cycle.
 
 ## After Receiving an RAC Research Stipend
 
