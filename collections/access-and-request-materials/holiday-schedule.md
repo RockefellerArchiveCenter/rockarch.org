@@ -9,9 +9,9 @@ permalink: /collections/access-and-request-materials/holiday-schedule/
 The Rockefeller Archive Center (RAC) is closed on the following days:
 
 - January: Martin Luther King, Jr. Day - Monday, January 16, 2023
-- February: Presidents' Day - Monday, February 13, 2023
-- May: Memorial Day - Monday, May 30, 2022; Monday, May 29, 2023
-- June: Juneteenth - Monday, June 20, 2022; Monday, June 19, 2023
+- February: Presidents' Day - Monday, February 20, 2023
+- May: Memorial Day - Monday, May 29, 2023
+- June: Juneteenth - Monday, June 19, 2023
 - July: Independence Day - Monday, July 4, 2022
 - September: Labor Day - Monday, September 5, 2022
 - October: Indigenous Peoples' Day - Monday, October 10, 2022
