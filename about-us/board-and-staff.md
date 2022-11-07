@@ -57,23 +57,23 @@ University Archivist, Harvard University Archives
 **Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 
-**Brent Phillips**, Archivist (Audiovisual)  
-(914) 366-6324  
-
-**Margaret Hogan Snyder**, Archivist (Appraisal)  
-(914) 366-6357  
-
-**Jenna Fleming**, Archivist  
-(914) 366-6321  
-
-**Erich Chang**, Assistant Archivist  
+**Erich Chang**, Archivist  
 (914) 366-6351  
 
-**Emeline Swanson**, Archival Assistant  
-(914) 366-6364  
+**Jenna Fleming**, Archivist  
+(914) 366-6321 
+
+**Brent Phillips**, Archivist (Audiovisual)  
+(914) 366-6324
+
+**Margaret Hogan Snyder**, Archivist (Appraisal)  
+(914) 366-6357
 
 **Reuben Slater**, Archival Assistant  
 (914) 366-6304  
+
+**Emeline Swanson**, Archival Assistant  
+(914) 366-6364  
 
 #### Processing
 
@@ -115,11 +115,11 @@ University Archivist, Harvard University Archives
 **Kanisha Greaves**, Archivist  
 (914) 366-6336  
 
+**Kathleen Leonard**, Archivist  
+(914) 366-6307  
+
 **Renee Pappous**, Archivist  
 (914) 366-6355  
-
-**Kathleen Leonard**, Assistant Archivist  
-(914) 366-6307  
 
 **Brian Andreycak**, Archival Assistant  
 (914) 366-6325  
@@ -133,10 +133,7 @@ University Archivist, Harvard University Archives
 (914) 366-6382  
 
 **Patrick Galligan**, Digital Archivist  
-(914) 366-6386  
-
-**Bonnie Gordon**, Digital Archivist  
-(914) 366-6329  
+(914) 366-6386    
 
 **Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
@@ -155,10 +152,8 @@ University Archivist, Harvard University Archives
 **Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 
-**Liesel Vink**, Visuals Editor & Archivist  
-(914) 366-6312  
-
 **Andrea Cadornigara**, Project Associate   
+(914) 366-6362
 
 ### Operations
 

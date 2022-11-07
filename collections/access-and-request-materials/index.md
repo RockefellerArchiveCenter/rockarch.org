@@ -79,8 +79,8 @@ York City to Tarrytown on the Metro-North Hudson Line. If you’ve made
 prior arrangements with the Reference team, the RAC will provide
 transportation to and from RAC for the following trains:
 
-- Departs Grand Central 9:00 a.m. Arrives Tarrytown 9:49 a.m.
-- Departs Tarrytown 5:37 p.m. (Car Service leaves RAC at 5:15 p.m.) Arrives Grand Central 6:42 p.m
+- Departs Grand Central 9:00 a.m. Arrives Tarrytown 9:46 a.m.
+- Departs Tarrytown 5:42 p.m. (Car Service leaves RAC at 5:15 p.m.) Arrives Grand Central 6:42 p.m
 
 The train schedule may be subject to change, so be sure to check the
 [Metro-North web site](https://www.mta.info) to verify departure times.
