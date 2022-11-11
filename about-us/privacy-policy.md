@@ -81,7 +81,7 @@ Storage:
 Internal RAC systems and [DreamApply](https://help.dreamapply.com/knowledge-base/dreamapply-privacy-policy-guidelines/) application management platform servers. Applications that we do not fund are kept only until the grant cycle is complete, or up to 1 year. Records of applicants that we fund are stored permanently, with personal financial information removed.
 
 ### Using any of our websites
-When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third party service tools. RE:Source ([resource.rockarch.org](https://resource.rockarch.org)) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use Google Analytics.
+When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third party service tools. [RE:Source](https://resource.rockarch.org) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
 
 This data can include:
 - Contact details (address, email, phone)
@@ -91,15 +91,20 @@ This data can include:
 Legal basis:
 A legitimate interest to ensure system compatibility and performance, improve our understanding of our users’ needs, and protect the security of our systems. When signing up for our newsletter or listserv, you are giving consent for us to use and store your personal information to email you as requested. This Policy does not apply to any data collected by other organizations and sites that we link to from our sites and over which we have no control.
 
-Storage: Log files are stored primarily on internal RAC systems for 1 year. Google analytics data is anonymized and stored on Google servers for 14 months.
+Storage: Log files are stored primarily on internal RAC systems for 1 year. Matomo raw user data is anonymized and stored by Matomo Cloud by InnoCraft in Germany for 180 days.
 
-#### Google Analytics
-All Rockefeller Archive Center websites use Google Analytics to gather anonymized, aggregated data about how people use our sites. Google Analytics uses a browser cookie that is placed on your device to gather data related to your activity. We anonymize IP addresses in our analytics implementation, so your IP address is not stored in Google servers. We do not use Google Advertising Features, so no demographic data is made available to us. However, if you log into a Google Account while using our websites, that can enable additional data tracking by Google. You can opt out by deleting and turning off cookies in the preferences settings of your browser, or by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). You can [learn more about how Google uses your data](https://policies.google.com/technologies/partner-sites) from Google.
+#### Matomo Analytics
+All Rockefeller Archive Center websites use Matomo to gather anonymized, aggregated data about how people use our sites. The data collected in Matomo is only used for the measurement and evaluation of website use and performance and not for advertising or other purposes. We anonymize IP addresses in our analytics implementation and do not process any personal data; you can opt out of analytics tracking at any time:
+
+<iframe
+  style="border: 1px solid; height: 100%; width: 100%;"
+  src="https://rockarch.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=ffffff&fontColor=2f2f2f&fontSize=16px&fontFamily=Manuale">
+</iframe>
 
 ## Cookie notice
 When you access websites and use services online, sometimes those sites place a small data file on your device called a cookie. Some cookies are essential for a webpage to function properly or they improve its functioning, and others provide reporting information.
 
-We use first-party session cookies on some web pages to improve the experience of using our sites. These are deleted when the browser is closed, and do not store any information that will personally identify you. We also include links to external sites like social media sharing that will place cookies on your device. We use third-party cookies including statistical cookies from Google Analytics to gather information to improve our websites and enable certain functions. We do not use advertising cookies. Read more about [how Google uses cookies](https://policies.google.com/technologies/cookies?hl=en) and access [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en).
+We use first-party session cookies on some web pages to improve the experience of using our sites. These are deleted when the browser is closed, and do not store any information that will personally identify you. We also include links to external sites like social media sharing that will place cookies on your device. We do not use advertising cookies.
 
 You can [block, manage, and delete cookies](https://www.consumer.ftc.gov/articles/0042-online-tracking) yourself at any time.
 
@@ -117,5 +122,5 @@ Contact: [archive@rockarch.org](mailto:archive@rockarch.org)
 ## Changes to this policy
 We will review this Policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
 
-Last updated August 1, 2020
+Last updated November 1, 2022
 
