@@ -154,8 +154,10 @@ contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch
 The RAC may decline to copy certain documents that in its judgment may
 suffer damage as a result of duplication.
 
-Duplication is done on a first-come, first-served basis. We strive to complete
-all duplication requests within 60 days.
+PLEASE NOTE: Because of increased demand for duplication services caused by the 
+pandemic and our re-opening to onsite researchers, we are currently experiencing 
+a greater than normal delay in fulfilling requests. We thank you for your patience 
+as we work to reduce the backlog and complete orders in as timely a manner as possible.
 
 ### PDFs or TIFF/JPEG images
 Duplication requests are limited to 500 pages/images per order.
