@@ -103,7 +103,7 @@ University Archivist, Harvard University Archives
 
 #### Reference
 
-**Michele Hiltzik Beckerman**, Assistant Director for Reference  
+**Michele Beckerman**, Assistant Director for Reference  
 (914) 366-6342  
 
 **Bethany Antos**, Archivist  
