@@ -11,13 +11,10 @@ sidebar:
 
 <div class="alert">
   <span class="material-icons">error_outline</span>
-  The Rockefeller Archive Center reading rooms will reopen to
-  researchers on a limited capacity basis on April 4, 2022. Researchers
+  The Rockefeller Archive Center reading room is now open to researchers. Researchers
   should contact
   <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
-  to schedule an appointment. All researchers and visitors to the
-  Rockefeller Archive Center must review and comply with our
-  <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a>.
+  to schedule an appointment. Please review the Rockefeller Archive Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a>.
 </div>
 
 ## How to Contact Us
