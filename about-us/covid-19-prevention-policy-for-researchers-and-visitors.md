@@ -38,17 +38,7 @@ Valid Identification includes your name accompanied by a photograph OR your date
 - Passport
 - School ID card
 
-## Mask-Wearing Requirement
 
-The RAC will require all researchers and visitors to wear masks while traveling throughout the buildings, when attending meetings of any kind, and while in the RAC Reading Rooms. Masks are required while gathering in common areas and should only be removed for eating or drinking. Researchers and visitors will be allowed to take mask breaks throughout the day in a designated area of the building.
-
-Researchers and visitors may use their own acceptable face coverings, see CDC face covering guidance; however, the RAC will provide acceptable face coverings if necessary. These items will be stocked throughout the buildings.
-
-## Occupancy Limits
-
-Researchers and visitors are encouraged and expected to maintain distance between themselves and others in shared spaces and hallways.
-
-Seating has been adjusted in common areas such as the dining room, conference rooms, researcher lounge, and blue room. The RAC will still ask researchers and visitors to maintain distance between themselves and others within these and other common areas; however, more than one person at a time will be allowed in these spaces.
 
 ## Requests for Accommodations
 
