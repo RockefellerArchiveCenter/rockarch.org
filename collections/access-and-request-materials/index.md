@@ -14,7 +14,7 @@ sidebar:
   The Rockefeller Archive Center reading room is now open to researchers. Researchers
   should contact
   <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
-  to schedule an appointment. Please review the Rockefeller Archive Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a>.
+  to schedule an appointment. Please review the Rockefeller Archive Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> prior to your visit.
 </div>
 
 ## How to Contact Us
