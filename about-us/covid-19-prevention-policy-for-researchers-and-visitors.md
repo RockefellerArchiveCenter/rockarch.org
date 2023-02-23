@@ -19,7 +19,6 @@ Prior to admission to the RAC, all researchers and visitors must:
 - Certify that they have not tested positive for COVID-19 in the past 10 days; and
 - Certify that they have not experienced any symptoms of COVID-19 in the past 10 days.
 
-In addition, researchers who have traveled outside of the United States within five (5) days of their scheduled visit, must additionally provide a negative COVID-19 test approved by the CDC or the NYS Department of Health.
 
 ## Procedures for Researchers
 
