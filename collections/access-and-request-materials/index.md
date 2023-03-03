@@ -43,7 +43,7 @@ For more details about the accessibility of the physical space, see our [Accessi
 ## When We’re Open
 
 The RAC is currently only operating one Reading Room, with limited seating capacity,
-which is open Monday through Friday from 10:00 am to 5:00 pm, except for
+which is open Monday through Friday from 9:00 am to 5:00 pm, except for
 [designated holidays](holiday-schedule/).
 
 Inclement weather can sometimes require the RAC to close for the safety of
@@ -82,8 +82,8 @@ City to Tarrytown on the Metro-North Hudson Line.
 The RAC provides complimentary car service transportation to and from RAC for
 the following trains:
 
-- Departs Grand Central 8:59 a.m. Arrives Tarrytown 9:46 a.m.
-  - Car service leaves the Tarrytown station for the RAC promptly at 9:55 am.
+- Departs Grand Central 8:15 a.m. Arrives Tarrytown 9:09 a.m.
+  - Car service leaves the Tarrytown station for the RAC promptly at 9:15 am.
     Driver will be holding a sign indicating which car is for the Rockefeller
     Archive Center.
 - Departs Tarrytown 5:42 p.m. Arrives Grand Central 6:42 p.m
