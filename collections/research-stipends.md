@@ -39,7 +39,7 @@ In order to be reimbursed for travel and accommodation expenses, stipend recipie
 
 ## Related Stipend Programs
 
-### The Commonwealth Fund’s Paul Engel Memorial Award Program
+## The Commonwealth Fund’s Paul Engel Memorial Award Program
 
 This award honors the memory of Paul Engel, director and curator of the Fund’s Harkness House from 2003 until his death in 2022. It provides individuals with up to $5,000 to reimburse travel and accommodation expenses for short-term research in the RAC’s Commonwealth Fund collections.
 
@@ -51,7 +51,7 @@ Applicants may then submit a formal request for consideration at [RACstipend@ro
 
 The Fund has established the Paul Engel Memorial Award Program with an initial grant of $25,000. The RAC will accept additional donations in support of the program. If you would like to make a gift in honor of Paul, please contact [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org) for more information. 
 
-### Special Stipend to Support Research in the Paul Ehrlich Collection
+## Special Stipend to Support Research in the Paul Ehrlich Collection
 
 The RAC has available funds to provide individuals (not institutions) up to $4,000 for reimbursement of travel and accommodation expenses to support short-term research in the Paul Ehrlich Collection, an important archive documenting the life and scientific research of Nobel Laureate Paul Ehrlich (1854-1915).
 
@@ -63,7 +63,7 @@ Applicants should submit a formal request to be considered for an Ehrlich stipen
 
 Stipend recipients must commence their research at the RAC within one year of being notified of the award.
 
-### Stipend Through the Consortium for History of Science, Technology, and Medicine
+## Stipend Through the Consortium for History of Science, Technology, and Medicine
 
 The Rockefeller Archive Center is part of the [Consortium for History of Science, Technology, and Medicine](https://www.chstm.org/), which has a [fellowship program](https://www.chstm.org/fellowships/chstm-fellowships)
 offering support for research across the scholarly collections of the consortium. Please see the Consortium’s website for more details.  
