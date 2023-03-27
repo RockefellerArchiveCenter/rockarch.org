@@ -5,7 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert">
-The current Research Stipend application cycle is closed. Please check back in early 2023 for information about applying for a 2024 stipend. 
+The current Research Stipend application cycle is closed. Please check back in summer 2023 for information about applying for a 2024 stipend. And please scroll down to read about our other stipend programs, which have different deadlines than the annual Research Stipend.
 </div>
 
 ## About the RAC Stipend Program
@@ -20,7 +20,7 @@ In order to be eligible for a stipend, potential applicants must contact an RAC 
 
 **Important dates and deadlines:**
 
--   Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 14**.
+- Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 14**.
 -	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
 -	Two letters of recommendation are due by **November 22** to [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org).
 -	Awards are announced in **March**.
