@@ -4,3 +4,7 @@ _site
 .jekyll-cache
 .Gemfile.lock
 .DS_Store
+
+# BackstopJS
+backstop_data/html_report/
+bitmaps_test/
