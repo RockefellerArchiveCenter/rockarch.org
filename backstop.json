@@ -88,6 +88,10 @@
     {
       "label": "Access And Request",
       "url": "http://127.0.0.1:4000/collections/access-and-request-materials/"
+    },
+    {
+      "label": "Board and Staff",
+      "url": "http://127.0.0.1:4000/about-us/board-and-staff/"
     }
   ],
   "paths": {
