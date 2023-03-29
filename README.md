@@ -22,6 +22,17 @@ Run the development server
 
 You'll see some messages appear, and should be able to view the site in a web browser at `http://localhost:4000/`
 
+## Visual regression testing
+
+The repository includes [BackstopJS](https://github.com/garris/BackstopJS) to test visual changes to the site by comparing a set of reference images for different screen sizes. Anytime the CSS styles are changed, use BackstopJS to test locally:
+
+1. Run the site locally.
+2. Run the BackstopJS tests using `backstop test`.
+3. Review the results in the browser and look at the diff of any failed tests.
+4. If the tests looks good, approve them to update the reference image files with the results of the last test using `backstop approve`.
+5. Commit any updated reference images to the repository so that future tests will be compared against the most recent images.
+
+To add or update reference images, edit the scenarios in `backstop.json` and run `backstop reference`.
 
 ## Contributing
 
