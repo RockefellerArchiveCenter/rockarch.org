@@ -25,15 +25,68 @@
       "url": "http://localhost:4000/"
     },
     {
-      "label": "AboutUs",
+      "label": "Navigation Disclosure",
+      "url": "http://localhost:4000/",
+      "clickSelector": "ul.disclosure-nav > li > button",
+      "viewports": [
+        {
+          "label": "tablet",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "label": "desktop",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "label": "Navigation Button Mobile",
+      "url": "http://localhost:4000/",
+      "clickSelector": "#nav-toggle",
+      "viewports": [
+        {
+          "label": "phone",
+          "width": 320,
+          "height": 480
+        }
+      ]
+    },
+    {
+      "label": "Navigation Disclosure Mobile",
+      "url": "http://localhost:4000/",
+      "clickSelectors": ["#nav-toggle", "ul.disclosure-nav > li > button"],
+      "viewports": [
+        {
+          "label": "phone",
+          "width": 320,
+          "height": 480
+        }
+      ]
+    },
+    {
+      "label": "About Us",
       "url": "http://127.0.0.1:4000/about-us/"
     },
     {
-      "label": "ProgramAreas",
+      "label": "Program Areas",
       "url": "http://127.0.0.1:4000/about-us/program-areas/"
     },
     {
-      "label": "AccessAndRequest",
+      "label": "Table of Contents Mobile",
+      "url": "http://127.0.0.1:4000/about-us/program-areas/",
+      "clickSelector": "button.nav-toggle",
+      "viewports": [
+        {
+          "label": "phone",
+          "width": 320,
+          "height": 480
+        }
+      ]
+    },
+    {
+      "label": "Access And Request",
       "url": "http://127.0.0.1:4000/collections/access-and-request-materials/"
     }
   ],
