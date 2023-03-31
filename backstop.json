@@ -22,11 +22,13 @@
   "scenarios": [
     {
       "label": "Homepage",
-      "url": "http://localhost:4000/"
+      "url": "http://host.docker.internal:4000/",
+      "delay": 3000
     },
     {
       "label": "Navigation Disclosure",
-      "url": "http://localhost:4000/",
+      "url": "http://host.docker.internal:4000/",
+      "delay": 3000,
       "clickSelector": "ul.disclosure-nav > li > button",
       "viewports": [
         {
@@ -43,7 +45,8 @@
     },
     {
       "label": "Navigation Button Mobile",
-      "url": "http://localhost:4000/",
+      "url": "http://host.docker.internal:4000/",
+      "delay": 3000,
       "clickSelector": "#nav-toggle",
       "viewports": [
         {
@@ -55,7 +58,8 @@
     },
     {
       "label": "Navigation Disclosure Mobile",
-      "url": "http://localhost:4000/",
+      "url": "http://host.docker.internal:4000/",
+      "delay": 3000,
       "clickSelectors": ["#nav-toggle", "ul.disclosure-nav > li > button"],
       "viewports": [
         {
@@ -67,15 +71,15 @@
     },
     {
       "label": "About Us",
-      "url": "http://127.0.0.1:4000/about-us/"
+      "url": "http://host.docker.internal:4000/about-us/"
     },
     {
       "label": "Program Areas",
-      "url": "http://127.0.0.1:4000/about-us/program-areas/"
+      "url": "http://host.docker.internal:4000/about-us/program-areas/"
     },
     {
       "label": "Table of Contents Mobile",
-      "url": "http://127.0.0.1:4000/about-us/program-areas/",
+      "url": "http://host.docker.internal:4000/about-us/program-areas/",
       "clickSelector": "button.nav-toggle",
       "viewports": [
         {
@@ -87,11 +91,11 @@
     },
     {
       "label": "Access And Request",
-      "url": "http://127.0.0.1:4000/collections/access-and-request-materials/"
+      "url": "http://host.docker.internal:4000/collections/access-and-request-materials/"
     },
     {
       "label": "Board and Staff",
-      "url": "http://127.0.0.1:4000/about-us/board-and-staff/"
+      "url": "http://host.docker.internal:4000/about-us/board-and-staff/"
     }
   ],
   "paths": {
