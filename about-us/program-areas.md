@@ -24,7 +24,6 @@ Processing, Reference, and Digital Strategies.
 
 <a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
 <a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
-<a href="https://projectelectron.rockarch.org" class="rac-blue-button">Project Electron</a>
 
 ### Records and Information Management Program
 

@@ -3,10 +3,11 @@ layout: page-sidebar
 title: Access & Request Materials
 permalink: /collections/access-and-request-materials/
 sidebar:
+  - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
   - ["https://raccess.rockarch.org", Log into/Create a new RACcess account, arrow_forward]
   - ["https://dimes.rockarch.org", Search collections at DIMES, arrow_forward]
+  - ["https://docs.rockarch.org/argo-docs/", Access collections API, arrow_forward]
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
-  - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
 ---
 
 <div class="alert">
