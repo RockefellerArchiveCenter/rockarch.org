@@ -96,6 +96,10 @@
     {
       "label": "Board and Staff",
       "url": "http://host.docker.internal:4000/about-us/board-and-staff/"
+    },
+    {
+      "label": "404",
+      "url": "http://host.docker.internal:4000/404/"
     }
   ],
   "paths": {
