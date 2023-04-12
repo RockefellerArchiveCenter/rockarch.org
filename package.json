@@ -1,0 +1,11 @@
+{
+  "name": "rockarch.org",
+  "version": "1.0.0",
+  "description": "The main web presence of the Rockefeller Archive Center.",
+  "repository": "https://github.com/RockefellerArchiveCenter/rockarch.org",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "backstopjs": "^6.2.1"
+  }
+}

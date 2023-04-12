@@ -20,6 +20,12 @@ jobs:
           ruby-version: '3.1'
       - run: bundle update --all && bundle install
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      - name: update
+        run: yarn install && yarn upgrade
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
