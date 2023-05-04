@@ -3,4 +3,9 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .Gemfile.lock
+/node_modules
 .DS_Store
+
+# BackstopJS
+backstop_data/html_report/
+bitmaps_test/

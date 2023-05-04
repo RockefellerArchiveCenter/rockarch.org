@@ -1,0 +1,9 @@
+/* From rossjrw: https://github.com/garris/BackstopJS/issues/1449#issuecomment-1367493309 */
+
+* {
+  /* Remove transitions outright where possible */
+  transition: none !important;
+  /* Otherwise (e.g. when the original has !important) try to make it a noop */
+  transition-duration: 0 !important;
+  transition-delay: 0 !important;
+}
