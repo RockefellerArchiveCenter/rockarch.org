@@ -36,7 +36,7 @@ University Archivist, Harvard University Archives
 **Jack Meyers**, President  
 (914) 366-6308  
 
-**Norine Hochman**, Executive Assistant  
+**Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
 (914) 366-6309  
 
 **Camelia Muresan**, Controller  
@@ -152,6 +152,8 @@ University Archivist, Harvard University Archives
 **Andrea Cadornigara**, Project Associate   
 (914) 366-6362
 
+**Gabriella Feeney**, Digital Humanities Project Associate
+
 ### Operations
 
 **Brigite Requeijo**, Director of Operations  
@@ -165,8 +167,10 @@ University Archivist, Harvard University Archives
 
 ### Information Technology
 
+**Jose Morillo**, Assistant Director for Information Technology  
+(914) 366-6360
+
 **Fernando Carrasco**, Information Technology Coordinator  
 (914) 366-6338  
 
-**Jose Morillo**, Information Systems Manager  
-(914) 366-6360  
+  
