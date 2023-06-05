@@ -5,11 +5,9 @@
   "repository": "https://github.com/RockefellerArchiveCenter/rockarch.org",
   "license": "MIT",
   "private": true,
-
   "devDependencies": {
     "backstopjs": "^6.2.1"
   },
-
   "scripts": {
     "approve": "backstop approve",
     "test": "backstop test --docker",
