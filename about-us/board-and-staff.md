@@ -124,6 +124,8 @@ University Archivist, Harvard University Archives
 **James Washington**, Archival Assistant  
 (914) 366-6319  
 
+**Youngju Yoon**, Reading Room Assistant
+
 #### Digital Strategies
 
 **Hillel Arnold**, Assistant Director for Digital Strategies  
