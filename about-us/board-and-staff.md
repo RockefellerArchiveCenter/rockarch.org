@@ -169,7 +169,7 @@ University Archivist, Harvard University Archives
 
 ### Information Technology
 
-**Jose Morillo**, Assistant Director for Information Technology  
+**Jose Morillo**, Assistant Director, Information Technology  
 (914) 366-6360
 
 **Fernando Carrasco**, Information Technology Coordinator  
