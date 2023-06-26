@@ -33,7 +33,6 @@
   })
 
   $('#nav-toggle').click(function () {
-    $('nav .list').toggle()
-    $('nav .header-social-icons').toggle()
+    $('nav .nav__item--dropdown').toggle()
   })
 })(jQuery)
