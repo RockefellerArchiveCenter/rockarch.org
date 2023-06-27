@@ -12,7 +12,7 @@
     min-height: 250px;
     display: none;
     padding: 36px 20px 36px 20px;
-    background: $burnt-orange;
+    background: $flame-orange;
     position: absolute;
     width: calc(50% - 60px);
     @media screen and (min-width: $break-md) {
@@ -34,12 +34,12 @@
       text-align: left;
       font-family: $sans-serif-stack;
       font-weight: 900;
-      color: $pure-white;
+      color: $white;
       font-size: 14px;
       line-height: 17px;
       text-decoration: none;
       &:focus {
-        outline: 2px solid $pure-white;
+        outline: 2px solid $white;
       }
       &:hover {
         cursor: pointer;

@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+// Colors by category
+
+// Oranges
+$flame-orange: hsl(17deg 76% 48%);
+
+// Blues
+$regal-blue: hsl(214deg 49% 19%);
+$water-blue: hsl(210deg 27% 82%);
+$solitude-blue: hsl(213, 29%, 94%);
+
+// Browns
+$rust-red: hsl(19deg 83% 34%);
+
+// Monochrome
+$mortar-grey: hsl(0, 0%, 36%);
+//TODO: find existing RAC color for off-white or add to style library
+$off-white: #F6F6F4;
+$white: hsl(0, 0%, 100%);
+
+// Fonts
+$sans-serif-stack: 'Lato', sans-serif;
+$serif-stack: 'Manuale', serif;
+
+// Font weight
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+$font-weight-light: 300;
+
+// Default gutters
+$gutters-default: 15px;
+
+// Breakpoints map
+$break-md: 580px;
+$break-lg: 1024px;
+
+// Default transition to be used with @transition-default mixin
+$transition-default: all 0.2s ease;

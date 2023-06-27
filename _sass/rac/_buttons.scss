@@ -11,8 +11,8 @@
   font-weight: 300;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: $pure-white;
-  background: $deep-navy;
+  color: $white;
+  background: $regal-blue;
   opacity: 0.8;
   text-decoration: none;
   transition: $transition-default;
@@ -23,7 +23,7 @@
     opacity: 1;
     cursor:pointer;
     transition: $transition-default;
-    color: $pure-white;
+    color: $white;
     text-decoration: underline;
   }
   @media screen and (min-width: $break-md) {
@@ -43,12 +43,12 @@
   font-size: 13px;
   font-family: $sans-serif-stack;
   font-weight: 400;
-  color: $pure-white;
-  background: $burnt-orange;
+  color: $white;
+  background: $flame-orange;
   transition: $transition-default;
   border: none;
   &:hover {
-    background: $med-brown;
+    background: $rust-red;
     cursor: pointer;
     transition: $transition-default;
   }
@@ -62,7 +62,7 @@
   margin-bottom: 6px;
   padding: 14px 22px 16px 20px;
   transition: $transition-default;
-  background: $pale-blue;
+  background: $solitude-blue;
   font-size: 14px;
   font-family: $sans-serif-stack;
   line-height: 17px;
@@ -71,7 +71,7 @@
   margin-bottom: 0px;
   text-decoration: none;
   &:hover {
-    background: $light-blue;
+    background: $water-blue;
     color: inherit;
     text-decoration: underline;
     transition: $transition-default;

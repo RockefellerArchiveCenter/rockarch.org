@@ -1,112 +1,105 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Manuale:300,400,700|Material+Icons&display=swap');
-
-$sans-serif-stack: 'Lato', sans-serif;
-$serif-stack: 'Manuale', serif;
-$font-weight-normal: 400;
-$font-weight-bold: 700;
-$font-weight-light: 300;
 // TODO: better setting of base font attributes, so we can calculate
 // TODO: use calculations for font sizes
 // TODO: replace font weights with variables
 
-p, a, ul {
-  font-family: $serif-stack;
-  font-weight: $font-weight-normal;
-  font-size: 16px;
-  line-height: 26px;
-  margin: 0 0 10px 0;
-  color: $dark-gray;
-  @media screen and (min-width: $break-lg) {
-    font-size: 17px;
-    line-height: 28px;
-  }
-}
+// p, a, ul {
+//   font-family: $serif-stack;
+//   font-weight: $font-weight-normal;
+//   font-size: 16px;
+//   line-height: 26px;
+//   margin: 0 0 10px 0;
+//   color: $dark-gray;
+//   @media screen and (min-width: $break-lg) {
+//     font-size: 17px;
+//     line-height: 28px;
+//   }
+// }
 
-strong, b {
-  font-family: inherit;
-  font-weight: $font-weight-bold;
-}
+// strong, b {
+//   font-family: inherit;
+//   font-weight: $font-weight-bold;
+// }
 
-em, i {
-  font-family: inherit;
-  font-style: italic;
-}
+// em, i {
+//   font-family: inherit;
+//   font-style: italic;
+// }
 
-h1 {
-  font-family: $serif-stack;
-  font-weight: $font-weight-bold;
-  font-size: 32px;
-  color: $dark-gray;
-  @media screen and (min-width: $break-md) {
-    font-size: 42px;
-  }
-  @media screen and (min-width: $break-lg) {
-    font-size: 52px;
-  }
-}
+// h1 {
+//   font-family: $serif-stack;
+//   font-weight: $font-weight-bold;
+//   font-size: 32px;
+//   color: $dark-gray;
+//   @media screen and (min-width: $break-md) {
+//     font-size: 42px;
+//   }
+//   @media screen and (min-width: $break-lg) {
+//     font-size: 52px;
+//   }
+// }
 
-h2, h3, h4, h5, h6 {
-  font-family: $sans-serif-stack;
-  font-weight: $font-weight-bold;
-  color: $deep-navy;
-  margin: 0px;
-}
+// h2, h3, h4, h5, h6 {
+//   font-family: $sans-serif-stack;
+//   font-weight: $font-weight-bold;
+//   color: $deep-navy;
+//   margin: 0px;
+// }
 
-h2 {
-  font-size: 21px;
-  border-bottom: 1.5px dotted $faded-navy;
-  padding-bottom: 12px;
-  margin-bottom: 20px;
-  margin-top: 60px;
-  @media screen and (min-width: $break-lg) {
-    margin-top: 0px;
-    font-size: 28px;
-    &:not(:first-child) {
-      margin-top: 80px;
-    }
-  }
-}
+// h2 {
+//   font-size: 21px;
+//   border-bottom: 1.5px dotted $faded-navy;
+//   padding-bottom: 12px;
+//   margin-bottom: 20px;
+//   margin-top: 60px;
+//   @media screen and (min-width: $break-lg) {
+//     margin-top: 0px;
+//     font-size: 28px;
+//     &:not(:first-child) {
+//       margin-top: 80px;
+//     }
+//   }
+// }
 
-h3 {
-  font-size: 18px;
-  margin-top: 30px;
-  margin-bottom: 10px;
-  @media screen and (min-width: $break-lg) {
-    font-size: 20px;
-  }
-}
+// h3 {
+//   font-size: 18px;
+//   margin-top: 30px;
+//   margin-bottom: 10px;
+//   @media screen and (min-width: $break-lg) {
+//     font-size: 20px;
+//   }
+// }
 
-h4 {
-  font-size: 14px;
-  color: $faded-orange;
-  @media screen and (min-width: $break-lg) {
-    font-size: 16px;
-  }
-}
+// h4 {
+//   font-size: 14px;
+//   color: $faded-orange;
+//   @media screen and (min-width: $break-lg) {
+//     font-size: 16px;
+//   }
+// }
 
-a {
-  font-weight: $font-weight-normal;
-  color: $burnt-orange;
-  text-decoration: underline;
-  transition: $transition-default;
-  &:focus {
-    text-decoration: underline;
-  }
-  &:hover {
-    text-decoration: none;
-    color: $red-orange;
-    cursor: pointer;
-  }
-}
+// a {
+//   font-weight: $font-weight-normal;
+//   color: $burnt-orange;
+//   text-decoration: underline;
+//   transition: $transition-default;
+//   &:focus {
+//     text-decoration: underline;
+//   }
+//   &:hover {
+//     text-decoration: none;
+//     color: $red-orange;
+//     cursor: pointer;
+//   }
+// }
 
-ul {
-  font-family: $serif-stack;
-  line-height: 23px;
-  @media screen and (min-width: $break-lg) {
-    font-size: 17px;
-    line-height: 24px;
-  }
-}
+// ul {
+//   font-family: $serif-stack;
+//   line-height: 23px;
+//   @media screen and (min-width: $break-lg) {
+//     font-size: 17px;
+//     line-height: 24px;
+//   }
+// }
 
 small {
   font-family: inherit;
@@ -123,35 +116,35 @@ small {
   @extend small;
 }
 
-@mixin footer-text {
-  font-family: $serif-stack;
-  font-weight: 400;
-  font-size: 15px;
-  color: $deep-navy;
-  line-height: 22px;
-  margin-bottom: 10px;
-  a {
-    text-decoration: underline;
-    &:hover {
-      color: $burnt-orange;
-      text-decoration: none;
-      transition: $transition-default;
-    }
-  }
-}
+// @mixin footer-text {
+//   font-family: $serif-stack;
+//   font-weight: 400;
+//   font-size: 15px;
+//   color: $deep-navy;
+//   line-height: 22px;
+//   margin-bottom: 10px;
+//   a {
+//     text-decoration: underline;
+//     &:hover {
+//       color: $burnt-orange;
+//       text-decoration: none;
+//       transition: $transition-default;
+//     }
+//   }
+// }
 
-.material-icons {
-    direction: ltr;
-    display: inline-block;
-    font-family: 'Material Icons';
-    font-size: 24px;
-    font-style: normal;
-    font-weight: normal;
-    letter-spacing: normal;
-    line-height: 1;
-    text-transform: none;
-    white-space: nowrap;
-    word-wrap: normal;
-    -webkit-font-feature-settings: 'liga';
-    -webkit-font-smoothing: antialiased;
-}
+// .material-icons {
+//     direction: ltr;
+//     display: inline-block;
+//     font-family: 'Material Icons';
+//     font-size: 24px;
+//     font-style: normal;
+//     font-weight: normal;
+//     letter-spacing: normal;
+//     line-height: 1;
+//     text-transform: none;
+//     white-space: nowrap;
+//     word-wrap: normal;
+//     -webkit-font-feature-settings: 'liga';
+//     -webkit-font-smoothing: antialiased;
+// }

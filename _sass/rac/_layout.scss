@@ -70,7 +70,7 @@ html {
     font-weight: 700;
     font-size: 21px;
     line-height: 31px;
-    color: $pure-white;
+    color: $white;
     @media screen and (min-width: $break-md) {
       @include grid-column(9);
       font-size: 30px;
@@ -90,14 +90,14 @@ html {
   justify-content: center;
   align-items: center;
   &.level-1 {
-    background: $deep-navy;
+    background: $regal-blue;
     h1 {
-      color: $pure-white;
+      color: $white;
     }
   }
   &.level-2, &.level-3 {
     padding-top: 1em;
-    background: $light-blue;
+    background: $water-blue;
   }
   h1 {
     @media screen and (min-width: $break-md) {
@@ -133,7 +133,7 @@ html {
     font-family: $sans-serif-stack;
     font-weight: 400;
     font-size: 11px;
-    color: $med-gray;
+    color: $mortar-grey;
     letter-spacing: .075em;
     line-height: 20px;
     text-transform: uppercase;
@@ -226,7 +226,7 @@ html {
       font-weight: 700;
       font-size: 21px;
       line-height: 25px;
-      color: $deep-navy;
+      color: $regal-blue;
       margin-bottom: 6px;
       border-bottom: none;
       @media screen and (min-width: $break-md) {
@@ -294,7 +294,7 @@ html {
   .name {
     font-weight: 900;
     font-size: 16px;
-    color: $burnt-orange;
+    color: $flame-orange;
     letter-spacing: .15em;
     text-transform: uppercase;
     margin: 0 0 6px 0;
@@ -333,13 +333,13 @@ html {
       font-family: $sans-serif-stack;
       font-weight: 700;
       font-size: 17px;
-      color: $burnt-orange;
+      color: $flame-orange;
       transition: $transition-default;
       &:after {
         content: '\00a0>'
       }
       &:hover {
-        color: $med-brown;
+        color: $rust-red;
         transition: $transition-default;
       }
     }
@@ -350,7 +350,7 @@ html {
 }
 
 .rac-instagram {
-  background: $deep-navy;
+  background: $regal-blue;
   display: flex;
   justify-content: center;
   .instagram-posts {
@@ -360,12 +360,12 @@ html {
     }
   }
   .title {
-    color: $pure-white;
+    color: $white;
   }
   a.instagram-link {
     font-family: $sans-serif-stack;
     text-transform: uppercase;
-    color: $pure-white;
+    color: $white;
     float: right;
     @media screen and (min-width: $break-md) {
       margin-right: 20px;
@@ -409,7 +409,7 @@ section {
       font-weight: 900;
       font-size: 18px;
       text-transform: uppercase;
-      color: $deep-navy;
+      color: $regal-blue;
       letter-spacing: 2px;
       padding: 0px;
       margin: 0px;
@@ -421,7 +421,7 @@ section {
 .section-block {
   display: flex;
   align-items: center;
-  background-color: $light-blue;
+  background-color: $water-blue;
   min-height: 120px;
   margin-right: 0;
   margin-bottom: $gutters-default;
@@ -443,7 +443,7 @@ section {
     max-width: 220px;
     font-family: $sans-serif-stack;
     font-size: 16px;
-    color: $deep-navy;
+    color: $regal-blue;
     line-height: 22px;
     padding: 18px 20px;
     box-sizing: border-box;
@@ -456,10 +456,10 @@ section {
 }
 
 .alert {
-  background: $burnt-orange;
+  background: $flame-orange;
   font-family: $serif-stack;
   line-height: 1.5;
-  color: $pure-white;
+  color: $white;
   padding: 20px;
   & .material-icons {
     font-size: 100px;
@@ -467,6 +467,6 @@ section {
     padding-right: 10px;
   }
   & a {
-    color: $pure-white;
+    color: $white;
   }
 }
