@@ -15,6 +15,7 @@
 }
 
 .header__brand-image img {
+  height: auto;
   width: 62px;
 
   @include md-up {
