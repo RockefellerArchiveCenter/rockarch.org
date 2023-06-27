@@ -1,4 +1,9 @@
 <header class="header header--white">
+  {%- if page.url != "/" -%}
+  <div class="header__brand">
+    <a href={{"/" | relative_url }} title="Home" class="header__brand-image"><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
+  </div>
+  {%- endif -%}
   <div class="wrapper">
     <nav class="nav-center" aria-label="Main">
       <div class="nav-column">
@@ -9,12 +14,6 @@
         </div>
 
         <ul id="disclosure-nav" class="nav__list list--unstyled">
-          {%- if page.url != "/" -%}
-          <li class="brand">
-            <a href={{"/" | relative_url }} title="Home"><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
-          </li>
-          {%- endif -%}
-
           <li class="nav__item--dropdown">
             <button class="nav__btn--dropdown" aria-expanded="false" aria-controls="id-collections-menu">
               Collections
