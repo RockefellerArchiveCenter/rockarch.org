@@ -10,80 +10,6 @@ html {
   justify-content: center;
 }
 
-// .rac-hero {
-//   position: relative;
-//   height: 396px;
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-//   background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)) center center no-repeat;
-//   z-index: 0;
-//   &.loaded {
-//     &::before {
-//       opacity: 1;
-//     }
-//   }
-//   &::before {
-//     z-index: -1;
-//     position: absolute;
-//     top: 0;
-//     left: 0;
-//     width: 100%;
-//     height: 100%;
-//     content: '';
-//     background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)), url('/assets/img/hero_image.jpg') center center no-repeat;
-//     background-attachment: fixed;
-//     background-size: cover;
-//     opacity: 0;
-//     transition: all 1s ease-in;
-//   }
-//   .hero-wrapper {
-//     padding: 30px;
-//     @media screen and (min-width: $break-md) {
-//       display: flex;
-//       align-items: center;
-//       padding: 0;
-//     }
-//   }
-//   .hero-logo {
-//     height: auto;
-//     text-align: left;
-//     img {
-//       width: 122px;
-//       @media screen and (min-width: $break-md) {
-//         width: 100%;
-//       }
-//       @media screen and (min-width: $break-lg) {
-//         width: 213px;
-//       }
-//     }
-//     @media screen and (min-width: $break-md) {
-//       @include grid-column(3);
-//     }
-//     @media screen and (min-width: $break-lg) {
-//       @include grid-column(3);
-//       @include grid-push(1);
-//     }
-//   }
-//   .hero-text {
-//     font-family: $serif-stack;
-//     font-weight: 700;
-//     font-size: 21px;
-//     line-height: 31px;
-//     color: $white;
-//     @media screen and (min-width: $break-md) {
-//       @include grid-column(9);
-//       font-size: 30px;
-//       line-height: 42px;
-//     }
-//     @media screen and (min-width: $break-lg) {
-//       @include grid-column(7);
-//       font-size: 34px;
-//       line-height: 46px;
-//     }
-//   }
-// }
-
 .rac-page-header {
   min-height: 152px;
   display: flex;
@@ -112,44 +38,6 @@ html {
   }
 }
 
-.rac-breadcrumb {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-bottom: 80px;
-  list-style: none;
-  background-color: $off-white;
-  ol {
-    @media screen and (min-width: $break-md) {
-      @include grid-column(12);
-    }
-    @media screen and (min-width: $break-lg) {
-      @include grid-column(8);
-      @include grid-push(2);
-      padding-left: $gutters-default;
-    }
-  }
-  li, a {
-    font-family: $sans-serif-stack;
-    font-weight: 400;
-    font-size: 11px;
-    color: $mortar-grey;
-    letter-spacing: .075em;
-    line-height: 20px;
-    text-transform: uppercase;
-  }
-  .rac-breadcrumb-item {
-    display: inline-block;
-    +.rac-breadcrumb-item {
-      padding-left: .5rem;
-      &::before {
-        display: inline-block;
-        padding-right: .5rem;
-        content: "/";
-      }
-    }
-  }
-}
 
 .three-column-content {
   @include grid-column(12);
