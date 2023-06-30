@@ -39,13 +39,19 @@ University Archivist, Harvard University Archives
 **Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
 (914) 366-6309  
 
-**Camelia Muresan**, Controller  
+**Camelia Muresan**, Associate Director for Finance  
 (914) 366-6370  
 
 ### Archives
 
 **Bob Clark**, Director of Archives  
-(914) 366-6353  
+(914) 366-6353 
+
+**Hillel Arnold**, Associate Director of Archives and Chief Digital Strategies Officer  
+(914) 366-6382
+
+**Michele Beckerman**, Senior Curator  
+(914) 366-6342  
 
 #### Records and Information Management Program
 
@@ -101,10 +107,7 @@ University Archivist, Harvard University Archives
 **Gail Antos**, Archival Assistant  
 (914) 366-6366  
 
-#### Reference
-
-**Michele Beckerman**, Assistant Director for Reference  
-(914) 366-6342  
+#### Access
 
 **Bethany Antos**, Archivist  
 (914) 366-6322  
@@ -128,21 +131,18 @@ University Archivist, Harvard University Archives
 
 #### Digital Strategies
 
-**Hillel Arnold**, Assistant Director for Digital Strategies  
-(914) 366-6382  
-
 **Patrick Galligan**, Digital Archivist  
 (914) 366-6386    
 
 **Hannah Sistrunk**, Digital Archivist  
 (914) 366-6354  
 
-### Research &amp; Education
+### Research &amp; Engagement
 
-**Barbara Shubinski**, Director, Research and Education  
+**Barbara Shubinski**, Director, Research and Engagement  
 (914) 366-6363  
 
-**Rachel Wimpee**, Assistant Director, Research and Education  
+**Rachel Wimpee**, Associate Director for Research and Engagement  
 (914) 366-6367  
 
 **Lee Hiltzik**, Senior Research Associate  
@@ -154,11 +154,11 @@ University Archivist, Harvard University Archives
 **Andrea Cadornigara**, Project Associate   
 (914) 366-6362
 
-**Gabriella Feeney**, Digital Humanities Project Associate
+**Gabriella Feeney**, Project Associate
 
-### Operations
+### Human Resources and Operations
 
-**Brigite Requeijo**, Director of Operations  
+**Brigite Requeijo**, Director of Human Resources and Operations
 (914) 366-6381  
 
 **Pablo Aguilera**, Operations Assistant  
@@ -169,7 +169,7 @@ University Archivist, Harvard University Archives
 
 ### Information Technology
 
-**Jose Morillo**, Assistant Director, Information Technology  
+**Jose Morillo**, Associate Director of Information Technology 
 (914) 366-6360
 
 **Fernando Carrasco**, Information Technology Coordinator  
