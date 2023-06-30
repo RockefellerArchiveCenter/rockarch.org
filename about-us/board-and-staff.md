@@ -71,6 +71,9 @@ University Archivist, Harvard University Archives
 **Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 
+**Gail Antos**, Archival Assistant  
+(914) 366-6366  
+
 **Erich Chang**, Archivist  
 (914) 366-6351  
 
@@ -80,11 +83,11 @@ University Archivist, Harvard University Archives
 **Brent Phillips**, Archivist (Audiovisual)  
 (914) 366-6324
 
-**Margaret Hogan Snyder**, Archivist (Appraisal)  
-(914) 366-6357
-
 **Reuben Slater**, Archival Assistant  
 (914) 366-6304  
+
+**Margaret Hogan Snyder**, Archivist (Appraisal)  
+(914) 366-6357
 
 **Emeline Swanson**, Archival Assistant  
 (914) 366-6364  
@@ -112,10 +115,10 @@ University Archivist, Harvard University Archives
 **Darren Young**, Archivist  
 (914) 366-6320  
 
-**Gail Antos**, Archival Assistant  
-(914) 366-6366  
-
 #### Access
+
+**Brian Andreycak**, Archival Assistant  
+(914) 366-6325  
 
 **Bethany Antos**, Archivist  
 (914) 366-6322  
@@ -128,9 +131,6 @@ University Archivist, Harvard University Archives
 
 **Renee Pappous**, Archivist  
 (914) 366-6355  
-
-**Brian Andreycak**, Archival Assistant  
-(914) 366-6325  
 
 **James Washington**, Archival Assistant  
 (914) 366-6319  
@@ -146,16 +146,17 @@ University Archivist, Harvard University Archives
 **Rachel Wimpee**, Associate Director for Research and Engagement  
 (914) 366-6367  
 
+**Andrea Cadornigara**, Project Associate   
+(914) 366-6362
+
+**Gabriella Feeney**, Project Associate
+
 **Lee Hiltzik**, Senior Research Associate  
 (914) 366-6345  
 
 **Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 
-**Andrea Cadornigara**, Project Associate   
-(914) 366-6362
-
-**Gabriella Feeney**, Project Associate
 
 ### Human Resources and Operations
 
@@ -168,7 +169,7 @@ University Archivist, Harvard University Archives
 **Roseann Variano**, Facilities Coordinator  
 (914) 366-6301  
 
-### Information Technology
+#### Information Technology
 
 **Jose Morillo**, Associate Director of Information Technology  
 (914) 366-6360
