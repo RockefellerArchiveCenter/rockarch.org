@@ -1,14 +1,15 @@
-@import 'rac/normalize';
-@import 'rac/utilities';
-@import 'rac/colors';
-@import 'rac/grid';
+// @import 'rac/normalize';
+@import 'rac/variables';
+@import 'rac/mixins';
 @import 'rac/typography';
+@import 'rac/grid';
 @import 'rac/buttons';
 
+
 // Layout components
+@import 'rac/biographies';
+@import 'rac/breadcrumbs';
+@import 'rac/header';
+@import 'rac/hero';
 @import 'rac/layout';
-@import 'rac/social-icons';
-@import 'rac/top-nav';
-@import 'rac/side-nav';
-@import 'rac/footer';
-@import 'rac/biographies'
+@import 'rac/_tableOfContents';

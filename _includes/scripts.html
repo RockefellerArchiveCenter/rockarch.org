@@ -6,7 +6,9 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('.side-nav').toc({classes: { list: 'list-group',item: 'list-group-item'}});
+    $('#toc__link-group').toc({classes: { list: 'list-group',item: 'list-group-item'}});
+    //Apply .toc__link-item class to all links in #toc__link-group div
+    $('#toc__link-group > a').addClass('toc__link-item');
 
     // Polyfill for startsWith (thanks IE)
     if (!String.prototype.startsWith) {

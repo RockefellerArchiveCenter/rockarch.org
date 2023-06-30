@@ -1,0 +1,26 @@
+// -----------------------------------------------------------------------------
+// This file contains all local layout styles for the table of contents component
+// -----------------------------------------------------------------------------
+
+.toc {
+  display: none;
+
+  @include lg-up {
+    display: flex;
+    position: absolute;
+  }
+
+  @include md-up {
+    display: block;
+    position: unset;
+    width:100%;
+  }
+}
+
+.btn--orange {
+  margin-top: -52px;
+
+  @include md-up {
+    display: none;
+  }
+}

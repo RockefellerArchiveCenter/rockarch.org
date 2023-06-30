@@ -35,26 +35,6 @@
 
 }
 
-.rac-orange-button {
-  display: inline-block;
-  min-width: 100px;
-  padding: 11px 15px 13px 15px;
-  text-align: center;
-  font-size: 13px;
-  font-family: $sans-serif-stack;
-  font-weight: 400;
-  color: $white;
-  background: $flame-orange;
-  transition: $transition-default;
-  border: none;
-  &:hover {
-    background: $rust-red;
-    cursor: pointer;
-    transition: $transition-default;
-  }
-
-}
-
 .rac-sidebar-button {
   display: flex;
   align-items: center;
@@ -67,7 +47,7 @@
   font-family: $sans-serif-stack;
   line-height: 17px;
   text-align: left;
-  color: $deep-navy;
+  color: $regal-blue;
   margin-bottom: 0px;
   text-decoration: none;
   &:hover {
