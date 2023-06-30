@@ -71,9 +71,6 @@ University Archivist, Harvard University Archives
 **Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323  
 
-**Gail Antos**, Archival Assistant  
-(914) 366-6366  
-
 **Erich Chang**, Archivist  
 (914) 366-6351  
 
@@ -96,6 +93,9 @@ University Archivist, Harvard University Archives
 
 **Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352  
+
+**Gail Antos**, Archival Assistant  
+(914) 366-6366  
 
 **Amy Berish**, Archivist  
 (914) 366-6385  
