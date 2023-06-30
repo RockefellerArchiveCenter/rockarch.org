@@ -51,8 +51,15 @@ University Archivist, Harvard University Archives
 (914) 366-6382
 
 **Michele Beckerman**, Senior Curator  
-(914) 366-6342  
+(914) 366-6342
 
+#### Digital Strategies
+
+**Patrick Galligan**, Digital Archivist  
+(914) 366-6386    
+
+**Hannah Sistrunk**, Digital Archivist  
+(914) 366-6354  
 #### Records and Information Management Program
 
 **Bonnie Marie Sauer**, Records and Information Program Manager  
@@ -129,13 +136,6 @@ University Archivist, Harvard University Archives
 
 **Youngju Yoon**, Reading Room Assistant
 
-#### Digital Strategies
-
-**Patrick Galligan**, Digital Archivist  
-(914) 366-6386    
-
-**Hannah Sistrunk**, Digital Archivist  
-(914) 366-6354  
 
 ### Research &amp; Engagement
 
