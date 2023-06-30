@@ -158,7 +158,7 @@ University Archivist, Harvard University Archives
 
 ### Human Resources and Operations
 
-**Brigite Requeijo**, Director of Human Resources and Operations
+**Brigite Requeijo**, Director of Human Resources and Operations  
 (914) 366-6381  
 
 **Pablo Aguilera**, Operations Assistant  
