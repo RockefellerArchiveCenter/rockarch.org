@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <div class="alert">
-  <span class="material-icons">error_outline</span>
+  <span class="material-icon">error_outline</span>
   The Rockefeller Archive Center reading room is now open to researchers. Researchers
   should contact
   <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
