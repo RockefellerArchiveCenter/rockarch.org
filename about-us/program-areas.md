@@ -22,8 +22,8 @@ organization to acquisition and public accessibility as archives at the Center:
 the Records and Information Management Program, Collections Management,
 Processing, Reference, and Digital Strategies.   
 
-<a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
-<a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
+<a href="https://blog.rockarch.org" class="btn btn--lg btn--navy btn--block  btn--program-links">Bits &amp; Bytes</a>
+<a href="https://docs.rockarch.org" class="btn btn--navy btn--lg btn--block btn--program-links">Archive Documentation</a>
 
 ### Records and Information Management Program
 
@@ -91,5 +91,5 @@ Each year, the R+E Program administers a competitive stipend program, which prov
 Through R+E’s [Archival Education Program](https://resource.rockarch.org/archival-education/), the team develops archive projects with local schools that serve as laboratories for curriculum development. We work with students ranging in level from middle and high school to undergraduate. The open educational resources developed in these classrooms are hosted on OER Commons, and include documents, photographs, posters, advertisements, and film clips drawn from RAC holdings. The materials cover a range of topics such as voter education, wartime scholar rescue efforts, immigration, and scientific innovation. In addition to topical interest, these curricula support the development of interdisciplinary research as well as digital and information literacy skills.
 
 
-<a href="https://resource.rockarch.org" class="rac-blue-button">RE:source</a>
-<a href="https://resource.rockarch.org/archival-education/" class="rac-blue-button">Archival Education Program</a>
+<a href="https://resource.rockarch.org" class="btn btn--navy btn--block btn--program-links">RE:source</a>
+<a href="https://resource.rockarch.org/archival-education/" class="btn btn--navy btn--block btn--program-links">Archival Education Program</a>
