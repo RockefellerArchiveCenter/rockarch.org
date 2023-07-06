@@ -6,30 +6,19 @@
   margin-top: 8px;
   margin-bottom: 8px;
   letter-spacing: 0.2em;
-
-  &:after {
-    content: '\00a0>';
-    }
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 .sidebar__btn {
   border: 0;
   letter-spacing: inherit;
-  margin-top: 6px;
-  margin-bottom: 6px;
+  margin-top: 3px;
+  margin-bottom: 3px;
   padding: 14px 22px 16px 20px;
   text-transform: inherit;
   font-size: 14px;
-  &:hover {
-    text-decoration: underline;
-  }
-  .icon {
+
+  .material-icon {
     margin-left: auto;
-    .material-icon {
-      font-size: 18px;
-    }
+    font-size: 18px;
   }
 }

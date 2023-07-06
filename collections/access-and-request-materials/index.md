@@ -11,9 +11,8 @@ sidebar:
 ---
 
 <div class="alert">
-  <span class="material-icon">error_outline</span>
-  The Rockefeller Archive Center reading room is now open to researchers. Researchers
-  should contact
+  <span class="material-icon" aria-hidden="true">error_outline</span>
+  The Rockefeller Archive Center reading room is now open to researchers. Researchers should contact
   <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
   to schedule an appointment. Please review the Rockefeller Archive Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> prior to your visit.
 </div>
