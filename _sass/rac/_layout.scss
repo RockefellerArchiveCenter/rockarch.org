@@ -1,5 +1,5 @@
 // TODO: factor typography out of here
-// TODO: determine what shold go in separate includes
+// TODO: determine what should go in separate includes
 
 html {
   scroll-behavior: smooth;
@@ -187,7 +187,7 @@ html {
     text-transform: uppercase;
     margin: 0 0 6px 0;
   }
-  small {
+  .text--description {
     font-style: italic;
   }
   .container .container {
@@ -232,7 +232,7 @@ html {
       }
     }
   }
-  small {
+  .text--description {
     font-style: italic;
   }
 }

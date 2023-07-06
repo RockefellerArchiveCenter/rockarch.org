@@ -15,18 +15,3 @@ border-bottom: 1.5px dotted $regal-blue;
     }
   }
 }
-
-small {
-  font-family: inherit;
-  font-size: 14px;
-  line-height: 20px;
-  margin-bottom: 12px;
-  @media screen and (min-width: $break-lg) {
-    font-size: 15px;
-    line-height: 21px;
-  }
-}
-
-.small {
-  @extend small;
-}
