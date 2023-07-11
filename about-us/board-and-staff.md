@@ -6,11 +6,12 @@ permalink: /about-us/board-and-staff/
 
 ## Board of Trustees
 
-**Ira Katznelson**, Chair  
-Ruggles Professor of Political Science and History, Columbia University
 
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
+
+**Ira Katznelson**, Chair  
+Ruggles Professor of Political Science and History, Columbia University
 
 **Richard Lifton**  
 President, The Rockefeller University
@@ -79,7 +80,7 @@ University Archivist, Harvard University Archives
 **Jenna Fleming**, Archivist, Collections Management  
 (914) 366-6321 
 
-**Patrick Galligan**, Digital Archivist  
+**Patrick Galligan**, Digital Archivist, Digital Strategies  
 (914) 366-6386  
 
 **Lee Hiltzik**, Senior Research Associate  
@@ -127,7 +128,7 @@ University Archivist, Harvard University Archives
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
 
-**Hannah Sistrunk**, Digital Archivist  
+**Hannah Sistrunk**, Digital Archivist, Digital Strategies  
 (914) 366-6354  
 
 **Reuben Slater**, Archival Assistant, Collections Management  
@@ -151,9 +152,9 @@ University Archivist, Harvard University Archives
 **Rachel Wimpee**, Associate Director for Research and Engagement  
 (914) 366-6367 
 
-**Youngju Yoon**, Reading Room Assistant  
+**Youngju Yoon**, Reading Room Assistant, Access  
 (914) 366-6336
 
-**Darren Young**, Archivist  
+**Darren Young**, Archivist, Processing  
 (914) 366-6320  
 
