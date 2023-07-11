@@ -93,14 +93,14 @@ University Archivist, Harvard University Archives
 
 **Erich Chang**, Archivist, Collections Management  
 (914) 366-6351  
-
-**Jenna Fleming**, Archivist, Collections Management  
-(914) 366-6321 
   
 **Gabriella Feeney**, Project Associate, Research and Engagement
 
 **Amy Fitch**, Archivist, Processing  
 (914) 366-6318  
+
+**Jenna Fleming**, Archivist, Collections Management  
+(914) 366-6321 
 
 **Patrick Galligan**, Digital Archivist  
 (914) 366-6386  
