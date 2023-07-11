@@ -76,11 +76,11 @@ University Archivist, Harvard University Archives
 **Gail Antos**, Archival Assistant, Processing  
 (914) 366-6366  
 
-**Amy Berish**, Archivist, Processing  
-(914) 366-6385  
-
 **Michele Beckerman**, Senior Curator  
 (914) 366-6342
+
+**Amy Berish**, Archivist, Processing  
+(914) 366-6385  
 
 **Monica Blank**, Archivist, Access  
 (914) 366-6317  
