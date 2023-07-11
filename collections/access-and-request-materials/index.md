@@ -21,14 +21,14 @@ sidebar:
 ## How to Contact Us
 
 Do you have a question about our holdings or how to get started on your research?
-Contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch.org).
+Contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
 
 ## How to Research at the RAC
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
 
 Because of limited seating capacity, researchers need an appointment in order to
-conduct in-person research in the RAC’s Reading Room. Contact the RAC Reference
+conduct in-person research in the RAC’s Reading Room. Contact the RAC Access
 team at [archive@rockarch.org](mailto:archive@rockarch.org) to make your
 appointment.
 
@@ -147,7 +147,7 @@ anticipate using microfilm during your visit.
 
 The RAC offers duplication services for on-site and off-site researchers. If
 you have any questions about ordering copies of our holdings, please
-contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch.org).
+contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
 
 The RAC may decline to copy certain documents that in its judgment may
 suffer damage as a result of duplication.
@@ -182,8 +182,8 @@ Duplication of any material that is oversized, bound, three-dimensional, fragile
 
 ## Copyright
 
-The RAC strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage. Please contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific copyright questions.
+The RAC strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage. Please contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific copyright questions.
 
 ## Citations
 
-We understand that the requirements for citations may vary based on preferred style or citation manual or on publisher requirements. If you are citing to archival materials in the RAC, at a minimum we recommend that your citation include the following: Title of document, date of document, author of document, folder title, title of collection, and our institutional name: Rockefeller Archive Center. Finding aid (FA) number and box numbers can be useful, but since these numbers can change over time, they are not recommended for citation purposes. Please contact the RAC Reference team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific citation questions.
+We understand that the requirements for citations may vary based on preferred style or citation manual or on publisher requirements. If you are citing to archival materials in the RAC, at a minimum we recommend that your citation include the following: Title of document, date of document, author of document, folder title, title of collection, and our institutional name: Rockefeller Archive Center. Finding aid (FA) number and box numbers can be useful, but since these numbers can change over time, they are not recommended for citation purposes. Please contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific citation questions.
