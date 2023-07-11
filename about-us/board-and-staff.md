@@ -83,7 +83,7 @@ University Archivist, Harvard University Archives
 **Patrick Galligan**, Digital Archivist, Digital Strategies  
 (914) 366-6386  
 
-**Lee Hiltzik**, Senior Research Associate  
+**Lee Hiltzik**, Senior Research Associate, Research and Engagement  
 (914) 366-6345 
 
 **Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
