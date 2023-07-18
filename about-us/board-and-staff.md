@@ -72,7 +72,7 @@ University Archivist, Harvard University Archives
 **Bob Clark**, Director of Archives  
 (914) 366-6353 
 
-**Gabriella Feeney**, Project Associate, Research and Engagement
+**Gabriella Feeney**, Project Assistant, Research and Engagement
 
 **Amy Fitch**, Archivist, Processing  
 (914) 366-6318  
