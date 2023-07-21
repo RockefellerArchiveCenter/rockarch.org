@@ -11,16 +11,16 @@ layout: page-home
     text-align: justify;
 ">
   <div class="wrapper">
-    <div class="container">
-    <div class="one-column-content alert" style="padding-top: 1em; padding-bottom: 1em;">
-      The Rockefeller Archive Center reading room is now open to
-      researchers. Researchers
-      should contact
-      <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
-      to schedule an appointment.  Please review the Rockefeller Archive 
-        Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> 
-        prior to your visit.
-    </div>
+    <div class="container grid">
+      <div class="one-column-content alert" style="padding-top: 1em; padding-bottom: 1em;">
+        The Rockefeller Archive Center reading room is now open to
+        researchers. Researchers
+        should contact
+        <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
+        to schedule an appointment.  Please review the Rockefeller Archive 
+          Center's <a href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> 
+          prior to your visit.
+      </div>
     </div>
   </div>
 </div>
@@ -30,28 +30,28 @@ layout: page-home
 <div class="container">
 
   <section class="rac-call-to-action">
-    <a href="https://dimes.rockarch.org" class="action-button" style="background-image: url({{ "/assets/img/background_searchcollections.png" | relative_url }})">
+    <a href="https://dimes.rockarch.org" class="action__link" style="background-image: url({{ "/assets/img/background_searchcollections.png" | relative_url }})">
       <h2>Search<br/>Our Collections</h2>
       <p class="text--description">Search our collections by visiting DIMES, our online catalog.</p>
     </a>
 
-    <a href="https://resource.rockarch.org" class="action-button" style="background-image: url({{ "/assets/img/background_storiesofphilanthropy.png" | relative_url }})">
+    <a href="https://resource.rockarch.org" class="action__link" style="background-image: url({{ "/assets/img/background_storiesofphilanthropy.png" | relative_url }})">
       <h2>RE:source<br/>Stories of Philanthropy</h2>
       <p class="text--description">Visit our storytelling platform.</p>
     </a>
 
-    <a href={{"/collections/access-and-request-materials/" | relative_url }} class="action-button" style="background-image: url({{ "/assets/img/background_accessmaterials.png" | relative_url }})">
+    <a href={{"/collections/access-and-request-materials/" | relative_url }} class="action__link" style="background-image: url({{ "/assets/img/background_accessmaterials.png" | relative_url }})">
       <h2>Access &amp; Request<br/>Materials</h2>
       <p class="text--description">Plan your research visit and get answers to frequently asked questions.</p>
     </a>
 
-    <a href={{"/collections/research-stipends/" | relative_url }} class="action-button" style="background-image: url({{ "/assets/img/background_applyresearchstipend.png" | relative_url }})">
+    <a href={{"/collections/research-stipends/" | relative_url }} class="action__link" style="background-image: url({{ "/assets/img/background_applyresearchstipend.png" | relative_url }})">
       <h2>Apply for a<br/>Research Stipend</h2>
       <p class="text--description">Review guidelines and apply for stipend programs.</p>
     </a>
   </section>
 
-  <section class="rac-roles border-top">
+  <section class="rac-roles border-top grid">
     <div class="title">
       <h2>I am...</h2>
     </div>
@@ -88,7 +88,7 @@ layout: page-home
     </div>
   </section>
 
-  <section class="rac-quicklinks border-top">
+  <section class="rac-quicklinks border-top grid">
     <div class="title">
       <h2>Quick Links</h2>
     </div>
@@ -133,6 +133,6 @@ layout: page-home
     </div>
   </section>
 
-  {% include instagram_feed.html %}
-
 </div>
+
+{% include instagram_feed.html %}

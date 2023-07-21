@@ -2,6 +2,15 @@
 // This file contains local CSS helper classes.
 // -----------------------------------------------------------------------------
 
+.container {
+  margin: 0 $gutters-default;
+  max-width: 1440px;
+}
+
+footer .container {
+  margin: 0 15px;
+}
+
 /**
  * Styles for paragraph text on the homepage used to describe the contents of
  * associated page links
@@ -12,7 +21,7 @@
   font-size: 14px;
   line-height: 20px;
   margin-bottom: 12px;
-  @media screen and (min-width: $break-lg) {
+  @include lg-up {
     font-size: 15px;
     line-height: 21px;
   }

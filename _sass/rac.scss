@@ -1,17 +1,15 @@
-// @import 'rac/normalize';
+// Base styles
 @import 'rac/variables';
 @import 'rac/mixins';
 @import 'rac/helpers';
 @import 'rac/typography';
-@import 'rac/grid';
-@import 'rac/buttons';
 
-
-// Layout components
+// Components
 @import 'rac/biographies';
 @import 'rac/breadcrumbs';
+@import 'rac/buttons';
 @import 'rac/header';
 @import 'rac/hero';
 @import 'rac/layout';
 @import 'rac/skip-link';
-@import 'rac/_tableOfContents';
+@import 'rac/tableOfContents';

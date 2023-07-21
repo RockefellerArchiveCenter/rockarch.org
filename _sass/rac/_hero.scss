@@ -37,7 +37,7 @@
 }
 
 .hero__logo {
-  grid-column: 2 / 4;
+  grid-column: 2 / span 2;
 }
 
 .hero__logo img {
@@ -54,7 +54,7 @@
 
 .hero__text {
     color: $white;
-    grid-column: 5 / 12;
+    grid-column: 5 / span 7;
     margin-left: 0;
     font-size: 21px;
 
