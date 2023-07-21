@@ -39,18 +39,32 @@ University Archivist, Harvard University Archives
 **Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
 (914) 366-6309  
 
-**Camelia Muresan**, Controller  
+**Camelia Muresan**, Associate Director for Finance  
 (914) 366-6370  
 
 ### Archives
 
 **Bob Clark**, Director of Archives  
-(914) 366-6353  
+(914) 366-6353 
+
+**Hillel Arnold**, Associate Director of Archives and Chief Digital Strategies Officer  
+(914) 366-6382
+
+**Michele Beckerman**, Senior Curator  
+(914) 366-6342
 
 #### Records and Information Management Program
 
 **Bonnie Marie Sauer**, Records and Information Program Manager  
 (914) 366-6365  
+
+#### Digital Strategies
+
+**Patrick Galligan**, Digital Archivist  
+(914) 366-6386    
+
+**Hannah Sistrunk**, Digital Archivist  
+(914) 366-6354  
 
 #### Collections Management
 
@@ -66,11 +80,11 @@ University Archivist, Harvard University Archives
 **Brent Phillips**, Archivist (Audiovisual)  
 (914) 366-6324
 
-**Margaret Hogan Snyder**, Archivist (Appraisal)  
-(914) 366-6357
-
 **Reuben Slater**, Archival Assistant  
 (914) 366-6304  
+
+**Margaret Hogan Snyder**, Archivist (Appraisal)  
+(914) 366-6357
 
 **Emeline Swanson**, Archival Assistant  
 (914) 366-6364  
@@ -79,6 +93,9 @@ University Archivist, Harvard University Archives
 
 **Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352  
+
+**Gail Antos**, Archival Assistant  
+(914) 366-6366  
 
 **Amy Berish**, Archivist  
 (914) 366-6385  
@@ -98,13 +115,10 @@ University Archivist, Harvard University Archives
 **Darren Young**, Archivist  
 (914) 366-6320  
 
-**Gail Antos**, Archival Assistant  
-(914) 366-6366  
+#### Access
 
-#### Reference
-
-**Michele Beckerman**, Assistant Director for Reference  
-(914) 366-6342  
+**Brian Andreycak**, Archival Assistant  
+(914) 366-6325  
 
 **Bethany Antos**, Archivist  
 (914) 366-6322  
@@ -118,30 +132,24 @@ University Archivist, Harvard University Archives
 **Renee Pappous**, Archivist  
 (914) 366-6355  
 
-**Brian Andreycak**, Archival Assistant  
-(914) 366-6325  
-
 **James Washington**, Archival Assistant  
 (914) 366-6319  
 
-#### Digital Strategies
+**Youngju Yoon**, Reading Room Assistant
 
-**Hillel Arnold**, Assistant Director for Digital Strategies  
-(914) 366-6382  
 
-**Patrick Galligan**, Digital Archivist  
-(914) 366-6386    
+### Research &amp; Engagement
 
-**Hannah Sistrunk**, Digital Archivist  
-(914) 366-6354  
-
-### Research &amp; Education
-
-**Barbara Shubinski**, Director, Research and Education  
+**Barbara Shubinski**, Director, Research and Engagement  
 (914) 366-6363  
 
-**Rachel Wimpee**, Assistant Director, Research and Education  
+**Rachel Wimpee**, Associate Director for Research and Engagement  
 (914) 366-6367  
+
+**Andrea Cadornigara**, Project Associate   
+(914) 366-6362
+
+**Gabriella Feeney**, Project Associate
 
 **Lee Hiltzik**, Senior Research Associate  
 (914) 366-6345  
@@ -149,14 +157,10 @@ University Archivist, Harvard University Archives
 **Marissa Vassari**, Education Program Manager  
 (914) 366-6350  
 
-**Andrea Cadornigara**, Project Associate   
-(914) 366-6362
 
-**Gabriella Feeney**, Digital Humanities Project Associate
+### Human Resources and Operations
 
-### Operations
-
-**Brigite Requeijo**, Director of Operations  
+**Brigite Requeijo**, Director of Human Resources and Operations  
 (914) 366-6381  
 
 **Pablo Aguilera**, Operations Assistant  
@@ -165,9 +169,9 @@ University Archivist, Harvard University Archives
 **Roseann Variano**, Facilities Coordinator  
 (914) 366-6301  
 
-### Information Technology
+#### Information Technology
 
-**Jose Morillo**, Assistant Director for Information Technology  
+**Jose Morillo**, Associate Director of Information Technology  
 (914) 366-6360
 
 **Fernando Carrasco**, Information Technology Coordinator  
