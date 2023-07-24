@@ -92,6 +92,9 @@ University Archivist, Harvard University Archives
 **Beth Jaffe-Davis**, Archivist, Processing  
 (914) 366-6344
 
+**Christine Leonard**, Reading Room Assistant, Access  
+(914) 366-6329
+
 **Kathleen Leonard**, Archivist, Access  
 (914) 366-6307  
 
