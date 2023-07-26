@@ -38,6 +38,7 @@
 
 .hero__logo {
   grid-column: 2 / span 2;
+  margin-left: 20px;
 }
 
 .hero__logo img {
@@ -48,14 +49,15 @@
   }
 
   @include lg-up {
-    width: 213px;
+    width: 203px;
   }
 }
 
 .hero__text {
     color: $white;
     grid-column: 5 / span 7;
-    margin-left: 0;
+    margin-left: 15px;
+    margin-right: 15px;
     font-size: 21px;
 
     @include md-up {
