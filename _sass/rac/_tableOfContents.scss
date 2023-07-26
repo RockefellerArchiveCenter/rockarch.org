@@ -1,9 +1,14 @@
 // -----------------------------------------------------------------------------
-// This file contains all local layout styles for the table of contents component
+// This file contains local styles for the table of contents component
 // -----------------------------------------------------------------------------
 
+/**
+* 1. Hide the table of contents on small screens to replace with the #toc-nav-toggle 
+* button
+*/
+
 .toc {
-  display: none;
+  display: none; /* 1 */
 
   @include lg-up {
     display: flex;
@@ -17,7 +22,10 @@
   }
 }
 
-.btn--orange {
+/**
+* Layout styles for the toc-nav-toggle button
+*/
+#toc-nav-toggle {
   margin-top: -52px;
 
   @include md-up {
