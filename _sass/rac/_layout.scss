@@ -239,25 +239,13 @@ html {
     }
 
     a {
-      font-family: $sans-serif-stack;
-      font-weight: 700;
+      font-weight: $font-weight-bold;
       font-size: 17px;
-      color: $flame-orange;
-      transition: $transition-default;
 
       &:after {
         content: '\00a0>'
       }
-
-      &:hover {
-        color: $rust-red;
-        transition: $transition-default;
-      }
     }
-  }
-
-  .text--description {
-    font-style: italic;
   }
 }
 
@@ -388,7 +376,6 @@ section {
 
 .alert {
   background: $flame-orange;
-  font-family: $serif-stack;
   line-height: 1.5;
   color: $white;
   padding: 20px;

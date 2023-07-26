@@ -10,19 +10,3 @@
 footer .container {
   margin: 0 15px;
 }
-
-/**
- * Styles for paragraph text on the homepage used to describe the contents of
- * associated page links
- */
-.text--description {
-  color: $night-grey;
-  font-family: inherit;
-  font-size: 14px;
-  line-height: 20px;
-  margin-bottom: 12px;
-  @include lg-up {
-    font-size: 15px;
-    line-height: 21px;
-  }
-}

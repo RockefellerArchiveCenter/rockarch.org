@@ -18,16 +18,10 @@
     img {
       width: 100%;
     }
-    a {
-      &:hover {
-        text-decoration: none;
-      }
-    }
+
     h3 {
-      font-family: $sans-serif-stack;
-      font-weight: 900;
+      font-weight: $font-weight-heavy;
       font-size: 15px;
-      color: $regal-blue;
       line-height: 18px;
       margin: 8px 0 0 0;
     }

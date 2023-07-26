@@ -15,3 +15,21 @@ border-bottom: 1.5px dotted $regal-blue;
     }
   }
 }
+
+/**
+ * Styles for paragraph text on the homepage used to describe the contents of
+ * associated page links
+ */
+ .text--description {
+  color: $night-grey;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 12px;
+  margin-top: 5px;
+
+  @include lg-up {
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
