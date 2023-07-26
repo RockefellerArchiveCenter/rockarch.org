@@ -7,10 +7,13 @@
       {%- assign paths = {{page.dir | remove_first: "/" | split: "/"}} -%}
       {%- for path in paths -%}
       {%- capture url -%}{%- for p in paths limit:forloop.index -%}{{p}}/{%- endfor -%}{%- endcapture -%}
-      <li class="breadcrumbs__item">
-        {%- if forloop.last -%}{{path | replace: "-", " "}}
-        {%- else -%}<a class="breadcrumbs__link" href="{{site.baseurl}}/{{url}}">{{path | replace: "-", " "}}</a>
-        {%- endif -%}</li>
+      {%- if forloop.last -%}
+        <li class="breadcrumbs__item" aria-current="page">
+          {{path | replace: "-", " "}}
+        {%- else -%}
+        <li class="breadcrumbs__item">
+          <a class="breadcrumbs__link" href="{{site.baseurl}}/{{url}}">{{path | replace: "-", " "}}</a>
+      {%- endif -%}</li>
       {%- endfor -%}
       {%- endif -%}
     </ol>
