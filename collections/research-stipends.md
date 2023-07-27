@@ -14,29 +14,6 @@ The Rockefeller Archive Center offers a competitive research stipend program tha
 
 Applications are reviewed by an independent committee that considers an applicant’s topic and the availability of relevant archival materials at the RAC. Anyone can apply for a research stipend, regardless of country of origin. Please be aware that certain U.S Government requirements may apply to non-U.S. citizens.
 
-## How to Apply for an RAC Research Stipend
-
-In order to be eligible for a stipend, potential applicants must contact an RAC archivist by October 14 with a description of the proposed project that includes a brief narrative, the names of any individuals, institutions, and subjects, and relevant date ranges central to the research topic. RAC staff then will respond identifying potentially useful archival materials and an estimate of the time necessary to conduct the proposed research. This information will assist an applicant in completing the application form.
-
-**Important dates and deadlines:**
-
-- Applicants should contact RAC archival staff at [archive@rockarch.org](mailto:archive@rockarch.org) with a description of the research project by **October 14**.
--	Application forms should be submitted by midnight Eastern Standard Time on **November 1**.
--	Two letters of recommendation are due by **November 22** to [RACstipend@rockarch.org](mailto:RACstipend@rockarch.org).
--	Awards are announced in **March**.
-
-Check in early 2023 for information about the next application cycle.
-
-## After Receiving an RAC Research Stipend
-
-Stipend recipients have from April 1 of the award year through June 30 of the following year to complete their research.
-
-At the conclusion of the award year, stipend recipients must submit a short report on their research at the RAC. By accepting the stipend, recipients give permission for the RAC to make edited versions or excerpts of these research reports available online through its website or other resource.
-
-Recipients should also provide the RAC with a copy of any publication resulting from the research supported by the stipend.
-
-In order to be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit.
-
 ## Related Stipend Programs
 
 ## The Commonwealth Fund’s Paul Engel Memorial Award Program
