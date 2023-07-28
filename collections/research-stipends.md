@@ -19,7 +19,7 @@ Applications are evaluated by an independent committee that considers an applica
 
 Please use our [online form](https://forms.office.com/r/MvSfhUepLG) to apply for a research stipend. Please note that beginning this year, applicants are no longer required to contact an archivist in advance to be eligible to apply. However, RAC Access archivists are available to answer questions by writing to [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
 
-The online application form will ask for information about your proposed research project and how research in the RAC collections would support it. Applications should be prepared to write a brief narrative describing their research project, including a description of what they seek to find in the proposed materials.
+The online application form will ask for information about your proposed research project and how research in the RAC collections would support it. Applicants should be prepared to write a brief narrative describing their research project, including a description of what they seek to find in the proposed materials.
 
 The application form also requests the name and email address of at least one and up to two references who can recommend you for a research stipend. After the application is submitted, we will contact the references directly with information about how to submit their recommendation.
 
