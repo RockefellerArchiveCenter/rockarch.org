@@ -6,7 +6,7 @@ permalink: /collections/research-stipends/
 
 <div class="alert">
 The application for the 2024 Research Stipend is now open! The deadline to submit applications is Friday, November 3, at 11:59pm Eastern Time. Learn more information about the application process and other Rockefeller Archive Center (RAC) stipend programs below. To apply, please use our online form:
-<a href="https://forms.office.com/r/MvSfhUepLG">2024 Research Stipend Application</a>
+<a href="https://forms.office.com/r/MvSfhUepLG">2024 Research Stipend Application</a>.
 </div>
 
 ## About the RAC Stipend Program
