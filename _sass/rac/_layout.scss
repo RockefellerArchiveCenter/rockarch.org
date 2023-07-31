@@ -22,8 +22,6 @@ html {
 
   h1 {
     grid-column: 1 / span 12;
-    margin-left: 22px;
-    margin-right: 22px;
     margin-top: 1.2em;
 
     @include lg-up {
@@ -52,7 +50,6 @@ html {
 
 .left-sidebar {
   grid-column: 1 / span 6;
-  margin-left: 15px;
 
   @include md-up {
     grid-column: 1 / span 3;
@@ -66,7 +63,6 @@ html {
 
 .right-sidebar {
   grid-column: 1 / span 12;
-  margin-left: 15px;
   padding-bottom: 20px;
   padding-right: 15px;
 
@@ -94,7 +90,6 @@ html {
   display: grid;
   gap: 15px;
   grid-template-columns: 1fr;
-  padding-top: 60px;
 
     @include md-up {
       grid-template-columns: repeat(2, 1fr);
@@ -104,7 +99,6 @@ html {
     text-align: left;
     padding: 20px 26px 24px 24px;
     background-size: cover;
-    margin-bottom: 0;
     text-decoration: none;
 
     &:focus {
@@ -120,7 +114,6 @@ html {
       font-size: 21px;
       line-height: 25px;
       color: $regal-blue;
-      margin-bottom: 6px;
       border-bottom: none;
 
       @include md-up {
@@ -230,13 +223,9 @@ html {
     }
   }
 
-  .link-wrapper {
-    margin-bottom: 24px;
-
   .link {
     font-size: 17px;
     margin: 0;
-    }
 
     a {
       font-weight: $font-weight-bold;
@@ -256,6 +245,7 @@ html {
 
   .instagram-posts {
     margin: -20px;
+
     @include md-up {
       margin: 0;
     }
@@ -263,7 +253,6 @@ html {
 
   .title {
     color: $white;
-    margin-left: 15px;
   }
 
   a.instagram-link {
@@ -310,7 +299,6 @@ section {
   .title {
     grid-column: 1 / span 12;
     margin-top: 20px;
-    margin-bottom: 30px;
 
     @include md-up {
       grid-column: 1 / span 3;
@@ -324,8 +312,6 @@ section {
       text-transform: uppercase;
       color: $regal-blue;
       letter-spacing: 2px;
-      padding: 0px;
-      margin: 0px;
       border-bottom: none;
     }
   }
@@ -346,7 +332,6 @@ section {
   align-items: center;
   background-color: $water-blue;
   min-height: 120px;
-  margin-bottom: 0;
   padding: 18px 20px;
   text-decoration: none;
 
@@ -378,12 +363,10 @@ section {
   background: $flame-orange;
   line-height: 1.5;
   color: $white;
-  padding: 20px;
 
   & .material-icon {
     font-size: 100px;
     float: left;
-    padding-right: 10px;
   }
 
   & a {

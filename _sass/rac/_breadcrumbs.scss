@@ -16,7 +16,6 @@
 **/
 .breadcrumbs {
   grid-column: 1 / span 12;
-  margin-left: 22px;
 
   @include lg-up {
     grid-column: 3 / span 10;

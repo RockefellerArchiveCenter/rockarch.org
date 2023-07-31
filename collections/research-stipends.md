@@ -4,7 +4,7 @@ title: Apply for a Research Stipend
 permalink: /collections/research-stipends/
 ---
 
-<div class="alert">
+<div class="alert p-20">
 The current Research Stipend application cycle is closed. Please check back in summer 2023 for information about applying for a 2024 stipend. And please scroll down to read about our other stipend programs, which have different deadlines than the annual Research Stipend.
 </div>
 
