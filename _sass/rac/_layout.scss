@@ -251,15 +251,10 @@ html {
     }
   }
 
-  .title {
-    color: $white;
-  }
-
   a.instagram-link {
     font-family: $sans-serif-stack;
     font-size: 17px;
     text-transform: uppercase;
-    color: $white;
     float: right;
 
     @include md-up {
@@ -362,14 +357,9 @@ section {
 .alert {
   background: $flame-orange;
   line-height: 1.5;
-  color: $white;
 
   & .material-icon {
     font-size: 100px;
     float: left;
-  }
-
-  & a {
-    color: $white;
   }
 }

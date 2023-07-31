@@ -10,7 +10,7 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-<div class="alert p-20">
+<div class="alert text--white p-20">
   <span class="material-icon pr-10" aria-hidden="true">error_outline</span>
   The Rockefeller Archive Center reading room is now open to researchers. Researchers should contact
   <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>
