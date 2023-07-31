@@ -18,11 +18,11 @@ $(document).ready(function() {
       };
     }
 
-    if (document.getElementsByClassName('rac-hero').length) {
+    if (document.getElementsByClassName('hero').length) {
       img = new Image();
       img.src = "{{'/assets/img/hero_image.jpg' | relative_url }}"
       img.onload = function () {
-        document.getElementsByClassName('rac-hero')[0].classList += ' loaded'
+        document.getElementsByClassName('hero')[0].classList += ' loaded'
       }
     }
 });
