@@ -6,11 +6,12 @@ permalink: /about-us/board-and-staff/
 
 ## Board of Trustees
 
-**Ira Katznelson**, Chair  
-Ruggles Professor of Political Science and History, Columbia University
 
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
+
+**Ira Katznelson**, Chair  
+Ruggles Professor of Political Science and History, Columbia University
 
 **Richard Lifton**  
 President, The Rockefeller University
@@ -29,152 +30,137 @@ University Archivist, Harvard University Archives
 
 ## Staff
 
-<div class="alert p-20">Please direct email inquiries to <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</div>
+<p class="alert p-20">Please direct email inquiries to <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</p>
 
-### President's Office
 
-**Jack Meyers**, President  
-(914) 366-6308  
+**Pablo Aguilera**, Operations Assistant  
+(914) 366-6369
 
-**Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
-(914) 366-6309  
+**Brian Andreycak**, Archival Assistant, Access  
+(914) 366-6325  
 
-**Camelia Muresan**, Associate Director for Finance  
-(914) 366-6370  
+**Bethany Antos**, Archivist, Access  
+(914) 366-6322  
 
-### Archives
-
-**Bob Clark**, Director of Archives  
-(914) 366-6353 
+**Gail Antos**, Archival Assistant, Processing  
+(914) 366-6366  
 
 **Hillel Arnold**, Associate Director of Archives and Chief Digital Strategies Officer  
 (914) 366-6382
 
+**Robert Battaly**, Assistant Director for Processing  
+(914) 366-6352 
+
 **Michele Beckerman**, Senior Curator  
 (914) 366-6342
 
-#### Records and Information Management Program
-
-**Bonnie Marie Sauer**, Records and Information Program Manager  
-(914) 366-6365  
-
-#### Digital Strategies
-
-**Patrick Galligan**, Digital Archivist  
-(914) 366-6386    
-
-**Hannah Sistrunk**, Digital Archivist  
-(914) 366-6354  
-
-#### Collections Management
-
-**Susan McDade**, Assistant Director for Collections Management  
-(914) 366-6323  
-
-**Erich Chang**, Archivist  
-(914) 366-6351  
-
-**Jenna Fleming**, Archivist  
-(914) 366-6321 
-
-**Brent Phillips**, Archivist (Audiovisual)  
-(914) 366-6324
-
-**Reuben Slater**, Archival Assistant  
-(914) 366-6304  
-
-**Margaret Hogan Snyder**, Archivist (Appraisal)  
-(914) 366-6357
-
-**Emeline Swanson**, Archival Assistant  
-(914) 366-6364  
-
-#### Processing
-
-**Robert Battaly**, Assistant Director for Processing  
-(914) 366-6352  
-
-**Gail Antos**, Archival Assistant  
-(914) 366-6366  
-
-**Amy Berish**, Archivist  
+**Amy Berish**, Archivist, Processing  
 (914) 366-6385  
 
-**Amy Fitch**, Archivist  
-(914) 366-6318  
-
-**Beth Jaffe-Davis**, Archivist  
-(914) 366-6344  
-
-**Katherine Martin**, Archivist  
-(914) 366-6311  
-
-**Mary Ann Quinn**, Archivist  
-(914) 366-6302  
-
-**Darren Young**, Archivist  
-(914) 366-6320  
-
-#### Access
-
-**Brian Andreycak**, Archival Assistant  
-(914) 366-6325  
-
-**Bethany Antos**, Archivist  
-(914) 366-6322  
-
-**Monica Blank**, Archivist  
+**Monica Blank**, Archivist, Access  
 (914) 366-6317  
 
-**Kathleen Leonard**, Archivist  
-(914) 366-6307  
-
-**Renee Pappous**, Archivist  
-(914) 366-6355  
-
-**James Washington**, Archival Assistant  
-(914) 366-6319  
-
-**Youngju Yoon**, Reading Room Assistant
-
-
-### Research &amp; Engagement
-
-**Barbara Shubinski**, Director, Research and Engagement  
-(914) 366-6363  
-
-**Rachel Wimpee**, Associate Director for Research and Engagement  
-(914) 366-6367  
-
-**Andrea Cadornigara**, Project Associate   
+**Andrea Cadornigara**, Project Associate, Research and Engagement   
 (914) 366-6362
-
-**Gabriella Feeney**, Project Associate
-
-**Lee Hiltzik**, Senior Research Associate  
-(914) 366-6345  
-
-**Marissa Vassari**, Education Program Manager  
-(914) 366-6350  
-
-
-### Human Resources and Operations
-
-**Brigite Requeijo**, Director of Human Resources and Operations  
-(914) 366-6381  
-
-**Pablo Aguilera**, Operations Assistant  
-(914) 366-6369  
-
-**Roseann Variano**, Facilities Coordinator  
-(914) 366-6301  
-
-#### Information Technology
-
-**Jose Morillo**, Associate Director of Information Technology  
-(914) 366-6360
 
 **Fernando Carrasco**, Information Technology Coordinator  
 (914) 366-6338  
 
+**Erich Chang**, Archivist, Collections Management  
+(914) 366-6351  
   
+**Bob Clark**, Director of Archives  
+(914) 366-6353 
+
+**Gabriella Feeney**, Project Assistant, Research and Engagement
+
+**Amy Fitch**, Archivist, Processing  
+(914) 366-6318  
+
+**Jenna Fleming**, Archivist, Collections Management  
+(914) 366-6321 
+
+**Patrick Galligan**, Digital Archivist, Digital Strategies  
+(914) 366-6386  
+
+**Lee Hiltzik**, Senior Research Associate, Research and Engagement  
+(914) 366-6345 
+
+**Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
+(914) 366-6309  
+
+**Beth Jaffe-Davis**, Archivist, Processing  
+(914) 366-6344
+
+**Christine Leonard**, Reading Room Assistant, Access  
+(914) 366-6329
+
+**Kathleen Leonard**, Archivist, Access  
+(914) 366-6307  
+
+**Katherine Martin**, Archivist, Processing  
+(914) 366-6311  
+
+**Susan McDade**, Assistant Director for Collections Management  
+(914) 366-6323 
+
+**Jack Meyers**, President  
+(914) 366-6308  
+
+**Jose Morillo**, Associate Director of Information Technology  
+(914) 366-6360
+
+**Camelia Muresan**, Associate Director for Finance  
+(914) 366-6370  
+
+**Renee Pappous**, Archivist, Access  
+(914) 366-6355  
+
+**Tyler Perry**, Reading Room Assistant, Access  
+(914) 366-6329
+
+**Brent Phillips**, Audiovisual Archivist, Collections Management  
+(914) 366-6324
+
+**Mary Ann Quinn**, Archivist, Processing  
+(914) 366-6302  
+
+**Brigite Requeijo**, Director of Human Resources and Operations  
+(914) 366-6381  
+
+**Bonnie Marie Sauer**, Records and Information Program Manager  
+(914) 366-6365
+
+**Barbara Shubinski**, Director of Research and Engagement  
+(914) 366-6363  
+
+**Hannah Sistrunk**, Digital Archivist, Digital Strategies  
+(914) 366-6354  
+
+**Reuben Slater**, Archival Assistant, Collections Management  
+(914) 366-6304  
+
+**Margaret Hogan Snyder**, Appraisal Archivist, Collections Management  
+(914) 366-6357
+
+**Emeline Swanson**, Archival Assistant, Collections Management  
+(914) 366-6364 
+
+**Roseann Variano**, Facilities Coordinator  
+(914) 366-6301  
+
+**Marissa Vassari**, Education Program Manager, Research and Engagement  
+(914) 366-6350  
+
+**James Washington**, Archival Assistant, Access  
+(914) 366-6319  
+
+**Rachel Wimpee**, Associate Director for Research and Engagement  
+(914) 366-6367 
+
+**Youngju Yoon**, Reading Room Assistant, Access  
+(914) 366-6336
+
+**Darren Young**, Archivist, Processing  
+(914) 366-6320  
+
