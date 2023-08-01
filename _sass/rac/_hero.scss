@@ -5,15 +5,9 @@
 
 .hero {
   position: relative;
-  height: 396px;
-  display: block;
+  min-height: 396px;
   background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)) center center no-repeat;
   z-index: 0;
-
-  @include md-up {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-  }
 
   &.loaded {
     &::before {
@@ -37,7 +31,11 @@
 }
 
 .hero__logo {
-  grid-column: 2 / span 2;
+  grid-column: 1 / span 12;
+
+  @include md-up {
+    grid-column: 2 / span 2;
+  }
 }
 
 .hero__logo img {
@@ -53,12 +51,14 @@
 }
 
 .hero__text {
-    color: $white;
-    grid-column: 5 / span 7;
-    font-size: 21px;
+  grid-column: 1 / span 12;
+  color: $white;
+  font-size: 21px;
 
     @include md-up {
+      align-self: center;
       font-size: 28px;
+      grid-column: 5 / span 7;
     }
 
     @include lg-up {
