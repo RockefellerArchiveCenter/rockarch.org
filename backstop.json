@@ -98,6 +98,18 @@
       "url": "http://host.docker.internal:4000/about-us/board-and-staff/"
     },
     {
+      "label": "In Solidarity with the Black Community",
+      "url": "http://host.docker.internal:4000/about-us/in-solidarity-with-the-black-community/"
+    },
+    {
+      "label": "About the Rockefellers",
+      "url": "http://host.docker.internal:4000/resources/about-the-rockefellers/"
+    },
+    {
+      "label": "Laura Spelman Rockefeller, 1839-1915",
+      "url": "http://host.docker.internal:4000/resources/about-the-rockefellers/laura-spelman-rockefeller/"
+    },
+    {
       "label": "404",
       "url": "http://host.docker.internal:4000/404/"
     }
