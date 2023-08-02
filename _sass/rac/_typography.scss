@@ -18,11 +18,13 @@ border-bottom: 1.5px dotted $regal-blue;
 
 /**
  * Styles for paragraph text on the homepage used to describe the contents of
- * associated page links
+ * associated page links.
+ * 1. Homepage action links do not use italic descriptive text.
  */
  .text--description {
   color: $night-grey;
   font-size: 14px;
+  font-style: italic;
   line-height: 20px;
   margin-bottom: 12px;
   margin-top: 5px;
@@ -31,5 +33,9 @@ border-bottom: 1.5px dotted $regal-blue;
     font-size: 15px;
     line-height: 21px;
   }
+}
+
+.action__link .text--description {
+  font-style: normal; /* 1 */
 }
 
