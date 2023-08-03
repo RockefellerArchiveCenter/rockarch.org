@@ -22,6 +22,7 @@ sidebar:
 
 Do you have a question about our holdings or how to get started on your research?
 Contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
+We will respond to your inquiry within ten (10) business days.
 
 ## How to Research at the RAC
 
