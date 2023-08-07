@@ -35,8 +35,6 @@ All stipend recipients are required to submit a report on the research conducted
 
 To be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit. Digital versions of receipts are accepted.
 
-## Related Stipend Programs
-
 ## The Commonwealth Fund’s Paul Engel Memorial Award Program
 
 This award honors the memory of Paul Engel, director and curator of the Fund’s Harkness House from 2003 until his death in 2022. It provides individuals with up to $5,000 to reimburse travel and accommodation expenses for short-term research in the RAC’s Commonwealth Fund collections.
