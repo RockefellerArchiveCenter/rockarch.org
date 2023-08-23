@@ -1,86 +1,19 @@
-// TODO: factor out block buttons
+// -----------------------------------------------------------------------------
+// This file contains all local styles related to the button component.
+// -----------------------------------------------------------------------------
 
-.rac-blue-button {
-  display: flex;
-  padding: 18px;
-  margin-top: 6px;
-  margin-bottom: 6px;
-  text-align: left;
-  font-size: 16px;
-  font-family: $sans-serif-stack;
-  font-weight: 300;
+.btn--program-links {
   letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: $pure-white;
-  background: $deep-navy;
-  opacity: 0.8;
-  text-decoration: none;
-  transition: $transition-default;
-  &:after {
-        content: '\00a0>';
-    }
-  &:hover {
-    opacity: 1;
-    cursor:pointer;
-    transition: $transition-default;
-    color: $pure-white;
-    text-decoration: underline;
-  }
-  @media screen and (min-width: $break-md) {
-    padding: 20px;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    font-size: 17px;
-  }
-
 }
 
-.rac-orange-button {
-  display: inline-block;
-  min-width: 100px;
-  padding: 11px 15px 13px 15px;
-  text-align: center;
-  font-size: 13px;
-  font-family: $sans-serif-stack;
-  font-weight: 400;
-  color: $pure-white;
-  background: $burnt-orange;
-  transition: $transition-default;
-  border: none;
-  &:hover {
-    background: $med-brown;
-    cursor: pointer;
-    transition: $transition-default;
-  }
-
-}
-
-.rac-sidebar-button {
-  display: flex;
-  align-items: center;
-  margin-top: 6px;
-  margin-bottom: 6px;
-  padding: 14px 22px 16px 20px;
-  transition: $transition-default;
-  background: $pale-blue;
+.sidebar__btn {
+  border: 0;
+  letter-spacing: inherit;
+  text-transform: inherit;
   font-size: 14px;
-  font-family: $sans-serif-stack;
-  line-height: 17px;
-  text-align: left;
-  color: $deep-navy;
-  margin-bottom: 0px;
-  text-decoration: none;
-  &:hover {
-    background: $light-blue;
-    color: inherit;
-    text-decoration: underline;
-    transition: $transition-default;
-    cursor: pointer;
-  }
-  .icon {
+
+  .material-icon {
     margin-left: auto;
-    i {
-      font-size: 18px;
-    }
+    font-size: 18px;
   }
 }

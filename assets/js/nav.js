@@ -2,24 +2,24 @@
   const mobileSmall = window.matchMedia('(max-width: 580px)')
   // Side navigation toggle
   $(function () {
-    $('.rac-side-nav .nav-toggle').on('click', function (e) {
-      if ($(this).siblings('.side-nav').is(':visible')) {
+    $('#toc-nav-toggle').on('click', function (e) {
+      if ($(this).siblings('#toc__link-group').is(':visible')) {
         $(this).html('Open Page Menu')
         $(this).attr('aria-expanded', 'false')
       } else {
         $(this).html('Close Page Menu')
         $(this).attr('aria-expanded', 'true')
       }
-      $(this).siblings('.side-nav').toggle()
+      $(this).siblings('#toc__link-group').toggle()
       e.stopPropagation()
     })
     $('html').click(function () {
       if (mobileSmall.matches) {
-        $('.side-nav').hide()
-        $('.side-nav').siblings('.nav-toggle').html('Open Page Menu')
+        $('#toc__link-group').hide()
+        $('#toc__link-group').siblings('#toc-nav-toggle').html('Open Page Menu')
       } else {
         // allow keyboard focus
-        $('.side-nav button').attr('tabindex', '0')
+        $('#toc__link-group button').attr('tabindex', '0')
       }
     })
   })
@@ -33,7 +33,6 @@
   })
 
   $('#nav-toggle').click(function () {
-    $('nav .list').toggle()
-    $('nav .header-social-icons').toggle()
+    $('nav .nav__item--dropdown').toggle()
   })
 })(jQuery)

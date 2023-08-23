@@ -1,0 +1,166 @@
+<header class="header header--white">
+  <div class="wrapper">
+    <div class="container flex">
+      {%- if page.url != "/" -%}
+      <div class="header__brand">
+        <a href={{"/" | relative_url }} title="Home" class="header__brand-image"><img alt="Rockefeller Archive Center" src="{{ "/assets/img/header_logo_whiteoutline.svg" | relative_url }}"/></a>
+      </div>
+      {%- endif -%}
+
+      <nav class="nav-center" aria-label="Main">
+        <div class="nav-column">
+          <div class="hide-on-lg-up">
+            <button id="nav-toggle" class="btn nav__btn--mobile nav__btn--orange" aria-label="menu" aria-expanded="false">
+              <span class="material-icon" aria-hidden="true">menu</span>
+            </button>
+          </div>
+
+          <ul id="disclosure-nav" class="nav__list list--unstyled">
+            <li class="nav__item--dropdown">
+              <button class="nav__btn--dropdown" aria-expanded="false" aria-controls="id-collections-menu">
+                Collections
+                <span aria-hidden="true" class="material-icon">keyboard_arrow_down</span>
+              </button>
+
+              <ul id="id-collections-menu" class="list--unstyled nav__list--dropdown" hidden>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/overview/#collections" | relative_url }}>
+                    <p class="nav__link-title">About Our Collections</p>
+                    <p class="nav__link-description">See a list of our major collections.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://dimes.rockarch.org">
+                    <p class="nav__link-title">Search Our Collections</p>
+                    <p class="nav__link-description">Start with DIMES, our online catalog.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/collections/access-and-request-materials/" | relative_url }}>
+                    <p class="nav__link-title">How to Access &amp; Request Materials</p>
+                    <p class="nav__link-description">Plan your research visit and get answers to frequently asked questions.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/collections/research-stipends/" | relative_url }}>
+                    <p class="nav__link-title">Apply for a Research Stipend</p>
+                    <p class="nav__link-description">Review our guidelines and apply.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/collections/information-for-records-donors/" | relative_url }}>
+                    <p class="nav__link-title">Information for Records Donors</p>
+                    <p class="nav__link-description">Find out how to donate records to us.</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li class="nav__item--dropdown">
+              <button class="nav__btn--dropdown" aria-expanded="false" aria-controls="id-resources-menu">
+                Resources
+                <span aria-hidden="true" class="material-icon">keyboard_arrow_down</span>
+              </button>
+              <ul id="id-resources-menu" class="nav__list--dropdown" hidden>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://resource.rockarch.org">
+                    <p class="nav__link-title">RE:source</p>
+                    <p class="nav__link-description">Visit our storytelling platform.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://rockarch.issuelab.org/">
+                    <p class="nav__link-title">Research Reports</p>
+                    <p class="nav__link-description">Reports by those who have conducted research at the RAC.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://www.zotero.org/groups/222650/rac">
+                    <p class="nav__link-title">RAC Bibliography</p>
+                    <p class="nav__link-description">Bibliography of works based on research at the RAC.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://blog.rockarch.org">
+                    <p class="nav__link-title">Bits &amp; Bytes</p>
+                    <p class="nav__link-description">The RAC blog.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://docs.rockarch.org">
+                    <p class="nav__link-title">Archival Documentation &amp; Policies</p>
+                    <p class="nav__link-description">A collection of the RAC's archival documentation.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href="https://rockfound.rockarch.org">
+                    <p class="nav__link-title">The Rockefeller Foundation: A Digital History</p>
+                    <p class="nav__link-description">Essays, biographies, and selected digital resources.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/resources/about-the-rockefellers/" | relative_url }}>
+                    <p class="nav__link-title">About the Rockefellers</p>
+                    <p class="nav__link-description">Selected biographies of Rockefeller family members.</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li class="nav__item--dropdown">
+              <button class="nav__btn--dropdown" aria-expanded="false" aria-controls="id-about-menu">
+                About Us
+                <span aria-hidden="true" class="material-icon">keyboard_arrow_down</span>
+              </button>
+              <ul id="id-about-menu" class="nav__list--dropdown" hidden>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/covid-19-prevention-policy-for-researchers-and-visitors/" | relative_url }}>
+                    <p class="nav__link-title">COVID-19 Prevention Policy for Researchers and Visitors</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/in-solidarity-with-the-aapi-community/" | relative_url }}>
+                    <p class="nav__link-title">Our Statement in Solidarity with the Asian, Asian-American and Pacific Islander Community</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/in-solidarity-with-the-black-community/" | relative_url }}>
+                    <p class="nav__link-title">Our Statement in Solidarity with the Black Community</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/overview/" | relative_url }}>
+                    <p class="nav__link-title">Overview</p>
+                    <p class="nav__link-description">Background information on the RAC.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/program-areas/" | relative_url }}>
+                    <p class="nav__link-title">Program Areas</p>
+                    <p class="nav__link-description">Read more about our work.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/board-and-staff/" | relative_url }}>
+                    <p class="nav__link-title">Board &amp; Staff</p>
+                    <p class="nav__link-description">Contact information.</p>
+                  </a>
+                </li>
+                <li class="nav__list-item--dropdown">
+                  <a class="nav__link" href={{"/about-us/employment-opportunities/" | relative_url }}>
+                    <p class="nav__link-title">Employment Opportunities</p>
+                    <p class="nav__link-description">Job opportunities at the RAC.</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="header__social-icons">
+        {% include social-icons.html %}
+      </div>
+    </div>
+  </div>
+</header>

@@ -2,6 +2,8 @@
 layout: page
 ---
 
-<div class="left-sidebar">{%- include side-nav.html -%}</div>
-<div class="right-sidebar">{%- include sidebar.html -%}</div>
-<main id="main" class="page-content three-column-content" role="main">{{ content }}</main>
+<div class="left-sidebar ml-15">{%- include table-of-contents.html -%}</div>
+<div class="right-sidebar ml-15">{%- include sidebar.html -%}</div>
+<div class="three-column-content">{{ content }}</div>
+
+
