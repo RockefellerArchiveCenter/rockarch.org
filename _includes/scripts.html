@@ -6,7 +6,9 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('.side-nav').toc({classes: { list: 'list-group',item: 'list-group-item'}});
+    $('#toc__link-group').toc({classes: { list: 'list-group',item: 'list-group-item'}});
+    //Apply .toc__link-item class to all links in #toc__link-group div
+    $('#toc__link-group > a').addClass('toc__link-item');
 
     // Polyfill for startsWith (thanks IE)
     if (!String.prototype.startsWith) {
@@ -16,11 +18,11 @@ $(document).ready(function() {
       };
     }
 
-    if (document.getElementsByClassName('rac-hero').length) {
+    if (document.getElementsByClassName('hero').length) {
       img = new Image();
       img.src = "{{'/assets/img/hero_image.jpg' | relative_url }}"
       img.onload = function () {
-        document.getElementsByClassName('rac-hero')[0].classList += ' loaded'
+        document.getElementsByClassName('hero')[0].classList += ' loaded'
       }
     }
 });

@@ -9,8 +9,8 @@
     "backstopjs": "^6.2.1"
   },
   "scripts": {
-    "approve": "backstop approve",
-    "test": "backstop test --docker",
-    "reference": "backstop reference --docker"
+    "backstop-approve": "backstop approve",
+    "backstop-test": "backstop test --docker",
+    "backstop-reference": "backstop reference --docker"
   }
 }

@@ -28,7 +28,7 @@
     {
       "label": "Navigation Disclosure",
       "url": "http://host.docker.internal:4000/",
-      "clickSelector": "ul.disclosure-nav > li > button",
+      "clickSelector": "#disclosure-nav > li > button",
       "hideSelectors": ["div.lightwidget > img"],
       "viewports": [
         {
@@ -59,7 +59,7 @@
     {
       "label": "Navigation Disclosure Mobile",
       "url": "http://host.docker.internal:4000/",
-      "clickSelectors": ["#nav-toggle", "ul.disclosure-nav > li > button"],
+      "clickSelectors": ["#nav-toggle", "#disclosure-nav > li > button"],
       "hideSelectors": ["div.lightwidget > img"],
       "viewports": [
         {
@@ -80,7 +80,7 @@
     {
       "label": "Table of Contents Mobile",
       "url": "http://host.docker.internal:4000/about-us/program-areas/",
-      "clickSelector": "button.nav-toggle",
+      "clickSelector": "#nav-toggle",
       "viewports": [
         {
           "label": "phone",
@@ -96,6 +96,18 @@
     {
       "label": "Board and Staff",
       "url": "http://host.docker.internal:4000/about-us/board-and-staff/"
+    },
+    {
+      "label": "In Solidarity with the Black Community",
+      "url": "http://host.docker.internal:4000/about-us/in-solidarity-with-the-black-community/"
+    },
+    {
+      "label": "About the Rockefellers",
+      "url": "http://host.docker.internal:4000/resources/about-the-rockefellers/"
+    },
+    {
+      "label": "Laura Spelman Rockefeller, 1839-1915",
+      "url": "http://host.docker.internal:4000/resources/about-the-rockefellers/laura-spelman-rockefeller/"
     },
     {
       "label": "404",

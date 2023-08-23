@@ -1,0 +1,28 @@
+.header__brand {
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 0;
+  position: absolute;
+  z-index: 3;
+
+  @include md-up{
+    margin-left: 15px;
+  }
+
+  @include lg-up {
+    margin-left: 33px;
+  }
+}
+
+.header__brand-image img {
+  height: auto;
+  width: 62px;
+
+  @include md-up {
+    width: 70px;
+  }
+
+  @include lg-up {
+    width: auto;
+  }
+}
