@@ -1,0 +1,230 @@
+$nav-height: 50px;
+$nav-background: $pure-white;
+$nav-font-color: $deep-navy;
+$link-hover-color: $burnt-orange;
+
+// TODO: factor out typography
+// TODO: social icons should be in a div which is positioned; all other styles should be moved to _social-icons.scss
+// TODO: class names should be standardized
+
+nav.rac-top-nav {
+  padding: 0;
+  height: $nav-height;
+  width: 100%;
+  @media screen and (min-width: $break-md) {
+    $nav-height: 60px;
+    height: $nav-height;
+  }
+  @media screen and (min-width: $break-lg) {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+  }
+  .container {
+    margin: 0;
+    width: 100%;
+  }
+}
+
+.disclosure-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.brand {
+  position: absolute;
+  margin-left: 25px;
+  margin-top:10px;
+  float: left;
+  z-index: 3;
+  & img {
+    width: 62px;
+  }
+  @media screen and (min-width: $break-md) {
+    margin-left: 30px;
+    & img {
+      width: 70px;
+    }
+  }
+  @media screen and (min-width: $break-lg) {
+    margin-left: 48px;
+    & img {
+      width: auto;
+    }
+  }
+}
+
+.nav-mobile {
+  display: block;
+  @media screen and (min-width: $break-lg) {
+    display: none;
+  }
+}
+
+.list {
+  display: none;
+  position: relative;
+  top: $nav-height;
+  z-index: 2;
+  background: $nav-background;
+  text-align: right;
+  border:0;
+  @media screen and (min-width: $break-lg) {
+    background: none;
+    box-sizing: content-box;
+    top: 0;
+    display: inline-block;
+  }
+  button {
+    padding: 15px 20px 15px 0;
+    color: $deep-navy;
+    background: unset;
+    font-family: $sans-serif-stack;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0.125em;
+    text-transform: uppercase;
+    border: 0;
+    &:hover {
+      cursor: pointer;
+    }
+    @media screen and (min-width: $break-md) {
+      padding-right: 30px;
+    }
+    @media screen and (min-width: $break-lg) {
+      position: relative;
+      z-index: 2;
+      display: inline-block;
+      font-size: 17px;
+      line-height: 17px;
+      margin: 21px 25px 0px 25px;
+      padding: 0 0 14px 0;
+      &[aria-expanded=true] {
+        outline: none;
+        border-bottom: 8px solid;
+        color: $burnt-orange;
+      }
+      &:hover, &:focus {
+        font-weight: 900;
+      }
+    }
+    & i {
+      color: $deep-navy;
+      font-size: 15px;
+      vertical-align: middle;
+      opacity: 0.7;
+      pointer-events: none;
+      @media screen and (min-width: $break-lg) {
+        font-size: 21px;
+        margin-left: 7px;
+      }
+    }
+  }
+}
+
+.dropdown {
+  position: static;
+  width: 100%;
+  background: $deep-brown;
+  padding: 22px 0 0 0;
+  @media screen and (min-width: $break-lg) {
+    margin: -4px 0 0 0;
+    width: 360px;
+    padding-top: 22px;
+    position: absolute;
+    z-index: 1;
+  }
+  li {
+    list-style-type: none;
+    margin: 0px;
+    min-width: 300px;
+    background: $deep-brown;
+    padding: 12px 28px;
+    text-align: left;
+    height: auto;
+    a {
+      text-decoration: none;
+      outline: none;
+    }
+    &:hover, &:focus-within {
+      background: $med-brown;
+    }
+    &:focus-within {
+      outline: 1px solid $pure-white;
+    }
+    & .title {
+      font-family: $sans-serif-stack;
+      font-weight: 900;
+      font-size: 16.5px;
+      text-transform: none;
+      color: $pure-white;
+      line-height: 20px;
+      letter-spacing: normal;
+      margin: 0 0 3px 0;
+      width: 100%;
+    }
+    & .description {
+      font-family: $serif-stack;
+      font-weight: 400;
+      font-style: italic;
+      color: $pure-white;
+      line-height: 20px;
+      font-size: 14px;
+      opacity: 0.8;
+      text-transform: none;
+      letter-spacing: normal;
+      margin: 0px;
+      width: 100%;
+    }
+  }
+}
+
+.header-social-icons {
+  padding: 15px 20px 15px 0;
+  top: 50px;
+  position: relative;
+  z-index: 2;
+  background: #fff;
+  text-align: right;
+  display: none;
+  a {
+    font-size: 15px;
+  }
+  @media screen and (min-width: $break-md) {
+    padding-right: 30px;
+  }
+  @media screen and (min-width: $break-lg) {
+    position: absolute;
+    padding-bottom: 0;
+    display: inline-block;
+    right: 40px;
+    top: 0px;
+    float: right;
+  }
+  @media screen and (min-width: $content-width) {
+    right: calc(((100vw - #{$content-width}) / 2) + 40px);
+  }
+}
+
+#nav-toggle {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+  cursor: pointer;
+  color: $burnt-orange;
+  background: unset;
+  border: none;
+  padding: 0px;
+  & i {
+    font-size: ($nav-height)-10;
+  }
+  &.active {
+    color: $med-brown;
+  }
+  @media screen and (min-width: $break-md) {
+    top: 10px;
+    right: 30px;
+  }
+}

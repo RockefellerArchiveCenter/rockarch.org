@@ -1,155 +1,257 @@
 // TODO: factor typography out of here
-// TODO: determine what should go in separate includes
+// TODO: determine what shold go in separate includes
 
 html {
   scroll-behavior: smooth;
 }
 
-.rac-page-title {
-  min-height: 168px;
+.skip-link {
+  background: rgba(255,255,255,.9);
+  padding: 20px 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
 
-  &.level-1 {
-    background: $regal-blue;
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
 
-    h1 {
-      color: $white;
+.rac-hero {
+  position: relative;
+  height: 396px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)) center center no-repeat;
+  z-index: 0;
+  &.loaded {
+    &::before {
+      opacity: 1;
     }
   }
-
-  &.level-2, &.level-3 {
-    background: $water-blue;
+  &::before {
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    background: linear-gradient(rgba(25,46,73,0.90), rgba(25,46,73,0.90)), url('/assets/img/hero_image.jpg') center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0;
+    transition: all 1s ease-in;
   }
-
-  h1 {
-    grid-column: 1 / span 12;
-    margin-top: 1.2em;
-
-    @include lg-up {
-      grid-column: 3 / span 8;
+  .hero-wrapper {
+    padding: 30px;
+    @media screen and (min-width: $break-md) {
+      display: flex;
+      align-items: center;
+      padding: 0;
+    }
+  }
+  .hero-logo {
+    height: auto;
+    text-align: left;
+    img {
+      width: 122px;
+      @media screen and (min-width: $break-md) {
+        width: 100%;
+      }
+      @media screen and (min-width: $break-lg) {
+        width: 213px;
+      }
+    }
+    @media screen and (min-width: $break-md) {
+      @include grid-column(3);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(3);
+      @include grid-push(1);
+    }
+  }
+  .hero-text {
+    font-family: $serif-stack;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 31px;
+    color: $pure-white;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(9);
+      font-size: 30px;
+      line-height: 42px;
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(7);
+      font-size: 34px;
+      line-height: 46px;
     }
   }
 }
 
-/**
-* Class to create a grid layout where the .three-column-content main content of
-* the page is last in the DOM before the footer, but is visually placed between the
-* left and right sidebars on large screens and below the right sidebar on medium and 
-* small screens.
-**/
-.grid--dense {
-  grid-auto-flow: dense;
-
-  @include md-up {
-    grid-template-rows: 300px minmax(300px, auto);
+.rac-page-header {
+  min-height: 152px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &.level-1 {
+    background: $deep-navy;
+    h1 {
+      color: $pure-white;
+    }
   }
+  &.level-2, &.level-3 {
+    padding-top: 1em;
+    background: $light-blue;
+  }
+  h1 {
+    @media screen and (min-width: $break-md) {
+      @include grid-column(12);
+    }
+    @media screen and (min-width: $break-lg) {
+      // position: unset;
+      @include grid-column(8);
+      @include grid-push(2);
+      padding-left: $gutters-default;
+    }
+  }
+}
 
-  @include lg-up {
-    grid-template-rows: auto;
+.rac-breadcrumb {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+  list-style: none;
+  background-color: $off-white;
+  ol {
+    @media screen and (min-width: $break-md) {
+      @include grid-column(12);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(8);
+      @include grid-push(2);
+      padding-left: $gutters-default;
+    }
+  }
+  li, a {
+    font-family: $sans-serif-stack;
+    font-weight: 400;
+    font-size: 11px;
+    color: $med-gray;
+    letter-spacing: .075em;
+    line-height: 20px;
+    text-transform: uppercase;
+  }
+  .rac-breadcrumb-item {
+    display: inline-block;
+    +.rac-breadcrumb-item {
+      padding-left: .5rem;
+      &::before {
+        display: inline-block;
+        padding-right: .5rem;
+        content: "/";
+      }
+    }
   }
 }
 
 .three-column-content {
-  grid-column: 1 / span 12;
-  margin-left: 15px;
-  padding-bottom: 20px;
-  padding-right: 15px;
-
-  @include md-up {
-    grid-column: 4 / span 9;
-    grid-row-start: 2;
+  @include grid-column(12);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(9);
   }
-
-  @include lg-up {
-    grid-column: 3 / span 7;
-    padding: 0 35px 100px 35px;
-    grid-row-start: auto;
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(7);
+    padding-bottom: 100px;
+    box-sizing: border-box;
+    padding-left: 35px;
+    padding-right: 35px;
   }
 }
 
 .left-sidebar {
-  grid-column: 1 / span 6;
-
-  @include md-up {
-    grid-column: 1 / span 3;
-    grid-row-start: 1;
+  @include grid-column(6);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(3);
     height: 100%;
   }
-
-  @include lg-up {
-    grid-column: 1 / span 2;
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(2);
   }
 }
-
 .right-sidebar {
-  grid-column: 1 / span 12;
-  padding-bottom: 20px;
-  padding-right: 15px;
-
-  @include md-up {
-    grid-column: 4 / span 9;
-    grid-row-start: 1;
+  @include grid-column(12);
+  @media screen and (min-width: $break-md) {
+    @include grid-column(9);
   }
-
-  @include lg-up {
-    grid-column: 10 / span 3;
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(3);
+    box-sizing: border-box;
     padding-right: 44px;
-    padding-left: 55px;
+    padding-left: 40px;
+    float: right;
   }
 }
 
 .one-column-content {
-  grid-column: 1 / span 12;
+  @include grid-column(12);
   padding-bottom: 100px;
-
-  @include lg-up {
-    grid-column: 3 / span 8;
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(8);
+    @include grid-shift(2);
   }
 }
 
 .rac-call-to-action {
-  display: grid;
-  gap: 15px;
-  grid-template-columns: 1fr;
-
-    @include md-up {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
-  .action__link {
+  padding-top: 60px;
+  @media screen and (min-width: $break-md) {
+    margin-right: 30px;
+  }
+  .action-button {
+    display: block;
+    width: 100%;
     text-align: left;
+    box-sizing: border-box;
     padding: 20px 26px 24px 24px;
     background-size: cover;
+    margin-bottom: $gutters-default;
+    margin-right: $gutters-default * 2;
     text-decoration: none;
-
     &:focus {
       text-decoration: underline;
     }
-
-    @include md-up {
+    @media screen and (min-width: $break-md) {
+      @include grid-column(6);
+      margin-right: 0;
       padding: 27px 64px 40px 25px;
     }
-
     h2 {
-      font-weight: $font-weight-bold;
+      font-family: $sans-serif-stack;
+      font-weight: 700;
       font-size: 21px;
       line-height: 25px;
-      color: $regal-blue;
+      color: $deep-navy;
+      margin-bottom: 6px;
       border-bottom: none;
-
-      @include md-up {
+      @media screen and (min-width: $break-md) {
         font-size: 24px;
         line-height: 28px;
       }
-
-      @include lg-up {
+      @media screen and (min-width: $break-lg) {
         font-size: 30px;
         line-height: 36px;
         max-width: 400px;
       }
     }
-
     p {
-      @include lg-up {
+      @media screen and (min-width: $break-lg) {
         max-width: 400px;
       }
     }
@@ -160,31 +262,25 @@ html {
 
 .rac-roles {
   .roles {
-    display: grid;
-    column-gap: 15px;
-    grid-column: 1 / span 12;
-
-    @include md-up {
-      grid-column: 4 / span 9;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(9);
     }
-    @include lg-up {
-      grid-column: 4 / span 7;
-      grid-template-columns: repeat(2, 1fr);
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(8);
     }
   }
   .role {
     margin-bottom: 25px;
-
-    @include md-up {
+    @media screen and (min-width: $break-md) {
       margin-bottom: 32px;
     }
-
-    @include lg-up {
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(6);
       padding: 0 40px;
+      box-sizing: border-box;
       margin-bottom: 54px;
     }
   }
-
   a {
     text-decoration: none;
     &:hover {
@@ -196,91 +292,98 @@ html {
     height: 60px;
     width: 60px;
     margin-bottom: 12px;
-
-    @include md-up {
+    @media screen and (min-width: $break-md) {
       height: 74px;
       width: 74px;
       margin-bottom: 18px;
     }
-    @include lg-up {
+    @media screen and (min-width: $break-lg) {
       height: 92px;
       width: 92px;
     }
   }
-
   .name {
     font-weight: 900;
     font-size: 16px;
-    color: $flame-orange;
+    color: $burnt-orange;
     letter-spacing: .15em;
     text-transform: uppercase;
     margin: 0 0 6px 0;
+  }
+  small {
+    font-style: italic;
+  }
+  .container .container {
+    margin-left: 0;
   }
 }
 
 .rac-quicklinks {
   .links {
-    display: grid;
-    grid-column: 1 / span 12;
-
-    @include md-up {
-      grid-column: 4 / span 9;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(9);
     }
-
-    @include lg-up {
-      grid-column: 4 / span 7;
-      grid-template-columns: repeat(2, 1fr);
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(8);
     }
   }
-
   .link-column {
-    @include lg-up {
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(6);
       padding: 0 40px;
+      box-sizing: border-box;
     }
   }
-
+  .link-wrapper {
+    margin-bottom: 24px;
   .link {
     font-size: 17px;
     margin: 0;
-
+    }
     a {
-      font-weight: $font-weight-bold;
+      font-family: $sans-serif-stack;
+      font-weight: 700;
       font-size: 17px;
-
+      color: $burnt-orange;
+      transition: $transition-default;
       &:after {
         content: '\00a0>'
       }
+      &:hover {
+        color: $med-brown;
+        transition: $transition-default;
+      }
     }
+  }
+  small {
+    font-style: italic;
   }
 }
 
 .rac-instagram {
-  background: $regal-blue;
+  background: $deep-navy;
   display: flex;
   justify-content: center;
-
   .instagram-posts {
     margin: -20px;
-
-    @include md-up {
+    @media screen and (min-width: $break-md) {
       margin: 0;
     }
   }
-
+  .title {
+    color: $pure-white;
+  }
   a.instagram-link {
     font-family: $sans-serif-stack;
-    font-size: 17px;
     text-transform: uppercase;
+    color: $pure-white;
     float: right;
-
-    @include md-up {
+    @media screen and (min-width: $break-md) {
       margin-right: 20px;
     }
-
     &:hover {
-      color: $white;
+      color: $off-white;
     }
-
     &:after {
       content: '\00a0>';
     }
@@ -290,77 +393,72 @@ html {
 section {
   padding-top: 20px;
   padding-bottom: 60px;
-
-  @include md-up {
+  display: flex;
+  flex-wrap: wrap;
+  @media screen and (min-width: $break-md) {
     padding-top: 30px;
     padding-bottom: 80px;
   }
-
-  @include lg-up {
+  @media screen and (min-width: $break-lg) {
     padding-top: 40px;
     padding-bottom: 100px;
   }
-
   &.border-top {
     border: none;
     border-top: 2px dotted rgba(47, 47, 47, 0.3);
     width: 100%
   }
-
   .title {
-    grid-column: 1 / span 12;
-
-    @include md-up {
-      grid-column: 1 / span 3;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    @media screen and (min-width: $break-md) {
+      @include grid-column(3);
+      margin-top: 0px;
     }
-
     h2, h3, h4, h5 {
       font-family: $sans-serif-stack;
       font-weight: 900;
       font-size: 18px;
       text-transform: uppercase;
-      color: $regal-blue;
+      color: $deep-navy;
       letter-spacing: 2px;
+      padding: 0px;
+      margin: 0px;
       border-bottom: none;
     }
-  }
-}
-
-.section-block-wrapper {
-  display: grid;
-  grid-gap: 15px;
-  grid-template-columns: 1fr;
-
-  @include md-up {
-    grid-template-columns: 1fr 1fr;
   }
 }
 
 .section-block {
   display: flex;
   align-items: center;
-  background-color: $water-blue;
+  background-color: $light-blue;
   min-height: 120px;
+  margin-right: 0;
+  margin-bottom: $gutters-default;
+  box-sizing: border-box;
   padding: 18px 20px;
+  width: 100%;
   text-decoration: none;
-
   &:focus {
     text-decoration: underline;
   }
-  @include md-up {
-    grid-template-columns: 1fr 1fr;
+  @media screen and (min-width: $break-md) {
+    @include grid-column(6);
   }
-
+  @media screen and (min-width: $break-lg) {
+    @include grid-column(6);
+  }
   .text {
     text-transform: uppercase;
     max-width: 220px;
     font-family: $sans-serif-stack;
     font-size: 16px;
-    color: $regal-blue;
+    color: $deep-navy;
     line-height: 22px;
     padding: 18px 20px;
-
-    @include md-up {
+    box-sizing: border-box;
+    @media screen and (min-width: $break-md) {
       padding: 20px 30px;
       max-width: 300px;
       font-size: 20px;
@@ -369,11 +467,17 @@ section {
 }
 
 .alert {
-  background: $flame-orange;
+  background: $burnt-orange;
+  font-family: $serif-stack;
   line-height: 1.5;
-
-  & .material-icon {
+  color: $pure-white;
+  padding: 20px;
+  & .material-icons {
     font-size: 100px;
     float: left;
+    padding-right: 10px;
+  }
+  & a {
+    color: $pure-white;
   }
 }

@@ -1,25 +1,30 @@
+// TODO: factor out typography
+
 .biographies {
-  display: grid;
-  column-gap: 15px;
-  row-gap: 26px;
-  grid-template-columns: 1fr 1fr;
-
-  @include md-up {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  @include lg-up {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
+  display: flex;
+  flex-wrap: wrap;
   .biography {
+    margin-bottom: 26px;
+    @include grid-column(6);
+    @media screen and (min-width: $break-md) {
+      @include grid-column(4);
+    }
+    @media screen and (min-width: $break-lg) {
+      @include grid-column(3)
+    }
     img {
       width: 100%;
     }
-
+    a {
+      &:hover {
+        text-decoration: none;
+      }
+    }
     h3 {
-      font-weight: $font-weight-heavy;
+      font-family: $sans-serif-stack;
+      font-weight: 900;
       font-size: 15px;
+      color: $deep-navy;
       line-height: 18px;
       margin: 8px 0 0 0;
     }
@@ -27,7 +32,7 @@
 }
 
 .bio-page-image {
-  @include md-up {
+  @media screen and (min-width: $break-md) {
     float: left;
     margin-right: 20px;
   }

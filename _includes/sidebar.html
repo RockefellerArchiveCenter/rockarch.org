@@ -1,9 +1,7 @@
 {%- if page.sidebar -%}
-<aside role="complementary">
+<aside class="rac-sidebar" role="complementary">
 {%- for item in page.sidebar -%}
-  <a class="btn btn--large btn--light-blue btn--block sidebar__btn my-3 py-15 px-22" href="{{item[0] | absolute_url }}" {{item[3]}}>{{item[1]}}
-    <span class="material-icon" aria-hidden="true">{{item[2]}}</span>
-  </a>
+  <a class="rac-sidebar-button" href="{{item[0] | absolute_url }}" {{item[3]}}>{{item[1]}}<span class="icon"><i class="material-icons">{{item[2]}}</i></span></a>
 {%- endfor -%}
 </aside>
 {%- endif -%}

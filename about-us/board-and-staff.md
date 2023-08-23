@@ -30,7 +30,7 @@ University Archivist, Harvard University Archives
 
 ## Staff
 
-<p class="alert text--white p-20">Please direct email inquiries to <a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</p>
+<div class="alert">Please direct email inquiries to <a href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</div>  &nbsp;
 
 
 **Pablo Aguilera**, Operations Assistant  

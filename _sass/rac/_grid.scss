@@ -1,0 +1,22 @@
+@import 'neat/neat';
+
+$break-md: 580px;
+$break-lg: 1024px;
+
+$gutters-default: 15px;
+
+$neat-grid: (
+  gutter: $gutters-default
+);
+
+$grid-column: (
+  box-sizing: border-box
+); //does this work??
+
+.container {
+  width: calc(100% - (#{$gutters-default}) * 2);
+  max-width: 1440px;
+  margin-left: 30px;
+  margin-right: 30px;
+  @include grid-container;
+}

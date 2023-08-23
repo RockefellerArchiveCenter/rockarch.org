@@ -1,0 +1,61 @@
+// TODO: factor out typography
+
+.rac-side-nav {
+  @media screen and (min-width: $break-md) {
+    display: flex;
+    position: sticky;
+    position: -webkit-sticky; /* Safari */
+    top: 60px;
+    margin-bottom: 60px;
+  }
+  .side-nav {
+    min-height: 250px;
+    display: none;
+    padding: 36px 20px 36px 20px;
+    background: $burnt-orange;
+    position: absolute;
+    width: calc(50% - 60px);
+    @media screen and (min-width: $break-md) {
+      display: block;
+      position: unset;
+      width:100%;
+    }
+    @media screen and (min-width: $break-lg) {
+      padding: 36px 25px 36px 25px;
+      a {
+        font-size: 14px;
+        line-height: 18px;
+      }
+    }
+    a {
+      display: block;
+      width: 100%;
+      list-style: none;
+      text-align: left;
+      font-family: $sans-serif-stack;
+      font-weight: 900;
+      color: $pure-white;
+      font-size: 14px;
+      line-height: 17px;
+      text-decoration: none;
+      &:focus {
+        outline: 2px solid $pure-white;
+      }
+      &:hover {
+        cursor: pointer;
+      }
+      &:not(:last-child) {
+        margin-bottom: 20px;
+      }
+    }
+  }
+  .rac-orange-button {
+    @include grid-column(12);
+    margin-left: 0;
+    margin-bottom: 28px;
+    margin-top: -52px;
+    @media screen and (min-width: $break-md) {
+      display: none;
+    }
+  }
+}

@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
-<main id="main">
-  {{ content }}
-</main>
+
+{% include home_header.html %}
+
+<div class="wrapper">
+  <div class="container">
+    <main id="main" class="page-content home" role="main">
+      {{ content }}
+    </main>
+  </div>
+</div>
+
+{% include instagram_feed.html %}

@@ -4,8 +4,10 @@
   {%- include head.html -%}
 
   <body>
-    <a href="#main" class="skip-link">Skip to main content</a>
-    {%- include header.html -%}
+    
+    <a href="#main" class="skip-link visually-hidden">Jump directly to main content</a>
+
+    {%- include top-nav.html -%}
 
     {{content}}
 

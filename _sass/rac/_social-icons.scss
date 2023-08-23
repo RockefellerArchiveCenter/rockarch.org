@@ -1,0 +1,26 @@
+.rac-social-icons {
+  a {
+    color: $deep-navy;
+    i {
+      display: inline-block;
+      height: 30px;
+      width: 30px;
+    }
+    &:hover {
+      color: $burnt-orange;
+      transition: $transition-default;
+      svg g {
+        fill: $burnt-orange;
+        transition: $transition-default;
+      }
+    }
+  }
+  @media screen and (min-width: $break-lg) {
+    display: flex;
+    a {
+      i {
+        height: unset;
+      }
+    }
+  }
+}

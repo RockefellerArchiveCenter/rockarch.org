@@ -1,0 +1,17 @@
+<nav class="rac-breadcrumb" role="navigation" aria-label="breadcrumb">
+  <div class="container">
+    <ol>
+      <li class="rac-breadcrumb-item"><a href={{"/" | relative_url }}>Home</a></li>
+      {%- if page.dir != "/" -%}
+      {%- assign paths = {{page.dir | remove_first: "/" | split: "/"}} -%}
+      {%- for path in paths -%}
+      {%- capture url -%}{%- for p in paths limit:forloop.index -%}{{p}}/{%- endfor -%}{%- endcapture -%}
+      <li class="rac-breadcrumb-item">
+        {%- if forloop.last -%}{{path | replace: "-", " "}}
+        {%- else -%}<a href="{{site.baseurl}}/{{url}}">{{path | replace: "-", " "}}</a>
+        {%- endif -%}</li>
+      {%- endfor -%}
+      {%- endif -%}
+    </ol>
+  </div>
+</nav>

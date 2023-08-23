@@ -20,14 +20,10 @@ The Archives Program achieves this mission through five interconnected function
 areas that represent the lifecycle of records, from creation and use within an
 organization to acquisition and public accessibility as archives at the Center:
 the Records and Information Management Program, Collections Management,
-Processing, Access, and Digital Strategies.
+Processing, Access, and Digital Strategies.   
 
-<a href="https://blog.rockarch.org" class="btn btn--lg btn--navy btn--block  btn--program-links my-8">Bits &amp; Bytes
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
-<a href="https://docs.rockarch.org" class="btn btn--navy btn--lg btn--block btn--program-links my-8">Archive Documentation
-    <span class="material-icon    material-icon--space-before" aria-hidden="true">chevron_right</span>
-  </a>
+<a href="https://blog.rockarch.org" class="rac-blue-button">Bits &amp; Bytes</a>
+<a href="https://docs.rockarch.org" class="rac-blue-button">Archive Documentation</a>
 
 ### Records and Information Management Program
 
@@ -94,9 +90,6 @@ Each year, the R+E Program administers a competitive stipend program, which prov
 
 Through R+E’s [Archival  Program](https://resource.rockarch.org/archival-/), the team develops archive projects with local schools that serve as laboratories for curriculum development. We work with students ranging in level from middle and high school to undergraduate. The open al resources developed in these classrooms are hosted on OER Commons, and include documents, photographs, posters, advertisements, and film clips drawn from RAC holdings. The materials cover a range of topics such as voter , wartime scholar rescue efforts, immigration, and scientific innovation. In addition to topical interest, these curricula support the development of interdisciplinary research as well as digital and information literacy skills.
 
-<a href="https://resource.rockarch.org" class="btn btn--navy btn--lg btn--block btn--program-links my-8">RE:source
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
-<a href="https://resource.rockarch.org/teach-with-archives/archival-educators/" class="btn btn--navy btn--lg btn--block  my-8">Archival Program
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
+
+<a href="https://resource.rockarch.org" class="rac-blue-button">RE:source</a>
+<a href="https://resource.rockarch.org/archival-/" class="rac-blue-button">Archival  Program</a>
