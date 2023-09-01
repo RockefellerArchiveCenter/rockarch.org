@@ -80,7 +80,7 @@ University Archivist, Harvard University Archives
 **Jenna Fleming**, Archivist, Collections Management  
 (914) 366-6321 
 
-**Patrick Galligan**, Digital Archivist, Digital Strategies  
+**Patrick Galligan**, DevOps Analyst, Digital Strategies  
 (914) 366-6386  
 
 **Lee Hiltzik**, Senior Research Associate, Research and Engagement  
@@ -134,7 +134,7 @@ University Archivist, Harvard University Archives
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
 
-**Hannah Sistrunk**, Digital Archivist, Digital Strategies  
+**Hannah Sistrunk**, Usability and Accessibility Analyst, Digital Strategies  
 (914) 366-6354  
 
 **Reuben Slater**, Archival Assistant, Collections Management  
