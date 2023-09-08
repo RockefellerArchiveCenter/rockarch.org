@@ -10,12 +10,6 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-<div class="alert text--white p-20">
-  <span class="material-icon pr-10" aria-hidden="true">error_outline</span>
-  The Rockefeller Archive Center reading room is now open to researchers. Researchers should contact
-  <a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a> to schedule an appointment. Please review the Rockefeller Archive Center's <a class="text--white" href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> prior to your visit.
-</div>
-
 ## How to Contact Us
 
 Do you have a question about our holdings or how to get started on your research?
