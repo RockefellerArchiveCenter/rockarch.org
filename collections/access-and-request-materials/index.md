@@ -10,12 +10,6 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-<div class="alert text--white p-20">
-  <span class="material-icon pr-10" aria-hidden="true">error_outline</span>
-  The Rockefeller Archive Center reading room is now open to researchers. Researchers should contact
-  <a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a> to schedule an appointment. Please review the Rockefeller Archive Center's <a class="text--white" href="/about-us/covid-19-prevention-policy-for-researchers-and-visitors/">COVID-19 Prevention Policy</a> prior to your visit.
-</div>
-
 ## How to Contact Us
 
 Do you have a question about our holdings or how to get started on your research?
@@ -185,4 +179,4 @@ The RAC strives to provide accurate general copyright information in our ﬁndin
 
 ## Citations
 
-We understand that the requirements for citations may vary based on preferred style or citation manual or on publisher requirements. If you are citing to archival materials in the RAC, at a minimum we recommend that your citation include the following: Title of document, date of document, author of document, folder title, title of collection, and our institutional name: Rockefeller Archive Center. Finding aid (FA) number and box numbers can be useful, but since these numbers can change over time, they are not recommended for citation purposes. Please contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific citation questions.
+We understand that the requirements for citations may vary based on preferred style or citation manual or on publisher requirements. If you are citing to archival materials in the RAC, at a minimum we recommend that your citation include the following: Title of document, date of document, author of document, folder title, title of collection, and our institutional name: Rockefeller Archive Center. Finding aid (FA) number and box numbers can be useful, but since these numbers can change over time, they are not recommended for citation purposes.
