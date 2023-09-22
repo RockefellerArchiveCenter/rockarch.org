@@ -94,11 +94,11 @@ Sleepy Hollow NY 10591.
 
 ## Before Your Visit
 
-Within the week prior to your visit, we’ll need to schedule a virtual orientation.
-An archivist will be in touch about scheduling a virtual orientation (one-on-one)
-which should not take more than 30 minutes. We’ll review the reading room policies
-and procedures and get you ready to work in the reading room, and if you would
-like, we can chat further about your project and the archival collections.
+If you’ve never been to the RAC before (or if it’s been a while and you’d like a 
+refresher), we’ll schedule a virtual orientation which should not take more than 
+30 minutes. We’ll review the reading room policies and procedures, familiarize 
+you with our facility, and chat further about your project and the archival 
+collections.
 
 ## What You Can Expect When You Get Here
 
