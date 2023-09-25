@@ -105,8 +105,9 @@ collections.
 For more details about the accessibility of the physical space, see our
 [Accessibility Statement](/about-us/accessibility).
 
-When you arrive on the first day of your scheduled research visit, you will be
-greeted and brought up to the reading room.
+When you arrive on the first day of your scheduled research visit, please 
+proceed up the stairs to the second floor. The reading rooms are at the 
+end of the hallway.
 
 We’re an archive of important historical materials, so we do have a few
 simple rules that we ask all researchers to follow when they’re in the RAC’s
