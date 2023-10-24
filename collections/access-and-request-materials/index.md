@@ -180,4 +180,21 @@ The RAC strives to provide accurate general copyright information in our ﬁndin
 
 ## Citations
 
-We understand that the requirements for citations may vary based on preferred style or citation manual or on publisher requirements. If you are citing to archival materials in the RAC, at a minimum we recommend that your citation include the following: Title of document, date of document, author of document, folder title, title of collection, and our institutional name: Rockefeller Archive Center. Finding aid (FA) number and box numbers can be useful, but since these numbers can change over time, they are not recommended for citation purposes.
+When citing archival materials at the RAC, you should include the following information which represents the basic intellectual hierarchy of the archival record and should be sufficient to locate most documents: 
+  - Title or description of document 
+  - Date of document 
+  - Author of document if known  
+  - Title of file 
+  - Collection title  
+  - Our institutional name: Rockefeller Archive Center  
+
+For larger and more complex collections, consider including the following additional information that reflects organizational file groupings or hierarchy within the records when you see it in the archival description:  
+  - Series (name and/or number) 
+  - Record Group (name and/or number) 
+  - Subgroup (name and/or number) 
+
+The "Cite" button in the RAC's DIMES online finding aid catalog can be used to export relevant citation information for a file unit. 
+
+Since box numbers and folder numbers are not unique permanent identifiers, they are not reliable for citation purposes and should not be used as part of a citation. 
+
+It is the responsibility of researchers to collect the information necessary to create a proper citation while research is being conducted. The RAC’s staff cannot do this work for you. 
