@@ -125,6 +125,10 @@ for book weights.
 - If metal fasteners need to be removed, ask the desk monitor for
 assistance.
 
+The top shelf of the cart will be kept clear, and you should place the box 
+you are actively using on the top shelf so that there is plenty of room on 
+your table for a folder and your laptop.
+
 Our Reading Room can be cool at times, so be sure and bring a sweater.
 Generally speaking, you may use a digital camera or your phone or tablet
 to photograph collection materials for research and educational purposes.
