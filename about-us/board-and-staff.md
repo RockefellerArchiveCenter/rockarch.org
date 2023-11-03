@@ -128,9 +128,6 @@ University Archivist, Harvard University Archives
 **Brigite Requeijo**, Director of Human Resources and Operations  
 (914) 366-6381  
 
-**Bonnie Marie Sauer**, Records and Information Program Manager  
-(914) 366-6365
-
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
 
