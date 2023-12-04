@@ -4,7 +4,7 @@ title: "Our Mission, Vision & Values"
 permalink: /about-us/mission-vision-values/
 ---
 
-## Mission
+## Our Mission
 
 By collecting, managing, preserving and providing broad and equitable access 
 to the historical records of philanthropy and other efforts to work on behalf 
