@@ -53,15 +53,15 @@
 .hero__text {
   grid-column: 1 / span 12;
   color: $white;
-  font-size: 21px;
+  font-size: 20px;
 
     @include md-up {
       align-self: center;
-      font-size: 28px;
+      font-size: 20px;
       grid-column: 5 / span 7;
     }
 
     @include lg-up {
-      font-size: 34px;
+      font-size: 24px;
   }
 }
