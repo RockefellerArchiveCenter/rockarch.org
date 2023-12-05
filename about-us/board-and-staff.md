@@ -19,6 +19,9 @@ President, The Rockefeller University
 **Jack Meyers**  
 President, Rockefeller Archive Center
 
+**Alondra Nelson**  
+Harold F. Linder Professor, Institute for Advanced Study
+
 **Joseph Pierson**  
 President, Cypress Films
 
