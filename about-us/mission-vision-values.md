@@ -95,7 +95,7 @@ Rockefeller Archive Center aspires to: 
  
 ### We Foster Belonging
 - We foster belonging by welcoming different ideas and by valuing the diversity and 
-  ndividuality of knowledge, background, and experience that we each bring to our workplace. 
+  individuality of knowledge, background, and experience that we each bring to our workplace. 
 - We fulfill our roles and responsibilities with integrity, civility, honesty, humility, 
   and empathy for one another. 
 - We foster an organizational culture that promotes positive work-life balance, and we 
