@@ -67,7 +67,7 @@ Rockefeller Archive Center aspires to: 
 - We promote and support professional development opportunities for all staff regardless 
   of their role in the organization.
 
-**We Embrace Change**
+## We Embrace Change
 - We readily use new workflows, technologies, and tools to enhance user experience 
   and extend our institutional reach. 
 - We keep abreast of developments in our fields of practice and thoughtfully implement 
