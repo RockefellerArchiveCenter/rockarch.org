@@ -23,7 +23,7 @@ President, The Rockefeller University
 President, Rockefeller Archive Center
 
 **Alondra Nelson**  
-Harold F. Linder Professor, Institute for Advanced Study
+Harold F. Linder Professor of Social Science, Institute for Advanced Study
 
 **Joseph Pierson**  
 President, Cypress Films
