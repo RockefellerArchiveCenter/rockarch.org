@@ -7,6 +7,9 @@ permalink: /about-us/board-and-staff/
 ## Board of Trustees
 
 
+**Joseph Betancourt**  
+President, The Commonwealth Fund
+
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
 
@@ -29,7 +32,7 @@ President, Cypress Films
 President, The Rockefeller Foundation
 
 **Megan Sniffin-Marinoff**  
-University Archivist, Harvard University Archives
+Former University Archivist, Harvard University Archives
 
 ## Staff
 
