@@ -16,60 +16,6 @@ team provides expertise to the entire RAC organization in the application and us
 of technology in all aspects of our work with an emphasis on accessibility, 
 user-centered design, and capacity-building.
 
-### Records and Information Management Program
-
-The Records and Information Management Program uses the information governance
-framework to promote effective information management as an essential practice
-at the RAC, the institutions whose records we collect, and across the broader
-foundation community. We champion effective stewardship of information assets
-during the active part of their lifecycle to ensure they are stored, accessed,
-and disposed of in a manner that supports current organizational needs as well
-as institutional knowledge and learning. We empower records creators to develop
-information management policies and practices based on an institution’s shared
-definition of how systems are used and the recognition that content rather than
-format determines record status. 
-
-### Collections Management
-
-Collections Management provides the critical physical control and the initial descriptive point of
-access to our diverse and multi-format archival holdings while taking into account the needs of
-the materials themselves. Through careful preservation and monitoring of our collections, we
-strive to extend the lifecycle while sustaining the integrity of the collections. We serve as a
-resource for preserving the Center’s audiovisual collections and for making these unique
-resources accessible to our users. We also maintain and support the Center’s library of published
-materials documenting the products and legacy of our donors as an important supplemental
-resource for users of our archival holdings.
-
-### Processing
-
-The Processing team establishes and enhances intellectual and physical control of
-our archival holdings by effectively and efficiently organizing, describing, and
-preserving all eligible materials, regardless of form, medium, or creator, to
-facilitate user access. We ensure timely, open, and equitable access to primary
-sources on site and online. We actively promote the use and understanding of the
-historical record through the collection guides we create in accordance with DACS
-descriptive standards, and all program policies and procedures foster accountability
-and transparency. The Processing team commits to culturally competent descriptive
-practices, as we acknowledge that our collections and the archival descriptions we
-create are shaped by racial, gendered, and other cultural identities and biases.
-We aim to describe materials representing marginalized, underrepresented, and
-historically oppressed people and cultures appropriately and respectfully. As we
-learn and grow through professional development, we seek opportunities to
-contribute to the archival profession and collaborate with practitioners in related
-fields.
-
-### Access
-
-The Access Team promotes the accessibility and discoverability of archival collections to our
-users. By responding to inquiries, educating researchers and donors on the scope and structure of
-the collections, and providing physical access through our reading rooms, duplication services,
-and digitization processes, we establish a genuine connection between our community of users
-and our holdings.
-
-### Digital Strategies
-
-The Digital Strategies team leads the ethical application of technology in all aspects of the RAC's work by connecting people to systems and expertise. We develop, implement, and maintain the organization’s archival systems and digital infrastructure; build capacity through training designed to empower our colleagues; center user perspectives to continually improve the usability and accessibility of our systems and collections; and participate in professional communities to further our work and the archival profession.
-
 ## Research & Engagement Program
 
 The Research and Engagement Program (R+E) at the RAC brings together historians, educators, and archivists to explore issues in the history of philanthropy for public, scholarly, and professional audiences and to cultivate new audiences for archival research. The team’s activities include digital publishing, conferences and workshops, al outreach, practitioner engagement, and a competitive research stipend program. R+E helps further the RAC mission of access by providing a narrative entry into RAC archival collections and fostering broad engagement with the history of philanthropy.
