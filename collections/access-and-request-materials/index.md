@@ -158,7 +158,6 @@ as we work to reduce the backlog and complete orders in as timely a manner as po
 Duplication requests are limited to 500 pages/images per order.
 
 - Unit cost: $0.50 per page/image
-- Service charge: $10.00 per order.
 - Orders are sent via electronic delivery without additional charge.
 
 ### Audiovisual Materials
