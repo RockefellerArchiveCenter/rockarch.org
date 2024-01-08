@@ -6,28 +6,15 @@ permalink: /about-us/program-areas/
 
 ## Archives Program
 
-The Archives Program of the Rockefeller Archive Center fosters and supports a
-broad community of users examining the history of philanthropy and its related
-endeavors. We acquire, preserve, make accessible, and encourage research and
-scholarship in the papers and records in our care, while promoting effective
-records and information management practices within foundations.  We engage in
-and advance the archival profession by ensuring that our staff participates
-broadly in professional activities and organizations. We lead by example in the
-use and dissemination of open source information management tools, and we
-advocate for open access to information in all its forms.   
-
-The Archives Program achieves this mission through five interconnected function
-areas that represent the lifecycle of records, from creation and use within an
-organization to acquisition and public accessibility as archives at the Center:
-the Records and Information Management Program, Collections Management,
-Processing, Access, and Digital Strategies.
-
-<a href="https://blog.rockarch.org" class="btn btn--lg btn--navy btn--block  btn--program-links my-8">Bits &amp; Bytes
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
-<a href="https://docs.rockarch.org" class="btn btn--navy btn--lg btn--block btn--program-links my-8">Archive Documentation
-    <span class="material-icon    material-icon--space-before" aria-hidden="true">chevron_right</span>
-  </a>
+The Archives Program guides the Rockefeller Archive Center’s ethical, standards-based, 
+and culturally competent stewardship of the archival collections in our custody. 
+We do this work through three interconnected teams that reflect the lifecycle of 
+the records: Collections Management (appraisal, accessioning, and preservation), 
+Processing (arrangement and description), and Access (connecting users to the 
+collections in our physical and online spaces). Additionally, the Digital Strategies 
+team provides expertise to the entire RAC organization in the application and use 
+of technology in all aspects of our work with an emphasis on accessibility, 
+user-centered design, and capacity-building.
 
 ### Records and Information Management Program
 
