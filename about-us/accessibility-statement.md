@@ -54,7 +54,7 @@ The elevators do not conform to all ADA requirements. They may be too small for 
 
 ## Digital Space
 
-The RAC maintains multiple public websites to facilitate the discovery of and access to its archival collections, engage with research and educational materials related to the collections, share documentation and perspectives about its work, and enable donor organizations to transfer digital records. We target the [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) Level AA, which explain how to make web content accessible to people with a wide range of disabilities, as our minimum standard.
+The RAC maintains multiple public websites to facilitate the discovery of and access to its archival collections, engage with research and educational materials related to the collections, share documentation and perspectives about its work, and enable donor organizations to transfer digital records. We target the [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) Level AA, which explain how to make web content accessible to people with a wide range of disabilities, as our minimum standard.
 
 ### Known Issues
 
@@ -90,4 +90,4 @@ The RAC tests its websites primarily in Chrome, Firefox, and Safari with [NVDA](
 How can we be more accessible? Please send an e-mail to [archive@rockarch.org](mailto:archive@rockarch.org) or call 914-366-6300 with feedback or with requests for more information or accommodation.
 
 Statement reviewed annually by RAC Operations.  
-Last updated: October 11, 2022
+Last updated: January 9, 2024
