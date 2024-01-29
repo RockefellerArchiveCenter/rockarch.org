@@ -42,6 +42,7 @@ Trilateral Commission
 William and Flora Hewlett Foundation  
 William T. Grant Foundation 
   
+  
 
 The collections also contain the records of important organizations that are no longer in existence, such as:
 
@@ -64,6 +65,7 @@ Sealantic Fund
 Spelman Fund of New York  
 Taconic Foundation  
   
+
 
 In addition, the RAC holds the papers of Rockefeller family members as well as the papers of individuals associated with the organizations in our collections.  Some examples include:  
 
