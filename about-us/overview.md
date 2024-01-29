@@ -16,75 +16,77 @@ The RAC’s collections contain the records of a wide range of institutions dedi
 
 Most of the records in the RAC's collections come from foundations and other institutions that remain active in the public sphere, including:
 
-Asia Society  
-Asian Cultural Council  
-China Medical Board, Inc.  
-Commonwealth Fund  
-Downtown-Lower Manhattan Association, Inc.  
-Ford Foundation  
-Foundation Center (now part of Candid)  
-Foundation for Child Development  
-Henry Luce Foundation  
-Institute for Citizens and Scholars (formerly the Woodrow Wilson National Foundation)  
-Institute of International Education  
-International Society for Third-Sector Research  
-James S. and John L. Knight Foundation  
-John A. Hartford Foundation  
-Markle Foundation  
-National Committee on United States-China Relations  
-Near East Foundation  
-Population Council  
-Rockefeller Brothers Fund  
-Rockefeller Foundation  
-Russell Sage Foundation  
-Social Science Research Council  
-Trilateral Commission  
-William and Flora Hewlett Foundation  
-William T. Grant Foundation 
-&nbsp;
-&nbsp;
+<ul class="list--unstyled mb-34">
+    <li>Asia Society</li>
+    <li>Asian Cultural Council</li>
+    <li>China Medical Board, Inc.</li>
+    <li>Commonwealth Fund</li>
+    <li>Downtown-Lower Manhattan Association, Inc.</li>
+    <li>Ford Foundation</li>
+    <li>Foundation Center (now part of Candid)</li>
+    <li>Foundation for Child Development</li>
+    <li>Henry Luce Foundation</li>
+    <li>Institute for Citizens and Scholars (formerly the Woodrow Wilson National Foundation)</li>
+    <li>Institute of International Education</li>
+    <li>International Society for Third-Sector Research</li>
+    <li>James S. and John L. Knight Foundation</li>
+    <li>John A. Hartford Foundation</li>
+    <li>Markle Foundation</li>
+    <li>National Committee on United States-China Relations</li>
+    <li>Near East Foundation</li>
+    <li>Population Council</li>
+    <li>Rockefeller Brothers Fund</li>
+    <li>Rockefeller Foundation</li>
+    <li>Russell Sage Foundation</li>
+    <li>Social Science Research Council</li>
+    <li>Trilateral Commission</li>
+    <li>William and Flora Hewlett Foundation</li>
+    <li>William T. Grant Foundation</li>
+</ul>
 
 The collections also contain the records of important organizations that are no longer in existence, such as:
 
-Agricultural Development Council  
-American Conservation Association  
-American International Association for Economic and Social Development  
-Arts, Education and Americans Panel  
-Bureau of Social Hygiene  
-General Education Board  
-Health Research Fund  
-International Basic Economy Corporation  
-International Education Board  
-Jackson Hole Preserve, Inc.  
-JDR 3rd Fund  
-Laura Spelman Rockefeller Memorial  
-Lucille P. Markey Charitable Trust  
-Martha Baird Rockefeller Fund for Music  
-Rockefeller Sanitary Commission  
-Sealantic Fund  
-Spelman Fund of New York  
-Taconic Foundation  
-&nbsp;
-&nbsp;
+<ul class="list--unstyled mb-34">
+    <li>Agricultural Development Council</li>
+    <li>American Conservation Association</li>
+    <li>American International Association for Economic and Social Development</li>
+    <li>Arts, Education and Americans Panel</li>
+    <li>Bureau of Social Hygiene</li>
+    <li>General Education Board</li>
+    <li>Health Research Fund</li>
+    <li>International Basic Economy Corporation</li>
+    <li>International Education Board</li>
+    <li>Jackson Hole Preserve, Inc.</li>
+    <li>JDR 3rd Fund</li>
+    <li>Laura Spelman Rockefeller Memorial</li>
+    <li>Lucille P. Markey Charitable Trust</li>
+    <li>Martha Baird Rockefeller Fund for Music</li>
+    <li>Rockefeller Sanitary Commission</li>
+    <li>Sealantic Fund</li>
+    <li>Spelman Fund of New York</li>
+    Taconic Foundation
+</ul> 
 
 In addition, the RAC holds the papers of Rockefeller family members as well as the papers of individuals associated with the organizations in our collections.  Some examples include:  
 
-Claude H. Barlow Papers  
-Jackson Davis Papers  
-Paul Ehrlich Papers  
-Frederick T. Gates Papers  
-Abby Aldrich Rockefeller Papers  
-David Rockefeller Papers  
-John D. Rockefeller Papers  
-John D. Rockefeller, Jr. Papers  
-John D. Rockefeller 3rd Papers  
-Laurance S. Rockefeller Papers  
-Nelson A. Rockefeller Papers  
-Office of the Messrs. Rockefeller  
-William Rockefeller Papers  
-Winthrop Rockefeller Papers  
-Francis X. Sutton Papers  
-Hao Wang Papers  
-Warren Weaver Papers  
-William H. Whyte Papers  
-Malcolm Wilson Papers  
+<ul class="list--unstyled">
+    <li>Claude H. Barlow Papers</li>
+    <li>Jackson Davis Papers</li>
+    <li>Paul Ehrlich Papers</li>
+    <li>Frederick T. Gates Papers</li>
+    <li>Abby Aldrich Rockefeller Papers</li>
+    <li>David Rockefeller Papers</li>
+    <li>John D. Rockefeller Papers</li>
+    <li>John D. Rockefeller, Jr. Papers</li>
+    <li>John D. Rockefeller 3rd Papers</li>
+    <li>Laurance S. Rockefeller Papers</li>
+    <li>Nelson A. Rockefeller Papers</li>
+    <li>Office of the Messrs. Rockefeller</li>
+    <li>William Rockefeller Papers</li>
+    <li>Winthrop Rockefeller Papers</li>
+    <li>Francis X. Sutton Papers</li>
+    <li>Hao Wang Papers</li>
+    <li>Warren Weaver Papers</li>
+    <li>William H. Whyte Papers</li>
+    <li>Malcolm Wilson Papers</li>
+</ul>
