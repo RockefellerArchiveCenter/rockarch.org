@@ -137,7 +137,7 @@ Former University Archivist, Harvard University Archives
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
 
-**Hannah Sistrunk**, Usability and Accessibility Analyst, Digital Strategies  
+**Hannah Sistrunk**, User Experience and Accessibility Analyst, Digital Strategies  
 (914) 366-6354  
 
 **Reuben Slater**, Archival Assistant, Collections Management  
