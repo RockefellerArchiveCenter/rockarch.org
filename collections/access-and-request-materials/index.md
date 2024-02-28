@@ -36,7 +36,7 @@ For more details about the accessibility of the physical space, see our [Accessi
 
 ## When We’re Open
 
-The RAC is open Monday through Friday from 9:00 am to 5:00 pm, except for
+The RAC Reading Rooms are open Monday through Friday from 9:30 am to 5:00 pm, except for
 [designated holidays](holiday-schedule/).
 
 Inclement weather can sometimes require the RAC to close for the safety of
