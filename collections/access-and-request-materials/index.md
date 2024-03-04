@@ -140,6 +140,87 @@ Room which enable researchers to print or to save images from microfilm
 onto flash drives. We encourage you to bring your own flash drive if you
 anticipate using microfilm during your visit.
 
+## Requesting Materials at the RAC
+
+All onsite researchers at the RAC must have a confirmed appointment and have 
+created a researcher account in [RACcess](https://raccess.rockarch.org/), our 
+online request and duplication management system, prior to your arrival.
+
+Before your visit, we recommend that you select an initial group of materials 
+that we can have ready for you on your arrival. This can be done through the 
+RAC’s online finding aid catalog [DIMES](https://dimes.rockarch.org/) or the 
+online [Library materials catalog](https://library.rockarch.org/). Once you 
+find an item you want to request, add it to your list and then submit a request 
+to view the materials in our reading room by 5:00 pm Eastern time the business 
+day prior to your appointment day. Be sure and indicate the correct date of 
+your first appointment day in your request.
+
+- We deliver up to 10 items at a time. If archival containers are too large 
+  to fit all 10 items on a cart, we’ll keep some items back and deliver them 
+  to you at the next delivery time.
+- We will only keep up to 10 items on one cart per person in the reading room 
+  at a time due to space limitations.
+- The top shelf of the cart will be kept clear, and you should place the box 
+  you are actively using on the top shelf so that there is plenty of room on 
+  your table for a folder and your laptop.
+- Some archival materials are stored in offsite locations and may take up to 
+  48 hours (2 full business days) to retrieve.
+- Oversized materials such as posters, maps, and architectural drawings cannot 
+  be brought safely to the reading rooms. Such materials will be pulled for 
+  researcher review in another space in the RAC building and will be coordinated 
+  with a RAC staff member.
+- Digitized audiovisual materials are accessible in our Reading Rooms through 
+  the RAC’s Virtual Vault. Audiovisual materials that are not yet digitized 
+  will need to be reviewed by the Audiovisual Archivist to determine if there 
+  are any preservation issues in providing access. It may take up to 8 hours 
+  (2 full business days) to complete this review.
+
+We have scheduled materials delivery times based on the following schedule. 
+- The RAC Reading Rooms are open to researchers from 9:30 am to 5:00 pm, Monday through Friday.
+- Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval.
+- If you believe you will need fresh materials at the next delivery time, we recommend that you proactively work with the desk monitor to stage your next selections after each new delivery so that you do not have to wait for a later delivery time. We will not do special pulls outside of scheduled delivery times.
+- We do not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Materials Delivery Time</th>
+            <th>Deadline to Move Requests into To Be Paged Queue</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">9:30 am (material available on arrival)</th>
+            <td>5:00 pm the previous business day</td>
+        </tr>
+        <tr>
+            <th scope="row">10:30 am</th>
+            <td>10:00 am</td>
+        </tr>
+        <tr>
+            <th scope="row">11:30 am</th>
+            <td>11:00 am</td>
+        </tr>
+        <tr>
+            <th scope="row">1:30 pm</th>
+            <td>1:00 pm</td>
+        </tr>
+        <tr>
+            <th scope="row">2:30 pm</th>
+            <td>2:00 pm</td>
+        </tr>
+        <tr>
+            <th scope="row">3:30 pm</th>
+            <td>3:00 pm</td>
+        </tr>
+        <tr>
+            <th scope="row">4:30 pm (last delivery of the day)</th>
+            <td>4:00 pm</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## Duplication Services and Fee Schedule
 
 The RAC offers duplication services for on-site and off-site researchers. If
