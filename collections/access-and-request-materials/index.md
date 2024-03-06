@@ -221,41 +221,70 @@ We have scheduled materials delivery times based on the following schedule.
 </table>
 
 
-## Duplication Services and Fee Schedule
+## Duplication Services
 
-The RAC offers duplication services for on-site and off-site researchers. If
-you have any questions about ordering copies of our holdings, please
-contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
+The RAC offers digitization services to both our onsite and virtual or offsite users.
 
-The RAC may decline to copy certain documents that in its judgment may
-suffer damage as a result of duplication.
+To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org/),
+the RAC’s online request and duplication management system. Once you’ve created your account, 
+duplication requests can be made directly through your account or from our 
+[DIMES online catalog’s](https://dimes.rockarch.org/) My List page, which connects to your account.
 
-PLEASE NOTE: Because of increased demand for duplication services caused by the 
-pandemic and our re-opening to onsite researchers, we are currently experiencing 
-a greater than normal delay in fulfilling requests. We thank you for your patience 
-as we work to reduce the backlog and complete orders in as timely a manner as possible.
+Digitization requests are generally processed on a first-come, first-served basis. The RAC 
+endeavors to fulfill all digitization requests within 90 days. However, a request may take
+longer depending on the volume of materials being requested and whether additional handling 
+is necessary due to the original item’s condition or format. We do not do rush orders.
 
-### PDFs or TIFF/JPEG images
-Duplication requests are limited to 500 pages/images per order.
+Please note that the RAC may decline to copy certain materials that in its judgment may 
+suffer damage due to the handling necessary for digitization. Any materials with serious 
+preservation concerns will be evaluated and may require us to use an outside digitization 
+vendor. 
 
-- Unit cost: $0.50 per page/image
-- Orders are sent via electronic delivery without additional charge.
+## Fees and Limitations
 
-### Audiovisual Materials
+RAC duplication request fees and limitations are based on the item you have identified through 
+our DIMES online catalog, usually a file (regardless of the number of pages or folders 
+associated with the file), an oversized flat file item (such as a map or blueprint), or 
+an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
+regardless of page count.
 
-For on-site researchers, accessible (already digitized) audiovisual files are available for download at the RAC through our Virtual Vault.
+**The RAC charges a flat fee of $25.00 per transaction.** We do not charge for materials that 
+have already been digitized.
 
-For off-site researchers, the following fee schedule applies to audiovisual material for which we already have digital access files. If access files currently do not exist, the costs associated with "Outsourced Digitization" applies in addition to the following charges:
+**Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
+consult with an archivist at archive@rockarch.org to assist you in prioritizing your 
+transaction requests prior to ordering. Additional transactions over 20 can be saved 
+in the user’s account for future processing.
 
-- Unit cost: $10.00 per title (Format: Audio MP3 or moving image MP4)
-- Service charge: $25.00 per order
-- Audiovisual material will be delivered electronically, unless otherwise arranged. The RAC does not create DVD or CD copies.
-- Higher-resolution audiovisual files are to be arranged with the RAC. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost estimates.
+### Audiovisual materials
+- Already digitized audiovisual files are available for download by onsite users at the RAC 
+  through our Virtual Vault. These files will be delivered electronically to offsite users, 
+  unless otherwise arranged. The RAC does not create DVD or CD copies.
+- If access files currently do not exist, audiovisual items must be sent to an outside 
+  digitization vendor, and the user will be charged the vendor cost in addition to the $25.00 
+  transaction fee. This process could take up to six months to complete. Please contact us at 
+  [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and 
+  cost estimates.
+- Higher-resolution audiovisual files are to be arranged with the RAC. Please contact us at 
+  [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost 
+  estimates.
 
-### Outsourced Duplication
+### Oversized flat file items. 
+- The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) 
+  up to 34 inches by 24 inches (34” x 24”) in size. 
+- All larger sizes must be sent to an outside digitization vendor, and the user will be 
+  charged the vendor cost in addition to the $25.00 transaction fee. This process could take 
+  up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) 
+  for further details, including time and cost estimates.
 
-Duplication of any material that is oversized, bound, three-dimensional, fragile, or damaged, as well as duplication of audiovisual materials, will be outsourced to an external vendor. Please contact us at
-[archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
+### Publication quality individual pages or photographic images. 
+- Users requesting a high-resolution, publication quality scan of an individual page or 
+  photographic image may make such requests though their RACcess account and then must follow 
+  up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details 
+  of the specific image being requested and the resolution requirements. 
+- Because such requests require special handling, you will be charged $25.00 per image with a 
+  limit of 20 items. 
+- Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
 
 ## Copyright
 
