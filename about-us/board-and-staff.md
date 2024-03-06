@@ -87,7 +87,9 @@ Former University Archivist, Harvard University Archives
 (914) 366-6321 
 
 **Patrick Galligan**, DevOps Analyst, Digital Strategies  
-(914) 366-6386  
+(914) 366-6386
+
+**Nathaniel Guerrier**, Exhibits and Outreach Assistant, Research and Engagement
 
 **Lee Hiltzik**, Senior Research Associate, Research and Engagement  
 (914) 366-6345 
