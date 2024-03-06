@@ -240,7 +240,7 @@ suffer damage due to the handling necessary for digitization. Any materials with
 preservation concerns will be evaluated and may require us to use an outside digitization 
 vendor. 
 
-## Fees and Limitations
+### Fees and Limitations
 
 RAC duplication request fees and limitations are based on the item you have identified through 
 our DIMES online catalog, usually a file (regardless of the number of pages or folders 
@@ -256,7 +256,7 @@ consult with an archivist at archive@rockarch.org to assist you in prioritizing 
 transaction requests prior to ordering. Additional transactions over 20 can be saved 
 in the user’s account for future processing.
 
-### Audiovisual materials
+#### Audiovisual materials
 - Already digitized audiovisual files are available for download by onsite users at the RAC 
   through our Virtual Vault. These files will be delivered electronically to offsite users, 
   unless otherwise arranged. The RAC does not create DVD or CD copies.
@@ -269,7 +269,7 @@ in the user’s account for future processing.
   [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost 
   estimates.
 
-### Oversized flat file items. 
+#### Oversized flat file items. 
 - The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) 
   up to 34 inches by 24 inches (34” x 24”) in size. 
 - All larger sizes must be sent to an outside digitization vendor, and the user will be 
@@ -277,7 +277,7 @@ in the user’s account for future processing.
   up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) 
   for further details, including time and cost estimates.
 
-### Publication quality individual pages or photographic images. 
+#### Publication quality individual pages or photographic images. 
 - Users requesting a high-resolution, publication quality scan of an individual page or 
   photographic image may make such requests though their RACcess account and then must follow 
   up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details 
