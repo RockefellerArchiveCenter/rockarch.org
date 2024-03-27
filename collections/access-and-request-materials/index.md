@@ -18,14 +18,14 @@ We will respond to your inquiry within ten (10) business days.
 
 ## How to Research at the RAC
 
-Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
+Anyone can conduct research at the RAC. If we have archival materials that can be useful to your 
+research topic, you are welcome here.
 
-Because of limited seating capacity, researchers need an appointment in order to
-conduct in-person research in the RAC’s Reading Room. Contact the RAC Access
-team at [archive@rockarch.org](mailto:archive@rockarch.org) to make your
-appointment.
+Appointments are required to conduct in-person research in the Archive Center’s Reading Room.  To reserve an appointment, please use the “Appointments” tab in your [RACcess](https://raccess.rockarch.org/testweb) account to schedule your research day(s) at the Archive Center.  Reservations must be made at least three days prior to your start date.  Reading Room appointments reserve you a desk for the entire day (9:30-5:00), but you are able to arrive and depart whenever you need.  
 
-You will also need to create a researcher account in [RACcess](https://raccess.rockarch.org),
+If you have any questions about the Reading Room reservation procedures, please contact an archivist at [archive@rockarch.org](mailto:archive@rockarch.org).
+
+You will also need to create a researcher account in [RACcess](https://raccess.rockarch.org/testweb),
 our online request and duplication management system.
 
 Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
