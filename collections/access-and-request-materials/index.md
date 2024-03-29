@@ -3,8 +3,7 @@ layout: page-sidebar
 title: Access & Request Materials
 permalink: /collections/access-and-request-materials/
 sidebar:
-  - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
-  - ["https://raccess.rockarch.org", Log into/Create a new RACcess account, arrow_forward]
+  - ["https://raccess.rockarch.org/testweb", Log into/Create a new RACcess account, arrow_forward]
   - ["https://dimes.rockarch.org", Search collections at DIMES, arrow_forward]
   - ["https://docs.rockarch.org/argo-docs/", Access collections API, arrow_forward]
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
@@ -142,7 +141,7 @@ anticipate using microfilm during your visit.
 ## Requesting Materials at the RAC
 
 All onsite researchers at the RAC must have a confirmed appointment and have 
-created a researcher account in [RACcess](https://raccess.rockarch.org/), our 
+created a researcher account in [RACcess](https://raccess.rockarch.org/testweb), our 
 online request and duplication management system, prior to your arrival.
 
 Before your visit, we recommend that you select an initial group of materials 
@@ -224,7 +223,7 @@ We have scheduled materials delivery times based on the following schedule.
 
 The RAC offers digitization services to both our onsite and virtual or offsite users.
 
-To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org/),
+To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org/testweb),
 the RAC’s online request and duplication management system. Once you’ve created your account, 
 duplication requests can be made directly through your account or from our 
 [DIMES online catalog’s](https://dimes.rockarch.org/) My List page, which connects to your account.
