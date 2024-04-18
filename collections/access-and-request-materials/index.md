@@ -251,10 +251,13 @@ regardless of page count.
 **The RAC charges a flat fee of $25.00 per transaction.** We do not charge for materials that 
 have already been digitized.
 
+**Users will be billed for each transaction as it is completed.** If you have submitted multiple 
+digitization transactions, we will bill and deliver each transaction as it completed to ensure 
+that we can process all requests as efficiently as possible.
+
 **Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
-consult with an archivist at archive@rockarch.org to assist you in prioritizing your 
-transaction requests prior to ordering. Additional transactions over 20 can be saved 
-in the user’s account for future processing.
+consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist 
+you in prioritizing your transaction requests prior to ordering.
 
 #### Audiovisual materials
 - Already digitized audiovisual files are available for download by onsite users at the RAC 
