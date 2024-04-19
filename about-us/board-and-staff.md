@@ -124,7 +124,7 @@ Former University Archivist, Harvard University Archives
 **Renee Pappous**, Archivist, Access  
 (914) 366-6355  
 
-**Tyler Perry**, Reading Room Assistant, Access  
+**Tyler Perry**, Archival Assistant, Access  
 (914) 366-6329
 
 **Brent Phillips**, Audiovisual Archivist, Collections Management  
