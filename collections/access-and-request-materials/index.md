@@ -10,7 +10,7 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-## Ask a Question:
+## Ask a Question
 
 The Access team is available to answer questions about the RAC's archival holdings. Our goal is to support you in connecting with the collections that will be most helpful to your research project, but we are not able to undertake archival research on your behalf.
 
