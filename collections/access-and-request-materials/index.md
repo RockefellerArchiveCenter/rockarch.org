@@ -10,13 +10,15 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-## How to Contact Us
+## Ask a Question
 
-Do you have a question about our holdings or how to get started on your research?
-Contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
-We will respond to your inquiry within ten (10) business days.
+The Access team is available to answer questions about the RAC's archival holdings. Our goal is to support you in connecting with the collections that will be most helpful to your research project, but we are not able to undertake archival research on your behalf.
 
-## How to Research at the RAC
+Please send your inquiry to [archive@rockarch.org](mailto:archive@rockarch.org).
+
+Provide as much detailed information as possible about your research interest. An Access team member will respond to your request within 10 working days.
+
+## Plan a Research Visit
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
 
