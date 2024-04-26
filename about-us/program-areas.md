@@ -33,9 +33,4 @@ The Operations and Finance Programs provide strategic leadership, guidance, and 
 
 The Finance Program exists independently from Operations to manage all aspects of the RAC’s finances, including all accounting matters related to financial statements, budget, audit, tax return, payroll, accounts payable, and accounts receivable. Both programs work collaboratively to support the RAC's mission, vision, and values and to create and maintain an environment where staff and user communities are empowered to excel in their work. 
 
-<a href="https://resource.rockarch.org" class="btn btn--navy btn--lg btn--block btn--program-links my-8">RE:source
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
-<a href="https://resource.rockarch.org/teach-with-archives/archival-educators/" class="btn btn--navy btn--lg btn--block  my-8">Archival Program
-  <span class="material-icon material-icon--space-before" aria-hidden="true">chevron_right</span>
-</a>
+
