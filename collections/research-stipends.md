@@ -6,7 +6,7 @@ permalink: /collections/research-stipends/
 
 <div class="alert text--white p-20">
 The 2024 Research Stipend application cycle has now closed. The application for the 2025 awards will open in the summer of 2024. Please continue to check back here. In preparation, we encourage you to contact 
-<a href="mailto:archive@rockarch.org">archive@rockarch.org</a> to work with an archivist to identify relevant holdings for your project. This is encouraged, though not required, and can be done at any time. Also note that applications for the RAC Paul Engel Memorial Award and the Paul Ehrlich Award can be made throughout the year. Scroll down to read the requirements for those awards.
+<a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a> to work with an archivist to identify relevant holdings for your project. This is encouraged, though not required, and can be done at any time. Also note that applications for the RAC Paul Engel Memorial Award and the Paul Ehrlich Award can be made throughout the year. Scroll down to read the requirements for those awards.
 </div>
 
 ## About the RAC Stipend Program
