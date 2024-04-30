@@ -5,8 +5,8 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert text--white p-20">
-The application for the 2024 Research Stipend is now open! The deadline to submit applications is Friday, November 3, at 11:59pm Eastern Time. Learn more information about the application process and other Rockefeller Archive Center (RAC) stipend programs below. To apply, please use our online form:
-<a class="text--white" href="https://forms.office.com/r/1Mt0U9q1Ju">2024 Research Stipend Application</a>.
+The 2024 Research Stipend application cycle has now closed. The application for the 2025 awards will open in the summer of 2024. Please continue to check back here. In preparation, we encourage you to contact 
+<a href="mailto:archive@rockarch.org">archive@rockarch.org</a> to work with an archivist to identify relevant holdings for your project. This is encouraged, though not required, and can be done at any time. Also note that applications for the RAC Paul Engel Memorial Award and the Paul Ehrlich Award can be made throughout the year. Scroll down to read the requirements for those awards.
 </div>
 
 ## About the RAC Stipend Program
@@ -17,15 +17,11 @@ Applications are evaluated by an independent committee that considers an applica
 
 ## How to Apply for an RAC Research Stipend
 
-Please use our [online form](https://forms.office.com/r/1Mt0U9q1Ju) to apply for a research stipend. Please note that beginning this year, applicants are no longer required to contact an archivist in advance to be eligible to apply. However, RAC Access archivists are available to answer questions by writing to [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
+Please use our online form to apply for a research stipend. Please note that beginning this year, applicants are no longer required to contact an archivist in advance to be eligible to apply. However, RAC Access archivists are available to answer questions by writing to [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
 
 The online application form will ask for information about your proposed research project and how research in the RAC collections would support it. Applicants should be prepared to write a brief narrative describing their research project, including a description of what they seek to find in the proposed materials.
 
 The application form also requests the name and email address of at least one and up to two references who can recommend you for a research stipend. After the application is submitted, we will contact the references directly with information about how to submit their recommendation.
-
-The deadline to submit the application for the 2024 Research Stipend is **Friday, November 3, 2023 11:59pm Eastern Time.**
-
-Awards will be announced via email in March 2024.
 
 ## After Receiving an RAC Research Stipend
 
