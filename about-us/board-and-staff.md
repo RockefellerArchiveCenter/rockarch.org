@@ -103,9 +103,6 @@ Former University Archivist, Harvard University Archives
 **Christine Leonard**, Reading Room Assistant, Access  
 (914) 366-6329
 
-**Kathleen Leonard**, Archivist, Access  
-(914) 366-6307  
-
 **Katherine Martin**, Archivist, Processing  
 (914) 366-6311  
 
