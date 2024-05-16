@@ -77,7 +77,7 @@ City to Tarrytown on the Metro-North Hudson Line.
 The RAC provides complimentary car service transportation to and from RAC for
 the following trains:
 
-- Departs Grand Central 8:15 a.m. Arrives Tarrytown 9:09 a.m.
+- Departs Grand Central 8:13 a.m. Arrives Tarrytown 9:07 a.m.
   - Car service leaves the Tarrytown station for the RAC promptly at 9:15 am.
     Driver will be holding a sign indicating which car is for the Rockefeller
     Archive Center.
