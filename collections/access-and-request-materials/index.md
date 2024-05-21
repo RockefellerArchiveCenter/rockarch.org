@@ -18,6 +18,16 @@ Please send your inquiry to [archive@rockarch.org](mailto:archive@rockarch.org).
 
 Provide as much detailed information as possible about your research interest. An Access team member will respond to your request within 10 working days.
 
+## Permissions and Copyright
+Use the [Permission to Publish Request Form](https://forms.office.com/r/YTf1yTP4at) to request permission to publish or to use facsimile materials from the collections of the Rockefeller Archive Center. 
+
+If permission is granted, it is for a non-exclusive, single use of the materials in a publication, exhibit, documentary, or other medium. Any subsequent use of the materials requires a separate request for permission to publish. We do not charge a usage fee.
+
+This form is for uses that go beyond the "fair use" provisions in US copyright law. You do not need to complete this form if you are using or citing limited quotations from RAC materials or if you are reproducing materials solely for personal or educational purposes.
+
+The Rockefeller Archive Center does not necessarily hold copyright in and to every item in its holdings. The Rockefeller Archive Center strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage.
+
+
 ## Plan a Research Visit
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
@@ -290,10 +300,6 @@ you in prioritizing your transaction requests prior to ordering.
 - Because such requests require special handling, you will be charged $25.00 per image with a 
   limit of 20 items. 
 - Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
-
-## Copyright
-
-The RAC strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage. Please contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific copyright questions.
 
 ## Citations
 
