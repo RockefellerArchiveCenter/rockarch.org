@@ -266,7 +266,9 @@ have already been digitized.
 
 **Users will be billed for each transaction as it is completed.** If you have submitted multiple 
 digitization transactions, we will bill and deliver each transaction as it completed to ensure 
-that we can process all requests as efficiently as possible.
+that we can process all requests as efficiently as possible. Please note that for each transaction 
+the email invoice you receive requesting payment and your payment receipt are the only payment 
+records we provide, so be sure to save them.
 
 **Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
 consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist 
