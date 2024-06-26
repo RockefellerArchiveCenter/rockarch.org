@@ -107,10 +107,10 @@ Sleepy Hollow NY 10591.
 
 Whether you have never been to the RAC before or you are a returning researcher 
 who needs a refresher about our facilities, we encourage all of our visitors to 
-review the [Rockefeller Archive Center Site Orientation Video]() available on our 
-YouTube channel before you arrive. This video will teach you how to access and 
-navigate our spaces, help you get to the reading rooms, and tell you more about 
-our amenities and accessibility options. 
+review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) 
+available on our YouTube channel before you arrive. This video will teach you how 
+to access and navigate our spaces, help you get to the reading rooms, and tell you 
+more about our amenities and accessibility options. 
 
 ## What You Can Expect When You Get Here
 
