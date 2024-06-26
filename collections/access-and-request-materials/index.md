@@ -105,11 +105,12 @@ Sleepy Hollow NY 10591.
 
 ## Before Your Visit
 
-If you’ve never been to the RAC before (or if it’s been a while and you’d like a 
-refresher), we’ll schedule a virtual orientation which should not take more than 
-30 minutes. We’ll review the reading room policies and procedures, familiarize 
-you with our facility, and chat further about your project and the archival 
-collections.
+Whether you have never been to the RAC before or you are a returning researcher 
+who needs a refresher about our facilities, we encourage all of our visitors to 
+review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) 
+available on our YouTube channel before you arrive. This video will teach you how 
+to access and navigate our spaces, help you get to the reading rooms, and tell you 
+more about our amenities and accessibility options. 
 
 ## What You Can Expect When You Get Here
 
