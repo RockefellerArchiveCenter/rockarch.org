@@ -103,9 +103,6 @@ Former University Archivist, Harvard University Archives
 **Christine Leonard**, Reading Room Assistant, Access  
 (914) 366-6329
 
-**Kathleen Leonard**, Archivist, Access  
-(914) 366-6307  
-
 **Katherine Martin**, Archivist, Processing  
 (914) 366-6311  
 
@@ -121,10 +118,13 @@ Former University Archivist, Harvard University Archives
 **Camelia Muresan**, Associate Director for Finance  
 (914) 366-6370  
 
+**Ima Oduok**, Assistant Digital Preservation Analyst  
+(914) 366-6329
+
 **Renee Pappous**, Archivist, Access  
 (914) 366-6355  
 
-**Tyler Perry**, Reading Room Assistant, Access  
+**Tyler Perry**, Archival Assistant, Access  
 (914) 366-6329
 
 **Brent Phillips**, Audiovisual Archivist, Collections Management  

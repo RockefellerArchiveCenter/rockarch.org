@@ -9,13 +9,25 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-## How to Contact Us
+## Ask a Question
 
-Do you have a question about our holdings or how to get started on your research?
-Contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org).
-We will respond to your inquiry within ten (10) business days.
+The Access team is available to answer questions about the RAC's archival holdings. Our goal is to support you in connecting with the collections that will be most helpful to your research project, but we are not able to undertake archival research on your behalf.
 
-## Researching at the RAC
+Please send your inquiry to [archive@rockarch.org](mailto:archive@rockarch.org).
+
+Provide as much detailed information as possible about your research interest. An Access team member will respond to your request within 10 working days.
+
+## Permissions and Copyright
+
+Use the [Permission to Publish Request Form](https://forms.office.com/r/YTf1yTP4at) to request permission to publish or to use facsimile materials from the collections of the Rockefeller Archive Center. 
+
+If permission is granted, it is for a non-exclusive, single use of the materials in a publication, exhibit, documentary, or other medium. Any subsequent use of the materials requires a separate request for permission to publish. We do not charge a usage fee.
+
+This form is for uses that go beyond the "fair use" provisions in US copyright law. You do not need to complete this form if you are using or citing limited quotations from RAC materials or if you are reproducing materials solely for personal or educational purposes.
+
+The Rockefeller Archive Center does not necessarily hold copyright in and to every item in its holdings. The Rockefeller Archive Center strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage.
+
+## Plan a Research Visit
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
 
@@ -73,7 +85,7 @@ City to Tarrytown on the Metro-North Hudson Line.
 The RAC provides complimentary car service transportation to and from RAC for
 the following trains:
 
-- Departs Grand Central 8:15 a.m. Arrives Tarrytown 9:09 a.m.
+- Departs Grand Central 8:13 a.m. Arrives Tarrytown 9:07 a.m.
   - Car service leaves the Tarrytown station for the RAC promptly at 9:15 am.
     Driver will be holding a sign indicating which car is for the Rockefeller
     Archive Center.
@@ -91,11 +103,12 @@ Sleepy Hollow NY 10591.
 
 ## Before Your Visit
 
-If you’ve never been to the RAC before (or if it’s been a while and you’d like a 
-refresher), we’ll schedule a virtual orientation which should not take more than 
-30 minutes. We’ll review the reading room policies and procedures, familiarize 
-you with our facility, and chat further about your project and the archival 
-collections.
+Whether you have never been to the RAC before or you are a returning researcher 
+who needs a refresher about our facilities, we encourage all of our visitors to 
+review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) 
+available on our YouTube channel before you arrive. This video will teach you how 
+to access and navigate our spaces, help you get to the reading rooms, and tell you 
+more about our amenities and accessibility options. 
 
 ## What You Can Expect When You Get Here
 
@@ -249,10 +262,15 @@ regardless of page count.
 **The RAC charges a flat fee of $25.00 per transaction.** We do not charge for materials that 
 have already been digitized.
 
+**Users will be billed for each transaction as it is completed.** If you have submitted multiple 
+digitization transactions, we will bill and deliver each transaction as it completed to ensure 
+that we can process all requests as efficiently as possible. Please note that for each transaction 
+the email invoice you receive requesting payment and your payment receipt are the only payment 
+records we provide, so be sure to save them.
+
 **Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
-consult with an archivist at archive@rockarch.org to assist you in prioritizing your 
-transaction requests prior to ordering. Additional transactions over 20 can be saved 
-in the user’s account for future processing.
+consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist 
+you in prioritizing your transaction requests prior to ordering.
 
 #### Audiovisual materials
 - Already digitized audiovisual files are available for download by onsite users at the RAC 
@@ -283,10 +301,6 @@ in the user’s account for future processing.
 - Because such requests require special handling, you will be charged $25.00 per image with a 
   limit of 20 items. 
 - Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
-
-## Copyright
-
-The RAC strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage. Please contact the RAC Access team at [archive@rockarch.org](mailto:archive@rockarch.org) if you have specific copyright questions.
 
 ## Citations
 
