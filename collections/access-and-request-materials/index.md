@@ -3,7 +3,6 @@ layout: page-sidebar
 title: Access & Request Materials
 permalink: /collections/access-and-request-materials/
 sidebar:
-  - ["mailto:archive@rockarch.org", Schedule a Research Visit, email]
   - ["https://raccess.rockarch.org", Log into/Create a new RACcess account, arrow_forward]
   - ["https://dimes.rockarch.org", Search collections at DIMES, arrow_forward]
   - ["https://docs.rockarch.org/argo-docs/", Access collections API, arrow_forward]
@@ -19,6 +18,7 @@ Please send your inquiry to [archive@rockarch.org](mailto:archive@rockarch.org).
 Provide as much detailed information as possible about your research interest. An Access team member will respond to your request within 10 working days.
 
 ## Permissions and Copyright
+
 Use the [Permission to Publish Request Form](https://forms.office.com/r/YTf1yTP4at) to request permission to publish or to use facsimile materials from the collections of the Rockefeller Archive Center. 
 
 If permission is granted, it is for a non-exclusive, single use of the materials in a publication, exhibit, documentary, or other medium. Any subsequent use of the materials requires a separate request for permission to publish. We do not charge a usage fee.
@@ -27,24 +27,22 @@ This form is for uses that go beyond the "fair use" provisions in US copyright l
 
 The Rockefeller Archive Center does not necessarily hold copyright in and to every item in its holdings. The Rockefeller Archive Center strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage.
 
-
 ## Plan a Research Visit
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
-
-Because of limited seating capacity, researchers need an appointment in order to
-conduct in-person research in the RAC’s Reading Room. Contact the RAC Access
-team at [archive@rockarch.org](mailto:archive@rockarch.org) to make your
-appointment.
-
-You will also need to create a researcher account in [RACcess](https://raccess.rockarch.org),
-our online request and duplication management system.
 
 Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
 
 As with our archival materials, [Library materials](https://library.rockarch.org) are non-circulating and are only available in the RAC’s reading rooms.
 
 For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
+
+## Scheduling an Appointment
+
+Appointments are required to conduct in-person research in the Archive Center’s Reading Room.  To reserve an appointment, please use the “Appointments” tab in your [RACcess](https://raccess.rockarch.org) account to schedule your research day(s) at the Archive Center.  Reservations must be made at least three days prior to your start date.  Reading Room appointments reserve you a desk for the entire day (9:30-5:00), you may arrive or depart at any time during those hours.  
+
+If you have any questions about the Reading Room reservation procedures, please contact an archivist at [archive@rockarch.org](mailto:archive@rockarch.org).  
+
 
 ## When We’re Open
 
@@ -156,7 +154,7 @@ anticipate using microfilm during your visit.
 ## Requesting Materials at the RAC
 
 All onsite researchers at the RAC must have a confirmed appointment and have 
-created a researcher account in [RACcess](https://raccess.rockarch.org/), our 
+created a researcher account in [RACcess](https://raccess.rockarch.org), our 
 online request and duplication management system, prior to your arrival.
 
 Before your visit, we recommend that you select an initial group of materials 
@@ -238,7 +236,7 @@ We have scheduled materials delivery times based on the following schedule.
 
 The RAC offers digitization services to both our onsite and virtual or offsite users.
 
-To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org/),
+To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org),
 the RAC’s online request and duplication management system. Once you’ve created your account, 
 duplication requests can be made directly through your account or from our 
 [DIMES online catalog’s](https://dimes.rockarch.org/) My List page, which connects to your account.
