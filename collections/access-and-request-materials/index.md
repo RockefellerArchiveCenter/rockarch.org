@@ -128,7 +128,7 @@ review the [Rockefeller Archive Center Site Orientation Video](https://www.youtu
 before you arrive. This video will teach you how to access and navigate our spaces, 
 help you get to the reading rooms, and tell you more about our amenities and accessibility options. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="mb-20" width="560" height="315" src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
 
@@ -235,7 +235,7 @@ the following trains:
     Archive Center.
 - Departs Tarrytown 5:42 p.m. Arrives Grand Central 6:42 p.m.
   - Car service leaves the RAC for the Tarrytown train station promptly at 5:15
-    pm. Driver will be parked in the front circle at the main entrance to the RAC.
+    p.m. Driver will be parked in the front circle at the main entrance to the RAC.
 
 The train schedule may be subject to change, so be sure to check the
 [Metro-North web site](https://www.mta.info) to verify departure times.
