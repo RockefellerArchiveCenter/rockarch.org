@@ -48,17 +48,17 @@ endeavors to fulfill all digitization requests within 90 days. However, a reques
 longer depending on the volume of materials being requested and whether additional handling 
 is necessary due to the original item’s condition or format. We do not do rush orders.
 
-Please note that the RAC may decline to copy certain materials that in its judgment may 
-suffer damage due to the handling necessary for digitization. Any materials with serious 
+Please note that the RAC may decline to digitize certain materials that in its judgment may 
+suffer damage due to the necessary handling. Any materials with serious 
 preservation concerns will be evaluated and may require us to use an outside digitization 
 vendor. 
 
 ### Fees and Limitations
 
 RAC digitization request fees and limitations are based on the item you have identified through 
-our [DIMES online catalog](https://dimes.rockarch.org/), usually a file (regardless of the number of pages or folders 
-associated with the file), an oversized flat file item (such as a map or blueprint), or 
-an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
+our [DIMES online catalog](https://dimes.rockarch.org/), usually a file (regardless of the number 
+of pages or folders associated with the file), an oversized flat file item (such as a map or blueprint), 
+or an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
 regardless of page count. 
 
 Please note that we do not selectively scan individual pages within a larger file. 
@@ -68,7 +68,7 @@ Users requesting a digitized copy of a file will receive the entire file.
 have already been digitized.
 
 **Users will be billed for each transaction as it is completed.** If you have submitted multiple 
-digitization transactions, we will bill and deliver each transaction as it completed to ensure 
+digitization transactions, we will bill and deliver each transaction as it is completed to ensure 
 that we can process all requests as efficiently as possible. Please note that for each transaction 
 the email invoice you receive requesting payment and your payment receipt are the only payment 
 records we provide, so be sure to save them.
