@@ -61,7 +61,7 @@ of pages or folders associated with the file), an oversized flat file item (such
 or an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
 regardless of page count. 
 
-Please note that we do cannot selectively scan individual pages within a larger file for you. 
+Please note that we cannot selectively scan individual pages within a larger file for you. 
 Users requesting a digitized copy of a file will receive the entire file.   
 
 **The RAC charges a flat fee of $25.00 per transaction.** We will not charge you for materials that 
@@ -248,7 +248,7 @@ Sleepy Hollow NY 10591.
 ## Reading Room Guidelines
 
 We’re an archive of important historical materials, so we do have a few
-simple rules that we ask all researchers to follow when they’re in the RAC’s
+simple guidelines that we ask all researchers to follow when they’re in the RAC’s
 Reading Room:
 
 - Place your outerwear, bags, and other nonessential items in the
