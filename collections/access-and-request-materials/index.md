@@ -30,8 +30,8 @@ but we are not able to undertake archival research on your behalf.  Please send 
 Provide as much detailed information as possible about your research interest. An Access team member 
 will respond to your request within 10 working days.
 
-Please review our [Permissions and Copyright](#permissions-and-copyright) information before sending us a more general inquiry 
-on these subjects.
+Please review our [Permissions and Copyright](#permissions-and-copyright) information before sending 
+us a more general inquiry on these subjects.
 
 
 ## Digitization Services
@@ -46,12 +46,12 @@ you can submit digitization requests through the “My List” page in the
 Digitization requests are generally processed on a first-come, first-served basis. The RAC 
 endeavors to fulfill all digitization requests within 90 days. However, a request may take
 longer depending on the volume of materials being requested and whether additional handling 
-is necessary due to the original item’s condition or format. We do not do rush orders.
+is necessary due to the original item’s condition or format. Unfortunately, we are unable 
+to do rush orders.
 
 Please note that the RAC may decline to digitize certain materials that in its judgment may 
-suffer damage due to the necessary handling. Any materials with serious 
-preservation concerns will be evaluated and may require us to use an outside digitization 
-vendor. 
+suffer damage due to the necessary handling. Any materials with serious preservation concerns 
+will be evaluated and may require us to use an outside digitization vendor. 
 
 ### Fees and Limitations
 
@@ -61,10 +61,10 @@ of pages or folders associated with the file), an oversized flat file item (such
 or an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
 regardless of page count. 
 
-Please note that we do not selectively scan individual pages within a larger file. 
+Please note that we do cannot selectively scan individual pages within a larger file for you. 
 Users requesting a digitized copy of a file will receive the entire file.   
 
-**The RAC charges a flat fee of $25.00 per transaction.** We do not charge for materials that 
+**The RAC charges a flat fee of $25.00 per transaction.** We will not charge you for materials that 
 have already been digitized.
 
 **Users will be billed for each transaction as it is completed.** If you have submitted multiple 
@@ -211,7 +211,7 @@ We have scheduled materials delivery times based on the following schedule.
 - The RAC Reading Rooms are open to researchers from 9:30 am to 5:00 pm, Monday through Friday.
 - Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval.
 - If you believe you will need fresh materials at the next delivery time, we recommend that you proactively work with the desk monitor to stage your next selections after each new delivery so that you do not have to wait for a later delivery time. We will not do special pulls outside of scheduled delivery times.
-- We do not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
+- We will not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
 
 ## How to Get to the RAC
 
