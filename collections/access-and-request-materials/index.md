@@ -9,153 +9,135 @@ sidebar:
   - ["https://library.rockarch.org", Search library materials, arrow_forward]
 ---
 
-## Ask a Question
+## Get Started
 
-The Access team is available to answer questions about the RAC's archival holdings. Our goal is to support you in connecting with the collections that will be most helpful to your research project, but we are not able to undertake archival research on your behalf.
+Anyone can conduct research at the RAC. If we have archival materials that can be useful to your 
+research topic, you are welcome here. 
 
-Please send your inquiry to [archive@rockarch.org](mailto:archive@rockarch.org).
+Get started on your research in our archival collections by searching our online finding aid 
+catalog [DIMES](https://dimes.rockarch.org/). Be sure to also search our 
+[Library materials](https://library.rockarch.org/) which are non-circulating and only available 
+in the RAC’s reading rooms.
 
-Provide as much detailed information as possible about your research interest. An Access team member will respond to your request within 10 working days.
+There are two ways to access the archival materials in our collections:  by placing a digitization 
+request or by scheduling an on-site research visit.  
 
-## Permissions and Copyright
+The Access team is available to answer questions about the RAC’s archival holdings. Our goal is 
+to support you in connecting with the collections that will be most helpful to your research project, 
+but we are not able to undertake archival research on your behalf.  Please send your inquiry to 
+[archive@rockarch.org](mailto:archive@rockarch.org). 
 
-Use the [Permission to Publish Request Form](https://forms.office.com/r/YTf1yTP4at) to request permission to publish or to use facsimile materials from the collections of the Rockefeller Archive Center. 
+Provide as much detailed information as possible about your research interest. An Access team member 
+will respond to your request within 10 working days.
 
-If permission is granted, it is for a non-exclusive, single use of the materials in a publication, exhibit, documentary, or other medium. Any subsequent use of the materials requires a separate request for permission to publish. We do not charge a usage fee.
+Please review our [Permissions and Copyright](#permissions-and-copyright) information before sending 
+us a more general inquiry on these subjects.
 
-This form is for uses that go beyond the "fair use" provisions in US copyright law. You do not need to complete this form if you are using or citing limited quotations from RAC materials or if you are reproducing materials solely for personal or educational purposes.
 
-The Rockefeller Archive Center does not necessarily hold copyright in and to every item in its holdings. The Rockefeller Archive Center strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage.
+## Digitization Services
 
-## Plan a Research Visit
+The RAC offers digitization services to both our onsite and virtual or offsite users.
 
-Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here.
+To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org),
+the RAC’s online request and duplication management system. Once you’ve created your account, 
+you can submit digitization requests through the “My List” page in the 
+[DIMES online catalog](https://dimes.rockarch.org/).
 
-Get started on your research by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org).
+Digitization requests are generally processed on a first-come, first-served basis. The RAC 
+endeavors to fulfill all digitization requests within 90 days. However, a request may take
+longer depending on the volume of materials being requested and whether additional handling 
+is necessary due to the original item’s condition or format. Unfortunately, we are unable 
+to do rush orders.
 
-As with our archival materials, [Library materials](https://library.rockarch.org) are non-circulating and are only available in the RAC’s reading rooms.
+Please note that the RAC may decline to digitize certain materials that in its judgment may 
+suffer damage due to the necessary handling. Any materials with serious preservation concerns 
+will be evaluated and may require us to use an outside digitization vendor. 
 
-For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
+### Fees and Limitations
+
+RAC digitization request fees and limitations are based on the item you have identified through 
+our [DIMES online catalog](https://dimes.rockarch.org/), usually a file (regardless of the number 
+of pages or folders associated with the file), an oversized flat file item (such as a map or blueprint), 
+or an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
+regardless of page count. 
+
+Please note that we cannot selectively scan individual pages within a larger file for you. 
+Users requesting a digitized copy of a file will receive the entire file.   
+
+**The RAC charges a flat fee of $25.00 per transaction.** We will not charge you for materials that 
+have already been digitized.
+
+**Users will be billed for each transaction as it is completed.** If you have submitted multiple 
+digitization transactions, we will bill and deliver each transaction as it is completed to ensure 
+that we can process all requests as efficiently as possible. Please note that for each transaction 
+the email invoice you receive requesting payment and your payment receipt are the only payment 
+records we provide, so be sure to save them.
+
+**Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
+consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist 
+you in prioritizing your transaction requests prior to ordering.
+
+#### Audiovisual materials
+- Already digitized audiovisual files are available for download by onsite users at the RAC 
+  through our Virtual Vault. These files will be delivered electronically to offsite users, 
+  unless otherwise arranged. The RAC does not create DVD or CD copies.
+- If access files currently do not exist, audiovisual items must be sent to an outside 
+  digitization vendor, and the user will be charged the vendor cost in addition to the $25.00 
+  transaction fee. This process could take up to six months to complete. Please contact us at 
+  [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and 
+  cost estimates.
+- Higher-resolution audiovisual files are to be arranged with the RAC. Please contact us at 
+  [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost 
+  estimates.
+
+#### Oversized flat file items. 
+- The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) 
+  up to 34 inches by 24 inches (34” x 24”) in size. 
+- All larger sizes must be sent to an outside digitization vendor, and the user will be 
+  charged the vendor cost in addition to the $25.00 transaction fee. This process could take 
+  up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) 
+  for further details, including time and cost estimates.
+
+#### Publication quality individual pages or photographic images. 
+- Users requesting a high-resolution, publication quality scan of an individual page or 
+  photographic image may make such requests though their RACcess account and then must follow 
+  up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details 
+  of the specific image being requested and the resolution requirements. 
+- Because such requests require special handling, you will be charged $25.00 per image with a 
+  limit of 20 items. 
+- Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
 
 ## Scheduling an Appointment
+
+The RAC Reading Rooms are open Monday through Friday from 9:30 am to 5:00 pm, except for
+[designated holidays](holiday-schedule/).
 
 Appointments are required to conduct in-person research in the Archive Center’s Reading Room.  To reserve an appointment, please use the “Appointments” tab in your [RACcess](https://raccess.rockarch.org) account to schedule your research day(s) at the Archive Center.  Reservations must be made at least three days prior to your start date.  Reading Room appointments reserve you a desk for the entire day (9:30-5:00), you may arrive or depart at any time during those hours.  
 
 If you have any questions about the Reading Room reservation procedures, please contact an archivist at [archive@rockarch.org](mailto:archive@rockarch.org).  
 
+## Prepare for Your Visit
 
-## When We’re Open
+Prior to your on-site visit to the RAC, you will need to orient yourself to our facility and place requests for your initial group of archival materials.
 
-The RAC Reading Rooms are open Monday through Friday from 9:30 am to 5:00 pm, except for
-[designated holidays](holiday-schedule/).
+### Watch Our Site Orientation Video
 
-Inclement weather can sometimes require the RAC to close for the safety of
-our staff and researchers. During the winter, if ice or snow is predicted for
-suburban New York, it is advisable to telephone the RAC at (914) 366-6300. A
-recording noting a closure or delayed opening is generally posted by 7:30
-a.m. If you have a scheduled research appointment, we will also do our best
-to email you with as much advanced notice of the closure as possible.
+Whether you have never been to the RAC before or you are a returning researcher 
+who needs a refresher about our facilities, we encourage all of our visitors to 
+review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM)
+before you arrive. This video will teach you how to access and navigate our spaces, 
+help you get to the reading rooms, and tell you more about our amenities and accessibility options. 
 
-## Amenities
+<iframe class="mb-20" width="560" height="315" src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
 
 Since the RAC is not located near restaurants or stores, we encourage researchers
 to bring their own lunches. We have a researcher lounge with a refrigerator,
 toaster oven, and microwave. We also provide assorted cold beverages, tea and
 coffee, and individually packaged snacks.
 
-Several food delivery apps also deliver to the RAC, including UberEats, GrubHub,
-and DoorDash. Researchers are welcome to order lunch from those services for
-delivery to the RAC's address: 15 Dayton Avenue, Sleepy Hollow New York 10591.
-
-WiFi is available throughout the RAC.
-
-## How to Get to the RAC
-
-### By Car
-
-The RAC is located at 15 Dayton Avenue, Sleepy Hollow, New York 10591.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3006.9551381027577!2d-73.8373819843737!3d41.091826822227716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2bffc3b17f3b5%3A0x3329b3d8104d2fb9!2s15+Dayton+Ave%2C+Sleepy+Hollow%2C+NY+10591!5e0!3m2!1sen!2sus!4v1560187749243!5m2!1sen!2sus" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-### By Train from New York City
-
-The RAC is easily accessible by train from Grand Central Terminal in New York
-City to Tarrytown on the Metro-North Hudson Line.
-
-The RAC provides complimentary car service transportation to and from RAC for
-the following trains:
-
-- Departs Grand Central 8:13 a.m. Arrives Tarrytown 9:07 a.m.
-  - Car service leaves the Tarrytown station for the RAC promptly at 9:15 am.
-    Driver will be holding a sign indicating which car is for the Rockefeller
-    Archive Center.
-- Departs Tarrytown 5:42 p.m. Arrives Grand Central 6:42 p.m
-  - Car service leaves the RAC for the Tarrytown train station promptly at 5:15
-    pm. Driver will be parked in the front circle at the main entrance to the RAC.
-
-The train schedule may be subject to change, so be sure to check the
-[Metro-North web site](https://www.mta.info) to verify departure times.
-
-If you miss the RAC car service or take a different train, you may still go to
-and from the RAC via taxi or car service app such as Uber or Lyft. There is a
-taxi stand at the Tarrytown train station. The RAC's address is 15 Dayton Avenue,
-Sleepy Hollow NY 10591.
-
-## Before Your Visit
-
-Whether you have never been to the RAC before or you are a returning researcher 
-who needs a refresher about our facilities, we encourage all of our visitors to 
-review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) 
-available on our YouTube channel before you arrive. This video will teach you how 
-to access and navigate our spaces, help you get to the reading rooms, and tell you 
-more about our amenities and accessibility options. 
-
-## What You Can Expect When You Get Here
-
-For more details about the accessibility of the physical space, see our
-[Accessibility Statement](/about-us/accessibility).
-
-When you arrive on the first day of your scheduled research visit, please 
-proceed up the stairs to the second floor. The reading rooms are at the 
-end of the hallway.
-
-We’re an archive of important historical materials, so we do have a few
-simple rules that we ask all researchers to follow when they’re in the RAC’s
-Reading Room:
-
-- Place your outerwear, bags, and other nonessential items in the
-lockers provided.
-- Use only pencils and laptops for notes. No pens.
-- Food, beverages, and chewing gum are not permitted.
-- Review one folder at a time and mark its place in the box with the OUT card
-provided
-- Items in folders should not be rearranged or removed.
-- Avoid placing other items on top of documents. Ask the desk monitor
-for book weights.
-- If metal fasteners need to be removed, ask the desk monitor for
-assistance.
-
-The top shelf of the cart will be kept clear, and you should place the box 
-you are actively using on the top shelf so that there is plenty of room on 
-your table for a folder and your laptop.
-
-Our Reading Room can be cool at times, so be sure and bring a sweater.
-Generally speaking, you may use a digital camera or your phone or tablet
-to photograph collection materials for research and educational purposes.
-However, the desk monitors may place some restrictions on your
-photography if the archival materials being handled are fragile or in poor
-condition.
-
-The RAC has several microfilm reader-scanners available in our Reading
-Room which enable researchers to print or to save images from microfilm
-onto flash drives. We encourage you to bring your own flash drive if you
-anticipate using microfilm during your visit.
-
-## Requesting Materials at the RAC
-
-All onsite researchers at the RAC must have a confirmed appointment and have 
-created a researcher account in [RACcess](https://raccess.rockarch.org), our 
-online request and duplication management system, prior to your arrival.
+### Submit Your Requests
 
 Before your visit, we recommend that you select an initial group of materials 
 that we can have ready for you on your arrival. This can be done through the 
@@ -187,11 +169,6 @@ your first appointment day in your request.
   (2 full business days) to complete this review.
 
 We have scheduled materials delivery times based on the following schedule. 
-- The RAC Reading Rooms are open to researchers from 9:30 am to 5:00 pm, Monday through Friday.
-- Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval.
-- If you believe you will need fresh materials at the next delivery time, we recommend that you proactively work with the desk monitor to stage your next selections after each new delivery so that you do not have to wait for a later delivery time. We will not do special pulls outside of scheduled delivery times.
-- We do not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
-
 <table class="table table-striped">
     <thead>
         <tr>
@@ -231,76 +208,88 @@ We have scheduled materials delivery times based on the following schedule.
     </tbody>
 </table>
 
+- The RAC Reading Rooms are open to researchers from 9:30 am to 5:00 pm, Monday through Friday.
+- Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval.
+- If you believe you will need fresh materials at the next delivery time, we recommend that you proactively work with the desk monitor to stage your next selections after each new delivery so that you do not have to wait for a later delivery time. We will not do special pulls outside of scheduled delivery times.
+- We will not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
 
-## Duplication Services
+## How to Get to the RAC
 
-The RAC offers digitization services to both our onsite and virtual or offsite users.
+### By Car
 
-To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org),
-the RAC’s online request and duplication management system. Once you’ve created your account, 
-duplication requests can be made directly through your account or from our 
-[DIMES online catalog’s](https://dimes.rockarch.org/) My List page, which connects to your account.
+The RAC is located at 15 Dayton Avenue, Sleepy Hollow, New York 10591.
 
-Digitization requests are generally processed on a first-come, first-served basis. The RAC 
-endeavors to fulfill all digitization requests within 90 days. However, a request may take
-longer depending on the volume of materials being requested and whether additional handling 
-is necessary due to the original item’s condition or format. We do not do rush orders.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3006.9551381027577!2d-73.8373819843737!3d41.091826822227716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2bffc3b17f3b5%3A0x3329b3d8104d2fb9!2s15+Dayton+Ave%2C+Sleepy+Hollow%2C+NY+10591!5e0!3m2!1sen!2sus!4v1560187749243!5m2!1sen!2sus" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Please note that the RAC may decline to copy certain materials that in its judgment may 
-suffer damage due to the handling necessary for digitization. Any materials with serious 
-preservation concerns will be evaluated and may require us to use an outside digitization 
-vendor. 
+### By Train from New York City
 
-### Fees and Limitations
+The RAC is easily accessible by train from Grand Central Terminal in New York
+City to Tarrytown on the Metro-North Hudson Line.
 
-RAC duplication request fees and limitations are based on the item you have identified through 
-our DIMES online catalog, usually a file (regardless of the number of pages or folders 
-associated with the file), an oversized flat file item (such as a map or blueprint), or 
-an audiovisual item. Each item requested constitutes a “transaction” for digitization, 
-regardless of page count.
+The RAC provides complimentary car service transportation to and from RAC for
+the following trains:
 
-**The RAC charges a flat fee of $25.00 per transaction.** We do not charge for materials that 
-have already been digitized.
+- Departs Grand Central 8:13 a.m. Arrives Tarrytown 9:07 a.m.
+  - Car service leaves the Tarrytown station for the RAC promptly at 9:15 a.m.
+    Driver will be holding a sign indicating which car is for the Rockefeller
+    Archive Center.
+- Departs Tarrytown 5:42 p.m. Arrives Grand Central 6:42 p.m.
+  - Car service leaves the RAC for the Tarrytown train station promptly at 5:15
+    p.m. Driver will be parked in the front circle at the main entrance to the RAC.
 
-**Users will be billed for each transaction as it is completed.** If you have submitted multiple 
-digitization transactions, we will bill and deliver each transaction as it completed to ensure 
-that we can process all requests as efficiently as possible. Please note that for each transaction 
-the email invoice you receive requesting payment and your payment receipt are the only payment 
-records we provide, so be sure to save them.
+The train schedule may be subject to change, so be sure to check the
+[Metro-North web site](https://www.mta.info) to verify departure times.
 
-**Users are limited to requesting 20 transactions per calendar year.** We encourage you to 
-consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist 
-you in prioritizing your transaction requests prior to ordering.
+If you miss the RAC car service or take a different train, you may still go to
+and from the RAC via taxi or car service app such as Uber or Lyft. There is a
+taxi stand at the Tarrytown train station. The RAC's address is 15 Dayton Avenue,
+Sleepy Hollow NY 10591.
 
-#### Audiovisual materials
-- Already digitized audiovisual files are available for download by onsite users at the RAC 
-  through our Virtual Vault. These files will be delivered electronically to offsite users, 
-  unless otherwise arranged. The RAC does not create DVD or CD copies.
-- If access files currently do not exist, audiovisual items must be sent to an outside 
-  digitization vendor, and the user will be charged the vendor cost in addition to the $25.00 
-  transaction fee. This process could take up to six months to complete. Please contact us at 
-  [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and 
-  cost estimates.
-- Higher-resolution audiovisual files are to be arranged with the RAC. Please contact us at 
-  [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost 
-  estimates.
+## Reading Room Guidelines
 
-#### Oversized flat file items. 
-- The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) 
-  up to 34 inches by 24 inches (34” x 24”) in size. 
-- All larger sizes must be sent to an outside digitization vendor, and the user will be 
-  charged the vendor cost in addition to the $25.00 transaction fee. This process could take 
-  up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) 
-  for further details, including time and cost estimates.
+We’re an archive of important historical materials, so we do have a few
+simple guidelines that we ask all researchers to follow when they’re in the RAC’s
+Reading Room:
 
-#### Publication quality individual pages or photographic images. 
-- Users requesting a high-resolution, publication quality scan of an individual page or 
-  photographic image may make such requests though their RACcess account and then must follow 
-  up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details 
-  of the specific image being requested and the resolution requirements. 
-- Because such requests require special handling, you will be charged $25.00 per image with a 
-  limit of 20 items. 
-- Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
+- Place your outerwear, bags, and other nonessential items in the
+lockers provided.
+- Use only pencils and laptops for notes. No pens.
+- Food, beverages, and chewing gum are not permitted.
+- Review one folder at a time and mark its place in the box with the OUT card
+provided
+- Items in folders should not be rearranged or removed.
+- Avoid placing other items on top of documents. Ask the desk monitor
+for book weights.
+- If metal fasteners need to be removed, ask the desk monitor for
+assistance.
+
+The top shelf of the cart will be kept clear, and you should place the box 
+you are actively using on the top shelf so that there is plenty of room on 
+your table for a folder and your laptop.
+
+Our Reading Room can be cool at times, so be sure and bring a sweater.
+Generally speaking, you may use a digital camera or your phone or tablet
+to photograph collection materials for research and educational purposes.
+However, the desk monitors may place some restrictions on your
+photography if the archival materials being handled are fragile or in poor
+condition.
+
+The RAC has several microfilm reader-scanners available in our Reading
+Room which enable researchers to print or to save images from microfilm
+onto flash drives. We encourage you to bring your own flash drive if you
+anticipate using microfilm during your visit. You can find more information 
+about our reading room guidelines and practices in our [Reading Room Handbook](https://docs.rockarch.org/reading-room-handbook).
+
+## Permissions and Copyright
+
+Use the [Permission to Publish Request Form](https://forms.office.com/r/YTf1yTP4at) to request 
+permission to publish or to use facsimile materials from the collections of the Rockefeller Archive Center. 
+
+If permission is granted, it is for a non-exclusive, single use of the materials in a publication, exhibit, documentary, or other medium. Any subsequent use of the materials requires a separate request for permission to publish. We do not charge a usage fee.
+
+This form is for uses that go beyond the "fair use" provisions in US copyright law. You do not need to complete this form if you are using or citing limited quotations from RAC materials or if you are reproducing materials solely for personal or educational purposes.
+
+The Rockefeller Archive Center does not necessarily hold copyright in and to every item in its holdings. The Rockefeller Archive Center strives to provide accurate general copyright information in our ﬁnding aids, but copyright ownership and restrictions can vary by collection and by author or creator of the material. It is the responsibility of the researcher/user of the material to make a determination of copyright and to obtain any necessary permissions prior to usage.
 
 ## Citations
 
