@@ -20,7 +20,7 @@ Applications are evaluated by an independent committee that considers an applica
 
 ## How to Apply for an RAC Research Stipend
 
-Please use our online form to apply for a research stipend. Please note that beginning this year, applicants are no longer required to contact an archivist in advance to be eligible to apply. However, RAC Access archivists are available to answer questions by writing to [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
+Please use our [online form](https://rockarch.smapply.us/prog/research_stipend_program_2025/) to apply for a research stipend. Applicants are not required to contact an archivist in advance to be eligible to apply. However, we encourage you to contact RAC Access archivists, who are available to answer questions and discuss your project and can be reached at [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
 
 The online application form will ask for information about your proposed research project and how research in the RAC collections would support it. Applicants should be prepared to write a brief narrative describing their research project, including a description of what they seek to find in the proposed materials.
 
@@ -28,9 +28,9 @@ The application form also requests the name and email address of at least one an
 
 ## After Receiving an RAC Research Stipend
 
-2024 stipend recipients will have from April 1, 2024 through June 30, 2025 to complete their research.
+2025 stipend recipients will have from April 2025 through June 2026 to complete their research.
 
-All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of published RAC Research Reports in our [online library](https://rockarch.issuelab.org).
+All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of published RAC Research Reports [here](https://rockarch.issuelab.org).
 
 To be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit. Digital versions of receipts are accepted.
 
