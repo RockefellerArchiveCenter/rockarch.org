@@ -9,7 +9,7 @@ The 2025 Research Stipend application cycle is now open!
 
 Apply <a class="text--white" href="https://rockarch.smapply.us/prog/research_stipend_program_2025/">here.</a> You will be asked to create a <i>free</i> SurveyMonkey account for the purposes of submitting an application.
 
-The deadline for applications is <b> November 1st, 2024 at 11:59 pm EST. <b>
+The deadline for applications is <b> November 1st, 2024 at 11:59 pm EST. </b>
 </div>
 
 ## About the RAC Stipend Program
