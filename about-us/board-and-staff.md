@@ -78,8 +78,6 @@ Former University Archivist, Harvard University Archives
 **Bob Clark**, Director of Archives  
 (914) 366-6353 
 
-**Gabriella Feeney**, Project Assistant, Research and Engagement
-
 **Amy Fitch**, Archivist, Processing  
 (914) 366-6318  
 
@@ -120,6 +118,9 @@ Former University Archivist, Harvard University Archives
 
 **Ima Oduok**, Assistant Digital Preservation Analyst  
 (914) 366-6329
+
+**Heather Oswald**, Assistant Director for Access  
+(914) 366-6307
 
 **Renee Pappous**, Archivist, Access  
 (914) 366-6355  
