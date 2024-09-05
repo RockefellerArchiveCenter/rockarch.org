@@ -5,6 +5,13 @@ html {
   scroll-behavior: smooth;
 }
 
+/**
+* Prevent iframes from being too wide on mobile.
+**/
+iframe {
+  max-width: 100%;
+}
+
 .rac-page-title {
   min-height: 168px;
 
