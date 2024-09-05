@@ -108,6 +108,10 @@
     {
       "label": "404",
       "url": "http://host.docker.internal:4000/404/"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "http://host.docker.internal:4000/about-us/privacy-policy/"
     }
   ],
   "paths": {
