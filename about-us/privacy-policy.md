@@ -97,7 +97,8 @@ Storage: Log files are stored primarily on internal RAC systems for 1 year. Mato
 All Rockefeller Archive Center websites use Matomo to gather anonymized, aggregated data about how people use our sites. The data collected in Matomo is only used for the measurement and evaluation of website use and performance and not for advertising or other purposes. We anonymize IP addresses in our analytics implementation and do not process any personal data; you can opt out of analytics tracking at any time:
 
 <iframe
-  style="border: 1px solid; height: 100%; width: 100%;"
+  title="Matomo analytics tracking opt-out"
+  style="border: 1px solid; width: 100%;"
   src="https://rockarch.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=ffffff&fontColor=2f2f2f&fontSize=16px&fontFamily=Manuale">
 </iframe>
 
