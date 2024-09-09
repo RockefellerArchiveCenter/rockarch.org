@@ -51,4 +51,4 @@ The Rockefeller Archive Center is an equal opportunity employer committed to div
 ## How to Apply
 To apply, please complete the [application form](https://forms.office.com/Pages/ResponsePage.aspx?id=Yv9czRC_TES-ao8EXG8Q1mML7s9BNRlFjnBd2Df9lF1UMVAzSjhJN0U1RVQ1R1lHUkRUSlg3UkdZWC4u) and follow instructions for uploading your cover letter and resume.  
 
-Applications will be accepted until Friday, August 9. 2024.
+Applications will be accepted until Friday, October 25, 2024.
