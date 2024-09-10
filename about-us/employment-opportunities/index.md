@@ -5,7 +5,5 @@ permalink: /about-us/employment-opportunities/
 ---
 
 ## Employment Opportunities
-
-There are no open positions at the time.
-
-Rockefeller Archive Center is an equal opportunity employer.
+We are currently hiring for the following positions:
+- [Digitization Program Manager](/about-us/employment-opportunities/digitization-program-manager/) (applications accepted until Friday, October 25, 2024)
