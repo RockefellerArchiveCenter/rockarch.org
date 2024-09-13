@@ -29,7 +29,7 @@ The application form also requests the name and email address of at least one an
 
 2025 stipend recipients will have from April 2025 through June 2026 to complete their research.
 
-All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of published RAC Research Reports [here](https://rockarch.issuelab.org).
+All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of [published RAC Research Reports here](https://rockarch.issuelab.org).
 
 To be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit. Digital versions of receipts are accepted.
 
