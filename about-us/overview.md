@@ -17,6 +17,7 @@ The RAC’s collections contain the records of a wide range of institutions dedi
 Most of the records in the RAC's collections come from foundations and other institutions that remain active in the public sphere, including:
 
 <ul class="list--unstyled mb-34">
+    <li>American Society of International Law</li>
     <li>Asia Society</li>
     <li>Asian Cultural Council</li>
     <li>China Medical Board, Inc.</li>
