@@ -7,14 +7,14 @@ permalink: /about-us/privacy-policy/
 ## Protecting the privacy of our users
 Rockefeller Archive Center (RAC) is committed to protecting your privacy while enabling your access to information and engagement in our research community. We strive to make our archival collections and services as widely accessible as possible. To do this we need to acquire and use some personal information. This policy explains what information we collect from you and why, and how it is collected, used, and stored. It applies to your engagement with us through our services and activities on websites and during your visits to our physical premises.
 
-Guided by legal requirements governing people in the EU/EEA and UK, this Policy also provides a legal basis for our processing of your personal information. By data “processing,” we mean any operation performed on personal data including collection, organization, storage, alteration, retrieval, consultation, use, dissemination, restriction, or erasure. The Rockefeller Archive Center is located in the United States, and your data will be transferred to and processed in the United States.
+Guided by legal requirements governing people in the EU/EEA and UK, this policy also provides a legal basis for our processing of your personal information. By data “processing,” we mean any operation performed on personal data including collection, organization, storage, alteration, retrieval, consultation, use, dissemination, restriction, or erasure. The Rockefeller Archive Center is located in the United States, and your data will be transferred to and processed in the United States.
 
-This Policy does not pertain to the acquisition or processing of personal information contained within our archival collections, for which we have a legitimate legal basis for archiving in the public interest.
+This policy does not pertain to the acquisition or processing of personal information contained within our archival collections, for which we have a legitimate legal basis for archiving in the public interest.
 
 ## What information do we collect and why?
-We capture the minimum amount of personal information that we need for a particular purpose, and we keep it only as long as is necessary to fulfill that purpose. Information will only be accessed by RAC staff with a legitimate business need to do so. We collect and process data that we obtain or that you provide to us in the following contexts:
+We capture the minimum amount of personal information that we need for a particular purpose, and we keep it only as long as necessary to fulfill that purpose. Information will only be accessed by RAC staff with a legitimate business need to do so. We collect and process data that we obtain or that you provide to us in the following contexts:
 
-### Corresponding with reference archivists
+### Corresponding with access archivists
 Emails or written correspondence related to archival reference services. This data can include:
 - Name
 - Contact details (address, email, phone)
@@ -23,7 +23,7 @@ Emails or written correspondence related to archival reference services. This da
 - Any other information that you volunteer
 
 Legal basis:
-A legitimate interest to provide you with reference services and support, and for our archives staff to refer to those records as a basis for providing reference assistance to other users with related questions.
+A legitimate interest to provide you with access services and support, and for our archives staff to refer to those records as a basis for providing access assistance to other users with similar questions.
 
 Storage:
 Internal RAC systems for 8 years.
@@ -53,7 +53,7 @@ Legal basis:
 Your consent at the time of data collection to use your anonymized data for statistical purposes to improve our services, to protect the security of the archival records in our custody, and to allow you to keep track of previous research activities, generate citations, and plan future visits.
 
 Storage:
-Externally by a third-party service provider, [Atlas Systems, Inc](https://www.atlas-sys.com/privacy-policy). Digital request records and account information are stored for 3 years, and visit date/time data is stored for 2 years. You will be prompted to update your account annually. Paper documentation is not stored after the physical items are returned to archival storage.
+Externally by a third-party service provider, [Atlas Systems, Inc](https://www.atlas-sys.com/privacy-policy). Digital request records and account information are stored for 3 years and visit date/time data is stored for 2 years. You will be prompted to update your account annually. Paper documentation is not stored after the physical items are returned to archival storage.
 
 ### Visiting and conducting research on our premises
 Participating in a researcher orientation, working in our reading rooms, and using our facilities. This data can include:
@@ -78,10 +78,10 @@ Legal basis:
 Consent given at the time of application.
 
 Storage:
-Internal RAC systems and [DreamApply](https://help.dreamapply.com/knowledge-base/dreamapply-privacy-policy-guidelines/) application management platform servers. Applications that we do not fund are kept only until the grant cycle is complete, or up to 1 year. Records of applicants that we fund are stored permanently, with personal financial information removed.
+Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications that we do not fund are deleted upon declination. The name, email, institutional affiliation and Research Report from successful applicants are retained permanently; all other records are deleted once final reimbursement is made.
 
 ### Using any of our websites
-When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third party service tools. [RE:Source](https://resource.rockarch.org) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
+When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third-party service tools. [RE:source](https://resource.rockarch.org) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
 
 This data can include:
 - Contact details (address, email, phone)
@@ -116,12 +116,11 @@ We do not sell your personal data to any other organizations. We will only share
 - As otherwise authorized by you.
 
 ## How can you contact us about your privacy?
-You may contact us for additional information, to request access to or a copy of your personal data, or to request certain data be updated or removed. We will consider and respond to any requests in accordance with applicable laws. If you have consented to data processing, you can withdraw your consent at any time without affecting the lawfulness of any processing that was done based on your previous consent. Please note that if your data is contained within our archival collections, rather than collected by the RAC for the reasons stated in this Policy, we will not alter the record.
+You may contact us for additional information, to request access to or a copy of your personal data, or to request certain data be updated or removed. We will consider and respond to any requests in accordance with applicable laws. If you have consented to data processing, you can withdraw your consent at any time without affecting the lawfulness of any processing that was done based on your previous consent. Please note that if your data is contained within our archival collections, rather than collected by the RAC for the reasons stated in this policy, we will not alter the record.
 
 Contact: [archive@rockarch.org](mailto:archive@rockarch.org)
 
 ## Changes to this policy
-We will review this Policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
+We will review this policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
 
-Last updated November 1, 2022
-
+Last updated October 9, 2024
