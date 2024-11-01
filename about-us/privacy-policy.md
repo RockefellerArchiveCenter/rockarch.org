@@ -123,4 +123,4 @@ Contact: [archive@rockarch.org](mailto:archive@rockarch.org)
 ## Changes to this policy
 We will review this policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
 
-Last updated October 9, 2024
+Last updated November 1, 2024
