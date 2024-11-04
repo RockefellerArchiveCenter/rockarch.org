@@ -5,5 +5,4 @@ permalink: /about-us/employment-opportunities/
 ---
 
 ## Employment Opportunities
-We are currently hiring for the following positions:
-- [Writer](https://rockarch.smapply.us/prog/writer/) (applications accepted until Friday, November 1, 2024)
+There are no open positions at this time.
