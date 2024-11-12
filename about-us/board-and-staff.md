@@ -72,7 +72,7 @@ Former University Archivist, Harvard University Archives
 **Fernando Carrasco**, Information Technology Coordinator  
 (914) 366-6338  
 
-**Erich Chang**, Archivist, Collections Management  
+**Erich Chang**, Accessioning Archivist, Collections Management  
 (914) 366-6351  
   
 **Bob Clark**, Director of Archives  
@@ -81,7 +81,7 @@ Former University Archivist, Harvard University Archives
 **Amy Fitch**, Archivist, Processing  
 (914) 366-6318  
 
-**Jenna Fleming**, Archivist, Collections Management  
+**Jenna Fleming**, Preservation Archivist, Collections Management  
 (914) 366-6321 
 
 **Patrick Galligan**, DevOps Analyst, Digital Strategies  
@@ -128,7 +128,7 @@ Former University Archivist, Harvard University Archives
 **Tyler Perry**, Archival Assistant, Access  
 (914) 366-6329
 
-**Brent Phillips**, Audiovisual Archivist, Collections Management  
+**Brent Phillips**, Sound and Moving Image Archivist, Collections Management  
 (914) 366-6324
 
 **Mary Ann Quinn**, Archivist, Processing  
@@ -149,7 +149,7 @@ Former University Archivist, Harvard University Archives
 **Reuben Slater**, Archival Assistant, Collections Management  
 (914) 366-6304  
 
-**Margaret Hogan Snyder**, Appraisal Archivist, Collections Management  
+**Margaret Hogan Snyder**, Appraisal Archivist and Records Manager, Collections Management  
 (914) 366-6357
 
 **Emeline Swanson**, Archival Assistant, Collections Management  
