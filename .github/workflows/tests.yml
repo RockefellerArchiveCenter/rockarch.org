@@ -1,0 +1,33 @@
+name: Test
+
+on:
+  pull_request:
+    branches:
+      - development
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    env:
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby 3.2.1
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2.1
+          bundler-cache: true
+
+      - name: Install additional packages
+        run: sudo apt-get install -y libcurl4-openssl-dev
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Run cibuild
+        run: ./script/cibuild
