@@ -35,8 +35,9 @@ President, The Rockefeller Foundation
 Former University Archivist, Harvard University Archives
 
 ## Staff
-
-<p class="alert text--white p-20">Please direct email inquiries to <a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</p>
+<div class="alert alert--orange">
+  <p class="alert__text">Please direct email inquiries to <a class="text--white" href="mailto:archive@rockarch.org">archive@rockarch.org</a>.</p>
+</div>
 
 
 **Pablo Aguilera**, Operations Assistant  
