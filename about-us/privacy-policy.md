@@ -26,7 +26,7 @@ Legal basis:
 A legitimate interest to provide you with access services and support, and for our archives staff to refer to those records as a basis for providing access assistance to other users with similar questions.
 
 Storage:
-Internal RAC systems for 8 years.
+Internal RAC systems for 3 years.
 
 ### Paying for duplication services
 Invoices and receipts for photocopying and digitization services. We use [Paypal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) to securely process payments. This data can include:
