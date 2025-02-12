@@ -5,10 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert alert--orange">
-  <p class="alert__text">The 2025 Research Stipend application cycle is now open!
-  <a class="text--white" href="https://rockarch.smapply.us/prog/research_stipend_program_2025/">Apply here.</a> You will be asked to create a <span class="text--bold">free</span> SurveyMonkey account for the purposes of submitting an application.
-
-  The deadline for applications is <span class="text--bold">November 1st, 2024 at 11:59 pm EST.</span>
+  <p class="alert__text">The 2025 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status later this spring. The 2026 cycle will open in fall 2025.
   </p>
 </div>
 
