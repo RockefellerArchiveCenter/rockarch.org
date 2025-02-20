@@ -138,9 +138,6 @@ Former University Archivist, Harvard University Archives
 **Brigite Requeijo**, Director of Human Resources and Operations  
 (914) 366-6381 
 
-**Kingsley Sam**, Systems Administrator  
-(914) 366-6384
-
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
 
