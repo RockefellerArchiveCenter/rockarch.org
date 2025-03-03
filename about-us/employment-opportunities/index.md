@@ -4,7 +4,6 @@ title: Employment Opportunities
 permalink: /about-us/employment-opportunities/
 ---
 
-## Employment Opportunities
 ## President ##
 
 The President will be responsible for overall leadership, management, and implementation of the RAC's strategic vision and its advancement, staff development, budget and administration, and proper overall functioning of the organization.
