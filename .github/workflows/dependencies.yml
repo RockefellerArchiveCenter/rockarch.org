@@ -19,12 +19,12 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: development
 
-      - uses: ruby/setup-ruby@v1.221.0
+      - uses: ruby/setup-ruby@v1.229.0
         with:
           ruby-version: '3.2.1'
       - run: bundle update --all && bundle install
 
-      - uses: actions/setup-node@v4.2.0
+      - uses: actions/setup-node@v4.3.0
         with:
           node-version: 'lts/*'
       - name: update
@@ -48,7 +48,7 @@ jobs:
 
       - name: Create Pull Request
         if: always()
-        uses: peter-evans/create-pull-request@v7.0.7
+        uses: peter-evans/create-pull-request@v7.0.8
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           branch: dependency-updates
