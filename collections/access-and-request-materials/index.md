@@ -26,7 +26,7 @@ Please review our [Permissions and Copyright](#permissions-and-copyright) inform
 
 ## Digitization Services
 
-The RAC offers digitization services to both our onsite and virtual or offsite users.
+The RAC offers a variety of digitization services for our users.
 
 To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org), the RAC’s online request and duplication management system. Once you’ve created your account, you can submit digitization requests through the “My List” page in the [DIMES online catalog](https://dimes.rockarch.org/).
 
