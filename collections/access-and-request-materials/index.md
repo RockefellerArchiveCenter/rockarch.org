@@ -54,7 +54,7 @@ The default digitization request is a reference PDF of a file. There is no charg
 
 #### Publication-quality individual pages or photographic images
 - Users requesting a high-resolution, publication-quality scan of an individual page or photographic image may make such requests through their [RACcess account ](https://raccess.rockarch.org) and then must follow up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details of the specific image being requested and the resolution requirements. 
-- Because such requests require special processes, the user will be charged $25.00 per image with a limit of 20 items. 
+- Because such requests require special processes, the user will be charged $25.00 per image with a limit of 20 items per calendar year. 
 - Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
 
 ## Scheduling an Appointment
