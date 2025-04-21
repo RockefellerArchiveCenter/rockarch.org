@@ -26,38 +26,35 @@ Please review our [Permissions and Copyright](#permissions-and-copyright) inform
 
 ## Digitization Services
 
-The RAC offers digitization services to both our onsite and virtual or offsite users.
+The RAC offers a variety of digitization services for our users.
 
-To get started, you will need to create a user account in [RACcess](https://raccess.rockarch.org), the RAC’s online request and duplication management system. Once you’ve created your account, you can submit digitization requests through the “My List” page in the [DIMES online catalog](https://dimes.rockarch.org/).
+To get started, you need to create a user account in [RACcess](https://raccess.rockarch.org), the RAC’s online request and digitization management system. Once you’ve created your account, you can submit digitization requests through the “My List” page in the [DIMES online catalog](https://dimes.rockarch.org/). We will then reach out to you via email to discuss your research goals and how we might best assist with your request. 
 
-Digitization requests are generally processed on a first-come, first-served basis. The RAC endeavors to fulfill all digitization requests within 90 days. However, a request may take longer depending on the volume of materials being requested and whether additional handling is necessary due to the original item’s condition or format. Unfortunately, we are unable to do rush orders.
+Digitization requests are generally processed on a first-come, first-served basis. The RAC endeavors to fulfill all digitization requests within 90 business days. However, a request may take longer depending on the volume of materials being requested and whether special handling is necessary due to the original item’s condition or format. We cannot accept requests for rush orders.
 
-Please note that the RAC may decline to digitize certain materials that in its judgment may suffer damage due to the necessary handling. Any materials with serious preservation concerns will be evaluated and may require us to use an outside digitization vendor. 
+Please note that in some cases the RAC may not be able to digitize material due to its extent or physical condition. Any materials with serious preservation concerns will be evaluated and may require us to use an outside digitization vendor. 
 
-### Fees and Limitations
+### Limitations and Fees
 
-RAC digitization request fees and limitations are based on the item you have identified through our [DIMES online catalog](https://dimes.rockarch.org/), usually a file (regardless of the number of pages or folders associated with the file), an oversized flat file item (such as a map or blueprint), or an audiovisual item. Each item requested constitutes a “transaction” for digitization, regardless of page count. 
+**Users are limited to requesting 20 transactions per calendar year.** RAC digitization limitations are based on the item(s) you have identified through our [DIMES online catalog](https://dimes.rockarch.org/). 
 
-Please note that we cannot selectively scan individual pages within a larger file for you. Users requesting a digitized copy of a file will receive the entire file.
+We will work with you to help identify the resources best suited to your information needs and encourage you to consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist you in prioritizing your transaction requests prior to ordering.
 
-**The RAC charges a flat fee of $25.00 per transaction.** We will not charge you for materials that have already been digitized.
+#### Reference scans
+The default digitization request is a reference PDF of a file. There is no charge for this service.  
 
-**Users will be billed for each transaction as it is completed.** If you have submitted multiple digitization transactions, we will bill and deliver each transaction as it is completed to ensure that we can process all requests as efficiently as possible. Please note that for each transaction the email invoice you receive requesting payment and your payment receipt are the only payment records we provide, so be sure to save them.
-
-**Users are limited to requesting 20 transactions per calendar year.** We encourage you to consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist you in prioritizing your transaction requests prior to ordering.
+#### Oversized flat file items
+- The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) up to 34 inches by 24 inches (34” x 24”) in size at no charge. 
+- Larger sizes may need to be sent to an outside digitization vendor, and the user will be charged the vendor cost. This process could take up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
 
 #### Audiovisual materials
 - Already digitized audiovisual files are available for download by onsite users at the RAC through our Virtual Vault. These files will be delivered electronically to offsite users, unless otherwise arranged. The RAC does not create DVD or CD copies.
-- If access files currently do not exist, audiovisual items must be sent to an outside digitization vendor, and the user will be charged the vendor cost in addition to the $25.00 transaction fee. This process could take up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
-- Higher-resolution audiovisual files are to be arranged with the RAC. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost estimates.
+- If access files currently do not exist, audiovisual items must be sent to an outside digitization vendor, and the user will be charged the vendor cost. This process could take four to six months to complete. Following digitization, the user will be provided with either an MP3 (audio) or MP4 (moving image) file. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
+- Users requesting higher-resolution audiovisual files should contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost estimates.
 
-#### Oversized flat file items. 
-- The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) up to 34 inches by 24 inches (34” x 24”) in size. 
-- All larger sizes must be sent to an outside digitization vendor, and the user will be charged the vendor cost in addition to the $25.00 transaction fee. This process could take up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
-
-#### Publication quality individual pages or photographic images. 
-- Users requesting a high-resolution, publication quality scan of an individual page or photographic image may make such requests though their RACcess account and then must follow up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details of the specific image being requested and the resolution requirements. 
-- Because such requests require special handling, you will be charged $25.00 per image with a limit of 20 items. 
+#### Publication-quality individual pages or photographic images
+- Users requesting a high-resolution, publication-quality scan of an individual page or photographic image may make such requests through their [RACcess account ](https://raccess.rockarch.org) and then must follow up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details of the specific image being requested and the resolution requirements. 
+- Because such requests require special processes, the user will be charged $25.00 per image with a limit of 20 items per calendar year. 
 - Please consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) with any questions.
 
 ## Scheduling an Appointment
