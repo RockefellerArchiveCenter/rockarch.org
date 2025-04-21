@@ -41,7 +41,7 @@ Please note that in some cases the RAC may not be able to digitize material due 
 We will work with you to help identify the resources best suited to your information needs and encourage you to consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist you in prioritizing your transaction requests prior to ordering.
 
 #### Reference scans
-The default digitization request is a reference PDF of a file. There is no charge for this service.  
+- The default digitization request is a reference PDF of a file. There is no charge for this service.  
 
 #### Oversized flat file items
 - The RAC can digitize individual oversized flat file items (maps, blueprints, posters, etc.) up to 34 inches by 24 inches (34” x 24”) in size at no charge. 
