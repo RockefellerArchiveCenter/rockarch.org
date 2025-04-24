@@ -99,7 +99,7 @@ Former University Archivist, Harvard University Archives
 **Beth Jaffe-Davis**, Archivist, Processing  
 (914) 366-6344
 
-**Claire Cusack Larson**, Social Media Coordinator  
+**Claire Cusack Larson**, Social Media Coordinator, Research and Engagement  
 (914) 366-6343
 
 **Christine Leonard**, Reading Room Assistant, Access  
