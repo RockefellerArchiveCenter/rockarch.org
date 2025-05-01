@@ -58,6 +58,9 @@ Former University Archivist, Harvard University Archives
 **Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352 
 
+**Sarah Beck**, Digitization Program Manager, Access  
+(914) 366-6348
+
 **Michele Beckerman**, Senior Curator  
 (914) 366-6342
 
@@ -100,7 +103,7 @@ Former University Archivist, Harvard University Archives
 (914) 366-6344
 
 **Claire Cusack Larson**, Social Media Coordinator, Research and Engagement  
-(914) 366-6343
+(914) 366-6387
 
 **Christine Leonard**, Reading Room Assistant, Access  
 (914) 366-6329
