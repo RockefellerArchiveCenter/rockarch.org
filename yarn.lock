@@ -3,18 +3,18 @@
 
 
 "@babel/code-frame@^7.0.0":
-  version "7.26.2"
-  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.26.2.tgz#4b5fab97d33338eff916235055f0ebc21e573a85"
-  integrity sha512-RJlIHRueQgwWitWgF8OdFYGZX328Ax5BCemNGlqHfplnRT9ESi8JkFlvaVYbS+UubVY6dpv87Fs2u5M29iNFVQ==
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.27.1.tgz#200f715e66d52a23b221a9435534a91cc13ad5be"
+  integrity sha512-cjQ7ZlQ0Mv3b47hABuTevyTuYN4i+loJKGeV9flcCgIK37cCXRh+L1bd3iBHlynerhQ7BhCkn2BPbQUL+rGqFg==
   dependencies:
-    "@babel/helper-validator-identifier" "^7.25.9"
+    "@babel/helper-validator-identifier" "^7.27.1"
     js-tokens "^4.0.0"
-    picocolors "^1.0.0"
+    picocolors "^1.1.1"
 
-"@babel/helper-validator-identifier@^7.25.9":
-  version "7.25.9"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.25.9.tgz#24b64e2c3ec7cd3b3c547729b8d16871f22cbdc7"
-  integrity sha512-Ed61U6XJc3CVRfkERJWDz4dJwKe7iLmmJsbOGu9wSloNSFttHV0I8g6UAgb7qnK5ly5bGLPd4oXZlxCdANBOWQ==
+"@babel/helper-validator-identifier@^7.27.1":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.27.1.tgz#a7054dcc145a967dd4dc8fee845a57c1316c9df8"
+  integrity sha512-D2hP9eA+Sqx1kBZgzxZh0y1trbuU+JoDkiEwqhQ36nodYqJwyEIhPSdMNd7lOm/4io72luTPWH20Yda0xOuUow==
 
 "@mirzazeyrek/node-resemble-js@^1.2.1":
   version "1.2.1"
@@ -44,11 +44,11 @@
   integrity sha512-C5Mc6rdnsaJDjO3UpGW/CQTHtCKaYlScZTly4JIu97Jxo/odCiH0ITnDXSJPTOrEKk/ycSZ0AOgTmkDtkOsvIA==
 
 "@types/node@*":
-  version "22.13.14"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.13.14.tgz#70d84ec91013dcd2ba2de35532a5a14c2b4cc912"
-  integrity sha512-Zs/Ollc1SJ8nKUAgc7ivOEdIBM8JAKgrqqUYi2J997JuKO7/tpQC+WCetQ1sypiKCQWHdvdg9wBNpUPEWZae7w==
+  version "22.15.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.3.tgz#b7fb9396a8ec5b5dfb1345d8ac2502060e9af68b"
+  integrity sha512-lX7HFZeHf4QG/J7tBZqrCAXwz9J5RD56Y6MpP0eJkka8p+K0RY/yBTW7CYFJ4VGCclxqOLKmiGP5juQc6MKgcw==
   dependencies:
-    undici-types "~6.20.0"
+    undici-types "~6.21.0"
 
 "@types/yauzl@^2.9.1":
   version "2.10.3"
@@ -152,9 +152,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA==
 
 bare-fs@^4.0.1:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.0.2.tgz#a879c7b5d9242663ef80d75d6b99c2c6701664d6"
-  integrity sha512-S5mmkMesiduMqnz51Bfh0Et9EX0aTCJxhsI4bvzFFLs8Z1AV8RDHadfY5CyLwdoLHgXbNBEN1gQcbEtGwuvixw==
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.1.3.tgz#9b23313163d844e807aa6eafb4ba82b5f070eefc"
+  integrity sha512-OeEZYIg+2qepaWLyphaOXHAHKo3xkM8y3BeGAvHdMN8GNWvEAU1Yw6rYpGzu/wDDbKxgEjVeVDpgGhDzaeMpjg==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
@@ -1056,7 +1056,7 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha512-F3asv42UuXchdzt+xXqfW1OGlVBe+mxa2mqI0pg5yAHZPvFmY3Y6drSf/GQ1A86WgWEN9Kzh/WrgKa6iGcHXLg==
 
-picocolors@^1.0.0:
+picocolors@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.1.1.tgz#3d321af3eab939b083c8f929a1d12cda81c26b6b"
   integrity sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==
@@ -1068,17 +1068,17 @@ pixelmatch@^4.0.2:
   dependencies:
     pngjs "^3.0.0"
 
-playwright-core@1.51.1:
-  version "1.51.1"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.51.1.tgz#d57f0393e02416f32a47cf82b27533656a8acce1"
-  integrity sha512-/crRMj8+j/Nq5s8QcvegseuyeZPxpQCZb6HNk3Sos3BlZyAknRjoyJPFWkpNn8v0+P3WiwqFF8P+zQo4eqiNuw==
+playwright-core@1.52.0:
+  version "1.52.0"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.52.0.tgz#238f1f0c3edd4ebba0434ce3f4401900319a3dca"
+  integrity sha512-l2osTgLXSMeuLZOML9qYODUQoPPnUsKsb5/P6LJ2e6uPKXUdPK5WYhN4z03G+YNbWmGDY4YENauNu4ZKczreHg==
 
 playwright@^1.40.1:
-  version "1.51.1"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.51.1.tgz#ae1467ee318083968ad28d6990db59f47a55390f"
-  integrity sha512-kkx+MB2KQRkyxjYPc3a0wLZZoDczmppyGJIvQ43l+aZihkaVvmu/21kiyaHeHjiFxjxNNFnUncKmcGIyOojsaw==
+  version "1.52.0"
+  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.52.0.tgz#26cb9a63346651e1c54c8805acfd85683173d4bd"
+  integrity sha512-JAwMNMBlxJ2oD1kce4KPtMkDeKGHQstdpFPcPH3maElAXon/QZeTvtsfXmTMRyO9TslfoYOXkSsvao2nE1ilTw==
   dependencies:
-    playwright-core "1.51.1"
+    playwright-core "1.52.0"
   optionalDependencies:
     fsevents "2.3.2"
 
@@ -1093,9 +1093,9 @@ pngjs@^6.0.0:
   integrity sha512-TRzzuFRRmEoSW/p1KVAmiOgPco2Irlah+bGFCeNfJXxxYGwSw7YwAOAcd7X28K/m5bjBWKsC29KyoMfHbypayg==
 
 portfinder@^1.0.32:
-  version "1.0.35"
-  resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.35.tgz#6ebaf945da4d14c55d996e907b217f73e1dc06c9"
-  integrity sha512-73JaFg4NwYNAufDtS5FsFu/PdM49ahJrO1i44aCRsDWju1z5wuGDaqyFUQWR6aJoK2JPDWlaYYAGFNIGTSUHSw==
+  version "1.0.37"
+  resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.37.tgz#92b754ef89a11801c8efe4b0e5cd845b0064c212"
+  integrity sha512-yuGIEjDAYnnOex9ddMnKZEMFE0CcGo6zbfzDklkmT1m5z734ss6JMzN9rNB3+RR7iS+F10D4/BVIaXOyh8PQKw==
   dependencies:
     async "^3.2.6"
     debug "^4.3.6"
@@ -1442,10 +1442,10 @@ unbzip2-stream@^1.4.3:
     buffer "^5.2.1"
     through "^2.3.8"
 
-undici-types@~6.20.0:
-  version "6.20.0"
-  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.20.0.tgz#8171bf22c1f588d1554d55bf204bc624af388433"
-  integrity sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==
+undici-types@~6.21.0:
+  version "6.21.0"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.21.0.tgz#691d00af3909be93a7faa13be61b3a5b50ef12cb"
+  integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
 
 universalify@^2.0.0:
   version "2.0.1"
