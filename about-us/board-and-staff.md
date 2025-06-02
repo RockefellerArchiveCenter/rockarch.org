@@ -55,6 +55,9 @@ Former University Archivist, Harvard University Archives
 **Hillel Arnold**, Associate Director of Archives and Chief Digital Strategies Officer  
 (914) 366-6382
 
+**Max Barkman**, Systems Administrator  
+(914) 366-6384
+
 **Robert Battaly**, Assistant Director for Processing  
 (914) 366-6352 
 
