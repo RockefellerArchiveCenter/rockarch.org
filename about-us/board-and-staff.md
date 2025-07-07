@@ -159,7 +159,7 @@ Former University Archivist, Harvard University Archives
 **Margaret Hogan Snyder**, Appraisal Archivist and Records Manager, Collections Management  
 (914) 366-6357
 
-**Emeline Swanson**, Archival Assistant, Collections Management  
+**Emeline Swanson**, Assistant Archivist, Collections Management  
 (914) 366-6364 
 
 **Elizabeth Urbanczyk**, Writer, Research and Engagement   
