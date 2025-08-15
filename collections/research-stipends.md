@@ -5,27 +5,33 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert alert--orange">
-  <p class="alert__text">The 2025 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status later this spring. The 2026 cycle will open in fall 2025.
+  <p class="alert__text">The 2026 Research Stipend applications are now open!
+      <a class="text--white" href="https://rockarch.smapply.us/prog/research_stipend_program_2026">Apply here.</a> You will be asked to create a free SurveyMonkey account for the purposes of submitting an application. The deadline for receipt is <span class="text--bold">November 1st, 2024 at 11:59 pm EST.</span>
   </p>
 </div>
 
 ## About the RAC Stipend Program
 
-The RAC offers a competitive research stipend program that provides individuals (not institutions) up to $5,000 for reimbursement of travel and accommodation expenses. The stipend can only be used to support research time at the RAC, not for research at other archival repositories or for tuition.
+The Rockefeller Archive Center (RAC) research stipend program provides individual awardees (not institutions) up to $5,000 for reimbursement of travel and accommodation expenses connected to conducting research at the RAC. Please note that it cannot be used for tuition, research at other archival repositories, or other non-RAC-related travel.
 
-Applications are evaluated by an independent committee that considers an applicant’s project and the availability of relevant archival materials at the RAC. Anyone can apply for a research stipend, from any country of origin, field or discipline, and at any level of professional background. 
+Anyone may apply for a research stipend, from any country of origin or residence, field or discipline, and at any level of professional experience. 
+
+Applications are evaluated by an independent committee that considers the applicant’s project, the relevance of archival materials at the RAC, and the amount of time needed to consult these records.
 
 ## How to Apply for an RAC Research Stipend
 
-Please use our [online form](https://rockarch.smapply.us/prog/research_stipend_program_2025/) to apply for a research stipend. Applicants are not required to contact an archivist in advance to be eligible to apply. However, we encourage you to contact RAC Access archivists, who are available to answer questions and discuss your project and can be reached at [archive@rockarch.org](mailto:archive@rockarch.org). Applicants should also consult our online collections discovery system, [DIMES](https://dimes.rockarch.org/) to identify relevant research materials.
+The [online application form](https://rockarch.smapply.us/prog/research_stipend_program_2026) will ask for information about your proposed research project and how the RAC collections would support it. 
 
-The online application form will ask for information about your proposed research project and how research in the RAC collections would support it. Applicants should be prepared to write a brief narrative describing their research project, including a description of what they seek to find in the proposed materials.
+Applicants should be prepared to
 
-The application form also requests the name and email address of at least one and up to two references who can recommend you for a research stipend. After the application is submitted, we will contact the references directly with information about how to submit their recommendation.
+- write a brief narrative describing their research project, including a description of how research at the RAC will benefit their project
+- explain the significance of the project to current scholarship and its contribution to existing understandings of the proposed topic 
+- provide a list as well as a narrative description of specific materials they plan to consult at the RAC
+- provide the name and email address of one to two references who will provide a recommendation
 
 ## After Receiving an RAC Research Stipend
 
-2025 stipend recipients will have from April 2025 through June 2026 to complete their research.
+2026 stipend recipients will have from April 2026 through June 2027 to complete their research.
 
 All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of [published RAC Research Reports here](https://rockarch.issuelab.org).
 
