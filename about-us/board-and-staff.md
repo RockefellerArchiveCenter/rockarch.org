@@ -19,9 +19,6 @@ Ruggles Professor of Political Science and History, Columbia University
 **Richard Lifton**  
 President, The Rockefeller University
 
-**Jack Meyers**  
-President, Rockefeller Archive Center
-
 **Alondra Nelson**  
 Harold F. Linder Professor of Social Science, Institute for Advanced Study
 
@@ -30,6 +27,9 @@ President, Cypress Films
 
 **Rajiv Shah**  
 President, The Rockefeller Foundation
+
+**James Shulman**  
+President, Rockefeller Archive Center
 
 **Megan Sniffin-Marinoff**  
 Former University Archivist, Harvard University Archives
@@ -117,11 +117,8 @@ Former University Archivist, Harvard University Archives
 **Susan McDade**, Assistant Director for Collections Management  
 (914) 366-6323 
 
-**Jack Meyers**, President  
-(914) 366-6308  
-
 **Jose Morillo**, Associate Director of Information Technology  
-(914) 366-6360
+(914) 366-6360 
 
 **Camelia Muresan**, Associate Director for Finance  
 (914) 366-6370  
@@ -149,6 +146,9 @@ Former University Archivist, Harvard University Archives
 
 **Barbara Shubinski**, Director of Research and Engagement  
 (914) 366-6363  
+
+**James Shulman**, President  
+(914) 366-6308  
 
 **Hannah Sistrunk**, User Experience and Accessibility Analyst, Digital Strategies  
 (914) 366-6354  
