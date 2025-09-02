@@ -126,9 +126,6 @@ Former University Archivist, Harvard University Archives
 **Ima Oduok**, Assistant Digital Preservation Analyst  
 (914) 366-6329
 
-**Heather Oswald**, Assistant Director for Access  
-(914) 366-6307
-
 **Renee Pappous**, Archivist, Access  
 (914) 366-6355  
 
