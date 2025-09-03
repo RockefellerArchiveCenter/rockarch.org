@@ -14,12 +14,12 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v5.0.0
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: development
 
-      - uses: ruby/setup-ruby@v1.254.0
+      - uses: ruby/setup-ruby@v1.257.0
         with:
           ruby-version: '3.2.1'
       - run: bundle update --all && bundle install
