@@ -148,15 +148,13 @@ The RAC is located at 15 Dayton Avenue, Sleepy Hollow, New York 10591.
 The RAC is easily accessible by train from Grand Central Terminal in New York
 City to Tarrytown on the Metro-North Hudson Line.
 
-The RAC provides complimentary car service transportation to and from RAC for
-the following trains:
+The RAC provides complimentary car service transportation from the Tarrytown station to the RAC and back:
 
-- Departs Grand Central 8:13 a.m. Arrives Tarrytown 9:07 a.m.
-  - Car service leaves the Tarrytown station for the RAC promptly at 9:15 a.m. Driver will be holding a sign indicating which car is for the Rockefeller Archive Center.
-- Departs Tarrytown 5:42 p.m. Arrives Grand Central 6:42 p.m.
-  - Car service leaves the RAC for the Tarrytown train station promptly at 5:15 p.m. Driver will be parked in the front circle at the main entrance to the RAC.
+- Car service leaves the Tarrytown station for the RAC promptly at 9:20 a.m. Driver will be holding a sign indicating which car is for the Rockefeller Archive Center.
 
-The train schedule may be subject to change, so be sure to check the
+- Car service leaves the RAC for the Tarrytown train station promptly at 5:10 p.m. Driver will be parked in the front circle at the main entrance to the RAC.
+
+Be sure to check the
 [Metro-North web site](https://www.mta.info) to verify departure times.
 
 If you miss the RAC car service or take a different train, you may still go to and from the RAC via taxi or car service app such as Uber or Lyft. There is a taxi stand at the Tarrytown train station. The RAC's address is 15 Dayton Avenue, Sleepy Hollow NY 10591.
