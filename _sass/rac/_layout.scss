@@ -392,5 +392,11 @@ section {
   & .alert__text {
     text-align: center; 
     font-size: 20px;
+    width: 100%;
+
+    & a {
+      color: $white;
+      font-size: 20px;
+    }
   }
 }
