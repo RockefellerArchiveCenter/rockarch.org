@@ -384,3 +384,19 @@ section {
     float: left;
   }
 }
+
+.alert--home {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  & .alert__text {
+    text-align: center; 
+    font-size: 20px;
+    width: 100%;
+
+    & a {
+      color: $white;
+      font-size: 20px;
+    }
+  }
+}
