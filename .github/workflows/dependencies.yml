@@ -19,12 +19,12 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: development
 
-      - uses: ruby/setup-ruby@v1.263.0
+      - uses: ruby/setup-ruby@v1.267.0
         with:
           ruby-version: '3.2.1'
       - run: bundle update --all && bundle install
 
-      - uses: actions/setup-node@v5.0.0
+      - uses: actions/setup-node@v6.0.0
         with:
           node-version: 'lts/*'
       - name: update
