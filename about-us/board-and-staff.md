@@ -10,6 +10,9 @@ permalink: /about-us/board-and-staff/
 **Joseph Betancourt**  
 President, The Commonwealth Fund
 
+**Meredith Evans**  
+Director, Jimmy Carter Presidential Library and Museum
+
 **Stephen Heintz**  
 President, Rockefeller Brothers Fund
 
