@@ -48,9 +48,9 @@ We will work with you to help identify the resources best suited to your informa
 - Larger sizes may need to be sent to an outside digitization vendor, and the user will be charged the vendor cost. This process could take up to six months to complete. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
 
 #### Audiovisual materials
-- Already digitized audiovisual files are available for download by onsite users at the RAC through our Virtual Vault. These files will be delivered electronically to offsite users, unless otherwise arranged. The RAC does not create DVD or CD copies.
-- If access files currently do not exist, audiovisual items must be sent to an outside digitization vendor, and the user will be charged the vendor cost. This process could take four to six months to complete. Following digitization, the user will be provided with either an MP3 (audio) or MP4 (moving image) file. Please contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further details, including time and cost estimates.
-- Users requesting higher-resolution audiovisual files should contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost estimates.
+- Already digitized audiovisual files are available for download by onsite users at the RAC through our Virtual Vault. These files can be delivered electronically to offsite users.
+- If digital access files currently do not exist, audiovisual items must be sent to an outside digitization vendor. This process could take up to six months to complete, and the user may be charged the vendor cost. In addition, the RAC has the right to refuse digitization if the requested audiovisual item is commercially available or accessible elsewhere.
+- Following digitization, the user will be provided with either an MP3 (audio) or MP4 (moving image) file. Users requesting higher-resolution audiovisual files should contact us at [archive@rockarch.org](mailto:archive@rockarch.org) for further information on time and cost estimates.
 
 #### Publication-quality individual pages or photographic images
 - Users requesting a high-resolution, publication-quality scan of an individual page or photographic image may make such requests through their [RACcess account ](https://raccess.rockarch.org) and then must follow up with an email to [archive@rockarch.org](mailto:archive@rockarch.org) that includes details of the specific image being requested and the resolution requirements. 
