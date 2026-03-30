@@ -97,7 +97,9 @@ Former University Archivist, Harvard University Archives
 
 **Jose Morillo**, Associate Director of Information Technology  
 
-**Camelia Muresan**, Director of Finance  
+**Camelia Muresan**, Director of Finance
+
+**Danielle Nista**, Assistant Director for Access
 
 **Ima Oduok**, Assistant Digital Preservation Analyst  
 
