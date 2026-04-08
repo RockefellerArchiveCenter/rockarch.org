@@ -5,7 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert alert--orange">
-  <p class="alert__text">The 2026 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status later this spring. The 2027 cycle will open in fall 2026.
+  <p class="alert__text">The 2026 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status in early May. The 2027 cycle will open in fall 2026.
   </p>
 </div>
 
