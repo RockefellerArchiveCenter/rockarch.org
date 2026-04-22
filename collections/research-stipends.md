@@ -5,8 +5,7 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert alert--orange">
-  <p class="alert__text">The 2026 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status in early May. The 2027 cycle will open in fall 2026.
-  </p>
+  <p class="alert__text">The 2026 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status in early May.</p>
 </div>
 
 ## About the RAC Stipend Program
