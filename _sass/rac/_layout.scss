@@ -128,10 +128,6 @@ iframe {
     background-size: cover;
     text-decoration: none;
 
-    &:focus {
-      text-decoration: underline;
-    }
-
     @include md-up {
       padding: 27px 64px 40px 25px;
     }
@@ -351,9 +347,6 @@ section {
   padding: 18px 20px;
   text-decoration: none;
 
-  &:focus {
-    text-decoration: underline;
-  }
   @include md-up {
     grid-template-columns: 1fr 1fr;
   }
