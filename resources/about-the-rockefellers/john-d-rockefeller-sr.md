@@ -3,7 +3,7 @@ layout: page-default
 title: John D. Rockefeller, 1839-1937
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-sr/
 ---
-<div class="bio-page-image"><img alt="John D. Rockefeller" src="{{site.baseurl}}/assets/img/01_johndrockefellersr.png"/></div>
+<div class="bio-page-image"><img alt="John D. Rockefeller portrait" src="{{site.baseurl}}/assets/img/01_johndrockefellersr.png"/></div>
 
 **John Davison Rockefeller (JDR)** was the guiding force behind the creation and development of the Standard Oil Company, which grew to dominate the oil industry and became one of the first big trusts in the United States, thus engendering much controversy and opposition regarding its business practices and form of organization. JDR also was one of the first major philanthropists in the United States, establishing several important foundations and donating a total of $540 million to charitable endeavors.
 

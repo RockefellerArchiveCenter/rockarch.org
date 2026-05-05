@@ -3,7 +3,7 @@ layout: page-default
 title: John D. Rockefeller, 3rd, 1906-1978
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-3rd/
 ---
-<div class="bio-page-image"><img alt="John D. Rockefeller 3rd" src="{{site.baseurl}}/assets/img/07_johndrockefeller3rd.png"/></div>
+<div class="bio-page-image"><img alt="John D. Rockefeller 3rd portrait" src="{{site.baseurl}}/assets/img/07_johndrockefeller3rd.png"/></div>
 
 **John Davison Rockefeller, 3rd** was born on March 21, 1906, in New York City the second of six children and the eldest son of Abby Aldrich and John D. Rockefeller, Jr. John went to the Browning School in New York City and the Loomis Institute in Windsor, Connecticut. He attended Princeton University, studied economics, and chose industrial relations as the subject of his senior thesis.
 

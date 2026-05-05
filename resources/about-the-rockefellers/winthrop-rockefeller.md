@@ -3,7 +3,7 @@ layout: page-default
 title: Winthrop Rockefeller, 1912-1973
 permalink: /resources/about-the-rockefellers/winthrop-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Winthrop Rockefeller" src="{{site.baseurl}}/assets/img/10_winthroprockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Winthrop Rockefeller portrait" src="{{site.baseurl}}/assets/img/10_winthroprockefeller.png"/></div>
 
 **Winthrop Rockefeller** was born May 1, 1912, in New York City, the fifth of six children of Abby Aldrich and John D. Rockefeller, Jr. He attended the Lincoln School of Teachers College of Columbia University in New York and the Loomis School in Windsor, Connecticut. He entered Yale University in 1931, but he left school in 1934 to work in the Texas oil fields as a roughneck and roustabout for the Humble Oil and Refining Company.
 
