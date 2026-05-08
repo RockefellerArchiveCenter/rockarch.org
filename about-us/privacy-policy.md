@@ -53,7 +53,7 @@ Legal basis:
 Your consent at the time of data collection to use your anonymized data for statistical purposes to improve our services, to protect the security of the archival records in our custody, and to allow you to keep track of previous research activities, generate citations, and plan future visits.
 
 Storage:
-Externally by a third-party service provider, [Atlas Systems, Inc](https://www.atlas-sys.com/privacy-policy). Digital request records and account information are stored for 3 years and visit date/time data is stored for 2 years. You will be prompted to update your account annually. Paper documentation is not stored after the physical items are returned to archival storage.
+Externally by a third-party service provider, [Atlas Systems, Inc](https://www.atlas-sys.com/privacy-policy). Digital request records, account information, and visit date/time data are stored for 3 years. You will be prompted to update your account annually. Paper documentation is not stored after the physical items are returned to archival storage.
 
 ### Visiting and conducting research on our premises
 Participating in a researcher orientation, working in our reading rooms, and using our facilities. This data can include:
@@ -64,7 +64,7 @@ Legal basis:
 A legitimate interest to ensure that you understand the research and facility procedures associated with conducting research on our premises, and to protect the security of the archival records in our custody.
 
 Storage:
-Orientation checklists with name and signature are stored for up to 1 year. CCTV footage is retained for up to 60 days, unless it is necessary to download specific footage segments for investigatory purposes.
+CCTV footage is retained for up to 90 days, unless it is necessary to download specific footage segments for investigatory purposes.
 
 ### Applying for or participating in our Research Stipend Program
 Application materials and records related to the administration of the Program. This data can include:
@@ -78,7 +78,19 @@ Legal basis:
 Consent given at the time of application.
 
 Storage:
-Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications that we do not fund are deleted upon declination. The name, email, institutional affiliation and Research Report from successful applicants are retained permanently; all other records are deleted once final reimbursement is made.
+Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications are retaiined for four years and the name, email, institutional affiliation and Research Report from successful applicants are retained permanently.
+
+### Applying for a job
+Materials from job applications, including applications, resumes and referrals/references. This data can include:
+- Name
+- Contact details (address, email, phone)
+- Educational, employment and professional history
+
+Legal basis:
+Consent given at the time of application.
+
+Storage: 
+Internal RAC systems and SurveyMonkey Apply servers. Applications are deleted after four years.
 
 ### Using any of our websites
 When you access any of our websites, online tools, and applications, we collect information through site logs, web forms, and third-party service tools. [RE:source](https://resource.rockarch.org) is hosted by [Pagely](https://pagely.com/kb/en/data-storage-protection/) and uses services that administer our newsletter and listserv, and manage site features and analytics, including [MailChimp](https://mailchimp.com/legal/) and [JetPack](https://automattic.com/privacy-notice/). All of our public sites use [Matomo](https://matomo.org/) to collect, analyze, and report visitor data.
@@ -103,7 +115,7 @@ All Rockefeller Archive Center websites use Matomo to gather anonymized, aggrega
 </iframe>
 
 ## Cookie notice
-When you access websites and use services online, sometimes those sites place a small data file on your device called a cookie. Some cookies are essential for a webpage to function properly or they improve its functioning, and others provide reporting information.
+When you access websites and use services online, sometimes those sites place a small data file on your device called a cookie. Some cookies are essential for a webpage to function properly (or they improve its functioning), and others provide reporting information.
 
 We use first-party session cookies on some web pages to improve the experience of using our sites. These are deleted when the browser is closed, and do not store any information that will personally identify you. We also include links to external sites like social media sharing that will place cookies on your device. We do not use advertising cookies.
 
@@ -123,4 +135,4 @@ Contact: [archive@rockarch.org](mailto:archive@rockarch.org)
 ## Changes to this policy
 We will review this policy periodically and may make changes in coordination with our [Records Management Policy](https://docs.rockarch.org/rm-policy/) and Records Retention Schedule. If we make any significant changes in the way we treat your personal information, we will make this clear on our website.
 
-Last updated November 1, 2024
+Last updated May 2026
