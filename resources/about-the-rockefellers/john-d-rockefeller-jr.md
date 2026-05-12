@@ -3,7 +3,7 @@ layout: page-default
 title: John D. Rockefeller, Jr., 1874-1960
 permalink: /resources/about-the-rockefellers/john-d-rockefeller-jr/
 ---
-<div class="bio-page-image"><img alt="John D. Rockefeller, Jr." src="{{site.baseurl}}/assets/img/03_johndrockefellerjr.png"/></div>
+<div class="bio-page-image"><img alt="John D. Rockefeller, Jr. portrait" src="{{site.baseurl}}/assets/img/03_johndrockefellerjr.png"/></div>
 
 **John Davison Rockefeller, Jr. (JDR Jr.)** was a philanthropist who gave more than $537 million to educational, religious, cultural, medical, and civic projects. The son of John D. Rockefeller, founder of the Standard Oil Company, and Laura Spelman Rockefeller, he was born on January 29, 1874, in Cleveland, Ohio, and died on May 11, 1960, in Tucson, Arizona. He had four sisters, one of whom died in infancy. In 1897 he graduated with a B.A. degree from Brown University, where he was a member of Alpha Delta Phi and was elected to Phi Beta Kappa.
 

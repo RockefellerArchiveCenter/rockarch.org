@@ -3,7 +3,7 @@ layout: page-default
 title: Martha Baird Rockefeller, 1895-1971
 permalink: /resources/about-the-rockefellers/martha-baird-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Martha Baird Rockefeller" src="{{site.baseurl}}/assets/img/05_marthabairdrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Martha Baird Rockefeller portrait" src="{{site.baseurl}}/assets/img/05_marthabairdrockefeller.png"/></div>
 
 **Martha Baird Rockefeller**, the second wife and widow of John D. Rockefeller, Jr. (JDR Jr.), was a world-class classical pianist in the 1920s who gave concerts throughout the United States and Europe.
 

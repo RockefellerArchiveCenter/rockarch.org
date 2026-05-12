@@ -3,7 +3,7 @@ layout: page-default
 title: Laura Spelman Rockefeller, 1839-1915
 permalink: /resources/about-the-rockefellers/laura-spelman-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Laura Spelman Rockefeller" src="{{site.baseurl}}/assets/img/02_lauraspelmanrockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Laura Spelman Rockefeller portrait" src="{{site.baseurl}}/assets/img/02_lauraspelmanrockefeller.png"/></div>
 
 **Laura Celestia Spelman Rockefeller** was born on September 9, 1839, in Wadsworth, Ohio, the second of two daughters of Lucy Henry and Harvey Buel Spelman. The Spelmans later moved to Akron and to Cleveland, where Harvey prospered in the dry-goods business. He helped to establish a Congregational Church, was a member of the state legislature, and assisted runaway slaves fleeing to Canada. Lucy Spelman was devoted to church work and the cause of temperance. 
 
