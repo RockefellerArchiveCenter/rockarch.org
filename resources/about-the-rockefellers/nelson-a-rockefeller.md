@@ -3,7 +3,7 @@ layout: page-default
 title: Nelson A. Rockefeller, 1908-1979
 permalink: /resources/about-the-rockefellers/nelson-a-rockefeller/
 ---
-<div class="bio-page-image"><img alt="Nelson A. Rockefeller" src="{{site.baseurl}}/assets/img/08_nelsonarockefeller.png"/></div>
+<div class="bio-page-image"><img alt="Nelson A. Rockefeller portrait" src="{{site.baseurl}}/assets/img/08_nelsonarockefeller.png"/></div>
 
 **Nelson A. Rockefeller** was a businessman, politician, statesman, art collector, and philanthropist. He was born on July 8, 1908, in Bar Harbor, Maine, the third of six children of Abby Aldrich and John D. Rockefeller, Jr. He graduated from the Lincoln School of Teachers College at Columbia University in New York City in 1926. Nelson attended Dartmouth College, where he was elected to Phi Beta Kappa, graduating cum laude in 1930 with an A.B. degree in economics.
 

@@ -1,8 +1,13 @@
+.header .wrapper {
+  position: relative;
+}
+
 .header__brand {
   margin-left: 10px;
   margin-top: 10px;
   padding: 0;
   position: absolute;
+  top: 0;
   z-index: 3;
 
   @include md-up{
