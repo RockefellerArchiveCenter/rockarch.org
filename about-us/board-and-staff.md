@@ -87,7 +87,7 @@ Former University Archivist, Harvard University Archives
 
 **Beth Jaffe-Davis**, Archivist, Processing  
 
-**Claire Cusack Larson**, Social Media Coordinator, Research and Engagement  
+**Claire Cusack Larson**, Communications Coordinator, President's Office 
 
 **Christine Leonard**, Reading Room Assistant, Access  
 
