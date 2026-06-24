@@ -5,35 +5,8 @@ permalink: /collections/research-stipends/
 ---
 
 <div class="alert alert--orange">
-  <p class="alert__text">The 2026 Research Stipend application cycle is now <span class="text--bold">closed.</span> Applicants will be notified of their award status in early May.</p>
+  <p class="alert__text">Currently we are administering only the RAC-Commonwealth Fund Paul Engel Memorial Award Program and the Special Stipend to Support Research in the Paul Ehrlich Collection. You can find the details of these programs and their application processes below. The RAC Research Stipends will not be offered in 2027.</p>
 </div>
-
-## About the RAC Stipend Program
-
-The Rockefeller Archive Center (RAC) research stipend program provides individual awardees (not institutions) up to $5,000 for reimbursement of travel and accommodation expenses connected to conducting research at the RAC. Please note that it cannot be used for tuition, research at other archival repositories, or other non-RAC-related travel.
-
-Anyone may apply for a research stipend, from any country of origin or residence, field or discipline, and at any level of professional experience. 
-
-Applications are evaluated by an independent committee that considers the applicant’s project, the relevance of archival materials at the RAC, and the amount of time needed to consult these records.
-
-## How to Apply for an RAC Research Stipend
-
-The [online application form](https://rockarch.smapply.us/prog/research_stipend_program_2026) will ask for information about your proposed research project and how the RAC collections would support it. 
-
-Applicants should be prepared to
-
-- write a brief narrative describing their research project, including a description of how research at the RAC will benefit their project
-- explain the significance of the project to current scholarship and its contribution to existing understandings of the proposed topic 
-- provide a list as well as a narrative description of specific materials they plan to consult at the RAC
-- provide the name and email address of one to two references who will provide a recommendation
-
-## After Receiving an RAC Research Stipend
-
-2026 stipend recipients will have from April 2026 through June 2027 to complete their research.
-
-All stipend recipients are required to submit a report on the research conducted at the RAC within two months of completing their visit. View the full library of [published RAC Research Reports here](https://rockarch.issuelab.org).
-
-To be reimbursed for travel and accommodation expenses, stipend recipients must provide receipts following completion of the research visit. Digital versions of receipts are accepted.
 
 ## The Commonwealth Fund’s Paul Engel Memorial Award Program
 
