@@ -78,7 +78,7 @@ Legal basis:
 Consent given at the time of application.
 
 Storage:
-Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications are retaiined for four years and the name, email, institutional affiliation and Research Report from successful applicants are retained permanently.
+Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications are retained for four years and the name, email, institutional affiliation and Research Report from successful applicants are retained permanently.
 
 ### Applying for a job
 Materials from job applications, including applications, resumes and referrals/references. This data can include:
