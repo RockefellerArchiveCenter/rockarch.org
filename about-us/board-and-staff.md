@@ -129,7 +129,7 @@ Former University Archivist, Harvard University Archives
 
 **Roseann Variano**, Facilities Coordinator  
 
-**Marissa Vassari**, Education Program Manager, Research and Engagement  
+**Marissa Vassari**, Network Program Manager, AFA Network  
 
 **James Washington**, Archival Assistant, Access  
 
