@@ -13,7 +13,7 @@ sidebar:
 
 Anyone can conduct research at the RAC. If we have archival materials that can be useful to your research topic, you are welcome here. 
 
-Get started on your research in our archival collections by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org/). Be sure to also search our [Library materials](https://library.rockarch.org/) which are non-circulating and only available in the RAC’s reading rooms.
+Get started on your research in our archival collections by searching our online finding aid catalog [DIMES](https://dimes.rockarch.org/). Be sure to also search our [Library materials](https://library.rockarch.org/) which are non-circulating and only available in the RAC’s reading room.
 
 There are two ways to access the archival materials in our collections:  by placing a digitization request or by scheduling an on-site research visit.  
 
@@ -30,13 +30,15 @@ The RAC offers a variety of digitization services for our users.
 
 To get started, you need to create a user account in [RACcess](https://raccess.rockarch.org), the RAC’s online request and digitization management system. Once you’ve created your account, you can submit digitization requests through the “My List” page in the [DIMES online catalog](https://dimes.rockarch.org/). We will then reach out to you via email to discuss your research goals and how we might best assist with your request. 
 
-Digitization requests are generally processed on a first-come, first-served basis. The RAC endeavors to fulfill all digitization requests within 90 business days. However, a request may take longer depending on the volume of materials being requested and whether special handling is necessary due to the original item’s condition or format. We cannot accept requests for rush orders.
-
-Please note that in some cases the RAC may not be able to digitize material due to its extent or physical condition. Any materials with serious preservation concerns will be evaluated and may require us to use an outside digitization vendor. 
+Digitization requests are generally processed on a first-come, first-served basis. The RAC endeavors to fulfill all digitization requests within 120 business days. However, a request may take longer depending on the volume of materials being requested and whether special handling is necessary due to the original item’s condition or format. We cannot accept requests for rush orders.
 
 ### Limitations and Fees
 
-**Users are limited to requesting 20 transactions per calendar year.** RAC digitization limitations are based on the item(s) you have identified through our [DIMES online catalog](https://dimes.rockarch.org/). 
+**Users are limited to requesting 10 transactions per calendar year.** RAC digitization limitations are based on the item(s) you have identified through our [DIMES online catalog](https://dimes.rockarch.org/). 
+
+Please note that in some cases the RAC may not be able to digitize material due to its volume or physical condition. Any materials with serious preservation concerns will be evaluated and may require us to use an outside digitization vendor. RAC staff will review your order within 30 business days to alert you to any changes or cancellations.
+
+Please note that the RAC will not digitize large orders for publications that have not been annotated and are easily accessible through other means. This includes reprints, newsprints, magazines, academic journals, and government documents. To assist you with your research, a staff member will reach out with information about items that are available elsewhere.
 
 We will work with you to help identify the resources best suited to your information needs and encourage you to consult with an archivist at [archive@rockarch.org](mailto:archive@rockarch.org) to assist you in prioritizing your transaction requests prior to ordering.
 
@@ -59,7 +61,7 @@ We will work with you to help identify the resources best suited to your informa
 
 ## Scheduling an Appointment
 
-The RAC Reading Rooms are open Monday through Friday from 9:30 am to 5:00 pm, except for [designated holidays](holiday-schedule/).
+The RAC Reading Room is open Monday through Friday from 9:30 am to 5:00 pm, except for [designated holidays](holiday-schedule/).
 
 Appointments are required to conduct in-person research in the Archive Center’s Reading Room.  To reserve an appointment, please use the “Appointments” tab in your [RACcess](https://raccess.rockarch.org) account to schedule your research day(s) at the Archive Center.  Reservations must be made at least three days prior to your start date.  Reading Room appointments reserve you a desk for the entire day (9:30-5:00), you may arrive or depart at any time during those hours.  
 
@@ -71,7 +73,7 @@ Prior to your on-site visit to the RAC, you will need to orient yourself to our 
 
 ### Watch Our Site Orientation Video
 
-Whether you have never been to the RAC before or you are a returning researcher who needs a refresher about our facilities, we encourage all of our visitors to review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) before you arrive. This video will teach you how to access and navigate our spaces, help you get to the reading rooms, and tell you more about our amenities and accessibility options. 
+Whether you have never been to the RAC before or you are a returning researcher who needs a refresher about our facilities, we encourage all of our visitors to review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) before you arrive. This video will teach you how to access and navigate our spaces, help you get to the reading room, and tell you more about our amenities and accessibility options. 
 
 <iframe class="mb-20" width="560" height="315" src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,9 +88,9 @@ Before your visit, we recommend that you select an initial group of materials th
 - We deliver up to 10 items at a time. If archival containers are too large to fit all 10 items on a cart, we’ll keep some items back and deliver them to you at the next delivery time.
 - We will only keep up to 10 items on one cart per person in the reading room at a time due to space limitations.
 - The top shelf of the cart will be kept clear, and you should place the box you are actively using on the top shelf so that there is plenty of room on your table for a folder and your laptop.
-- Some archival materials are stored in offsite locations and may take up to 48 hours (2 full business days) to retrieve.
+- Some archival materials are stored in offsite locations and may take up to 10 full business days (2 weeks) to retrieve.
 - Oversized materials such as posters, maps, and architectural drawings cannot be brought safely to the reading rooms. Such materials will be pulled for researcher review in another space in the RAC building and will be coordinated with a RAC staff member.
-- Digitized audiovisual materials are accessible in our Reading Rooms through the RAC’s Virtual Vault. Audiovisual materials that are not yet digitized will need to be reviewed by the Audiovisual Archivist to determine if there are any preservation issues in providing access. It may take up to 8 hours (2 full business days) to complete this review.
+- Digitized audiovisual materials are accessible in our Reading Room through the RAC’s Virtual Vault. Any audiovisual material that has not been digitized will need to be reviewed by the Sound & Moving Image Archivist. All magnetic media (video, audio) must be digitized before we can provide access. This digitization process can take up to 6 months. Some motion picture film may be viewable onsite at the discretion of the Sound & Moving Image Archivist. Please allow at least 5 business days (1 week) for review. 
 
 We have scheduled materials delivery times based on the following schedule. 
 <table class="table table-striped">
@@ -104,36 +106,18 @@ We have scheduled materials delivery times based on the following schedule.
             <td>5:00 pm the previous business day</td>
         </tr>
         <tr>
-            <th scope="row">10:30 am</th>
-            <td>10:00 am</td>
-        </tr>
-        <tr>
             <th scope="row">11:30 am</th>
             <td>11:00 am</td>
         </tr>
         <tr>
-            <th scope="row">1:30 pm</th>
-            <td>1:00 pm</td>
-        </tr>
-        <tr>
-            <th scope="row">2:30 pm</th>
-            <td>2:00 pm</td>
-        </tr>
-        <tr>
-            <th scope="row">3:30 pm</th>
-            <td>3:00 pm</td>
-        </tr>
-        <tr>
-            <th scope="row">4:30 pm (last delivery of the day)</th>
-            <td>4:00 pm</td>
+            <th scope="row">3:00 pm</th>
+            <td>2:30 pm</td>
         </tr>
     </tbody>
 </table>
 
-- The RAC Reading Rooms are open to researchers from 9:30 am to 5:00 pm, Monday through Friday.
-- Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval.
-- If you believe you will need fresh materials at the next delivery time, we recommend that you proactively work with the desk monitor to stage your next selections after each new delivery so that you do not have to wait for a later delivery time. We will not do special pulls outside of scheduled delivery times.
-- We will not deliver materials between 11:30 am and 1:30 pm so that researchers and RAC staff alike can enjoy their lunch hours and so that we can prepare for the 1:30 pm delivery.
+- Researchers are responsible for requesting that the Reading Room desk monitor stage the next 10 items for retrieval. We recommend that you proactively work with the desk monitor to stage your next selections.
+- We will not do special pulls outside of scheduled delivery times.
 
 ## How to Get to the RAC
 
@@ -150,9 +134,9 @@ City to Tarrytown on the Metro-North Hudson Line.
 
 The RAC provides complimentary car service transportation from the Tarrytown station to the RAC and back:
 
-- Car service leaves the Tarrytown station for the RAC promptly at 9:20 a.m. Driver will be holding a sign indicating which car is for the Rockefeller Archive Center.
+- Car service, which is usually a black minivan, leaves the Tarrytown station for the RAC promptly at 9:20 a.m., which is timed with the arrival of the 8:38 train from Grand Central Station to Tarrytown. Driver will be holding a sign indicating which car is for the Rockefeller Archive Center.
 
-- Car service leaves the RAC for the Tarrytown train station promptly at 5:10 p.m. Driver will be parked in the front circle at the main entrance to the RAC.
+- Car service leaves the RAC for the Tarrytown train station promptly at 5:10 p.m. Driver will be parked in the front circle at the main entrance to the RAC. The car is timed to arrive at the train station for the 5:31 express train to the city.
 
 Be sure to check the
 [Metro-North web site](https://www.mta.info) to verify departure times.
