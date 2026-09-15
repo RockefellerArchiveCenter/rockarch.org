@@ -18,7 +18,6 @@ Researchers at any level, from any country, working in any field in which the Fu
 
 Submissions are welcome at any time. Recipients must commence their research at the RAC within one year of being notified of the award.
 
-
 ## Special Stipend to Support Research in the Paul Ehrlich Collection
 
 The RAC has available funds to provide individuals up to $4,000 for reimbursement of travel and accommodation expenses to support short-term research in the Paul Ehrlich Collection, an important archive documenting the life and scientific research of Nobel Laureate Paul Ehrlich (1854-1915).
