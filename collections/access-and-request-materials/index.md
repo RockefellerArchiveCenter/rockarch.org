@@ -136,7 +136,7 @@ The RAC provides complimentary car service transportation from the Tarrytown sta
 
 - Car service, which is usually a black minivan, leaves the Tarrytown station for the RAC promptly at 9:20 a.m., which is timed with the arrival of the 8:38 train from Grand Central Station to Tarrytown. Driver will be holding a sign indicating which car is for the Rockefeller Archive Center.
 
-- Car service leaves the RAC for the Tarrytown train station promptly at 5:10 p.m. Driver will be parked in the front circle at the main entrance to the RAC. The car is timed to arrive at the train station for the 5:31express train to the city.
+- Car service leaves the RAC for the Tarrytown train station promptly at 5:10 p.m. Driver will be parked in the front circle at the main entrance to the RAC. The car is timed to arrive at the train station for the 5:31 express train to the city.
 
 Be sure to check the
 [Metro-North web site](https://www.mta.info) to verify departure times.
