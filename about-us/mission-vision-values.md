@@ -28,77 +28,17 @@ Rockefeller Archive Center aspires to: 
 
 ## Our Values
 
-### We Pursue Excellence in Stewardship
-- We strive to meet or exceed the ethical and professional standards set by the 
-  Society of American Archivists and our allied professions in stewarding our 
-  collections and making them broadly accessible to our global user communities. 
-- We explore topics and carry out interpretive work in an inclusive, diverse, and 
-  equitable manner, mindful of their relevance for contemporary issues and for the 
-  impacted communities with which we work and seek to work. 
-- We provide leadership to the professions and fields in which we operate, and we 
-  collaborate with other organizations, groups, and communities that share our values.
-- We strive to minimize the negative environmental impact of our work, including 
-  the operation of our physical plant and the use of technology, as we advocate for 
-  and embrace environmentally sustainable practices more broadly.
- 
-### We are Dedicated to Diversity, Equity, Accessibility, and Inclusion
-- We use staff and board recruitment policies that reflect the diversity of the 
-  communities we serve. 
-- We foster cultural competence among our staff and apply those standards to our 
-  collecting, archival description, access, and engagement activities. 
-- We actively encourage the use of our collections for people of all backgrounds 
-  and address financial and structural barriers to facilitate this access. 
-- We continuously work to improve access to our physical and digital spaces for 
-  people with disabilities. 
-- We acknowledge that certain communities have been historically targeted, neglected, 
-  or harmed by racism, homophobia and transphobia, sexism, ableism, and poverty, and 
-  that many of our collections document such harms. We are committed to racial, gender, 
-  and economic justice in our work.
- 
-### We are a Collaborative Learning Organization
-- We embrace humility and seek to learn from our colleagues across the organization, 
-  and we work across teams and program areas to understand the value of each other’s 
-  labor and expertise. 
-- We understand that communication and transparency are keys to succeeding as an 
-  organization and actively work within structures and systems that support these 
-  goals.
-- We understand that failure is part of learning, and we are not afraid to try new 
-  things. Progress is more important than perfection. 
-- We promote and support professional development opportunities for all staff regardless 
-  of their role in the organization.
+### Human-Centered
+**We respect the dignity, agency, privacy, and expertise of every person who is a part of or interacts with our organization.** We foster a culture of empathy and mutual respect, ensuring that our systems and services are designed to be intuitive and supportive. By valuing the unique backgrounds and needs of all our constituents, we fulfill our mission with a commitment to the well-being and success of the people at the heart of our work.
 
-### We Embrace Change
-- We readily use new workflows, technologies, and tools to enhance user experience 
-  and extend our institutional reach. 
-- We keep abreast of developments in our fields of practice and thoughtfully implement 
-  new solutions. 
-- We regularly review and improve existing technological solutions and systems based 
-  on user needs. 
-- We proactively review and revise our organizational policies, procedures, and 
-  practices to reflect new thinking and respond to changed circumstances.
+### Responsible
+**We aim to create a sustainable and expansive future by caring for our organization, the archival records we steward, and our world.** We responsibly manage our financial resources and support the people whose expertise makes our work possible. We uphold the highest ethical and professional standards in the care and preservation of our collections, ensuring they remain accessible to our global user communities. We manage these resources with a long-term commitment to environmental sustainability, actively working to minimize the ecological impact of our physical facilities and technological infrastructure.
 
-### We are Accountable
-- We hold ourselves accountable to each other and to our user communities by acknowledging 
-  and embracing responsibility for our actions, behaviors, and decisions. 
-- We continually evaluate our decisions and activities and adjust them appropriately to 
-  meet evolving standards of practice. 
-- We involve staff in decisions and plans that affect them, and we commit to their success 
-  by providing space for clear, actionable feedback. 
+### Equitable
+**We want our collections, services, workplace culture, and facilities to empower and reflect the diverse communities we serve.** We proactively dismantle barriers to access and recruitment while evolving our collecting, interpretive, and analytical activities to engage the communities impacted by our work. We design our processes, services, and systems to promote racial, gender,  economic justice, cultural competence, and address the structural imbalances inherent in historical documentation.
 
-### We Center People in Our Use of Technology
-- We strive to create a user experience that empowers our user communities through their 
-  engagement with our systems.
-- We respect our users’ right to privacy and self-determination in the use of our services 
-  and systems.
-- We advocate for the ethical application of technology, and we build, use, and contribute 
-  to open-source projects.
- 
-### We Foster Belonging
-- We foster belonging by welcoming different ideas and by valuing the diversity and 
-  individuality of knowledge, background, and experience that we each bring to our workplace. 
-- We fulfill our roles and responsibilities with integrity, civility, honesty, humility, 
-  and empathy for one another. 
-- We foster an organizational culture that promotes positive work-life balance, and we 
-  actively seek out ways to connect with one another as human beings, not just co-workers. 
-- We acknowledge and understand our organization’s past while thinking and working for 
-  the future. 
+### Adaptive
+**We believe that progress is more important than perfection.** Therefore, we embrace change as a fundamental component of our work, intentionally adopting new technologies and processes that extend our reach and enhance users’ experiences. We regularly review our policies and systems to reflect new thinking and remain responsive to evolving circumstances. We foster collaboration because we believe that multiple perspectives and experiences bring value to our work.
+
+### Trustworthy
+**We build trust through transparency, accountability, and institutional independence.** Through the ethical application of technology, professional standards, and intentional development of processes, we ensure that our systems and services are built on a foundation of observability, integrity, and a commitment to clear, actionable feedback. In support of those who create new knowledge, we uphold the primacy of free exploration and inquiry. 
