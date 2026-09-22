@@ -13,7 +13,7 @@ layout: default
   {% include breadcrumbs.html %}
 
   <div class="wrapper">
-    <div class="container grid grid--dense">
+    <div class="container grid{% if page.layout == 'page-sidebar' %} grid--dense{% endif %}">
       {{content}}
     </div>
   </div>
