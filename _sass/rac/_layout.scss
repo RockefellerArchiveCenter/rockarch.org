@@ -393,3 +393,12 @@ section {
     }
   }
 }
+
+.strategic-plan__pillars__wrapper {
+  @include lg-up {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    grid-gap: 2rem;
+  }
+}
