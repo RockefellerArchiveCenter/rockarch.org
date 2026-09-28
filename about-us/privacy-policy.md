@@ -80,6 +80,24 @@ Consent given at the time of application.
 Storage:
 Internal RAC systems and [SurveyMonkey Apply](https://www.surveymonkey.com/mp/legal/privacy/) servers. Applications are retained for four years and the name, email, institutional affiliation and Research Report from successful applicants are retained permanently.
 
+### Participating in the Advancing Foundation Archives Network (AFA Network)
+Subscribing to the AFA Network and registering for a user account, engaging in the platform by becoming a member in user community groups, engaging with online resources and content, receiving information about and registering for events and webinars, and receiving other communications about activities, offerings, and membership in the AFA Network. This data can include:
+- Name
+- Contact details (address, email, phone)
+- Geographic location
+- Profile picture
+- Professional affiliations and employer
+- Information regarding education and professional experience
+- Content created by the user and shared on or contributed to the platform as part of user’s community engagement activities
+- Payment records
+
+Legal basis: 
+Consent given at the time of registration.
+
+Storage: 
+Externally by a third-party service provider, [Hivebrite, Inc. via Kit United in France](https://hivebrite.io/privacy-policy/). Data collected as a result of subscribing and registering for a user account as well as content published by the user on the platform shall be deleted three years after termination of subscription. Payment invoices and receipts are stored in Internal RAC systems for 7 years.
+
+
 ### Applying for a job
 Materials from job applications, including applications, resumes and referrals/references. This data can include:
 - Name
