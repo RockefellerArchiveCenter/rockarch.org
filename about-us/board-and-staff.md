@@ -13,9 +13,6 @@ President, The Commonwealth Fund
 **Meredith Evans**  
 Director, Jimmy Carter Presidential Library and Museum
 
-**Stephen Heintz**  
-President, Rockefeller Brothers Fund
-
 **Ira Katznelson**, Chair  
 Ruggles Professor of Political Science and History, Columbia University
 
@@ -36,6 +33,9 @@ President, Rockefeller Archive Center
 
 **Megan Sniffin-Marinoff**  
 Former University Archivist, Harvard University Archives
+
+**Ian Solomon**  
+President, Rockefeller Brothers Fund
 
 ## Staff
 <div class="alert alert--orange">
