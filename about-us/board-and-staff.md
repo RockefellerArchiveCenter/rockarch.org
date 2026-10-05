@@ -6,6 +6,8 @@ permalink: /about-us/board-and-staff/
 
 ## Board of Trustees
 
+**Greg Avis**  
+Founding Partner, Summit Partners
 
 **Joseph Betancourt**  
 President, The Commonwealth Fund
@@ -13,8 +15,14 @@ President, The Commonwealth Fund
 **Meredith Evans**  
 Director, Jimmy Carter Presidential Library and Museum
 
+**Jonathan Holloway**  
+President, Henry Luce Foundation
+
 **Ira Katznelson**, Chair  
 Ruggles Professor of Political Science and History, Columbia University
+
+**Noorain Khan**  
+Vice President and Chief Innovation Officer, Ford Foundation
 
 **Richard Lifton**  
 President, The Rockefeller University
@@ -36,6 +44,9 @@ Former University Archivist, Harvard University Archives
 
 **Ian Solomon**  
 President, Rockefeller Brothers Fund
+
+**Daniel Stid**  
+Senior Fellow, American Enterprise Institute
 
 ## Staff
 <div class="alert alert--orange">
@@ -109,11 +120,7 @@ President, Rockefeller Brothers Fund
 
 **Brent Phillips**, Sound and Moving Image Archivist, Collections Management  
 
-**Mary Ann Quinn**, Archivist, Processing  
-
 **Brigite Requeijo**, Director of Human Resources and Operations  
-
-**Barbara Shubinski**, Director of Research and Engagement  
 
 **James Shulman**, President  
 
