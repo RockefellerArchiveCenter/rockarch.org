@@ -140,7 +140,7 @@ Senior Fellow, American Enterprise Institute
 
 **James Washington**, Archival Assistant, Access  
 
-**Rachel Wimpee**, Associate Director for Research and Engagement  
+**Rachel Wimpee**, Director of The Center for Collective Inquiry on Philanthropy (CCIP)  
 
 **Youngju Yoon**, Reading Room Assistant, Access  
 
