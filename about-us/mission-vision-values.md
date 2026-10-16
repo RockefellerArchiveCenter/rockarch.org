@@ -6,25 +6,11 @@ permalink: /about-us/mission-vision-values/
 
 ## Our Mission
 
-By collecting, managing, preserving and providing broad and equitable access 
-to the historical records of philanthropy and other efforts to work on behalf 
-of the public good, the Rockefeller Archive Center inspires critical analysis 
-and contributes knowledge to diverse learning communities throughout the world.
+Advancing knowledge about philanthropy
 
 ## Our Vision
 
-Consistent with our obligations as an independent operating foundation, the 
-Rockefeller Archive Center aspires to:  
-- Embed the principles of equity, inclusion, diversity, and belonging in the 
-  framework of everything we do.  
-- Evolve and expand our collecting and interpretive activities to engage 
-  underrepresented communities taking part in and impacted by the work documented 
-  in the archival collections in our care. 
-- Be among the leaders in the archives field in creating and contributing to 
-  a more diverse and equitable community of practice, both at our institution 
-  and across the profession.  
-- Hold ourselves truly accountable by measuring the impact of our work in 
-  meaningful ways and adjusting our activities as appropriate to meet our goals.  
+Philanthropy represents an influential realm of activity that has a unique degree of independence from external accountability. Both the enterprise itself and society benefit from ensuring that the decisions and actions of philanthropic activity are thoughtfully documented, made as visible as possible, and benefit from free and critical inquiry.
 
 ## Our Values
 
