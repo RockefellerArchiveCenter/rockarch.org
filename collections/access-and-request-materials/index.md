@@ -61,7 +61,7 @@ We will work with you to help identify the resources best suited to your informa
 
 ## Scheduling an Appointment
 
-The RAC Reading Room is open Monday through Friday from 9:30 am to 5:00 pm, except for [designated holidays](holiday-schedule/).
+The RAC Reading Room is open Tuesday through Friday from 9:30 am to 5:00 pm from October 1 – March 31, and Monday through Friday from 9:30 am to 5:00 pm April 1 – September 30, except for [designated holidays](holiday-schedule/).
 
 Appointments are required to conduct in-person research in the Archive Center’s Reading Room.  To reserve an appointment, please use the “Appointments” tab in your [RACcess](https://raccess.rockarch.org) account to schedule your research day(s) at the Archive Center.  Reservations must be made at least three days prior to your start date.  Reading Room appointments reserve you a desk for the entire day (9:30-5:00), you may arrive or depart at any time during those hours.  
 
@@ -97,7 +97,7 @@ We have scheduled materials delivery times based on the following schedule.
     <thead>
         <tr>
             <th>Materials Delivery Time</th>
-            <th>Deadline to Move Requests into To Be Paged Queue</th>
+            <th>Deadline to Request New Material From Desk Monitor</th>
         </tr>
     </thead>
     <tbody>
@@ -110,8 +110,12 @@ We have scheduled materials delivery times based on the following schedule.
             <td>11:00 am</td>
         </tr>
         <tr>
-            <th scope="row">3:00 pm</th>
-            <td>2:30 pm</td>
+            <th scope="row">1:30 pm</th>
+            <td>1:00 pm</td>
+        </tr>
+        <tr>
+            <th scope="row">3:30 pm</th>
+            <td>3:00 pm</td>
         </tr>
     </tbody>
 </table>
@@ -158,6 +162,12 @@ lockers provided.
 for book weights.
 - If metal fasteners need to be removed, ask the desk monitor for
 assistance.
+- Volume in the reading room should be kept low as a courtesy to fellow researchers.
+  - Keep conversations to a minimum. 
+  - Use headphones when accessing audiovisual content.
+  - Silence all devices.
+  - No cell phone conversations or video calls are permitted in the reading room; please step to the hallway or the researcher lounge.
+
 
 The top shelf of the cart will be kept clear, and you should place the box 
 you are actively using on the top shelf so that there is plenty of room on 
