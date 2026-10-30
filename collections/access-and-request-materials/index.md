@@ -75,7 +75,9 @@ Prior to your on-site visit to the RAC, you will need to orient yourself to our 
 
 Whether you have never been to the RAC before or you are a returning researcher who needs a refresher about our facilities, we encourage all of our visitors to review the [Rockefeller Archive Center Site Orientation Video](https://www.youtube.com/watch?v=HQAqPNfxBYM) before you arrive. This video will teach you how to access and navigate our spaces, help you get to the reading room, and tell you more about our amenities and accessibility options. 
 
-<iframe class="mb-20" width="560" height="315" src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container mb-20">
+    <iframe src="https://www.youtube-nocookie.com/embed/HQAqPNfxBYM?si=N1RMFGQgx1tW19P3&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 For more details about the accessibility of the physical space, see our [Accessibility Statement](/about-us/accessibility).
 

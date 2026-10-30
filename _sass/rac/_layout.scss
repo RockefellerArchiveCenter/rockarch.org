@@ -402,3 +402,16 @@ section {
     grid-gap: 2rem;
   }
 }
+
+/**
+* Responsive container for embedded videos that maintains aspect ratio.
+**/
+.video-container {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+}
