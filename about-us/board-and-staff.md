@@ -60,8 +60,6 @@ Senior Fellow, American Enterprise Institute
 
 **Bethany Antos**, Archivist, Access  
 
-**Gail Antos**, Archival Assistant, Processing  
-
 **Hillel Arnold**, Associate Director of Archives and Chief Digital Strategies Officer  
 
 **Max Barkman**, Systems Administrator  
