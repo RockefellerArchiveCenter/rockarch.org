@@ -76,7 +76,7 @@ Senior Fellow, American Enterprise Institute
 
 **Monica Blank**, Archivist, Access  
 
-**Andrea Cadornigara**, Project Associate, Research and Engagement   
+**Andrea Cadornigara**, Program Associate, CCIP  
 
 **Fernando Carrasco**, Information Technology Coordinator  
 
@@ -90,7 +90,7 @@ Senior Fellow, American Enterprise Institute
 
 **Patrick Galligan**, DevOps Analyst, Digital Strategies  
 
-**Nathaniel Guerrier**, Exhibits and Outreach Assistant, Research and Engagement
+**Nathaniel Guerrier**, Exhibits & Outreach Coordinator, CCIP
 
 **Lee Hiltzik**, Senior Research Associate, Research and Engagement  
 
@@ -132,7 +132,7 @@ Senior Fellow, American Enterprise Institute
 
 **Emeline Swanson**, Assistant Archivist, Collections Management  
 
-**Elizabeth Urbanczyk**, Writer, Research and Engagement   
+**Elizabeth Urbanczyk**, Engagement & Knowledge Specialist, CCIP   
 
 **Roseann Variano**, Facilities Coordinator  
 
