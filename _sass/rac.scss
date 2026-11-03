@@ -1,15 +1,13 @@
 // Base styles
-@import 'rac/variables';
-@import 'rac/mixins';
-@import 'rac/helpers';
-@import 'rac/typography';
+@use 'rac/helpers';
+@use 'rac/typography';
 
 // Components
-@import 'rac/biographies';
-@import 'rac/breadcrumbs';
-@import 'rac/buttons';
-@import 'rac/header';
-@import 'rac/hero';
-@import 'rac/layout';
-@import 'rac/skip-link';
-@import 'rac/tableOfContents';
+@use 'rac/biographies';
+@use 'rac/breadcrumbs';
+@use 'rac/buttons';
+@use 'rac/header';
+@use 'rac/hero';
+@use 'rac/layout';
+@use 'rac/skip-link';
+@use 'rac/tableOfContents';
