@@ -1,3 +1,6 @@
+@use 'variables' as *;
+@use 'mixins' as *;
+
 /**
  * Styles for hero on homepage. Adjusts style library styles for background image,
  * different layout (using CSS grid), and different font sizes for hero__text.
