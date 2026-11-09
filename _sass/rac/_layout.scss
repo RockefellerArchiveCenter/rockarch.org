@@ -249,10 +249,6 @@ iframe {
     a {
       font-weight: $font-weight-bold;
       font-size: 17px;
-
-      &:after {
-        content: '\00a0>'
-      }
     }
   }
 }

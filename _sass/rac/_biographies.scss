@@ -17,11 +17,13 @@
       width: 100%;
     }
 
-    h3 {
+    .biography__link {
+      color: $regal-blue;
       font-weight: $font-weight-heavy;
       font-size: 15px;
       line-height: 18px;
       margin: 8px 0 0 0;
+      font-family: $sans-serif-stack;
     }
   }
 }
