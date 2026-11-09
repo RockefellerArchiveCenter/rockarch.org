@@ -68,8 +68,6 @@ Senior Fellow, American Enterprise Institute
 
 **Sarah Beck**, Digitization Program Manager, Access  
 
-**Michele Beckerman**, Senior Curator  
-
 **Amy Berish**, Archivist, Processing  
 
 **Monica Blank**, Archivist, Access  
@@ -90,7 +88,7 @@ Senior Fellow, American Enterprise Institute
 
 **Nathaniel Guerrier**, Exhibits & Outreach Coordinator, CCIP
 
-**Lee Hiltzik**, Senior Research Associate, Research and Engagement  
+**Lee Hiltzik**, Senior Research Associate, CCIP  
 
 **Norine Hochman**, Executive Assistant, Employee Engagement Assistant  
 
